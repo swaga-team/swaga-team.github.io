@@ -126,13 +126,6 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
         "name": "Cannon",
         "rarity": "common",
         "elixirCost": 3,
@@ -1375,7 +1368,7 @@
     "threeCrownWins": 2721,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72717,
+    "totalDonations": 72735,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1731,8 +1724,8 @@
     "trophies": 10125,
     "bestTrophies": 10203,
     "wins": 2480,
-    "losses": 2184,
-    "battleCount": 4664,
+    "losses": 2185,
+    "battleCount": 4665,
     "threeCrownWins": 892,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -1999,13 +1992,13 @@
     "expLevel": 38,
     "trophies": 9647,
     "bestTrophies": 9825,
-    "wins": 2280,
-    "losses": 2105,
-    "battleCount": 4385,
+    "wins": 2281,
+    "losses": 2106,
+    "battleCount": 4387,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17525,
+    "totalDonations": 17561,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2080,11 +2073,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
-      "rarity": "epic",
-      "elixirCost": 7,
+      "name": "Rascals",
+      "rarity": "common",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
     }
   },
   "#9RJPRQLL2": {
@@ -3761,15 +3754,15 @@
   },
   "#9GVPRJQLL": {
     "expLevel": 60,
-    "trophies": 12942,
+    "trophies": 12939,
     "bestTrophies": 12998,
-    "wins": 2007,
-    "losses": 1656,
-    "battleCount": 3663,
-    "threeCrownWins": 644,
+    "wins": 2009,
+    "losses": 1658,
+    "battleCount": 3667,
+    "threeCrownWins": 645,
     "warDayWins": 2,
     "clanCardsCollected": 10990,
-    "totalDonations": 32678,
+    "totalDonations": 32688,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3844,11 +3837,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dark Prince",
-      "rarity": "epic",
+      "name": "Tesla",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#RYRY0V89G": {

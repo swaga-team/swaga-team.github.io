@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 16550,
+    "fame": 17250,
     "repairPoints": 0,
     "participants": [
       {
@@ -530,15 +530,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#GQQL9YLYQ",
-        "name": "Ter",
-        "fame": 600,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 800,
@@ -593,6 +584,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#GQQL9YLYQ",
+        "name": "Ter",
+        "fame": 1300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 7,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
         "fame": 1400,
@@ -637,7 +637,7 @@
       "tag": "#GYULR0",
       "name": "99% 1 star",
       "badgeId": 16000107,
-      "fame": 3900,
+      "fame": 4100,
       "repairPoints": 0,
       "participants": [
         {
@@ -794,15 +794,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#900PYL8GV",
-          "name": "PUBLIC FIGURE",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#88U0GY8RR",
           "name": "Ride My Hog",
           "fame": 0,
@@ -882,6 +873,15 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#900PYL8GV",
+          "name": "PUBLIC FIGURE",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#2CUG0229",
@@ -1271,7 +1271,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 16550,
+      "fame": 17250,
       "repairPoints": 0,
       "participants": [
         {
@@ -1797,15 +1797,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GQQL9YLYQ",
-          "name": "Ter",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 800,
@@ -1858,6 +1849,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#GQQL9YLYQ",
+          "name": "Ter",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PQQ2JYL2G",
