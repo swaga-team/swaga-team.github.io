@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115703,
+  "clanScore": 115718,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5062,
+  "donationsPerWeek": 5082,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 322,
-      "donationsReceived": 280,
+      "donationsReceived": 300,
       "clanChestPoints": 0
     },
     {
@@ -203,9 +203,9 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261031T142510.000Z",
+      "lastSeen": "20261031T173216.000Z",
       "expLevel": 0,
-      "trophies": 12825,
+      "trophies": 12885,
       "arena": {
         "id": 54000142,
         "name": "Ultimate Clash Pit",
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 76,
+      "donations": 86,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -421,7 +421,7 @@
       "role": "member",
       "lastSeen": "20261031T160135.000Z",
       "expLevel": 0,
-      "trophies": 10021,
+      "trophies": 10020,
       "arena": {
         "id": 54000117,
         "name": "Lumberlove Cabin",
@@ -429,7 +429,7 @@
       },
       "clanRank": 23,
       "previousClanRank": 0,
-      "donations": 0,
+      "donations": 10,
       "donationsReceived": 16,
       "clanChestPoints": 0
     },
