@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115731,
+  "clanScore": 115735,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5164,
+  "donationsPerWeek": 5212,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261031T200049.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 158,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#28G90Y9JL",
       "name": "GamerPro",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 16,
       "donationsReceived": 40,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 4,
       "donations": 322,
       "donationsReceived": 320,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 5,
       "donations": 104,
       "donationsReceived": 440,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261031T125544.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 1,
-      "donations": 142,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261031T180300.000Z",
+      "lastSeen": "20261031T195943.000Z",
       "expLevel": 0,
       "trophies": 13177,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 434,
+      "donations": 460,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -214,7 +214,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 96,
-      "donationsReceived": 128,
+      "donationsReceived": 144,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 118,
-      "donationsReceived": 240,
+      "donationsReceived": 262,
       "clanChestPoints": 0
     },
     {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 310,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -455,9 +455,9 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261031T193833.000Z",
+      "lastSeen": "20261031T194356.000Z",
       "expLevel": 0,
-      "trophies": 9647,
+      "trophies": 9677,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 24,
-      "donations": 347,
+      "donations": 353,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },

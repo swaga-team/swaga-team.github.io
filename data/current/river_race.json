@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 17250,
+    "fame": 17650,
     "repairPoints": 0,
     "participants": [
       {
@@ -422,15 +422,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#29GJQ0G9Q",
-        "name": "✨R_U_B_I_N✨",
-        "fame": 100,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9JPPYRL90",
         "name": "disruption",
         "fame": 100,
@@ -483,6 +474,15 @@
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#29GJQ0G9Q",
+        "name": "✨R_U_B_I_N✨",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 2
       },
       {
         "tag": "#PLUQRR22G",
@@ -575,15 +575,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#8LRPG2VPQ",
-        "name": "CHLE N EGRA",
-        "fame": 1300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#GQQL9YLYQ",
         "name": "Ter",
         "fame": 1300,
@@ -600,6 +591,15 @@
         "boatAttacks": 0,
         "decksUsed": 9,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#8LRPG2VPQ",
+        "name": "CHLE N EGRA",
+        "fame": 1500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 9,
+        "decksUsedToday": 2
       },
       {
         "tag": "#9JQ8PCJ",
@@ -1271,7 +1271,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 17250,
+      "fame": 17650,
       "repairPoints": 0,
       "participants": [
         {
@@ -1689,15 +1689,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#29GJQ0G9Q",
-          "name": "✨R_U_B_I_N✨",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9JPPYRL90",
           "name": "disruption",
           "fame": 100,
@@ -1750,6 +1741,15 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#29GJQ0G9Q",
+          "name": "✨R_U_B_I_N✨",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 2
         },
         {
           "tag": "#PLUQRR22G",
@@ -1842,15 +1842,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#8LRPG2VPQ",
-          "name": "CHLE N EGRA",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#GQQL9YLYQ",
           "name": "Ter",
           "fame": 1300,
@@ -1867,6 +1858,15 @@
           "boatAttacks": 0,
           "decksUsed": 9,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#8LRPG2VPQ",
+          "name": "CHLE N EGRA",
+          "fame": 1500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 2
         },
         {
           "tag": "#9JQ8PCJ",

@@ -370,7 +370,7 @@
     "threeCrownWins": 1102,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15270,
+    "totalDonations": 15286,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -916,13 +916,13 @@
     "expLevel": 43,
     "trophies": 13177,
     "bestTrophies": 13177,
-    "wins": 2352,
+    "wins": 2353,
     "losses": 2049,
-    "battleCount": 4401,
-    "threeCrownWins": 1176,
+    "battleCount": 4402,
+    "threeCrownWins": 1177,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 14883,
+    "totalDonations": 14909,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1363,8 +1363,8 @@
     "trophies": 11523,
     "bestTrophies": 11523,
     "wins": 3637,
-    "losses": 2821,
-    "battleCount": 6458,
+    "losses": 2823,
+    "battleCount": 6460,
     "threeCrownWins": 2721,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
@@ -1436,11 +1436,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
+      "name": "P.E.K.K.A",
+      "rarity": "epic",
       "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
     }
   },
   "#PQQ2JYL2G": {
@@ -1990,15 +1990,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9647,
+    "trophies": 9677,
     "bestTrophies": 9825,
-    "wins": 2281,
+    "wins": 2282,
     "losses": 2106,
-    "battleCount": 4387,
+    "battleCount": 4388,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17561,
+    "totalDonations": 17567,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2073,11 +2073,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rascals",
+      "name": "Tesla",
       "rarity": "common",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#9RJPRQLL2": {
