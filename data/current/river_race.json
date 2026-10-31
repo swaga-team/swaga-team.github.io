@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 17650,
+    "fame": 18450,
     "repairPoints": 0,
     "participants": [
       {
@@ -440,15 +440,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 100,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#CJR008LV9",
         "name": "cook",
         "fame": 200,
@@ -530,6 +521,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 600,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 800,
@@ -584,15 +584,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#PQQ2JYL2G",
-        "name": "MFbren",
-        "fame": 1400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 9,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#8LRPG2VPQ",
         "name": "CHLE N EGRA",
         "fame": 1500,
@@ -600,6 +591,15 @@
         "boatAttacks": 0,
         "decksUsed": 9,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#PQQ2JYL2G",
+        "name": "MFbren",
+        "fame": 1700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 11,
+        "decksUsedToday": 3
       },
       {
         "tag": "#9JQ8PCJ",
@@ -1271,7 +1271,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 17650,
+      "fame": 18450,
       "repairPoints": 0,
       "participants": [
         {
@@ -1707,15 +1707,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#CJR008LV9",
           "name": "cook",
           "fame": 200,
@@ -1797,6 +1788,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 800,
@@ -1851,15 +1851,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#PQQ2JYL2G",
-          "name": "MFbren",
-          "fame": 1400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#8LRPG2VPQ",
           "name": "CHLE N EGRA",
           "fame": 1500,
@@ -1867,6 +1858,15 @@
           "boatAttacks": 0,
           "decksUsed": 9,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#PQQ2JYL2G",
+          "name": "MFbren",
+          "fame": 1700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
+          "decksUsedToday": 3
         },
         {
           "tag": "#9JQ8PCJ",
@@ -1903,7 +1903,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 8350,
+      "fame": 9250,
       "repairPoints": 0,
       "participants": [
         {
@@ -2366,15 +2366,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9CY2J9J08",
-          "name": "Iker13899",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#RYUU099CV",
           "name": "Jayce",
           "fame": 600,
@@ -2391,6 +2382,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#9CY2J9J08",
+          "name": "Iker13899",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#2QY999VGQ",
@@ -2431,11 +2431,11 @@
         {
           "tag": "#8UG0J9RJ",
           "name": "Raidel36",
-          "fame": 1800,
+          "fame": 2500,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
       "periodPoints": 0,

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115735,
+  "clanScore": 115726,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5212,
+  "donationsPerWeek": 5268,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -203,9 +203,9 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261031T191413.000Z",
+      "lastSeen": "20261031T211226.000Z",
       "expLevel": 0,
-      "trophies": 12939,
+      "trophies": 12914,
       "arena": {
         "id": 54000142,
         "name": "Ultimate Clash Pit",
@@ -214,7 +214,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 96,
-      "donationsReceived": 144,
+      "donationsReceived": 152,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261031T115558.000Z",
+      "lastSeen": "20261031T210450.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -285,15 +285,15 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 54,
-      "donationsReceived": 0,
+      "donations": 80,
+      "donationsReceived": 10,
       "clanChestPoints": 0
     },
     {
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261031T134834.000Z",
+      "lastSeen": "20261031T205835.000Z",
       "expLevel": 0,
       "trophies": 11543,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 17,
-      "donations": 492,
-      "donationsReceived": 400,
+      "donations": 500,
+      "donationsReceived": 420,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 118,
-      "donationsReceived": 262,
+      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -473,9 +473,9 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261031T143711.000Z",
+      "lastSeen": "20261031T212235.000Z",
       "expLevel": 0,
-      "trophies": 9562,
+      "trophies": 9536,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -483,7 +483,7 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 480,
+      "donations": 502,
       "donationsReceived": 480,
       "clanChestPoints": 0
     },
