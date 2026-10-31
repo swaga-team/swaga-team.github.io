@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 15650,
+    "fame": 16250,
     "repairPoints": 0,
     "participants": [
       {
@@ -530,15 +530,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CC9J8Y902",
-        "name": "Michael",
-        "fame": 600,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#GQQL9YLYQ",
         "name": "Ter",
         "fame": 600,
@@ -582,6 +573,15 @@
         "boatAttacks": 0,
         "decksUsed": 5,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#CC9J8Y902",
+        "name": "Michael",
+        "fame": 1200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
       },
       {
         "tag": "#8LRPG2VPQ",
@@ -706,6 +706,15 @@
         {
           "tag": "#82LJLC9P",
           "name": "sLiCkBaCk",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#RPVR00Y",
+          "name": "Yertross",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -909,7 +918,7 @@
       "tag": "#RVU89Q",
       "name": "Les Dragounets",
       "badgeId": 16000078,
-      "fame": 7800,
+      "fame": 8300,
       "repairPoints": 0,
       "participants": [
         {
@@ -1219,15 +1228,6 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#P9QYRQ2R",
-          "name": "reurti",
-          "fame": 1400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PCPU00V99",
           "name": "kaaris",
           "fame": 1600,
@@ -1240,6 +1240,15 @@
           "tag": "#2VVU0LYVJ",
           "name": "canam29",
           "fame": 1700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#P9QYRQ2R",
+          "name": "reurti",
+          "fame": 1900,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 12,
@@ -1262,7 +1271,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 15650,
+      "fame": 16250,
       "repairPoints": 0,
       "participants": [
         {
@@ -1788,15 +1797,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CC9J8Y902",
-          "name": "Michael",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GQQL9YLYQ",
           "name": "Ter",
           "fame": 600,
@@ -1840,6 +1840,15 @@
           "boatAttacks": 0,
           "decksUsed": 5,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#CC9J8Y902",
+          "name": "Michael",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#8LRPG2VPQ",

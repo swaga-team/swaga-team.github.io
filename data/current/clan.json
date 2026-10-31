@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5045,
+  "donationsPerWeek": 5062,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261031T161359.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 322,
+      "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 104,
       "donationsReceived": 440,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261031T143520.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 4,
-      "donations": 314,
-      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -221,7 +221,7 @@
       "tag": "#P08LLGYLQ",
       "name": "Luka13",
       "role": "member",
-      "lastSeen": "20261031T113241.000Z",
+      "lastSeen": "20261031T162824.000Z",
       "expLevel": 0,
       "trophies": 12774,
       "arena": {
@@ -419,9 +419,9 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261031T023034.000Z",
+      "lastSeen": "20261031T160135.000Z",
       "expLevel": 0,
-      "trophies": 10024,
+      "trophies": 10021,
       "arena": {
         "id": 54000117,
         "name": "Lumberlove Cabin",
@@ -430,14 +430,14 @@
       "clanRank": 23,
       "previousClanRank": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 16,
       "clanChestPoints": 0
     },
     {
       "tag": "#CC9J8Y902",
       "name": "Michael",
       "role": "member",
-      "lastSeen": "20261030T032759.000Z",
+      "lastSeen": "20261031T161027.000Z",
       "expLevel": 0,
       "trophies": 9821,
       "arena": {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 23,
-      "donations": 56,
+      "donations": 65,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -502,7 +502,7 @@
       "clanRank": 27,
       "previousClanRank": 26,
       "donations": 554,
-      "donationsReceived": 359,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
