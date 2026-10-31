@@ -273,8 +273,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 11015,
-    "losses": 10662,
-    "battleCount": 21677,
+    "losses": 10663,
+    "battleCount": 21678,
     "threeCrownWins": 5594,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -730,12 +730,12 @@
   },
   "#U0QJL29PY": {
     "expLevel": 57,
-    "trophies": 13226,
+    "trophies": 13229,
     "bestTrophies": 13303,
-    "wins": 3474,
-    "losses": 3582,
-    "battleCount": 7056,
-    "threeCrownWins": 1460,
+    "wins": 3477,
+    "losses": 3583,
+    "battleCount": 7060,
+    "threeCrownWins": 1462,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 19455,
@@ -813,11 +813,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
+      "name": "Musketeer",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#YQ2VLPJ0L": {
@@ -2004,11 +2004,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9617,
+    "trophies": 9647,
     "bestTrophies": 9825,
-    "wins": 2279,
+    "wins": 2280,
     "losses": 2105,
-    "battleCount": 4384,
+    "battleCount": 4385,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2099,8 +2099,8 @@
     "trophies": 9562,
     "bestTrophies": 9562,
     "wins": 1009,
-    "losses": 673,
-    "battleCount": 1682,
+    "losses": 674,
+    "battleCount": 1683,
     "threeCrownWins": 502,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2179,11 +2179,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Flying Machine",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/hzKNE3QwFcrSrDDRuVW3QY_OnrDPijSiIp-PsWgFevE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#JU2L2U8LG": {
@@ -2906,12 +2906,12 @@
     "trophies": 6785,
     "bestTrophies": 6785,
     "wins": 2481,
-    "losses": 2617,
-    "battleCount": 5098,
+    "losses": 2618,
+    "battleCount": 5099,
     "threeCrownWins": 1810,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37121,
+    "totalDonations": 37129,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
