@@ -1990,15 +1990,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9677,
+    "trophies": 9647,
     "bestTrophies": 9825,
     "wins": 2282,
-    "losses": 2106,
-    "battleCount": 4388,
+    "losses": 2107,
+    "battleCount": 4389,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17567,
+    "totalDonations": 17597,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2021,6 +2021,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2075,11 +2082,11 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9536,
+    "trophies": 9504,
     "bestTrophies": 9562,
     "wins": 1009,
-    "losses": 675,
-    "battleCount": 1684,
+    "losses": 676,
+    "battleCount": 1685,
     "threeCrownWins": 502,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2106,6 +2113,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
