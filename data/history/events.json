@@ -1280,5 +1280,37 @@
       }
     ],
     "at": "2026-10-31T15:40:45+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Electro Wizard",
+        "level": 14
+      },
+      {
+        "name": "Royal Hogs",
+        "level": 10
+      },
+      {
+        "name": "Elixir Golem",
+        "level": 8
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 8
+      },
+      {
+        "name": "Hunter",
+        "level": 8
+      },
+      {
+        "name": "Void",
+        "level": 8
+      }
+    ],
+    "at": "2026-10-31T18:49:21+00:00"
   }
 ]

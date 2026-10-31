@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 16250,
+    "fame": 16550,
     "repairPoints": 0,
     "participants": [
       {
@@ -539,15 +539,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 700,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 5,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 800,
@@ -557,13 +548,22 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#222YY9YCC",
-        "name": "king abolfazl",
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
         "fame": 800,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 0
+        "decksUsed": 6,
+        "decksUsedToday": 2
+      },
+      {
+        "tag": "#222YY9YCC",
+        "name": "king abolfazl",
+        "fame": 900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 1
       },
       {
         "tag": "#9282CQQ90",
@@ -586,11 +586,11 @@
       {
         "tag": "#8LRPG2VPQ",
         "name": "CHLE N EGRA",
-        "fame": 1200,
+        "fame": 1300,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 0
+        "decksUsed": 8,
+        "decksUsedToday": 1
       },
       {
         "tag": "#PQQ2JYL2G",
@@ -1271,7 +1271,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 16250,
+      "fame": 16550,
       "repairPoints": 0,
       "participants": [
         {
@@ -1806,15 +1806,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 800,
@@ -1824,13 +1815,22 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#222YY9YCC",
-          "name": "king abolfazl",
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
           "fame": 800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 0
+          "decksUsed": 6,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#222YY9YCC",
+          "name": "king abolfazl",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 1
         },
         {
           "tag": "#9282CQQ90",
@@ -1853,11 +1853,11 @@
         {
           "tag": "#8LRPG2VPQ",
           "name": "CHLE N EGRA",
-          "fame": 1200,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 0
+          "decksUsed": 8,
+          "decksUsedToday": 1
         },
         {
           "tag": "#PQQ2JYL2G",
