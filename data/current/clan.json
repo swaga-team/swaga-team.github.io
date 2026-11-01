@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115012,
+  "clanScore": 114988,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6316,
+  "donationsPerWeek": 6346,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261101T205300.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 188,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 442,
       "donationsReceived": 480,
@@ -49,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 3,
       "donations": 382,
       "donationsReceived": 360,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261101T152154.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 1,
-      "donations": 168,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -167,9 +167,9 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261101T204016.000Z",
+      "lastSeen": "20261101T210147.000Z",
       "expLevel": 0,
-      "trophies": 13233,
+      "trophies": 13229,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 438,
-      "donationsReceived": 320,
+      "donationsReceived": 340,
       "clanChestPoints": 0
     },
     {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261101T193303.000Z",
+      "lastSeen": "20261101T205811.000Z",
       "expLevel": 0,
-      "trophies": 11629,
+      "trophies": 11542,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 576,
-      "donationsReceived": 490,
+      "donations": 586,
+      "donationsReceived": 500,
       "clanChestPoints": 0
     },
     {

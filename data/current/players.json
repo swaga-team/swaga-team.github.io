@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2916,
-    "losses": 2495,
-    "battleCount": 5411,
+    "wins": 2917,
+    "losses": 2498,
+    "battleCount": 5415,
     "threeCrownWins": 1102,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15296,
+    "totalDonations": 15316,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -822,12 +822,12 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13233,
-    "bestTrophies": 13233,
-    "wins": 2319,
-    "losses": 1645,
-    "battleCount": 3964,
-    "threeCrownWins": 600,
+    "trophies": 13229,
+    "bestTrophies": 13293,
+    "wins": 2323,
+    "losses": 1649,
+    "battleCount": 3972,
+    "threeCrownWins": 601,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 30391,
@@ -905,11 +905,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Archers",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11629,
+    "trophies": 11542,
     "bestTrophies": 11629,
     "wins": 2233,
-    "losses": 2444,
-    "battleCount": 4677,
+    "losses": 2447,
+    "battleCount": 4680,
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12263,
+    "totalDonations": 12273,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
