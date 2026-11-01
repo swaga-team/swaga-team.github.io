@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115022,
+  "clanScore": 115011,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6222,
+  "donationsPerWeek": 6288,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261101T190848.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 442,
+      "donationsReceived": 480,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 382,
       "donationsReceived": 360,
@@ -49,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 168,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261101T144810.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 5,
-      "donations": 414,
-      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
@@ -164,24 +164,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#8LRPG2VPQ",
-      "name": "CHLE N EGRA",
-      "role": "member",
-      "lastSeen": "20261101T175240.000Z",
-      "expLevel": 0,
-      "trophies": 13234,
-      "arena": {
-        "id": 54000143,
-        "name": "Little Prince's Tavern",
-        "rawName": "Arena_L17"
-      },
-      "clanRank": 9,
-      "previousClanRank": 10,
-      "donations": 576,
-      "donationsReceived": 100,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
@@ -193,10 +175,28 @@
         "name": "Little Prince's Tavern",
         "rawName": "Arena_L17"
       },
-      "clanRank": 10,
+      "clanRank": 9,
       "previousClanRank": 9,
       "donations": 410,
       "donationsReceived": 320,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#8LRPG2VPQ",
+      "name": "CHLE N EGRA",
+      "role": "member",
+      "lastSeen": "20261101T191600.000Z",
+      "expLevel": 0,
+      "trophies": 13200,
+      "arena": {
+        "id": 54000143,
+        "name": "Little Prince's Tavern",
+        "rawName": "Arena_L17"
+      },
+      "clanRank": 10,
+      "previousClanRank": 10,
+      "donations": 586,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261101T124816.000Z",
+      "lastSeen": "20261101T193303.000Z",
       "expLevel": 0,
-      "trophies": 11600,
+      "trophies": 11629,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 548,
+      "donations": 576,
       "donationsReceived": 480,
       "clanChestPoints": 0
     },
@@ -457,7 +457,7 @@
       "role": "member",
       "lastSeen": "20261101T183943.000Z",
       "expLevel": 0,
-      "trophies": 9537,
+      "trophies": 9536,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -466,7 +466,7 @@
       "clanRank": 25,
       "previousClanRank": 26,
       "donations": 580,
-      "donationsReceived": 560,
+      "donationsReceived": 590,
       "clanChestPoints": 0
     },
     {
@@ -509,7 +509,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261101T135321.000Z",
+      "lastSeen": "20261101T185807.000Z",
       "expLevel": 0,
       "trophies": 8741,
       "arena": {
@@ -736,16 +736,16 @@
       "clanRank": 40,
       "previousClanRank": 41,
       "donations": 450,
-      "donationsReceived": 416,
+      "donationsReceived": 432,
       "clanChestPoints": 0
     },
     {
       "tag": "#CVCJY2V0Y",
       "name": "martinillo99",
       "role": "member",
-      "lastSeen": "20261101T183325.000Z",
+      "lastSeen": "20261101T193820.000Z",
       "expLevel": 0,
-      "trophies": 3184,
+      "trophies": 3155,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",

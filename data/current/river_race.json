@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 23750,
+    "fame": 23850,
     "repairPoints": 0,
     "participants": [
       {
@@ -514,11 +514,11 @@
       {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
-        "fame": 800,
+        "fame": 900,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 6,
-        "decksUsedToday": 0
+        "decksUsed": 7,
+        "decksUsedToday": 1
       },
       {
         "tag": "#CGPUY8P2",
@@ -927,7 +927,7 @@
       "tag": "#RVU89Q",
       "name": "Les Dragounets",
       "badgeId": 16000078,
-      "fame": 11300,
+      "fame": 11800,
       "repairPoints": 0,
       "participants": [
         {
@@ -1005,15 +1005,6 @@
         {
           "tag": "#CVLCVVRLV",
           "name": "Les indésirable",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#PPYGVQGU",
-          "name": "Supertitine",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1228,6 +1219,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#PPYGVQGU",
+          "name": "Supertitine",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#YQ8YQJ8P",
           "name": "<C5>yanisking",
           "fame": 1800,
@@ -1280,7 +1280,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 23750,
+      "fame": 23850,
       "repairPoints": 0,
       "participants": [
         {
@@ -1790,11 +1790,11 @@
         {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
-          "fame": 800,
+          "fame": 900,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 0
+          "decksUsed": 7,
+          "decksUsedToday": 1
         },
         {
           "tag": "#CGPUY8P2",
@@ -1921,7 +1921,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 12750,
+      "fame": 13450,
       "repairPoints": 0,
       "participants": [
         {
@@ -2438,15 +2438,6 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#U0QY9LJVC",
-          "name": "andyboi",
-          "fame": 2400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8UG0J9RJ",
           "name": "Raidel36",
           "fame": 2500,
@@ -2454,6 +2445,15 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#U0QY9LJVC",
+          "name": "andyboi",
+          "fame": 3100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 15,
+          "decksUsedToday": 3
         }
       ],
       "periodPoints": 0,
