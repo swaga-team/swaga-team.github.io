@@ -830,7 +830,7 @@
     "threeCrownWins": 600,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30363,
+    "totalDonations": 30391,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1452,11 +1452,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11599,
+    "trophies": 11629,
     "bestTrophies": 11629,
-    "wins": 2232,
+    "wins": 2233,
     "losses": 2444,
-    "battleCount": 4676,
+    "battleCount": 4677,
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3945,12 +3945,12 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3155,
-    "bestTrophies": 3184,
-    "wins": 328,
-    "losses": 258,
-    "battleCount": 586,
-    "threeCrownWins": 182,
+    "trophies": 3188,
+    "bestTrophies": 3217,
+    "wins": 331,
+    "losses": 260,
+    "battleCount": 591,
+    "threeCrownWins": 183,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -4016,11 +4016,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Hut",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   }
 }

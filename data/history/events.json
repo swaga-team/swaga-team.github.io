@@ -1506,5 +1506,25 @@
       "Electro Giant"
     ],
     "at": "2026-11-01T18:48:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CVCJY2V0Y",
+    "name": "martinillo99",
+    "cards": [
+      {
+        "name": "Goblin Barrel",
+        "level": 13
+      },
+      {
+        "name": "Goblin Gang",
+        "level": 12
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-01T20:42:40+00:00"
   }
 ]

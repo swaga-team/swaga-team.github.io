@@ -1921,7 +1921,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 13450,
+      "fame": 14050,
       "repairPoints": 0,
       "participants": [
         {
@@ -2422,11 +2422,11 @@
         {
           "tag": "#RYUU099CV",
           "name": "Jayce",
-          "fame": 1200,
+          "fame": 1800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PCRGLCYPG",
