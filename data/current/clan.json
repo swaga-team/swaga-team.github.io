@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114868,
+  "clanScore": 114878,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5496,
+  "donationsPerWeek": 5698,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261101T085120.000Z",
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "member",
+      "lastSeen": "20261101T092918.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 2,
-      "donations": 322,
-      "donationsReceived": 320,
+      "previousClanRank": 1,
+      "donations": 114,
+      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "member",
-      "lastSeen": "20261101T071856.000Z",
+      "tag": "#8UCG80RYR",
+      "name": "Daisy Sprout",
+      "role": "leader",
+      "lastSeen": "20261101T091152.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,27 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 104,
-      "donationsReceived": 460,
+      "previousClanRank": 6,
+      "donations": 152,
+      "donationsReceived": 22,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261101T090214.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 3,
+      "previousClanRank": 2,
+      "donations": 322,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -67,10 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 414,
-      "donationsReceived": 420,
+      "donationsReceived": 440,
       "clanChestPoints": 0
     },
     {
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 7,
       "donations": 194,
       "donationsReceived": 80,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 4,
       "donations": 158,
       "donationsReceived": 0,
@@ -121,28 +139,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 5,
       "donations": 16,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#8UCG80RYR",
-      "name": "Daisy Sprout",
-      "role": "leader",
-      "lastSeen": "20261030T132431.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 7,
-      "previousClanRank": 6,
-      "donations": 82,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261101T042156.000Z",
+      "lastSeen": "20261101T094512.000Z",
       "expLevel": 0,
       "trophies": 13177,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 500,
+      "donations": 548,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -203,9 +203,9 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261031T211226.000Z",
+      "lastSeen": "20261101T093933.000Z",
       "expLevel": 0,
-      "trophies": 12914,
+      "trophies": 12915,
       "arena": {
         "id": 54000142,
         "name": "Ultimate Clash Pit",
@@ -221,7 +221,7 @@
       "tag": "#P08LLGYLQ",
       "name": "Luka13",
       "role": "member",
-      "lastSeen": "20261031T181827.000Z",
+      "lastSeen": "20261101T092952.000Z",
       "expLevel": 0,
       "trophies": 12774,
       "arena": {
@@ -257,7 +257,7 @@
       "tag": "#J9Y9Y9YRG",
       "name": "Sinner",
       "role": "member",
-      "lastSeen": "20261030T202054.000Z",
+      "lastSeen": "20261101T090652.000Z",
       "expLevel": 0,
       "trophies": 11816,
       "arena": {
@@ -268,7 +268,7 @@
       "clanRank": 14,
       "previousClanRank": 14,
       "donations": 10,
-      "donationsReceived": 144,
+      "donationsReceived": 184,
       "clanChestPoints": 0
     },
     {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 0,
-      "donationsReceived": 60,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261031T223508.000Z",
+      "lastSeen": "20261101T090854.000Z",
       "expLevel": 0,
       "trophies": 9647,
       "arena": {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 383,
+      "donations": 423,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -466,14 +466,14 @@
       "clanRank": 25,
       "previousClanRank": 26,
       "donations": 552,
-      "donationsReceived": 520,
+      "donationsReceived": 560,
       "clanChestPoints": 0
     },
     {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261101T082524.000Z",
+      "lastSeen": "20261101T085457.000Z",
       "expLevel": 0,
       "trophies": 9500,
       "arena": {
@@ -509,7 +509,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261101T083333.000Z",
+      "lastSeen": "20261101T092923.000Z",
       "expLevel": 0,
       "trophies": 8741,
       "arena": {
@@ -599,9 +599,9 @@
       "tag": "#JGL98Q9G2",
       "name": "(LP)Wasabi",
       "role": "member",
-      "lastSeen": "20261101T082510.000Z",
+      "lastSeen": "20261101T094402.000Z",
       "expLevel": 0,
-      "trophies": 7530,
+      "trophies": 7501,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -707,7 +707,7 @@
       "tag": "#VGVQG0CVG",
       "name": "¿ G1ntex21 ?",
       "role": "member",
-      "lastSeen": "20261030T140842.000Z",
+      "lastSeen": "20261101T093122.000Z",
       "expLevel": 0,
       "trophies": 3492,
       "arena": {
@@ -725,9 +725,9 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261101T074140.000Z",
+      "lastSeen": "20261101T093036.000Z",
       "expLevel": 0,
-      "trophies": 3142,
+      "trophies": 3202,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 41,
-      "donations": 402,
-      "donationsReceived": 380,
+      "donations": 420,
+      "donationsReceived": 400,
       "clanChestPoints": 0
     },
     {
@@ -761,18 +761,18 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261101T083540.000Z",
+      "lastSeen": "20261101T094450.000Z",
       "expLevel": 0,
-      "trophies": 2416,
+      "trophies": 2649,
       "arena": {
-        "id": 54000009,
-        "name": "Frozen Peak",
-        "rawName": "Arena8"
+        "id": 54000010,
+        "name": "Jungle Arena",
+        "rawName": "Arena9"
       },
       "clanRank": 42,
       "previousClanRank": 42,
-      "donations": 66,
-      "donationsReceived": 80,
+      "donations": 82,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     }
   ]

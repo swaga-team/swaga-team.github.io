@@ -1396,5 +1396,25 @@
       }
     ],
     "at": "2026-11-01T08:53:07+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "arena": "Jungle Arena",
+    "raw": "Arena9",
+    "at": "2026-11-01T09:49:53+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Cannon",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-01T09:49:53+00:00"
   }
 ]

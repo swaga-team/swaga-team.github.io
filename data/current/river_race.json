@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 19750,
+    "fame": 20550,
     "repairPoints": 0,
     "participants": [
       {
@@ -217,15 +217,6 @@
       {
         "tag": "#UY2UPL2GV",
         "name": "\"Erick\"",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#8UCG80RYR",
-        "name": "Daisy Sprout",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -494,6 +485,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#8UCG80RYR",
+        "name": "Daisy Sprout",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#QP0PPC0QU",
         "name": "pshkzzz",
         "fame": 500,
@@ -510,15 +510,6 @@
         "boatAttacks": 0,
         "decksUsed": 2,
         "decksUsedToday": 2
-      },
-      {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 550,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
       },
       {
         "tag": "#PL82RPJUJ",
@@ -546,6 +537,15 @@
         "boatAttacks": 0,
         "decksUsed": 6,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 850,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 7,
+        "decksUsedToday": 3
       },
       {
         "tag": "#222YY9YCC",
@@ -1280,7 +1280,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 19750,
+      "fame": 20550,
       "repairPoints": 0,
       "participants": [
         {
@@ -1493,15 +1493,6 @@
         {
           "tag": "#UY2UPL2GV",
           "name": "\"Erick\"",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#8UCG80RYR",
-          "name": "Daisy Sprout",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1770,6 +1761,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#8UCG80RYR",
+          "name": "Daisy Sprout",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#QP0PPC0QU",
           "name": "pshkzzz",
           "fame": 500,
@@ -1786,15 +1786,6 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 2
-        },
-        {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 550,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
         },
         {
           "tag": "#PL82RPJUJ",
@@ -1822,6 +1813,15 @@
           "boatAttacks": 0,
           "decksUsed": 6,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 850,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 3
         },
         {
           "tag": "#222YY9YCC",
