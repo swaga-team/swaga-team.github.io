@@ -1336,5 +1336,17 @@
     "tag": "#V92YR0C2L",
     "name": "ERICK_V",
     "at": "2026-11-01T07:01:40+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#RYRY0V89G",
+    "name": "Клэшер",
+    "cards": [
+      {
+        "name": "Ice Wizard",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-01T08:02:02+00:00"
   }
 ]

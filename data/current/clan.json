@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114861,
+  "clanScore": 114864,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5416,
+  "donationsPerWeek": 5446,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261101T065902.000Z",
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "member",
+      "lastSeen": "20261101T071856.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 2,
-      "donations": 322,
-      "donationsReceived": 320,
+      "previousClanRank": 1,
+      "donations": 104,
+      "donationsReceived": 450,
       "clanChestPoints": 0
     },
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "member",
-      "lastSeen": "20261101T065714.000Z",
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261101T071333.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 104,
-      "donationsReceived": 440,
+      "previousClanRank": 2,
+      "donations": 322,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 3,
       "donations": 414,
-      "donationsReceived": 400,
+      "donationsReceived": 410,
       "clanChestPoints": 0
     },
     {
@@ -329,7 +329,7 @@
       "tag": "#YR2GG8C2",
       "name": "mohamaddavodi",
       "role": "member",
-      "lastSeen": "20261026T134542.000Z",
+      "lastSeen": "20261101T070358.000Z",
       "expLevel": 0,
       "trophies": 10794,
       "arena": {
@@ -340,14 +340,14 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 0,
-      "donationsReceived": 40,
+      "donationsReceived": 50,
       "clanChestPoints": 0
     },
     {
       "tag": "#PLUQRR22G",
       "name": "ветмо",
       "role": "member",
-      "lastSeen": "20261031T133358.000Z",
+      "lastSeen": "20261101T074226.000Z",
       "expLevel": 0,
       "trophies": 10371,
       "arena": {
@@ -401,7 +401,7 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261031T160135.000Z",
+      "lastSeen": "20261101T073348.000Z",
       "expLevel": 0,
       "trophies": 10020,
       "arena": {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 23,
-      "donations": 10,
+      "donations": 40,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -509,7 +509,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261101T052246.000Z",
+      "lastSeen": "20261101T074055.000Z",
       "expLevel": 0,
       "trophies": 8741,
       "arena": {
@@ -599,9 +599,9 @@
       "tag": "#JGL98Q9G2",
       "name": "(LP)Wasabi",
       "role": "member",
-      "lastSeen": "20261031T135953.000Z",
+      "lastSeen": "20261101T080133.000Z",
       "expLevel": 0,
-      "trophies": 7529,
+      "trophies": 7559,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -725,7 +725,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261101T045627.000Z",
+      "lastSeen": "20261101T074140.000Z",
       "expLevel": 0,
       "trophies": 3142,
       "arena": {
