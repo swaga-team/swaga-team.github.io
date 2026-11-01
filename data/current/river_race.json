@@ -927,7 +927,7 @@
       "tag": "#RVU89Q",
       "name": "Les Dragounets",
       "badgeId": 16000078,
-      "fame": 10600,
+      "fame": 11100,
       "repairPoints": 0,
       "participants": [
         {
@@ -1237,15 +1237,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#P9QYRQ2R",
-          "name": "reurti",
-          "fame": 1900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2VVU0LYVJ",
           "name": "canam29",
           "fame": 2200,
@@ -1258,6 +1249,15 @@
           "tag": "#PCPU00V99",
           "name": "kaaris",
           "fame": 2300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#P9QYRQ2R",
+          "name": "reurti",
+          "fame": 2400,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 16,
@@ -1921,7 +1921,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 11700,
+      "fame": 12300,
       "repairPoints": 0,
       "participants": [
         {
@@ -2375,15 +2375,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PLUQ2GRQ0",
-          "name": "super cool dude",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20RRUU8J0U",
           "name": "THE GOD",
           "fame": 600,
@@ -2400,6 +2391,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#PLUQ2GRQ0",
+          "name": "super cool dude",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 3
         },
         {
           "tag": "#9CY2J9J08",

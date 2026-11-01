@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114984,
+  "clanScore": 114981,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6106,
+  "donationsPerWeek": 6126,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 5,
       "donations": 414,
-      "donationsReceived": 470,
+      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
@@ -167,7 +167,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261101T115014.000Z",
+      "lastSeen": "20261101T163943.000Z",
       "expLevel": 0,
       "trophies": 13233,
       "arena": {
@@ -177,7 +177,7 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 380,
+      "donations": 400,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -203,7 +203,7 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261101T105316.000Z",
+      "lastSeen": "20261101T161114.000Z",
       "expLevel": 0,
       "trophies": 13002,
       "arena": {
@@ -599,9 +599,9 @@
       "tag": "#JGL98Q9G2",
       "name": "(LP)Wasabi",
       "role": "member",
-      "lastSeen": "20261101T154008.000Z",
+      "lastSeen": "20261101T154117.000Z",
       "expLevel": 0,
-      "trophies": 7594,
+      "trophies": 7566,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -761,7 +761,7 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261101T103016.000Z",
+      "lastSeen": "20261101T162213.000Z",
       "expLevel": 0,
       "trophies": 2677,
       "arena": {
@@ -772,7 +772,7 @@
       "clanRank": 42,
       "previousClanRank": 42,
       "donations": 102,
-      "donationsReceived": 100,
+      "donationsReceived": 110,
       "clanChestPoints": 0
     }
   ]
