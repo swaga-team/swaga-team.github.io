@@ -1416,5 +1416,41 @@
       }
     ],
     "at": "2026-11-01T09:49:53+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YQ2VLPJ0L",
+    "name": "arch1tector",
+    "cards": [
+      {
+        "name": "Fireball",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-01T12:54:17+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#9GVPRJQLL",
+    "name": "NovaZonday",
+    "arena": "Little Prince's Tavern",
+    "raw": "Arena_L17",
+    "at": "2026-11-01T12:54:17+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Royal Recruits",
+        "level": 11
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-01T12:54:17+00:00"
   }
 ]
