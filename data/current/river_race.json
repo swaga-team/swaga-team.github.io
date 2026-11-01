@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 23050,
+    "fame": 23750,
     "repairPoints": 0,
     "participants": [
       {
@@ -521,15 +521,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#222YY9YCC",
-        "name": "king abolfazl",
-        "fame": 900,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#CGPUY8P2",
         "name": "BIG BOY",
         "fame": 900,
@@ -555,6 +546,15 @@
         "boatAttacks": 0,
         "decksUsed": 8,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#222YY9YCC",
+        "name": "king abolfazl",
+        "fame": 1000,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 9,
+        "decksUsedToday": 1
       },
       {
         "tag": "#LV0GVYYL8",
@@ -602,15 +602,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#8LRPG2VPQ",
-        "name": "CHLE N EGRA",
-        "fame": 1800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 11,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 2250,
@@ -623,6 +614,15 @@
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
         "fame": 2300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 15,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#8LRPG2VPQ",
+        "name": "CHLE N EGRA",
+        "fame": 2400,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 15,
@@ -646,7 +646,7 @@
       "tag": "#GYULR0",
       "name": "99% 1 star",
       "badgeId": 16000107,
-      "fame": 4800,
+      "fame": 5600,
       "repairPoints": 0,
       "participants": [
         {
@@ -893,15 +893,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2CUG0229",
-          "name": "done",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#Q8J0V02",
           "name": "Booze4U",
           "fame": 1200,
@@ -909,6 +900,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2CUG0229",
+          "name": "done",
+          "fame": 1700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#9R8UGLPV8",
@@ -1280,7 +1280,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 23050,
+      "fame": 23750,
       "repairPoints": 0,
       "participants": [
         {
@@ -1797,15 +1797,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#222YY9YCC",
-          "name": "king abolfazl",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CGPUY8P2",
           "name": "BIG BOY",
           "fame": 900,
@@ -1831,6 +1822,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#222YY9YCC",
+          "name": "king abolfazl",
+          "fame": 1000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#LV0GVYYL8",
@@ -1878,15 +1878,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8LRPG2VPQ",
-          "name": "CHLE N EGRA",
-          "fame": 1800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 11,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 2250,
@@ -1899,6 +1890,15 @@
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
           "fame": 2300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 15,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#8LRPG2VPQ",
+          "name": "CHLE N EGRA",
+          "fame": 2400,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 15,

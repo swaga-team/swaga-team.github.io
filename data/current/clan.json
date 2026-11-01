@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114981,
+  "clanScore": 114982,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6126,
+  "donationsPerWeek": 6156,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -167,7 +167,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261101T163943.000Z",
+      "lastSeen": "20261101T171409.000Z",
       "expLevel": 0,
       "trophies": 13233,
       "arena": {
@@ -177,7 +177,7 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 400,
+      "donations": 410,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261101T094512.000Z",
+      "lastSeen": "20261101T171724.000Z",
       "expLevel": 0,
       "trophies": 13177,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 548,
+      "donations": 568,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -239,7 +239,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261101T125137.000Z",
+      "lastSeen": "20261101T165026.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261031T181644.000Z",
+      "lastSeen": "20261101T164455.000Z",
       "expLevel": 0,
       "trophies": 10125,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 320,
+      "donationsReceived": 340,
       "clanChestPoints": 0
     },
     {
@@ -761,9 +761,9 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261101T162213.000Z",
+      "lastSeen": "20261101T173037.000Z",
       "expLevel": 0,
-      "trophies": 2677,
+      "trophies": 2705,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
@@ -772,7 +772,7 @@
       "clanRank": 42,
       "previousClanRank": 42,
       "donations": 102,
-      "donationsReceived": 110,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     }
   ]

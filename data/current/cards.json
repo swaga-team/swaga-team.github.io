@@ -9628,7 +9628,7 @@
     ],
     "Electro Giant": [
       6,
-      0
+      1
     ],
     "Electro Spirit": [
       1,
@@ -18760,6 +18760,10 @@
     ],
     "Ice Golem": [
       8,
+      0
+    ],
+    "Goblin Gang": [
+      5,
       0
     ]
   },
