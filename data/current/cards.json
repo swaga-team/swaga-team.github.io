@@ -11355,7 +11355,7 @@
       0
     ],
     "Skeletons": [
-      10,
+      11,
       0
     ],
     "Cannon": [
@@ -18571,11 +18571,11 @@
       0
     ],
     "Giant": [
-      6,
+      7,
       0
     ],
     "Mini P.E.K.K.A": [
-      9,
+      10,
       0
     ],
     "Musketeer": [
@@ -18591,7 +18591,7 @@
       1
     ],
     "Tombstone": [
-      6,
+      7,
       0
     ],
     "Skeletons": [
@@ -18679,7 +18679,7 @@
       0
     ],
     "Mortar": [
-      7,
+      8,
       0
     ],
     "Flying Machine": [
@@ -18691,7 +18691,7 @@
       0
     ],
     "Minion Giant": [
-      6,
+      7,
       0
     ],
     "Baby Dragon": [
@@ -18715,7 +18715,7 @@
       0
     ],
     "Goblin Barrel": [
-      7,
+      8,
       0
     ],
     "Royal Recruits": [
@@ -18743,7 +18743,7 @@
       0
     ],
     "Giant Snowball": [
-      8,
+      11,
       0
     ],
     "Dark Prince": [
@@ -18752,6 +18752,10 @@
     ],
     "Lightning": [
       10,
+      0
+    ],
+    "Balloon": [
+      6,
       0
     ]
   },
