@@ -914,15 +914,15 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13177,
-    "bestTrophies": 13177,
-    "wins": 2360,
+    "trophies": 13234,
+    "bestTrophies": 13234,
+    "wins": 2362,
     "losses": 2055,
-    "battleCount": 4415,
-    "threeCrownWins": 1182,
+    "battleCount": 4417,
+    "threeCrownWins": 1183,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15017,
+    "totalDonations": 15025,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -997,21 +997,21 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lightning",
-      "rarity": "epic",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#P08LLGYLQ": {
     "expLevel": 56,
     "trophies": 12774,
     "bestTrophies": 12780,
-    "wins": 3303,
-    "losses": 1837,
-    "battleCount": 5140,
-    "threeCrownWins": 1203,
+    "wins": 3307,
+    "losses": 1838,
+    "battleCount": 5145,
+    "threeCrownWins": 1205,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
     "totalDonations": 18818,
@@ -1089,20 +1089,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Three Musketeers",
-      "rarity": "rare",
-      "elixirCost": 9,
+      "name": "Phoenix",
+      "rarity": "legendary",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/i0RoY1fs6ay7VAxyFEfZGIPnD002nAKcne9FtJsWBHM.png"
     }
   },
   "#Q2RJCVYUQ": {
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3578,
+    "wins": 3579,
     "losses": 3030,
-    "battleCount": 6608,
+    "battleCount": 6609,
     "threeCrownWins": 2414,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2091,13 +2091,13 @@
     "expLevel": 20,
     "trophies": 9537,
     "bestTrophies": 9562,
-    "wins": 1011,
+    "wins": 1012,
     "losses": 676,
-    "battleCount": 1687,
+    "battleCount": 1688,
     "threeCrownWins": 503,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2883,
+    "totalDonations": 2911,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2120,6 +2120,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -3257,15 +3264,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3262,
+    "trophies": 3352,
     "bestTrophies": 3397,
-    "wins": 3191,
+    "wins": 3194,
     "losses": 2792,
-    "battleCount": 5983,
-    "threeCrownWins": 2561,
+    "battleCount": 5986,
+    "threeCrownWins": 2564,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20208,
+    "totalDonations": 20238,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3278,6 +3285,13 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
       },
       {
+        "name": "Knight",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      },
+      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -3285,54 +3299,47 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
       },
       {
-        "name": "Wizard",
-        "rarity": "rare",
+        "name": "Barbarians",
+        "rarity": "common",
         "elixirCost": 5,
         "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
       },
       {
-        "name": "Musketeer",
-        "rarity": "rare",
-        "elixirCost": 4,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
-      },
-      {
-        "name": "Fireball",
-        "rarity": "rare",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
-      },
-      {
-        "name": "Cannon",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
-      },
-      {
-        "name": "Goblin Gang",
+        "name": "Arrows",
         "rarity": "common",
         "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
       },
       {
-        "name": "Bomber",
-        "rarity": "common",
-        "elixirCost": 2,
+        "name": "Lumberjack",
+        "rarity": "legendary",
+        "elixirCost": 4,
         "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/12n1CesxKIcqVYntjxcF36EFA-ONw7Z-DoL0_rQrbdo.png"
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+      },
+      {
+        "name": "Hog Rider",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      },
+      {
+        "name": "Mega Knight",
+        "rarity": "legendary",
+        "elixirCost": 7,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rocket",
+      "name": "Hog Rider",
       "rarity": "rare",
-      "elixirCost": 6,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#8LJQ29VPG": {
@@ -3945,11 +3952,11 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3123,
-    "bestTrophies": 3169,
-    "wins": 324,
-    "losses": 255,
-    "battleCount": 579,
+    "trophies": 3184,
+    "bestTrophies": 3184,
+    "wins": 327,
+    "losses": 256,
+    "battleCount": 583,
     "threeCrownWins": 182,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4016,11 +4023,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Goblin Hut",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
     }
   }
 }

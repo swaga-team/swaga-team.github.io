@@ -927,7 +927,7 @@
       "tag": "#RVU89Q",
       "name": "Les Dragounets",
       "badgeId": 16000078,
-      "fame": 11100,
+      "fame": 11300,
       "repairPoints": 0,
       "participants": [
         {
@@ -1230,11 +1230,11 @@
         {
           "tag": "#YQ8YQJ8P",
           "name": "<C5>yanisking",
-          "fame": 1600,
+          "fame": 1800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 2
+          "decksUsed": 10,
+          "decksUsedToday": 3
         },
         {
           "tag": "#2VVU0LYVJ",
@@ -1921,7 +1921,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 12300,
+      "fame": 12750,
       "repairPoints": 0,
       "participants": [
         {
@@ -2431,11 +2431,11 @@
         {
           "tag": "#PCRGLCYPG",
           "name": "KingOJ",
-          "fame": 1700,
+          "fame": 2150,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 15,
+          "decksUsedToday": 3
         },
         {
           "tag": "#U0QY9LJVC",
