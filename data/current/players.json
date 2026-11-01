@@ -1999,13 +1999,13 @@
     "expLevel": 38,
     "trophies": 9585,
     "bestTrophies": 9825,
-    "wins": 2285,
-    "losses": 2111,
-    "battleCount": 4396,
+    "wins": 2289,
+    "losses": 2113,
+    "battleCount": 4402,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17647,
+    "totalDonations": 17667,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2080,11 +2080,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
-      "rarity": "rare",
+      "name": "Tesla",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2538,12 +2538,12 @@
     "trophies": 8343,
     "bestTrophies": 8343,
     "wins": 919,
-    "losses": 636,
-    "battleCount": 1555,
+    "losses": 638,
+    "battleCount": 1557,
     "threeCrownWins": 412,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 560,
+    "totalDonations": 580,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2566,6 +2566,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      },
+      {
+        "name": "Little Prince",
+        "rarity": "champion",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
       },
       {
         "name": "Mega Knight",

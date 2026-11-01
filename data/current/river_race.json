@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 23850,
+    "fame": 24050,
     "repairPoints": 0,
     "participants": [
       {
@@ -208,15 +208,6 @@
       {
         "tag": "#CVPPPJL0Q",
         "name": "ulofo",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#UY2UPL2GV",
-        "name": "\"Erick\"",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -447,6 +438,15 @@
         "boatAttacks": 0,
         "decksUsed": 2,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#UY2UPL2GV",
+        "name": "\"Erick\"",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
       },
       {
         "tag": "#28G90Y9JL",
@@ -1280,7 +1280,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 23850,
+      "fame": 24050,
       "repairPoints": 0,
       "participants": [
         {
@@ -1484,15 +1484,6 @@
         {
           "tag": "#CVPPPJL0Q",
           "name": "ulofo",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#UY2UPL2GV",
-          "name": "\"Erick\"",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1723,6 +1714,15 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#UY2UPL2GV",
+          "name": "\"Erick\"",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#28G90Y9JL",
