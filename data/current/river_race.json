@@ -927,7 +927,7 @@
       "tag": "#RVU89Q",
       "name": "Les Dragounets",
       "badgeId": 16000078,
-      "fame": 10400,
+      "fame": 10600,
       "repairPoints": 0,
       "participants": [
         {
@@ -1230,11 +1230,11 @@
         {
           "tag": "#YQ8YQJ8P",
           "name": "<C5>yanisking",
-          "fame": 1400,
+          "fame": 1600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 1
+          "decksUsed": 9,
+          "decksUsedToday": 2
         },
         {
           "tag": "#P9QYRQ2R",
@@ -1921,7 +1921,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 11400,
+      "fame": 11700,
       "repairPoints": 0,
       "participants": [
         {
@@ -2393,15 +2393,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9CY2J9J08",
-          "name": "Iker13899",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2QY999VGQ",
           "name": "Cobmaster",
           "fame": 700,
@@ -2409,6 +2400,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#9CY2J9J08",
+          "name": "Iker13899",
+          "fame": 1000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 2
         },
         {
           "tag": "#RVQ8V0RYU",

@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3692,
-    "losses": 2073,
-    "battleCount": 5765,
-    "threeCrownWins": 1073,
+    "wins": 3693,
+    "losses": 2075,
+    "battleCount": 5768,
+    "threeCrownWins": 1074,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 40852,
+    "totalDonations": 40862,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 5,
       "trophies": 0,
@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2914,
-    "losses": 2492,
-    "battleCount": 5406,
+    "wins": 2916,
+    "losses": 2494,
+    "battleCount": 5410,
     "threeCrownWins": 1102,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15286,
+    "totalDonations": 15296,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -445,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
-      "rarity": "epic",
+      "name": "Mega Knight",
+      "rarity": "legendary",
       "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#8UCG80RYR": {
@@ -1999,13 +1999,13 @@
     "expLevel": 38,
     "trophies": 9585,
     "bestTrophies": 9825,
-    "wins": 2284,
+    "wins": 2285,
     "losses": 2111,
-    "battleCount": 4395,
+    "battleCount": 4396,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17637,
+    "totalDonations": 17647,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2804,11 +2804,11 @@
   },
   "#JGL98Q9G2": {
     "expLevel": 34,
-    "trophies": 7565,
+    "trophies": 7594,
     "bestTrophies": 7648,
-    "wins": 899,
+    "wins": 900,
     "losses": 725,
-    "battleCount": 1624,
+    "battleCount": 1625,
     "threeCrownWins": 335,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3855,9 +3855,9 @@
     "expLevel": 48,
     "trophies": 10020,
     "bestTrophies": 10142,
-    "wins": 2738,
-    "losses": 3415,
-    "battleCount": 6153,
+    "wins": 2739,
+    "losses": 3418,
+    "battleCount": 6157,
     "threeCrownWins": 1138,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3945,12 +3945,12 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3093,
+    "trophies": 3123,
     "bestTrophies": 3169,
-    "wins": 322,
-    "losses": 254,
-    "battleCount": 576,
-    "threeCrownWins": 181,
+    "wins": 324,
+    "losses": 255,
+    "battleCount": 579,
+    "threeCrownWins": 182,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -4016,11 +4016,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Hut",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   }
 }
