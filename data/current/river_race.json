@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 19150,
+    "fame": 19250,
     "repairPoints": 0,
     "participants": [
       {
@@ -19,6 +19,15 @@
       {
         "tag": "#QLUURLVUY",
         "name": "Ricardo",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#CVCJY2V0Y",
+        "name": "martinillo99",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -602,21 +611,21 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#8LRPG2VPQ",
-        "name": "CHLE N EGRA",
-        "fame": 1700,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 10,
-        "decksUsedToday": 3
-      },
-      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 1750,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 12,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#8LRPG2VPQ",
+        "name": "CHLE N EGRA",
+        "fame": 1800,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 11,
         "decksUsedToday": 4
       },
       {
@@ -1271,7 +1280,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 19150,
+      "fame": 19250,
       "repairPoints": 0,
       "participants": [
         {
@@ -1286,6 +1295,15 @@
         {
           "tag": "#QLUURLVUY",
           "name": "Ricardo",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#CVCJY2V0Y",
+          "name": "martinillo99",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1869,21 +1887,21 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#8LRPG2VPQ",
-          "name": "CHLE N EGRA",
-          "fame": 1700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 10,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 1750,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#8LRPG2VPQ",
+          "name": "CHLE N EGRA",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
           "decksUsedToday": 4
         },
         {
@@ -1903,7 +1921,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 10600,
+      "fame": 11400,
       "repairPoints": 0,
       "participants": [
         {
@@ -2339,15 +2357,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PLUQ2GRQ0",
-          "name": "super cool dude",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20QUCGQQ9G",
           "name": "MortalCombatant",
           "fame": 0,
@@ -2366,13 +2375,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#RYUU099CV",
-          "name": "Jayce",
-          "fame": 600,
+          "tag": "#PLUQ2GRQ0",
+          "name": "super cool dude",
+          "fame": 200,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsed": 1,
+          "decksUsedToday": 1
         },
         {
           "tag": "#20RRUU8J0U",
@@ -2411,6 +2420,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#RYUU099CV",
+          "name": "Jayce",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#PCRGLCYPG",
           "name": "KingOJ",
           "fame": 1700,
@@ -2445,7 +2463,7 @@
       "tag": "#PRP0YQR2",
       "name": "TWICE",
       "badgeId": 16000127,
-      "fame": 9950,
+      "fame": 10150,
       "repairPoints": 0,
       "participants": [
         {
@@ -2845,15 +2863,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YJQQ002LV",
-          "name": "YA-MAN",
-          "fame": 1350,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9QGRPU9GQ",
           "name": "량테",
           "fame": 1400,
@@ -2870,6 +2879,15 @@
           "boatAttacks": 0,
           "decksUsed": 9,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#YJQQ002LV",
+          "name": "YA-MAN",
+          "fame": 1550,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#28Q2PLY82",

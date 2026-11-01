@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115718,
+  "clanScore": 115808,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,11 +13,11 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5366,
+  "donationsPerWeek": 5376,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 42,
+  "members": 43,
   "memberList": [
     {
       "tag": "#QP0PPC0QU",
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261031T220656.000Z",
+      "lastSeen": "20261101T042156.000Z",
       "expLevel": 0,
       "trophies": 13177,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 490,
+      "donations": 500,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -527,7 +527,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261101T031037.000Z",
+      "lastSeen": "20261101T041425.000Z",
       "expLevel": 0,
       "trophies": 8741,
       "arena": {
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 29,
       "donations": 10,
-      "donationsReceived": 362,
+      "donationsReceived": 372,
       "clanChestPoints": 0
     },
     {
@@ -758,6 +758,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CVCJY2V0Y",
+      "name": "martinillo99",
+      "role": "member",
+      "lastSeen": "20261101T045124.000Z",
+      "expLevel": 0,
+      "trophies": 3030,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 42,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
@@ -769,7 +787,7 @@
         "name": "Frozen Peak",
         "rawName": "Arena8"
       },
-      "clanRank": 42,
+      "clanRank": 43,
       "previousClanRank": 42,
       "donations": 66,
       "donationsReceived": 70,
