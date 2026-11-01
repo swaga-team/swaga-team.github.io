@@ -1903,7 +1903,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 9250,
+      "fame": 10050,
       "repairPoints": 0,
       "participants": [
         {
@@ -2422,11 +2422,11 @@
         {
           "tag": "#U0QY9LJVC",
           "name": "andyboi",
-          "fame": 1600,
+          "fame": 2400,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#8UG0J9RJ",
