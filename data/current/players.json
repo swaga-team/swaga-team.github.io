@@ -1308,13 +1308,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -2089,15 +2082,15 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9536,
+    "trophies": 9500,
     "bestTrophies": 9562,
-    "wins": 1013,
-    "losses": 678,
-    "battleCount": 1691,
-    "threeCrownWins": 504,
+    "wins": 1015,
+    "losses": 682,
+    "battleCount": 1697,
+    "threeCrownWins": 505,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2911,
+    "totalDonations": 2921,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2120,6 +2113,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2905,9 +2905,9 @@
     "expLevel": 39,
     "trophies": 6785,
     "bestTrophies": 6785,
-    "wins": 2485,
-    "losses": 2625,
-    "battleCount": 5110,
+    "wins": 2487,
+    "losses": 2626,
+    "battleCount": 5113,
     "threeCrownWins": 1812,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -2986,11 +2986,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ice Wizard",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "X-Bow",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
     }
   },
   "#GQP92GLC8": {

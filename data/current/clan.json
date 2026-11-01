@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114988,
+  "clanScore": 114984,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6386,
+  "donationsPerWeek": 6396,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -275,7 +275,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261101T132539.000Z",
+      "lastSeen": "20261101T230501.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 88,
-      "donationsReceived": 80,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -452,24 +452,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#9RJPRQLL2",
-      "name": "Morj",
-      "role": "member",
-      "lastSeen": "20261101T183943.000Z",
-      "expLevel": 0,
-      "trophies": 9536,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 25,
-      "previousClanRank": 26,
-      "donations": 580,
-      "donationsReceived": 600,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -481,10 +463,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 25,
       "previousClanRank": 27,
       "donations": 594,
       "donationsReceived": 400,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#9RJPRQLL2",
+      "name": "Morj",
+      "role": "member",
+      "lastSeen": "20261101T230840.000Z",
+      "expLevel": 0,
+      "trophies": 9500,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 26,
+      "previousClanRank": 26,
+      "donations": 590,
+      "donationsReceived": 600,
       "clanChestPoints": 0
     },
     {
@@ -617,7 +617,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261101T132709.000Z",
+      "lastSeen": "20261101T230358.000Z",
       "expLevel": 0,
       "trophies": 6785,
       "arena": {
