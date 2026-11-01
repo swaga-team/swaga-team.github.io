@@ -1100,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3574,
-    "losses": 3026,
-    "battleCount": 6600,
+    "wins": 3578,
+    "losses": 3029,
+    "battleCount": 6607,
     "threeCrownWins": 2414,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1129,6 +1129,13 @@
         "elixirCost": 7,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Battle Ram",
@@ -1174,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblinstein",
-      "rarity": "champion",
+      "name": "Ram Rider",
+      "rarity": "legendary",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1270,9 +1277,9 @@
     "expLevel": 56,
     "trophies": 11695,
     "bestTrophies": 11695,
-    "wins": 1094,
-    "losses": 1032,
-    "battleCount": 2126,
+    "wins": 1096,
+    "losses": 1034,
+    "battleCount": 2130,
     "threeCrownWins": 628,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1299,6 +1306,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -1344,11 +1358,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant",
+      "name": "Valkyrie",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#29GJQ0G9Q": {
@@ -1438,11 +1452,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11574,
+    "trophies": 11600,
     "bestTrophies": 11604,
-    "wins": 2230,
+    "wins": 2231,
     "losses": 2443,
-    "battleCount": 4673,
+    "battleCount": 4674,
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1983,11 +1997,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9617,
+    "trophies": 9585,
     "bestTrophies": 9825,
-    "wins": 2283,
-    "losses": 2109,
-    "battleCount": 4392,
+    "wins": 2284,
+    "losses": 2111,
+    "battleCount": 4395,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2066,11 +2080,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
-      "rarity": "common",
+      "name": "Valkyrie",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2891,10 +2905,10 @@
     "expLevel": 39,
     "trophies": 6785,
     "bestTrophies": 6785,
-    "wins": 2483,
-    "losses": 2621,
-    "battleCount": 5104,
-    "threeCrownWins": 1811,
+    "wins": 2485,
+    "losses": 2625,
+    "battleCount": 5110,
+    "threeCrownWins": 1812,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37159,
@@ -2972,11 +2986,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Ice Wizard",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
     }
   },
   "#GQP92GLC8": {

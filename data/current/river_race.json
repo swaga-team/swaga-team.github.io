@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 22450,
+    "fame": 23050,
     "repairPoints": 0,
     "participants": [
       {
@@ -512,15 +512,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 600,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 800,
@@ -582,6 +573,15 @@
         "boatAttacks": 0,
         "decksUsed": 8,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 1200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
       },
       {
         "tag": "#GQQL9YLYQ",
@@ -927,7 +927,7 @@
       "tag": "#RVU89Q",
       "name": "Les Dragounets",
       "badgeId": 16000078,
-      "fame": 9700,
+      "fame": 10300,
       "repairPoints": 0,
       "participants": [
         {
@@ -1230,20 +1230,11 @@
         {
           "tag": "#YQ8YQJ8P",
           "name": "<C5>yanisking",
-          "fame": 1200,
+          "fame": 1400,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#2VVU0LYVJ",
-          "name": "canam29",
-          "fame": 1700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 8,
+          "decksUsedToday": 1
         },
         {
           "tag": "#P9QYRQ2R",
@@ -1253,6 +1244,15 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2VVU0LYVJ",
+          "name": "canam29",
+          "fame": 2100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 15,
+          "decksUsedToday": 3
         },
         {
           "tag": "#PCPU00V99",
@@ -1280,7 +1280,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 22450,
+      "fame": 23050,
       "repairPoints": 0,
       "participants": [
         {
@@ -1788,15 +1788,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 800,
@@ -1858,6 +1849,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#GQQL9YLYQ",
