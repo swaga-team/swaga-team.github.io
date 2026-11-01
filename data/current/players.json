@@ -2346,9 +2346,9 @@
     "expLevel": 42,
     "trophies": 8741,
     "bestTrophies": 8741,
-    "wins": 2615,
-    "losses": 2791,
-    "battleCount": 5406,
+    "wins": 2618,
+    "losses": 2792,
+    "battleCount": 5410,
     "threeCrownWins": 1635,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
@@ -3243,15 +3243,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3171,
+    "trophies": 3142,
     "bestTrophies": 3397,
     "wins": 3187,
-    "losses": 2788,
-    "battleCount": 5975,
+    "losses": 2789,
+    "battleCount": 5976,
     "threeCrownWins": 2557,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20170,
+    "totalDonations": 20190,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3931,12 +3931,12 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3030,
+    "trophies": 3093,
     "bestTrophies": 3169,
-    "wins": 319,
-    "losses": 253,
-    "battleCount": 572,
-    "threeCrownWins": 179,
+    "wins": 322,
+    "losses": 254,
+    "battleCount": 576,
+    "threeCrownWins": 181,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -3955,8 +3955,8 @@
         "name": "Goblin Drill",
         "rarity": "epic",
         "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
       },
       {
         "name": "Goblin Barrel",
@@ -4002,11 +4002,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Barrel",
-      "rarity": "epic",
-      "elixirCost": 3,
+      "name": "Goblin Hut",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
     }
   }
 }

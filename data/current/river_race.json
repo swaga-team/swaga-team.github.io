@@ -2463,7 +2463,7 @@
       "tag": "#PRP0YQR2",
       "name": "TWICE",
       "badgeId": 16000127,
-      "fame": 10150,
+      "fame": 10350,
       "repairPoints": 0,
       "participants": [
         {
@@ -2881,15 +2881,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#YJQQ002LV",
-          "name": "YA-MAN",
-          "fame": 1550,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 10,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#28Q2PLY82",
           "name": "hefeweizen007",
           "fame": 1600,
@@ -2897,6 +2888,15 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#YJQQ002LV",
+          "name": "YA-MAN",
+          "fame": 1750,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
+          "decksUsedToday": 3
         },
         {
           "tag": "#YUUPVJULY",
