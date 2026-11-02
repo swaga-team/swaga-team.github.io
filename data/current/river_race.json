@@ -646,7 +646,7 @@
       "tag": "#GYULR0",
       "name": "99% 1 star",
       "badgeId": 16000107,
-      "fame": 6100,
+      "fame": 6300,
       "repairPoints": 0,
       "participants": [
         {
@@ -830,15 +830,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2PYJVRY2Y",
-          "name": "king of world",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#P0GV2G9V8",
           "name": "IceFireBomb",
           "fame": 0,
@@ -891,6 +882,15 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2PYJVRY2Y",
+          "name": "king of world",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
         },
         {
           "tag": "#Q8J0V02",

@@ -917,8 +917,8 @@
     "trophies": 13200,
     "bestTrophies": 13234,
     "wins": 2363,
-    "losses": 2057,
-    "battleCount": 4420,
+    "losses": 2058,
+    "battleCount": 4421,
     "threeCrownWins": 1183,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -1368,7 +1368,7 @@
     "threeCrownWins": 2721,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72735,
+    "totalDonations": 72745,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3676,11 +3676,11 @@
   },
   "#PLUQRR22G": {
     "expLevel": 55,
-    "trophies": 10371,
+    "trophies": 10401,
     "bestTrophies": 10435,
-    "wins": 2910,
+    "wins": 2911,
     "losses": 3473,
-    "battleCount": 6383,
+    "battleCount": 6384,
     "threeCrownWins": 1449,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
@@ -3759,11 +3759,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Fireball",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Ice Wizard",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
     }
   },
   "#9GVPRJQLL": {
