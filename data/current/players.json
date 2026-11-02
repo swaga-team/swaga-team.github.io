@@ -1100,10 +1100,10 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3594,
-    "losses": 3045,
-    "battleCount": 6639,
-    "threeCrownWins": 2416,
+    "wins": 3598,
+    "losses": 3046,
+    "battleCount": 6644,
+    "threeCrownWins": 2417,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 22391,
@@ -1129,13 +1129,6 @@
         "elixirCost": 7,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Battle Ram",
@@ -1181,11 +1174,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rune Giant",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Ram Rider",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/UogMnGHQXT-TOVXRxslKdAKXUPhqUvrD_hV9x8lbzdE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1990,11 +1983,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9554,
+    "trophies": 9586,
     "bestTrophies": 9825,
-    "wins": 2290,
+    "wins": 2291,
     "losses": 2115,
-    "battleCount": 4405,
+    "battleCount": 4406,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
