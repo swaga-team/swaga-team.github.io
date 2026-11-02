@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116253,
+  "clanScore": 116242,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 396,
+  "donationsPerWeek": 436,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261102T114036.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 16,
+      "donationsReceived": 8,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 8,
       "donationsReceived": 40,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 58,
       "donationsReceived": 40,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 5,
       "donations": 18,
       "donationsReceived": 0,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 6,
       "donations": 42,
       "donationsReceived": 0,
@@ -103,27 +121,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 4,
       "donations": 8,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261101T152658.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 1,
-      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -214,7 +214,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 8,
-      "donationsReceived": 16,
+      "donationsReceived": 32,
       "clanChestPoints": 0
     },
     {
@@ -239,7 +239,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261102T082556.000Z",
+      "lastSeen": "20261102T115519.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -311,9 +311,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261102T070431.000Z",
+      "lastSeen": "20261102T115305.000Z",
       "expLevel": 0,
-      "trophies": 11594,
+      "trophies": 11563,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 16,
-      "donations": 18,
+      "donations": 42,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 26,
       "donations": 8,
-      "donationsReceived": 0,
+      "donationsReceived": 16,
       "clanChestPoints": 0
     },
     {
@@ -527,7 +527,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261102T082908.000Z",
+      "lastSeen": "20261102T114453.000Z",
       "expLevel": 0,
       "trophies": 8741,
       "arena": {
@@ -617,9 +617,9 @@
       "tag": "#JGL98Q9G2",
       "name": "(LP)Wasabi",
       "role": "member",
-      "lastSeen": "20261102T102944.000Z",
+      "lastSeen": "20261102T115137.000Z",
       "expLevel": 0,
-      "trophies": 7661,
+      "trophies": 7630,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261101T230358.000Z",
+      "lastSeen": "20261102T115206.000Z",
       "expLevel": 0,
       "trophies": 6785,
       "arena": {
