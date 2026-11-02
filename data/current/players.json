@@ -916,13 +916,13 @@
     "expLevel": 43,
     "trophies": 13200,
     "bestTrophies": 13234,
-    "wins": 2363,
+    "wins": 2365,
     "losses": 2058,
-    "battleCount": 4421,
-    "threeCrownWins": 1183,
+    "battleCount": 4423,
+    "threeCrownWins": 1185,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15045,
+    "totalDonations": 15053,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -997,11 +997,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Phoenix",
+      "rarity": "legendary",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/i0RoY1fs6ay7VAxyFEfZGIPnD002nAKcne9FtJsWBHM.png"
     }
   },
   "#P08LLGYLQ": {
@@ -3272,7 +3272,7 @@
     "threeCrownWins": 2564,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20238,
+    "totalDonations": 20256,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,

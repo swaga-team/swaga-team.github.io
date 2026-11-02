@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 10,
+  "donationsPerWeek": 36,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -32,7 +32,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 1,
+      "previousClanRank": 6,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -50,7 +50,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 5,
+      "previousClanRank": 2,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -68,7 +68,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 3,
+      "previousClanRank": 1,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 4,
+      "previousClanRank": 3,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -104,7 +104,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 5,
-      "previousClanRank": 6,
+      "previousClanRank": 4,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -122,7 +122,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 6,
-      "previousClanRank": 7,
+      "previousClanRank": 5,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -140,7 +140,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 7,
-      "previousClanRank": 2,
+      "previousClanRank": 7,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261102T021805.000Z",
+      "lastSeen": "20261102T034252.000Z",
       "expLevel": 0,
       "trophies": 13200,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 0,
+      "donations": 8,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 0,
-      "donationsReceived": 10,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 10,
-      "donationsReceived": 0,
+      "donationsReceived": 16,
       "clanChestPoints": 0
     },
     {
@@ -356,7 +356,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 19,
-      "previousClanRank": 20,
+      "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -374,7 +374,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 20,
-      "previousClanRank": 21,
+      "previousClanRank": 20,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -392,7 +392,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 21,
-      "previousClanRank": 22,
+      "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -410,7 +410,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 22,
-      "previousClanRank": 23,
+      "previousClanRank": 22,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -428,7 +428,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 23,
-      "previousClanRank": 24,
+      "previousClanRank": 23,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -446,7 +446,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 24,
-      "previousClanRank": 25,
+      "previousClanRank": 24,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -464,7 +464,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 25,
-      "previousClanRank": 27,
+      "previousClanRank": 26,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -482,7 +482,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 26,
-      "previousClanRank": 26,
+      "previousClanRank": 25,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -500,7 +500,7 @@
         "rawName": "Arena_L9"
       },
       "clanRank": 27,
-      "previousClanRank": 28,
+      "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -518,7 +518,7 @@
         "rawName": "Arena_L8"
       },
       "clanRank": 28,
-      "previousClanRank": 29,
+      "previousClanRank": 28,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -536,7 +536,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 29,
-      "previousClanRank": 30,
+      "previousClanRank": 29,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -554,7 +554,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 30,
-      "previousClanRank": 31,
+      "previousClanRank": 30,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -572,7 +572,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 31,
-      "previousClanRank": 32,
+      "previousClanRank": 31,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -590,7 +590,7 @@
         "rawName": "Arena_L6"
       },
       "clanRank": 32,
-      "previousClanRank": 33,
+      "previousClanRank": 32,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -608,7 +608,7 @@
         "rawName": "Arena_L6"
       },
       "clanRank": 33,
-      "previousClanRank": 34,
+      "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -626,7 +626,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 34,
-      "previousClanRank": 35,
+      "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -644,7 +644,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 35,
-      "previousClanRank": 36,
+      "previousClanRank": 35,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -662,7 +662,7 @@
         "rawName": "Arena_L1"
       },
       "clanRank": 36,
-      "previousClanRank": 37,
+      "previousClanRank": 36,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -680,7 +680,7 @@
         "rawName": "Arena_L1"
       },
       "clanRank": 37,
-      "previousClanRank": 38,
+      "previousClanRank": 37,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -698,7 +698,7 @@
         "rawName": "Arena_T"
       },
       "clanRank": 38,
-      "previousClanRank": 39,
+      "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -716,7 +716,7 @@
         "rawName": "Arena_Electric"
       },
       "clanRank": 39,
-      "previousClanRank": 40,
+      "previousClanRank": 39,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -725,7 +725,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261101T174742.000Z",
+      "lastSeen": "20261102T034758.000Z",
       "expLevel": 0,
       "trophies": 3352,
       "arena": {
@@ -734,8 +734,8 @@
         "rawName": "Arena_L"
       },
       "clanRank": 40,
-      "previousClanRank": 41,
-      "donations": 0,
+      "previousClanRank": 40,
+      "donations": 18,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -752,7 +752,7 @@
         "rawName": "Arena_L"
       },
       "clanRank": 41,
-      "previousClanRank": 0,
+      "previousClanRank": 41,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
