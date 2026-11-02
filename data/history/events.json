@@ -1773,5 +1773,21 @@
       "Cannon"
     ],
     "at": "2026-11-02T14:23:20+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CJR008LV9",
+    "name": "cook",
+    "cards": [
+      {
+        "name": "Goblinstein",
+        "level": 12
+      },
+      {
+        "name": "Rage",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-02T17:08:54+00:00"
   }
 ]

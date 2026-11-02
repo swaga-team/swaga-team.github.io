@@ -730,11 +730,11 @@
   },
   "#U0QJL29PY": {
     "expLevel": 57,
-    "trophies": 13287,
-    "bestTrophies": 13317,
-    "wins": 3482,
-    "losses": 3586,
-    "battleCount": 7068,
+    "trophies": 13290,
+    "bestTrophies": 13318,
+    "wins": 3485,
+    "losses": 3589,
+    "battleCount": 7074,
     "threeCrownWins": 1464,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -813,11 +813,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Musketeer",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#YQ2VLPJ0L": {
@@ -1006,11 +1006,11 @@
   },
   "#P08LLGYLQ": {
     "expLevel": 56,
-    "trophies": 12800,
+    "trophies": 12772,
     "bestTrophies": 12800,
     "wins": 3311,
-    "losses": 1838,
-    "battleCount": 5149,
+    "losses": 1839,
+    "battleCount": 5150,
     "threeCrownWins": 1205,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
@@ -2259,15 +2259,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9501,
+    "trophies": 9530,
     "bestTrophies": 9530,
-    "wins": 1180,
-    "losses": 1017,
-    "battleCount": 2197,
+    "wins": 1181,
+    "losses": 1019,
+    "battleCount": 2200,
     "threeCrownWins": 666,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4284,
+    "totalDonations": 4312,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2290,6 +2290,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2335,11 +2342,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Flying Machine",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/hzKNE3QwFcrSrDDRuVW3QY_OnrDPijSiIp-PsWgFevE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {

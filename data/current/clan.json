@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116311,
+  "clanScore": 116309,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 606,
+  "donationsPerWeek": 634,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -160,7 +160,7 @@
       "clanRank": 8,
       "previousClanRank": 9,
       "donations": 20,
-      "donationsReceived": 30,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -169,7 +169,7 @@
       "role": "elder",
       "lastSeen": "20261102T155223.000Z",
       "expLevel": 0,
-      "trophies": 13287,
+      "trophies": 13290,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 8,
       "donations": 18,
-      "donationsReceived": 0,
+      "donationsReceived": 10,
       "clanChestPoints": 0
     },
     {
@@ -221,9 +221,9 @@
       "tag": "#P08LLGYLQ",
       "name": "Luka13",
       "role": "member",
-      "lastSeen": "20261102T090440.000Z",
+      "lastSeen": "20261102T170504.000Z",
       "expLevel": 0,
-      "trophies": 12800,
+      "trophies": 12772,
       "arena": {
         "id": 54000142,
         "name": "Ultimate Clash Pit",
@@ -473,9 +473,9 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261102T102706.000Z",
+      "lastSeen": "20261102T162323.000Z",
       "expLevel": 0,
-      "trophies": 9501,
+      "trophies": 9530,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -483,7 +483,7 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 8,
+      "donations": 36,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 40,
       "donations": 62,
-      "donationsReceived": 56,
+      "donationsReceived": 64,
       "clanChestPoints": 0
     },
     {
