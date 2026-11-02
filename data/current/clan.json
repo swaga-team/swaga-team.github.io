@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116249,
+  "clanScore": 116240,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 472,
+  "donationsPerWeek": 560,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261102T124734.000Z",
+      "lastSeen": "20261102T140648.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 26,
-      "donationsReceived": 16,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -167,9 +167,9 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261101T210147.000Z",
+      "lastSeen": "20261102T141818.000Z",
       "expLevel": 0,
-      "trophies": 13229,
+      "trophies": 13200,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -177,7 +177,7 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 0,
+      "donations": 20,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -398,6 +398,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#RYRY0V89G",
+      "name": "Клэшер",
+      "role": "member",
+      "lastSeen": "20261102T134953.000Z",
+      "expLevel": 0,
+      "trophies": 10051,
+      "arena": {
+        "id": 54000117,
+        "name": "Lumberlove Cabin",
+        "rawName": "Arena_L11"
+      },
+      "clanRank": 22,
+      "previousClanRank": 22,
+      "donations": 26,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CY0LPRRUJ",
       "name": "MOHAMMAD",
       "role": "member",
@@ -409,26 +427,8 @@
         "name": "Lumberlove Cabin",
         "rawName": "Arena_L11"
       },
-      "clanRank": 22,
-      "previousClanRank": 21,
-      "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#RYRY0V89G",
-      "name": "Клэшер",
-      "role": "member",
-      "lastSeen": "20261101T151419.000Z",
-      "expLevel": 0,
-      "trophies": 10020,
-      "arena": {
-        "id": 54000117,
-        "name": "Lumberlove Cabin",
-        "rawName": "Arena_L11"
-      },
       "clanRank": 23,
-      "previousClanRank": 22,
+      "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 26,
       "donations": 8,
-      "donationsReceived": 16,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -502,14 +502,14 @@
       "clanRank": 27,
       "previousClanRank": 25,
       "donations": 16,
-      "donationsReceived": 20,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261102T090920.000Z",
+      "lastSeen": "20261102T140135.000Z",
       "expLevel": 0,
       "trophies": 9241,
       "arena": {
@@ -519,7 +519,7 @@
       },
       "clanRank": 28,
       "previousClanRank": 27,
-      "donations": 52,
+      "donations": 88,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -779,9 +779,9 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261101T173037.000Z",
+      "lastSeen": "20261102T133538.000Z",
       "expLevel": 0,
-      "trophies": 2705,
+      "trophies": 2736,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
@@ -789,8 +789,8 @@
       },
       "clanRank": 43,
       "previousClanRank": 42,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 6,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     }
   ]

@@ -96,8 +96,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 3696,
-    "losses": 2076,
-    "battleCount": 5772,
+    "losses": 2078,
+    "battleCount": 5774,
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -124,13 +124,6 @@
         "elixirCost": 5,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -829,15 +822,15 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13229,
+    "trophies": 13200,
     "bestTrophies": 13293,
     "wins": 2323,
-    "losses": 1649,
-    "battleCount": 3972,
+    "losses": 1650,
+    "battleCount": 3973,
     "threeCrownWins": 601,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30391,
+    "totalDonations": 30411,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2176,13 +2169,13 @@
     "expLevel": 40,
     "trophies": 9241,
     "bestTrophies": 9270,
-    "wins": 1028,
-    "losses": 808,
-    "battleCount": 1836,
+    "wins": 1029,
+    "losses": 810,
+    "battleCount": 1839,
     "threeCrownWins": 526,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3289,
+    "totalDonations": 3325,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3596,15 +3589,15 @@
   },
   "#VJQQLCJP8": {
     "expLevel": 1,
-    "trophies": 2705,
-    "bestTrophies": 2705,
-    "wins": 102,
+    "trophies": 2736,
+    "bestTrophies": 2736,
+    "wins": 103,
     "losses": 16,
-    "battleCount": 118,
+    "battleCount": 119,
     "threeCrownWins": 59,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 112,
+    "totalDonations": 118,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3860,15 +3853,15 @@
   },
   "#RYRY0V89G": {
     "expLevel": 48,
-    "trophies": 10020,
+    "trophies": 10051,
     "bestTrophies": 10142,
-    "wins": 2739,
-    "losses": 3418,
-    "battleCount": 6157,
+    "wins": 2741,
+    "losses": 3419,
+    "battleCount": 6160,
     "threeCrownWins": 1138,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14819,
+    "totalDonations": 14845,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3886,20 +3879,6 @@
     },
     "currentDeck": [
       {
-        "name": "Skeletons",
-        "rarity": "common",
-        "elixirCost": 1,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
-      },
-      {
-        "name": "Royal Delivery",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png"
-      },
-      {
         "name": "Tesla",
         "rarity": "common",
         "elixirCost": 4,
@@ -3907,11 +3886,32 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
       },
       {
-        "name": "Ice Spirit",
+        "name": "Ice Wizard",
+        "rarity": "legendary",
+        "elixirCost": 3,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+      },
+      {
+        "name": "Valkyrie",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      },
+      {
+        "name": "Skeletons",
         "rarity": "common",
         "elixirCost": 1,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+      },
+      {
+        "name": "Poison",
+        "rarity": "epic",
+        "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
       },
       {
         "name": "Rocket",
@@ -3921,11 +3921,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
       },
       {
-        "name": "Miner",
-        "rarity": "legendary",
+        "name": "Tornado",
+        "rarity": "epic",
         "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
       },
       {
         "name": "The Log",
@@ -3933,21 +3933,14 @@
         "elixirCost": 2,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
-      },
-      {
-        "name": "Berserker",
-        "rarity": "common",
-        "elixirCost": 2,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png"
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rocket",
-      "rarity": "rare",
-      "elixirCost": 6,
+      "name": "Tesla",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#CVCJY2V0Y": {
