@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116309,
+  "clanScore": 116316,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 634,
+  "donationsPerWeek": 652,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 8,
       "donations": 18,
-      "donationsReceived": 10,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
@@ -311,9 +311,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261102T115936.000Z",
+      "lastSeen": "20261102T174632.000Z",
       "expLevel": 0,
-      "trophies": 11590,
+      "trophies": 11619,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 16,
-      "donations": 42,
+      "donations": 60,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 40,
       "donations": 62,
-      "donationsReceived": 64,
+      "donationsReceived": 72,
       "clanChestPoints": 0
     },
     {

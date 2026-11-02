@@ -1008,10 +1008,10 @@
     "expLevel": 56,
     "trophies": 12772,
     "bestTrophies": 12800,
-    "wins": 3311,
+    "wins": 3312,
     "losses": 1839,
-    "battleCount": 5150,
-    "threeCrownWins": 1205,
+    "battleCount": 5151,
+    "threeCrownWins": 1206,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
     "totalDonations": 18818,
@@ -1445,15 +1445,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11590,
+    "trophies": 11619,
     "bestTrophies": 11629,
-    "wins": 2238,
+    "wins": 2239,
     "losses": 2450,
-    "battleCount": 4688,
+    "battleCount": 4689,
     "threeCrownWins": 1071,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12315,
+    "totalDonations": 12333,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1528,11 +1528,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#YR2GG8C2": {
