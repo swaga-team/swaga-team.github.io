@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116222,
+  "clanScore": 116232,
   "clanWarTrophies": 2055,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 200,
+  "donationsPerWeek": 338,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#QP0PPC0QU",
+      "name": "pshkzzz",
+      "role": "elder",
+      "lastSeen": "20261102T083527.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 18,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 42,
       "donationsReceived": 0,
@@ -49,10 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 3,
       "donations": 8,
-      "donationsReceived": 32,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -67,10 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 2,
       "donations": 40,
-      "donationsReceived": 20,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 4,
       "donations": 8,
       "donationsReceived": 0,
@@ -103,26 +121,8 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
-      "previousClanRank": 1,
-      "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#QP0PPC0QU",
-      "name": "pshkzzz",
-      "role": "elder",
-      "lastSeen": "20261101T031314.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
       "clanRank": 6,
-      "previousClanRank": 5,
+      "previousClanRank": 1,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -221,9 +221,9 @@
       "tag": "#P08LLGYLQ",
       "name": "Luka13",
       "role": "member",
-      "lastSeen": "20261101T181835.000Z",
+      "lastSeen": "20261102T090440.000Z",
       "expLevel": 0,
-      "trophies": 12774,
+      "trophies": 12800,
       "arena": {
         "id": 54000142,
         "name": "Ultimate Clash Pit",
@@ -239,7 +239,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261102T052716.000Z",
+      "lastSeen": "20261102T082556.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -249,7 +249,7 @@
       },
       "clanRank": 13,
       "previousClanRank": 13,
-      "donations": 0,
+      "donations": 38,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -286,14 +286,14 @@
       "clanRank": 15,
       "previousClanRank": 0,
       "donations": 0,
-      "donationsReceived": 32,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261101T230501.000Z",
+      "lastSeen": "20261102T082221.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 15,
-      "donations": 0,
-      "donationsReceived": 20,
+      "donations": 42,
+      "donationsReceived": 50,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 18,
-      "donationsReceived": 0,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -509,9 +509,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261102T055044.000Z",
+      "lastSeen": "20261102T074943.000Z",
       "expLevel": 0,
-      "trophies": 9243,
+      "trophies": 9270,
       "arena": {
         "id": 54000020,
         "name": "Valkalla",
@@ -519,15 +519,15 @@
       },
       "clanRank": 28,
       "previousClanRank": 27,
-      "donations": 32,
-      "donationsReceived": 24,
+      "donations": 52,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261101T185807.000Z",
+      "lastSeen": "20261102T082908.000Z",
       "expLevel": 0,
       "trophies": 8741,
       "arena": {
@@ -563,9 +563,9 @@
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
-      "lastSeen": "20261102T070355.000Z",
+      "lastSeen": "20261102T081856.000Z",
       "expLevel": 0,
-      "trophies": 8291,
+      "trophies": 8261,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -581,9 +581,9 @@
       "tag": "#LGQC0JPLU",
       "name": "am012",
       "role": "member",
-      "lastSeen": "20261026T095453.000Z",
+      "lastSeen": "20261102T090250.000Z",
       "expLevel": 0,
-      "trophies": 8286,
+      "trophies": 8226,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -617,9 +617,9 @@
       "tag": "#JGL98Q9G2",
       "name": "(LP)Wasabi",
       "role": "member",
-      "lastSeen": "20261101T154117.000Z",
+      "lastSeen": "20261102T075853.000Z",
       "expLevel": 0,
-      "trophies": 7566,
+      "trophies": 7660,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -653,9 +653,9 @@
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
-      "lastSeen": "20261030T132828.000Z",
+      "lastSeen": "20261102T084948.000Z",
       "expLevel": 0,
-      "trophies": 6514,
+      "trophies": 6500,
       "arena": {
         "id": 54000015,
         "name": "Silent Sanctuary",
@@ -663,8 +663,8 @@
       },
       "clanRank": 36,
       "previousClanRank": 35,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 10,
+      "donationsReceived": 8,
       "clanChestPoints": 0
     },
     {
@@ -743,7 +743,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261102T053548.000Z",
+      "lastSeen": "20261102T090842.000Z",
       "expLevel": 0,
       "trophies": 3352,
       "arena": {
@@ -753,8 +753,8 @@
       },
       "clanRank": 41,
       "previousClanRank": 40,
-      "donations": 34,
-      "donationsReceived": 32,
+      "donations": 44,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {

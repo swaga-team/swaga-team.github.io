@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 25500,
+    "fame": 26300,
     "repairPoints": 0,
     "participants": [
       {
@@ -494,15 +494,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#QP0PPC0QU",
-        "name": "pshkzzz",
-        "fame": 500,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#R98U8U290",
         "name": "tenkuu.☁️",
         "fame": 500,
@@ -578,6 +569,15 @@
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 1200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#QP0PPC0QU",
+        "name": "pshkzzz",
+        "fame": 1300,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
@@ -1289,7 +1289,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 25500,
+      "fame": 26300,
       "repairPoints": 0,
       "participants": [
         {
@@ -1779,15 +1779,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QP0PPC0QU",
-          "name": "pshkzzz",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R98U8U290",
           "name": "tenkuu.☁️",
           "fame": 500,
@@ -1863,6 +1854,15 @@
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#QP0PPC0QU",
+          "name": "pshkzzz",
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,

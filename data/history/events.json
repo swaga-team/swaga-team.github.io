@@ -1562,5 +1562,17 @@
       "Giant Snowball"
     ],
     "at": "2026-11-02T07:29:48+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "Electro Wizard",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-02T09:08:58+00:00"
   }
 ]
