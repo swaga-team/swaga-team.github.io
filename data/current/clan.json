@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116225,
+  "clanScore": 116253,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 388,
+  "donationsPerWeek": 396,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
       "role": "member",
-      "lastSeen": "20261102T100631.000Z",
+      "lastSeen": "20261102T103026.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -214,7 +214,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 8,
-      "donationsReceived": 8,
+      "donationsReceived": 16,
       "clanChestPoints": 0
     },
     {
@@ -367,11 +367,11 @@
       "role": "member",
       "lastSeen": "20261102T100541.000Z",
       "expLevel": 0,
-      "trophies": 10401,
+      "trophies": 10524,
       "arena": {
-        "id": 54000117,
-        "name": "Lumberlove Cabin",
-        "rawName": "Arena_L11"
+        "id": 54000130,
+        "name": "Royal Road",
+        "rawName": "Arena_L12"
       },
       "clanRank": 20,
       "previousClanRank": 19,
@@ -473,9 +473,9 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261101T143139.000Z",
+      "lastSeen": "20261102T102706.000Z",
       "expLevel": 0,
-      "trophies": 9530,
+      "trophies": 9501,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -483,7 +483,7 @@
       },
       "clanRank": 26,
       "previousClanRank": 26,
-      "donations": 0,
+      "donations": 8,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -617,9 +617,9 @@
       "tag": "#JGL98Q9G2",
       "name": "(LP)Wasabi",
       "role": "member",
-      "lastSeen": "20261102T075853.000Z",
+      "lastSeen": "20261102T102944.000Z",
       "expLevel": 0,
-      "trophies": 7660,
+      "trophies": 7661,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
