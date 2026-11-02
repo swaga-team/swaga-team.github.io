@@ -272,13 +272,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11026,
+    "wins": 11029,
     "losses": 10678,
-    "battleCount": 21704,
-    "threeCrownWins": 5596,
+    "battleCount": 21707,
+    "threeCrownWins": 5597,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138513,
+    "totalDonations": 138543,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1283,7 +1283,7 @@
     "threeCrownWins": 628,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 24656,
+    "totalDonations": 24674,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1445,15 +1445,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11624,
+    "trophies": 11597,
     "bestTrophies": 11650,
     "wins": 2240,
-    "losses": 2451,
-    "battleCount": 4691,
+    "losses": 2452,
+    "battleCount": 4692,
     "threeCrownWins": 1072,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12333,
+    "totalDonations": 12354,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1723,9 +1723,9 @@
     "expLevel": 35,
     "trophies": 10125,
     "bestTrophies": 10203,
-    "wins": 2484,
+    "wins": 2488,
     "losses": 2187,
-    "battleCount": 4671,
+    "battleCount": 4675,
     "threeCrownWins": 893,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -1804,11 +1804,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
-      "rarity": "epic",
+      "name": "Barbarians",
+      "rarity": "common",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -2651,13 +2651,6 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/vD24bBgK4rSq7wx5QEbuqChtPMRFviL_ep76GwQw1yA.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Lumberjack",
@@ -3945,11 +3938,11 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3188,
+    "trophies": 3160,
     "bestTrophies": 3217,
     "wins": 331,
-    "losses": 260,
-    "battleCount": 591,
+    "losses": 261,
+    "battleCount": 592,
     "threeCrownWins": 183,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4016,11 +4009,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Goblin Hut",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
     }
   },
   "#C8YV202C": {
