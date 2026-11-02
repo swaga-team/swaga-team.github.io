@@ -4,12 +4,21 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 24050,
+    "fame": 24500,
     "repairPoints": 0,
     "participants": [
       {
         "tag": "#LGQC0JPLU",
         "name": "am012",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#C8YV202C",
+        "name": "undertaker",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -539,15 +548,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 950,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
         "fame": 1000,
@@ -591,6 +591,15 @@
         "boatAttacks": 0,
         "decksUsed": 7,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 1400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 11,
+        "decksUsedToday": 3
       },
       {
         "tag": "#9JQ8PCJ",
@@ -1280,12 +1289,21 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 24050,
+      "fame": 24500,
       "repairPoints": 0,
       "participants": [
         {
           "tag": "#LGQC0JPLU",
           "name": "am012",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#C8YV202C",
+          "name": "undertaker",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1815,15 +1833,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 950,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
           "fame": 1000,
@@ -1867,6 +1876,15 @@
           "boatAttacks": 0,
           "decksUsed": 7,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 1400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
+          "decksUsedToday": 3
         },
         {
           "tag": "#9JQ8PCJ",
