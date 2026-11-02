@@ -4,24 +4,24 @@
     "trophies": {
       "rank": null,
       "size": 1000,
-      "cutoff": 139824
+      "cutoff": 139809
     },
     "war": {
       "rank": null,
       "size": 1000,
-      "cutoff": 4385
+      "cutoff": 4400
     }
   },
   "local": {
     "trophies": {
       "rank": null,
       "size": 999,
-      "cutoff": 133317
+      "cutoff": 133256
     },
     "war": {
       "rank": null,
       "size": 999,
-      "cutoff": 2647
+      "cutoff": 2664
     }
   }
 }

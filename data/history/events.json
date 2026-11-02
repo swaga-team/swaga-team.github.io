@@ -1574,5 +1574,31 @@
       }
     ],
     "at": "2026-11-02T09:08:58+00:00"
+  },
+  {
+    "type": "war_week",
+    "at": "2026-11-02T09:52:05+00:00",
+    "season": 137,
+    "week": 4,
+    "rank": 1,
+    "fame": 26300,
+    "trophy_change": 100,
+    "best": {
+      "tag": "#U0QJL29PY",
+      "name": "egor",
+      "fame": 2500
+    }
+  },
+  {
+    "type": "cards",
+    "tag": "#9GVPRJQLL",
+    "name": "NovaZonday",
+    "cards": [
+      {
+        "name": "Electro Wizard",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-02T10:11:34+00:00"
   }
 ]
