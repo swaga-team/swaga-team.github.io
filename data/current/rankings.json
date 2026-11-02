@@ -1,7 +1,11 @@
 {
   "location": "Russia",
   "global": {
-    "trophies": null,
+    "trophies": {
+      "rank": null,
+      "size": 1000,
+      "cutoff": 139831
+    },
     "war": {
       "rank": null,
       "size": 1000,
@@ -12,12 +16,12 @@
     "trophies": {
       "rank": null,
       "size": 999,
-      "cutoff": 133131
+      "cutoff": 133195
     },
     "war": {
       "rank": null,
       "size": 999,
-      "cutoff": 2666
+      "cutoff": 2660
     }
   }
 }
