@@ -646,7 +646,7 @@
       "tag": "#GYULR0",
       "name": "99% 1 star",
       "badgeId": 16000107,
-      "fame": 5600,
+      "fame": 6000,
       "repairPoints": 0,
       "participants": [
         {
@@ -895,11 +895,11 @@
         {
           "tag": "#Q8J0V02",
           "name": "Booze4U",
-          "fame": 1200,
+          "fame": 1600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 11,
+          "decksUsedToday": 3
         },
         {
           "tag": "#2CUG0229",
@@ -2463,7 +2463,7 @@
       "tag": "#PRP0YQR2",
       "name": "TWICE",
       "badgeId": 16000127,
-      "fame": 13350,
+      "fame": 13650,
       "repairPoints": 0,
       "participants": [
         {
@@ -2782,15 +2782,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#JRGGGYPR2",
-          "name": "black sheep sy",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#Y8UV98G0C",
           "name": "こうじたん",
           "fame": 0,
@@ -2861,6 +2852,15 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#JRGGGYPR2",
+          "name": "black sheep sy",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
         },
         {
           "tag": "#L2RL0C8V8",
