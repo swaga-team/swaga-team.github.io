@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 24500,
+    "fame": 25500,
     "repairPoints": 0,
     "participants": [
       {
@@ -485,15 +485,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#JU2L2U8LG",
-        "name": "адцкий гей",
-        "fame": 450,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#8UCG80RYR",
         "name": "Daisy Sprout",
         "fame": 500,
@@ -546,6 +537,15 @@
         "boatAttacks": 0,
         "decksUsed": 5,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#JU2L2U8LG",
+        "name": "адцкий гей",
+        "fame": 950,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 5,
+        "decksUsedToday": 2
       },
       {
         "tag": "#222YY9YCC",
@@ -604,11 +604,11 @@
       {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
-        "fame": 1700,
+        "fame": 2200,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
+        "decksUsed": 16,
+        "decksUsedToday": 4
       },
       {
         "tag": "#VJQQLCJP8",
@@ -1289,7 +1289,7 @@
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 24500,
+      "fame": 25500,
       "repairPoints": 0,
       "participants": [
         {
@@ -1770,15 +1770,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#JU2L2U8LG",
-          "name": "адцкий гей",
-          "fame": 450,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8UCG80RYR",
           "name": "Daisy Sprout",
           "fame": 500,
@@ -1831,6 +1822,15 @@
           "boatAttacks": 0,
           "decksUsed": 5,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#JU2L2U8LG",
+          "name": "адцкий гей",
+          "fame": 950,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 2
         },
         {
           "tag": "#222YY9YCC",
@@ -1889,11 +1889,11 @@
         {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
-          "fame": 1700,
+          "fame": 2200,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJQQLCJP8",
@@ -1939,7 +1939,7 @@
       "tag": "#YVCJJJYL",
       "name": "Kaiser Wilhelm",
       "badgeId": 16000080,
-      "fame": 14450,
+      "fame": 14850,
       "repairPoints": 0,
       "participants": [
         {
@@ -2458,11 +2458,11 @@
         {
           "tag": "#8UG0J9RJ",
           "name": "Raidel36",
-          "fame": 2500,
+          "fame": 2900,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#U0QY9LJVC",
