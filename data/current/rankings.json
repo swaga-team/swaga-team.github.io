@@ -4,7 +4,7 @@
     "trophies": {
       "rank": null,
       "size": 1000,
-      "cutoff": 139825
+      "cutoff": 139829
     },
     "war": {
       "rank": null,
@@ -13,7 +13,11 @@
     }
   },
   "local": {
-    "trophies": null,
+    "trophies": {
+      "rank": null,
+      "size": 999,
+      "cutoff": 133185
+    },
     "war": {
       "rank": null,
       "size": 999,

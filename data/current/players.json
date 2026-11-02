@@ -824,13 +824,13 @@
     "expLevel": 58,
     "trophies": 13343,
     "bestTrophies": 13343,
-    "wins": 2328,
-    "losses": 1650,
-    "battleCount": 3978,
+    "wins": 2329,
+    "losses": 1651,
+    "battleCount": 3980,
     "threeCrownWins": 601,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30411,
+    "totalDonations": 30431,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1008,10 +1008,10 @@
     "expLevel": 56,
     "trophies": 12772,
     "bestTrophies": 12800,
-    "wins": 3312,
+    "wins": 3314,
     "losses": 1839,
-    "battleCount": 5151,
-    "threeCrownWins": 1206,
+    "battleCount": 5153,
+    "threeCrownWins": 1207,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
     "totalDonations": 18818,
@@ -1445,12 +1445,12 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11619,
-    "bestTrophies": 11629,
-    "wins": 2239,
-    "losses": 2450,
-    "battleCount": 4689,
-    "threeCrownWins": 1071,
+    "trophies": 11624,
+    "bestTrophies": 11650,
+    "wins": 2240,
+    "losses": 2451,
+    "battleCount": 4691,
+    "threeCrownWins": 1072,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 12333,
@@ -1741,7 +1741,7 @@
       "rank": null
     },
     "bestPathOfLegendSeasonResult": {
-      "leagueNumber": 2,
+      "leagueNumber": 1,
       "trophies": 0,
       "rank": null
     },
@@ -1990,15 +1990,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9585,
+    "trophies": 9556,
     "bestTrophies": 9825,
     "wins": 2289,
-    "losses": 2113,
-    "battleCount": 4402,
+    "losses": 2114,
+    "battleCount": 4403,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17667,
+    "totalDonations": 17695,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2021,13 +2021,6 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2073,11 +2066,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
-      "rarity": "common",
+      "name": "Valkyrie",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#9RJPRQLL2": {

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116316,
+  "clanScore": 116314,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 652,
+  "donationsPerWeek": 700,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -149,7 +149,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261102T144121.000Z",
+      "lastSeen": "20261102T180644.000Z",
       "expLevel": 0,
       "trophies": 13343,
       "arena": {
@@ -159,7 +159,7 @@
       },
       "clanRank": 8,
       "previousClanRank": 9,
-      "donations": 20,
+      "donations": 40,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 8,
       "donations": 18,
-      "donationsReceived": 20,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -221,7 +221,7 @@
       "tag": "#P08LLGYLQ",
       "name": "Luka13",
       "role": "member",
-      "lastSeen": "20261102T170504.000Z",
+      "lastSeen": "20261102T180335.000Z",
       "expLevel": 0,
       "trophies": 12772,
       "arena": {
@@ -311,9 +311,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261102T174632.000Z",
+      "lastSeen": "20261102T184946.000Z",
       "expLevel": 0,
-      "trophies": 11619,
+      "trophies": 11624,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 60,
-      "donationsReceived": 40,
+      "donationsReceived": 60,
       "clanChestPoints": 0
     },
     {
@@ -383,7 +383,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261101T164455.000Z",
+      "lastSeen": "20261102T184306.000Z",
       "expLevel": 0,
       "trophies": 10125,
       "arena": {
@@ -455,9 +455,9 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261101T223803.000Z",
+      "lastSeen": "20261102T183139.000Z",
       "expLevel": 0,
-      "trophies": 9585,
+      "trophies": 9556,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 24,
-      "donations": 0,
+      "donations": 28,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 40,
       "donations": 62,
-      "donationsReceived": 72,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
