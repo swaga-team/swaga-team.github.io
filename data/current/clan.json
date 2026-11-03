@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116406,
+  "clanScore": 116411,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1702,
+  "donationsPerWeek": 1760,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -293,7 +293,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261103T081707.000Z",
+      "lastSeen": "20261103T182927.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -303,17 +303,17 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 102,
-      "donationsReceived": 140,
+      "donations": 118,
+      "donationsReceived": 150,
       "clanChestPoints": 0
     },
     {
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "member",
-      "lastSeen": "20261103T163724.000Z",
+      "lastSeen": "20261103T180320.000Z",
       "expLevel": 0,
-      "trophies": 11603,
+      "trophies": 11633,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 17,
-      "donations": 165,
+      "donations": 181,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },
@@ -452,24 +452,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261103T162658.000Z",
-      "expLevel": 0,
-      "trophies": 9590,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 25,
-      "previousClanRank": 25,
-      "donations": 82,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -481,10 +463,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 25,
       "previousClanRank": 26,
       "donations": 80,
-      "donationsReceived": 96,
+      "donationsReceived": 120,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261103T184313.000Z",
+      "expLevel": 0,
+      "trophies": 9560,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 26,
+      "previousClanRank": 25,
+      "donations": 108,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 134,
-      "donationsReceived": 136,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
