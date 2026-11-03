@@ -371,13 +371,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2918,
-    "losses": 2498,
-    "battleCount": 5416,
+    "wins": 2919,
+    "losses": 2501,
+    "battleCount": 5420,
     "threeCrownWins": 1102,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15376,
+    "totalDonations": 15410,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -452,11 +452,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "X-Bow",
-      "rarity": "epic",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#8UCG80RYR": {
@@ -923,13 +923,13 @@
     "expLevel": 43,
     "trophies": 13200,
     "bestTrophies": 13234,
-    "wins": 2365,
-    "losses": 2058,
-    "battleCount": 4423,
+    "wins": 2366,
+    "losses": 2059,
+    "battleCount": 4425,
     "threeCrownWins": 1185,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15053,
+    "totalDonations": 15087,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1004,11 +1004,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Phoenix",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/i0RoY1fs6ay7VAxyFEfZGIPnD002nAKcne9FtJsWBHM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#P08LLGYLQ": {
@@ -1108,8 +1108,8 @@
     "trophies": 12150,
     "bestTrophies": 12267,
     "wins": 3598,
-    "losses": 3046,
-    "battleCount": 6644,
+    "losses": 3047,
+    "battleCount": 6645,
     "threeCrownWins": 2417,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1136,6 +1136,13 @@
         "elixirCost": 7,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Battle Ram",
@@ -1723,10 +1730,10 @@
     "expLevel": 35,
     "trophies": 10125,
     "bestTrophies": 10203,
-    "wins": 2488,
-    "losses": 2187,
-    "battleCount": 4675,
-    "threeCrownWins": 893,
+    "wins": 2491,
+    "losses": 2190,
+    "battleCount": 4681,
+    "threeCrownWins": 894,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -1804,11 +1811,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Barbarians",
-      "rarity": "common",
+      "name": "Executioner",
+      "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#CY0LPRRUJ": {

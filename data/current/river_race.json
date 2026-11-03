@@ -206,6 +206,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#8LRPG2VPQ",
+        "name": "CHLE N EGRA",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#GQQL9YLYQ",
         "name": "Ter",
         "fame": 0,
@@ -564,6 +573,15 @@
         {
           "tag": "#PL82RPJUJ",
           "name": ")))",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#8LRPG2VPQ",
+          "name": "CHLE N EGRA",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -989,6 +1007,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#U2VJ0L8V2",
+          "name": "IGRAQ_NA_DEBELO",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#CJ22GJVYQ",
           "name": "gogo",
           "fame": 0,
@@ -1112,7 +1139,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 1
+          "decksUsedToday": 3
         },
         {
           "tag": "#LVJLCCR2",
