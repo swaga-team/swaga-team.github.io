@@ -1138,13 +1138,6 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Battle Ram",
         "rarity": "rare",
         "elixirCost": 4,
@@ -1914,9 +1907,9 @@
     "expLevel": 42,
     "trophies": 9789,
     "bestTrophies": 9822,
-    "wins": 1737,
-    "losses": 1521,
-    "battleCount": 3258,
+    "wins": 1738,
+    "losses": 1524,
+    "battleCount": 3262,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1995,20 +1988,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Recruits",
-      "rarity": "common",
-      "elixirCost": 7,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9560,
+    "trophies": 9530,
     "bestTrophies": 9825,
     "wins": 2292,
-    "losses": 2117,
-    "battleCount": 4409,
+    "losses": 2118,
+    "battleCount": 4410,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,

@@ -1106,6 +1106,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#2Q0Q9GPQ8",
+          "name": "Lik3",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#2RU0J2YLL",
           "name": "Ref4o",
           "fame": 0,
@@ -1346,7 +1355,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#LVJLCCR2",
