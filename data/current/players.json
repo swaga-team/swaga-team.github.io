@@ -96,8 +96,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 3696,
-    "losses": 2078,
-    "battleCount": 5774,
+    "losses": 2079,
+    "battleCount": 5775,
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -124,6 +124,13 @@
         "elixirCost": 5,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      },
+      {
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -2351,15 +2358,15 @@
   },
   "#22JLP29RV": {
     "expLevel": 42,
-    "trophies": 8741,
-    "bestTrophies": 8741,
-    "wins": 2631,
+    "trophies": 8769,
+    "bestTrophies": 8769,
+    "wins": 2633,
     "losses": 2799,
-    "battleCount": 5430,
-    "threeCrownWins": 1639,
+    "battleCount": 5432,
+    "threeCrownWins": 1640,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
-    "totalDonations": 26159,
+    "totalDonations": 26166,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
