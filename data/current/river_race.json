@@ -8,6 +8,15 @@
     "repairPoints": 0,
     "participants": [
       {
+        "tag": "#C8YV202C",
+        "name": "undertaker",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#29GJQ0G9Q",
         "name": "✨R_U_B_I_N✨",
         "fame": 0,
@@ -224,6 +233,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#GQP92GLC8",
+        "name": "Adawell",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 0,
@@ -404,7 +422,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#CVVJPVCUY",
@@ -435,6 +453,15 @@
       "fame": 0,
       "repairPoints": 0,
       "participants": [
+        {
+          "tag": "#C8YV202C",
+          "name": "undertaker",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
         {
           "tag": "#29GJQ0G9Q",
           "name": "✨R_U_B_I_N✨",
@@ -645,6 +672,15 @@
         {
           "tag": "#U0QJL29PY",
           "name": "egor",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#GQP92GLC8",
+          "name": "Adawell",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1196,6 +1232,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#UGYY8R8Y",
+          "name": "Kosti4a",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#VJGYGPPL9",
           "name": "pacs",
           "fame": 0,
@@ -1221,6 +1266,15 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2LRQVPP0V",
+          "name": "Nikatnyte_2",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 4
         },
         {
           "tag": "#YCPL99V8Y",

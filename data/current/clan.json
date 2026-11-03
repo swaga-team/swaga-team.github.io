@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116401,
+  "clanScore": 116409,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1264,
+  "donationsPerWeek": 1389,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#QP0PPC0QU",
       "name": "pshkzzz",
       "role": "elder",
-      "lastSeen": "20261103T094809.000Z",
+      "lastSeen": "20261103T114505.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,8 +33,44 @@
       },
       "clanRank": 1,
       "previousClanRank": 5,
+      "donations": 87,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261103T114209.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 3,
+      "donations": 62,
+      "donationsReceived": 50,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#8UCG80RYR",
+      "name": "Daisy Sprout",
+      "role": "leader",
+      "lastSeen": "20261103T110826.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 3,
+      "previousClanRank": 6,
       "donations": 54,
-      "donationsReceived": 32,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -49,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 4,
       "previousClanRank": 1,
       "donations": 48,
       "donationsReceived": 120,
@@ -67,46 +103,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 5,
       "previousClanRank": 2,
       "donations": 104,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#8UCG80RYR",
-      "name": "Daisy Sprout",
-      "role": "leader",
-      "lastSeen": "20261103T050412.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 6,
-      "donations": 28,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261103T032420.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 5,
-      "previousClanRank": 3,
-      "donations": 26,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 34,
-      "donationsReceived": 40,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -275,9 +275,9 @@
       "tag": "#C8YV202C",
       "name": "undertaker",
       "role": "member",
-      "lastSeen": "20261102T051038.000Z",
+      "lastSeen": "20261103T111827.000Z",
       "expLevel": 0,
-      "trophies": 11739,
+      "trophies": 11769,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 0,
+      "donations": 20,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -383,7 +383,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261103T064625.000Z",
+      "lastSeen": "20261103T114348.000Z",
       "expLevel": 0,
       "trophies": 10125,
       "arena": {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 80,
+      "donationsReceived": 93,
       "clanChestPoints": 0
     },
     {
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 26,
       "donations": 72,
-      "donationsReceived": 72,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -527,7 +527,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261103T105536.000Z",
+      "lastSeen": "20261103T114027.000Z",
       "expLevel": 0,
       "trophies": 8769,
       "arena": {
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 29,
       "donations": 7,
-      "donationsReceived": 40,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
@@ -653,7 +653,7 @@
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
-      "lastSeen": "20261102T084948.000Z",
+      "lastSeen": "20261103T110458.000Z",
       "expLevel": 0,
       "trophies": 6500,
       "arena": {
@@ -663,8 +663,8 @@
       },
       "clanRank": 36,
       "previousClanRank": 36,
-      "donations": 10,
-      "donationsReceived": 40,
+      "donations": 20,
+      "donationsReceived": 70,
       "clanChestPoints": 0
     },
     {
