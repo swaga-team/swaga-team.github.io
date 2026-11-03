@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116303,
+  "clanScore": 116299,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 833,
+  "donationsPerWeek": 849,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 38,
-      "donationsReceived": 65,
+      "donationsReceived": 73,
       "clanChestPoints": 0
     },
     {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 17,
       "donations": 38,
-      "donationsReceived": 48,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
@@ -437,9 +437,9 @@
       "tag": "#CC9J8Y902",
       "name": "Michael",
       "role": "member",
-      "lastSeen": "20261031T161027.000Z",
+      "lastSeen": "20261103T020929.000Z",
       "expLevel": 0,
-      "trophies": 9821,
+      "trophies": 9789,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -743,7 +743,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261102T145143.000Z",
+      "lastSeen": "20261103T022100.000Z",
       "expLevel": 0,
       "trophies": 3352,
       "arena": {
@@ -753,7 +753,7 @@
       },
       "clanRank": 41,
       "previousClanRank": 40,
-      "donations": 62,
+      "donations": 78,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },

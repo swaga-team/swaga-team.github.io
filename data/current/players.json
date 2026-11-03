@@ -1898,11 +1898,11 @@
   },
   "#CC9J8Y902": {
     "expLevel": 42,
-    "trophies": 9821,
+    "trophies": 9789,
     "bestTrophies": 9822,
     "wins": 1737,
-    "losses": 1519,
-    "battleCount": 3256,
+    "losses": 1521,
+    "battleCount": 3258,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1971,6 +1971,13 @@
         "elixirCost": 4,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      },
+      {
+        "name": "Minions",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
       }
     ],
     "currentFavouriteCard": {
@@ -3258,7 +3265,7 @@
     "threeCrownWins": 2565,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20300,
+    "totalDonations": 20316,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
