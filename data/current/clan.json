@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1760,
+  "donationsPerWeek": 1800,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -149,7 +149,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261103T095144.000Z",
+      "lastSeen": "20261103T204400.000Z",
       "expLevel": 0,
       "trophies": 13435,
       "arena": {
@@ -159,8 +159,8 @@
       },
       "clanRank": 8,
       "previousClanRank": 8,
-      "donations": 84,
-      "donationsReceived": 80,
+      "donations": 94,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 16,
       "donations": 118,
-      "donationsReceived": 150,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -401,9 +401,9 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261102T134953.000Z",
+      "lastSeen": "20261103T203727.000Z",
       "expLevel": 0,
-      "trophies": 10051,
+      "trophies": 10053,
       "arena": {
         "id": 54000117,
         "name": "Lumberlove Cabin",
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 22,
-      "donations": 26,
+      "donations": 36,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -470,6 +470,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#9RJPRQLL2",
+      "name": "Morj",
+      "role": "member",
+      "lastSeen": "20261103T201201.000Z",
+      "expLevel": 0,
+      "trophies": 9530,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 26,
+      "previousClanRank": 27,
+      "donations": 56,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
@@ -481,28 +499,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 25,
       "donations": 108,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9RJPRQLL2",
-      "name": "Morj",
-      "role": "member",
-      "lastSeen": "20261103T162341.000Z",
-      "expLevel": 0,
-      "trophies": 9530,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 27,
-      "previousClanRank": 27,
-      "donations": 46,
-      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261102T203216.000Z",
+      "lastSeen": "20261103T205136.000Z",
       "expLevel": 0,
       "trophies": 6785,
       "arena": {
@@ -645,7 +645,7 @@
       },
       "clanRank": 35,
       "previousClanRank": 35,
-      "donations": 10,
+      "donations": 20,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
