@@ -3,9 +3,9 @@
     "expLevel": 60,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3526,
-    "losses": 4116,
-    "battleCount": 7642,
+    "wins": 3527,
+    "losses": 4120,
+    "battleCount": 7647,
     "threeCrownWins": 1009,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -84,11 +84,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Magic Archer",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Little Prince",
+      "rarity": "champion",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Avli3W7BxU9HQ2SoLiXnBgGx25FoNXUSFm7OcAk68ek.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
     }
   },
   "#CGPUY8P2": {
@@ -737,15 +737,15 @@
   },
   "#U0QJL29PY": {
     "expLevel": 57,
-    "trophies": 13290,
-    "bestTrophies": 13318,
-    "wins": 3485,
+    "trophies": 13319,
+    "bestTrophies": 13319,
+    "wins": 3486,
     "losses": 3589,
-    "battleCount": 7074,
+    "battleCount": 7075,
     "threeCrownWins": 1464,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 19533,
+    "totalDonations": 19549,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2811,11 +2811,11 @@
   },
   "#JGL98Q9G2": {
     "expLevel": 34,
-    "trophies": 7716,
+    "trophies": 7687,
     "bestTrophies": 7716,
     "wins": 912,
-    "losses": 733,
-    "battleCount": 1645,
+    "losses": 734,
+    "battleCount": 1646,
     "threeCrownWins": 338,
     "warDayWins": 0,
     "clanCardsCollected": 0,
