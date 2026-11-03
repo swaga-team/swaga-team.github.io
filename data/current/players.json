@@ -101,7 +101,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 40924,
+    "totalDonations": 40970,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1445,15 +1445,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11602,
+    "trophies": 11603,
     "bestTrophies": 11650,
-    "wins": 2246,
-    "losses": 2454,
-    "battleCount": 4700,
-    "threeCrownWins": 1074,
+    "wins": 2247,
+    "losses": 2455,
+    "battleCount": 4702,
+    "threeCrownWins": 1075,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12408,
+    "totalDonations": 12438,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1528,11 +1528,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Electro Wizard",
-      "rarity": "legendary",
+      "name": "Hog Rider",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#YR2GG8C2": {
@@ -1997,11 +1997,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9557,
+    "trophies": 9590,
     "bestTrophies": 9825,
-    "wins": 2291,
+    "wins": 2292,
     "losses": 2116,
-    "battleCount": 4407,
+    "battleCount": 4408,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2089,15 +2089,15 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9500,
+    "trophies": 9530,
     "bestTrophies": 9562,
-    "wins": 1016,
+    "wins": 1018,
     "losses": 682,
-    "battleCount": 1698,
-    "threeCrownWins": 505,
+    "battleCount": 1700,
+    "threeCrownWins": 506,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2937,
+    "totalDonations": 2967,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2804,15 +2804,15 @@
   },
   "#JGL98Q9G2": {
     "expLevel": 34,
-    "trophies": 7687,
+    "trophies": 7693,
     "bestTrophies": 7716,
-    "wins": 912,
-    "losses": 734,
-    "battleCount": 1646,
-    "threeCrownWins": 338,
+    "wins": 915,
+    "losses": 737,
+    "battleCount": 1652,
+    "threeCrownWins": 339,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 120,
+    "totalDonations": 140,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2837,11 +2837,11 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       },
       {
-        "name": "Bowler",
-        "rarity": "epic",
-        "elixirCost": 5,
+        "name": "Minions",
+        "rarity": "common",
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
       },
       {
         "name": "Valkyrie",
@@ -2858,18 +2858,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/WKd4-IAFsgPpMo7dDi9sujmYjRhOMEWiE07OUJpvD9g.png"
       },
       {
-        "name": "Ice Wizard",
-        "rarity": "legendary",
+        "name": "Cannon",
+        "rarity": "common",
         "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
       },
       {
-        "name": "Sparky",
-        "rarity": "legendary",
-        "elixirCost": 6,
+        "name": "Bowler",
+        "rarity": "epic",
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
       },
       {
         "name": "The Log",
@@ -2887,11 +2887,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#9282CQQ90": {
@@ -3257,15 +3257,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3352,
+    "trophies": 3295,
     "bestTrophies": 3397,
-    "wins": 3194,
-    "losses": 2793,
-    "battleCount": 5987,
-    "threeCrownWins": 2565,
+    "wins": 3195,
+    "losses": 2796,
+    "battleCount": 5991,
+    "threeCrownWins": 2566,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20342,
+    "totalDonations": 20372,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3328,11 +3328,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Three Musketeers",
+      "name": "Hog Rider",
       "rarity": "rare",
-      "elixirCost": 9,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#8LJQ29VPG": {
