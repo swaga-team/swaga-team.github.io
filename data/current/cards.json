@@ -18595,7 +18595,7 @@
       0
     ],
     "Goblin Cage": [
-      9,
+      10,
       1
     ],
     "Tombstone": [
@@ -18627,7 +18627,7 @@
       2
     ],
     "Battle Ram": [
-      6,
+      7,
       0
     ],
     "Elite Barbarians": [
@@ -18647,7 +18647,7 @@
       0
     ],
     "Mega Minion": [
-      5,
+      6,
       0
     ],
     "Bomb Tower": [
@@ -18719,7 +18719,7 @@
       0
     ],
     "Skeleton Army": [
-      7,
+      8,
       0
     ],
     "Goblin Barrel": [
@@ -18755,11 +18755,11 @@
       0
     ],
     "Dark Prince": [
-      7,
+      8,
       0
     ],
     "Lightning": [
-      10,
+      11,
       0
     ],
     "Balloon": [
@@ -18771,15 +18771,39 @@
       0
     ],
     "Goblin Gang": [
-      5,
+      6,
       0
     ],
     "Barbarian Hut": [
-      3,
+      6,
       0
     ],
     "Poison": [
       7,
+      0
+    ],
+    "Giant Skeleton": [
+      6,
+      0
+    ],
+    "Battle Healer": [
+      8,
+      0
+    ],
+    "Dart Goblin": [
+      7,
+      0
+    ],
+    "Goblin Giant": [
+      7,
+      0
+    ],
+    "Skeleton Barrel": [
+      9,
+      0
+    ],
+    "Vines": [
+      6,
       0
     ]
   },
