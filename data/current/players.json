@@ -1013,11 +1013,11 @@
   },
   "#P08LLGYLQ": {
     "expLevel": 56,
-    "trophies": 12772,
-    "bestTrophies": 12800,
-    "wins": 3315,
+    "trophies": 12804,
+    "bestTrophies": 12804,
+    "wins": 3316,
     "losses": 1839,
-    "battleCount": 5154,
+    "battleCount": 5155,
     "threeCrownWins": 1207,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
@@ -1096,11 +1096,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Bowler",
+      "name": "Baby Dragon",
       "rarity": "epic",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
     }
   },
   "#Q2RJCVYUQ": {
@@ -1290,7 +1290,7 @@
     "threeCrownWins": 628,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 24698,
+    "totalDonations": 24716,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
