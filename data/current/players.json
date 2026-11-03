@@ -921,11 +921,11 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13200,
+    "trophies": 13138,
     "bestTrophies": 13234,
     "wins": 2367,
-    "losses": 2062,
-    "battleCount": 4429,
+    "losses": 2064,
+    "battleCount": 4431,
     "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -1004,11 +1004,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#P08LLGYLQ": {
@@ -1283,7 +1283,7 @@
     "threeCrownWins": 628,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 24732,
+    "totalDonations": 24750,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
