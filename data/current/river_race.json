@@ -113,7 +113,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 0,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#Q2RJCVYUQ",
@@ -122,7 +122,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 0,
-        "decksUsedToday": 2
+        "decksUsedToday": 0
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -181,6 +181,15 @@
       {
         "tag": "#JU2L2U8LG",
         "name": "адцкий гей",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#QP0PPC0QU",
+        "name": "pshkzzz",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -359,7 +368,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 1
+          "decksUsedToday": 0
         },
         {
           "tag": "#2L8LR0QGU",
@@ -386,7 +395,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#CVVJPVCUY",
@@ -523,7 +532,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#Q2RJCVYUQ",
@@ -532,7 +541,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -591,6 +600,15 @@
         {
           "tag": "#JU2L2U8LG",
           "name": "адцкий гей",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#QP0PPC0QU",
+          "name": "pshkzzz",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -768,7 +786,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#8Q9J928Q",
@@ -840,7 +858,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#9R0V89LLR",
@@ -966,7 +984,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 3
+          "decksUsedToday": 0
         }
       ],
       "periodPoints": 0,
@@ -1175,7 +1193,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#LLYQRGQ80",
@@ -1211,7 +1229,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#LVJLCCR2",
@@ -1252,6 +1270,15 @@
       "repairPoints": 0,
       "participants": [
         {
+          "tag": "#28PQPC0VL",
+          "name": "coxy",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
           "fame": 0,
@@ -1276,7 +1303,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#V9GUL2JYP",
@@ -1330,7 +1357,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#QPG28VL8L",
@@ -1348,7 +1375,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#UQGCLYR8",
@@ -1464,6 +1491,6 @@
     }
   ],
   "sectionIndex": 0,
-  "periodIndex": 0,
+  "periodIndex": 1,
   "periodType": "training"
 }
