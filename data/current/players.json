@@ -193,7 +193,7 @@
     "threeCrownWins": 1067,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34652,
+    "totalDonations": 34660,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -921,11 +921,11 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13138,
+    "trophies": 13110,
     "bestTrophies": 13234,
     "wins": 2367,
-    "losses": 2064,
-    "battleCount": 4431,
+    "losses": 2065,
+    "battleCount": 4432,
     "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -1004,11 +1004,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#P08LLGYLQ": {
@@ -2089,15 +2089,15 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9530,
+    "trophies": 9500,
     "bestTrophies": 9562,
     "wins": 1018,
-    "losses": 682,
-    "battleCount": 1700,
+    "losses": 684,
+    "battleCount": 1702,
     "threeCrownWins": 506,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2977,
+    "totalDonations": 2995,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2120,6 +2120,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -3438,10 +3445,10 @@
     "expLevel": 3,
     "trophies": 3492,
     "bestTrophies": 3526,
-    "wins": 248,
-    "losses": 221,
-    "battleCount": 469,
-    "threeCrownWins": 156,
+    "wins": 250,
+    "losses": 227,
+    "battleCount": 477,
+    "threeCrownWins": 157,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 66,
@@ -3507,11 +3514,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Rocket",
+      "rarity": "rare",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
     }
   },
   "#20CY2VYYYY": {

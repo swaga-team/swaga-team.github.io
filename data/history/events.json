@@ -2041,5 +2041,87 @@
       }
     ],
     "at": "2026-11-03T17:00:25+00:00"
+  },
+  {
+    "type": "promoted",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "role": "elder",
+    "previous": "member",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "promoted",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "role": "elder",
+    "previous": "member",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VGVQG0CVG",
+    "name": "¿ G1ntex21 ?",
+    "cards": [
+      {
+        "name": "Goblin Barrel",
+        "level": 10
+      },
+      {
+        "name": "Mega Minion",
+        "level": 9
+      },
+      {
+        "name": "Goblin Gang",
+        "level": 8
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#P08LLGYLQ",
+    "name": "Luka13",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#YR2GG8C2",
+    "name": "mohamaddavodi",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#CY0LPRRUJ",
+    "name": "MOHAMMAD",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#LGQC0JPLU",
+    "name": "am012",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#VJPQ089PL",
+    "name": "Dimaster_HUY",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#JGL98Q9G2",
+    "name": "(LP)Wasabi",
+    "at": "2026-11-03T23:45:16+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#QY9JV9JQ0",
+    "name": "Sk_Kr1staL",
+    "at": "2026-11-03T23:45:16+00:00"
   }
 ]
