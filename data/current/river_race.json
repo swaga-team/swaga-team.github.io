@@ -113,7 +113,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 0,
-        "decksUsedToday": 0
+        "decksUsedToday": 2
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -145,6 +145,15 @@
       {
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#8UCG80RYR",
+        "name": "Daisy Sprout",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -362,6 +371,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CVVJPVCUY",
+          "name": "апельсин",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
           "fame": 0,
@@ -487,7 +505,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 2
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -519,6 +537,15 @@
         {
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#8UCG80RYR",
+          "name": "Daisy Sprout",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1139,7 +1166,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 3
+          "decksUsedToday": 4
         },
         {
           "tag": "#LVJLCCR2",

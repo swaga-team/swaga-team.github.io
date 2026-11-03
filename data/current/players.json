@@ -371,13 +371,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2919,
-    "losses": 2501,
-    "battleCount": 5420,
-    "threeCrownWins": 1102,
+    "wins": 2923,
+    "losses": 2504,
+    "battleCount": 5427,
+    "threeCrownWins": 1104,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15410,
+    "totalDonations": 15420,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -463,20 +463,20 @@
     "expLevel": 67,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3931,
+    "wins": 3932,
     "losses": 3012,
-    "battleCount": 6943,
+    "battleCount": 6944,
     "threeCrownWins": 1188,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29073,
+    "totalDonations": 29093,
     "currentPathOfLegendSeasonResult": {
-      "leagueNumber": 2,
+      "leagueNumber": 1,
       "trophies": 0,
       "rank": null
     },
     "lastPathOfLegendSeasonResult": {
-      "leagueNumber": 3,
+      "leagueNumber": 2,
       "trophies": 0,
       "rank": null
     },
@@ -544,11 +544,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lightning",
-      "rarity": "epic",
-      "elixirCost": 6,
+      "name": "Lava Hound",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
     }
   },
   "#28G90Y9JL": {
@@ -1015,9 +1015,9 @@
     "expLevel": 56,
     "trophies": 12772,
     "bestTrophies": 12800,
-    "wins": 3314,
+    "wins": 3315,
     "losses": 1839,
-    "battleCount": 5153,
+    "battleCount": 5154,
     "threeCrownWins": 1207,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
@@ -1107,13 +1107,13 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3598,
-    "losses": 3047,
-    "battleCount": 6645,
-    "threeCrownWins": 2417,
+    "wins": 3602,
+    "losses": 3048,
+    "battleCount": 6650,
+    "threeCrownWins": 2418,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 22391,
+    "totalDonations": 22427,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1188,11 +1188,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Electro Giant",
+      "rarity": "epic",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/_uChZkNHAMq6tPb3v6A49xinOe3CnhjstOhG6OZbPYc.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1290,7 +1290,7 @@
     "threeCrownWins": 628,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 24674,
+    "totalDonations": 24698,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
