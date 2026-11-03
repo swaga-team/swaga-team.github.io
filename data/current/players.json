@@ -3,10 +3,10 @@
     "expLevel": 60,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3528,
-    "losses": 4121,
-    "battleCount": 7649,
-    "threeCrownWins": 1009,
+    "wins": 3529,
+    "losses": 4122,
+    "battleCount": 7651,
+    "threeCrownWins": 1010,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 17056,
@@ -124,13 +124,6 @@
         "elixirCost": 5,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -923,13 +916,13 @@
     "expLevel": 43,
     "trophies": 13200,
     "bestTrophies": 13234,
-    "wins": 2366,
-    "losses": 2059,
-    "battleCount": 4425,
-    "threeCrownWins": 1185,
+    "wins": 2367,
+    "losses": 2060,
+    "battleCount": 4427,
+    "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15087,
+    "totalDonations": 15113,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1004,20 +997,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Ram Rider",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#P08LLGYLQ": {
     "expLevel": 56,
-    "trophies": 12804,
-    "bestTrophies": 12804,
-    "wins": 3316,
-    "losses": 1839,
-    "battleCount": 5155,
+    "trophies": 12806,
+    "bestTrophies": 12806,
+    "wins": 3317,
+    "losses": 1840,
+    "battleCount": 5157,
     "threeCrownWins": 1207,
     "warDayWins": 19,
     "clanCardsCollected": 45839,
@@ -1096,11 +1089,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Baby Dragon",
-      "rarity": "epic",
+      "name": "Hog Rider",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#Q2RJCVYUQ": {
@@ -1108,8 +1101,8 @@
     "trophies": 12150,
     "bestTrophies": 12267,
     "wins": 3610,
-    "losses": 3057,
-    "battleCount": 6667,
+    "losses": 3060,
+    "battleCount": 6670,
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1188,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rune Giant",
-      "rarity": "epic",
+      "name": "Golden Knight",
+      "rarity": "champion",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/UogMnGHQXT-TOVXRxslKdAKXUPhqUvrD_hV9x8lbzdE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -3272,7 +3265,7 @@
     "threeCrownWins": 2565,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20316,
+    "totalDonations": 20342,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,

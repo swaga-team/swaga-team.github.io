@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1389,
+  "donationsPerWeek": 1441,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 3,
       "donations": 62,
-      "donationsReceived": 50,
+      "donationsReceived": 60,
       "clanChestPoints": 0
     },
     {
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261103T043402.000Z",
+      "lastSeen": "20261103T123840.000Z",
       "expLevel": 0,
       "trophies": 13200,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 42,
+      "donations": 68,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -221,9 +221,9 @@
       "tag": "#P08LLGYLQ",
       "name": "Luka13",
       "role": "member",
-      "lastSeen": "20261103T075610.000Z",
+      "lastSeen": "20261103T122847.000Z",
       "expLevel": 0,
-      "trophies": 12804,
+      "trophies": 12806,
       "arena": {
         "id": 54000142,
         "name": "Ultimate Clash Pit",
@@ -239,7 +239,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261103T094924.000Z",
+      "lastSeen": "20261103T123132.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 93,
+      "donationsReceived": 109,
       "clanChestPoints": 0
     },
     {
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 29,
       "donations": 7,
-      "donationsReceived": 56,
+      "donationsReceived": 72,
       "clanChestPoints": 0
     },
     {
@@ -664,7 +664,7 @@
       "clanRank": 36,
       "previousClanRank": 36,
       "donations": 20,
-      "donationsReceived": 70,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -743,7 +743,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261103T022100.000Z",
+      "lastSeen": "20261103T120633.000Z",
       "expLevel": 0,
       "trophies": 3352,
       "arena": {
@@ -753,7 +753,7 @@
       },
       "clanRank": 41,
       "previousClanRank": 41,
-      "donations": 78,
+      "donations": 104,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },

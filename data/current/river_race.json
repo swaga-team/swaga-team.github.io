@@ -1029,7 +1029,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 2
         }
       ],
       "periodPoints": 0,
@@ -1241,6 +1241,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#GGGYLVJQ",
+          "name": "Горни Дъбник 79",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#VJGYGPPL9",
           "name": "pacs",
           "fame": 0,
@@ -1438,7 +1447,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#UQGCLYR8",
