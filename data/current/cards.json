@@ -9627,11 +9627,11 @@
       0
     ],
     "Electro Giant": [
-      6,
+      7,
       1
     ],
     "Electro Spirit": [
-      1,
+      7,
       0
     ],
     "Mother Witch": [
@@ -9827,7 +9827,7 @@
       0
     ],
     "Rune Giant": [
-      6,
+      7,
       0
     ],
     "Void": [
@@ -9855,6 +9855,10 @@
       0
     ],
     "Mighty Miner": [
+      11,
+      0
+    ],
+    "Little Prince": [
       11,
       0
     ]

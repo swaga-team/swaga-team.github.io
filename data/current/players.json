@@ -280,12 +280,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 11029,
-    "losses": 10678,
-    "battleCount": 21707,
+    "losses": 10679,
+    "battleCount": 21708,
     "threeCrownWins": 5597,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138543,
+    "totalDonations": 138553,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1107,10 +1107,10 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3602,
-    "losses": 3048,
-    "battleCount": 6650,
-    "threeCrownWins": 2418,
+    "wins": 3604,
+    "losses": 3054,
+    "battleCount": 6658,
+    "threeCrownWins": 2419,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 22427,
@@ -1188,11 +1188,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Electro Giant",
-      "rarity": "epic",
-      "elixirCost": 7,
+      "name": "Boss Bandit",
+      "rarity": "champion",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/_uChZkNHAMq6tPb3v6A49xinOe3CnhjstOhG6OZbPYc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1460,7 +1460,7 @@
     "threeCrownWins": 1072,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12354,
+    "totalDonations": 12380,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1730,9 +1730,9 @@
     "expLevel": 35,
     "trophies": 10125,
     "bestTrophies": 10203,
-    "wins": 2491,
-    "losses": 2190,
-    "battleCount": 4681,
+    "wins": 2495,
+    "losses": 2191,
+    "battleCount": 4686,
     "threeCrownWins": 894,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -1811,11 +1811,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
-      "rarity": "epic",
+      "name": "Barbarians",
+      "rarity": "common",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -3181,9 +3181,9 @@
     "expLevel": 21,
     "trophies": 5381,
     "bestTrophies": 5439,
-    "wins": 788,
-    "losses": 743,
-    "battleCount": 1531,
+    "wins": 789,
+    "losses": 744,
+    "battleCount": 1533,
     "threeCrownWins": 504,
     "warDayWins": 1,
     "clanCardsCollected": 3550,
@@ -3262,11 +3262,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Night Witch",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#V0RCP20LR": {
