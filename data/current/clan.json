@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116407,
+  "clanScore": 116412,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1800,
+  "donationsPerWeek": 1836,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -160,7 +160,7 @@
       "clanRank": 8,
       "previousClanRank": 8,
       "donations": 94,
-      "donationsReceived": 90,
+      "donationsReceived": 110,
       "clanChestPoints": 0
     },
     {
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261103T123840.000Z",
+      "lastSeen": "20261103T211235.000Z",
       "expLevel": 0,
       "trophies": 13200,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 68,
+      "donations": 86,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -452,6 +452,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261103T212452.000Z",
+      "expLevel": 0,
+      "trophies": 9562,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 25,
+      "donations": 126,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -463,7 +481,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 26,
       "donations": 80,
       "donationsReceived": 120,
@@ -481,37 +499,19 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 27,
       "donations": 56,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261103T194910.000Z",
-      "expLevel": 0,
-      "trophies": 9530,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 27,
-      "previousClanRank": 25,
-      "donations": 108,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261102T140135.000Z",
+      "lastSeen": "20261103T211810.000Z",
       "expLevel": 0,
-      "trophies": 9241,
+      "trophies": 9242,
       "arena": {
         "id": 54000020,
         "name": "Valkalla",
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261103T205136.000Z",
+      "lastSeen": "20261103T205655.000Z",
       "expLevel": 0,
       "trophies": 6785,
       "arena": {
@@ -646,7 +646,7 @@
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 20,
-      "donationsReceived": 0,
+      "donationsReceived": 16,
       "clanChestPoints": 0
     },
     {

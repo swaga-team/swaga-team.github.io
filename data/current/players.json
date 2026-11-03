@@ -832,8 +832,8 @@
     "trophies": 13435,
     "bestTrophies": 13435,
     "wins": 2334,
-    "losses": 1651,
-    "battleCount": 3985,
+    "losses": 1654,
+    "battleCount": 3988,
     "threeCrownWins": 601,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -912,11 +912,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Princess",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -924,12 +924,12 @@
     "trophies": 13200,
     "bestTrophies": 13234,
     "wins": 2367,
-    "losses": 2060,
-    "battleCount": 4427,
+    "losses": 2062,
+    "battleCount": 4429,
     "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15113,
+    "totalDonations": 15131,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1997,15 +1997,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9530,
+    "trophies": 9562,
     "bestTrophies": 9825,
-    "wins": 2292,
+    "wins": 2293,
     "losses": 2118,
-    "battleCount": 4410,
+    "battleCount": 4411,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17775,
+    "totalDonations": 17793,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2174,11 +2174,11 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9241,
+    "trophies": 9242,
     "bestTrophies": 9270,
-    "wins": 1029,
-    "losses": 810,
-    "battleCount": 1839,
+    "wins": 1030,
+    "losses": 811,
+    "battleCount": 1841,
     "threeCrownWins": 526,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2257,11 +2257,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Executioner",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#CJR008LV9": {
@@ -2905,9 +2905,9 @@
     "expLevel": 39,
     "trophies": 6785,
     "bestTrophies": 6785,
-    "wins": 2491,
-    "losses": 2632,
-    "battleCount": 5123,
+    "wins": 2492,
+    "losses": 2636,
+    "battleCount": 5128,
     "threeCrownWins": 1812,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
