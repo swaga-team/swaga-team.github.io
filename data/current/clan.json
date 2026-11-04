@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110078,
+  "clanScore": 110103,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2630,
+  "donationsPerWeek": 2646,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 74,
-      "donationsReceived": 120,
+      "donationsReceived": 136,
       "clanChestPoints": 0
     },
     {
@@ -401,9 +401,9 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261104T224823.000Z",
+      "lastSeen": "20261104T225651.000Z",
       "expLevel": 0,
-      "trophies": 9592,
+      "trophies": 9622,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 22,
-      "donations": 190,
+      "donations": 198,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -473,7 +473,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261104T181319.000Z",
+      "lastSeen": "20261104T232713.000Z",
       "expLevel": 0,
       "trophies": 8769,
       "arena": {
@@ -527,9 +527,9 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261104T210117.000Z",
+      "lastSeen": "20261104T230849.000Z",
       "expLevel": 0,
-      "trophies": 6845,
+      "trophies": 6878,
       "arena": {
         "id": 54000015,
         "name": "Silent Sanctuary",
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 29,
-      "donations": 46,
+      "donations": 54,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -614,6 +614,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CVCJY2V0Y",
+      "name": "martinillo99",
+      "role": "member",
+      "lastSeen": "20261104T232232.000Z",
+      "expLevel": 0,
+      "trophies": 3227,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 34,
+      "previousClanRank": 35,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
@@ -625,28 +643,10 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 34,
       "donations": 194,
       "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CVCJY2V0Y",
-      "name": "martinillo99",
-      "role": "member",
-      "lastSeen": "20261104T203902.000Z",
-      "expLevel": 0,
-      "trophies": 3047,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 35,
-      "previousClanRank": 35,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
