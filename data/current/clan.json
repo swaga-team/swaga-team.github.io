@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110067,
+  "clanScore": 110074,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2560,
+  "donationsPerWeek": 2570,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 172,
-      "donationsReceived": 150,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -419,7 +419,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261104T200917.000Z",
+      "lastSeen": "20261104T215021.000Z",
       "expLevel": 0,
       "trophies": 9560,
       "arena": {
@@ -527,9 +527,9 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261104T181831.000Z",
+      "lastSeen": "20261104T210117.000Z",
       "expLevel": 0,
-      "trophies": 6785,
+      "trophies": 6845,
       "arena": {
         "id": 54000015,
         "name": "Silent Sanctuary",
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 29,
-      "donations": 36,
+      "donations": 46,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
