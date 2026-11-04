@@ -1250,6 +1250,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#U09028GUY",
+          "name": "gosho 1",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#U2VJ0L8V2",
           "name": "IGRAQ_NA_DEBELO",
           "fame": 0,
@@ -1501,7 +1510,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#V9GUL2JYP",
