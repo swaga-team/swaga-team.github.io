@@ -879,6 +879,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#PUQ9U8GLJ",
+          "name": "tempoyak",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#Q08QQGVYP",
           "name": "ANTEK PRABOWO",
           "fame": 0,
@@ -966,7 +975,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#9R0V89LLR",
@@ -1346,7 +1355,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJGYGPPL9",

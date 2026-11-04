@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110031,
+  "clanScore": 110025,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -419,7 +419,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261104T130015.000Z",
+      "lastSeen": "20261104T162806.000Z",
       "expLevel": 0,
       "trophies": 9500,
       "arena": {
@@ -473,7 +473,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261104T144455.000Z",
+      "lastSeen": "20261104T162329.000Z",
       "expLevel": 0,
       "trophies": 8769,
       "arena": {
@@ -614,24 +614,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#CVCJY2V0Y",
-      "name": "martinillo99",
-      "role": "member",
-      "lastSeen": "20261104T002953.000Z",
-      "expLevel": 0,
-      "trophies": 3165,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 34,
-      "previousClanRank": 42,
-      "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
@@ -643,10 +625,28 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 35,
+      "clanRank": 34,
       "previousClanRank": 41,
       "donations": 194,
       "donationsReceived": 200,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CVCJY2V0Y",
+      "name": "martinillo99",
+      "role": "member",
+      "lastSeen": "20261104T165029.000Z",
+      "expLevel": 0,
+      "trophies": 3105,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 35,
+      "previousClanRank": 42,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
