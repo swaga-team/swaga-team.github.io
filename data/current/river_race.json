@@ -1319,7 +1319,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#LLYQRGQ80",
@@ -1333,6 +1333,15 @@
         {
           "tag": "#PJ0CV2QCC",
           "name": "Якия пич.",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#Y9VUJ9P2L",
+          "name": "Ghost Hunter",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1587,6 +1596,15 @@
         {
           "tag": "#VQRURVY8V",
           "name": ";)",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#8J2GGGQY",
+          "name": "xAtlas GD",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
