@@ -1438,11 +1438,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11577,
+    "trophies": 11576,
     "bestTrophies": 11650,
-    "wins": 2249,
-    "losses": 2458,
-    "battleCount": 4707,
+    "wins": 2250,
+    "losses": 2459,
+    "battleCount": 4709,
     "threeCrownWins": 1076,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2261,13 +2261,13 @@
     "expLevel": 39,
     "trophies": 9562,
     "bestTrophies": 9562,
-    "wins": 1194,
-    "losses": 1039,
-    "battleCount": 2233,
+    "wins": 1197,
+    "losses": 1045,
+    "battleCount": 2242,
     "threeCrownWins": 672,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4364,
+    "totalDonations": 4398,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2290,6 +2290,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -3502,11 +3509,11 @@
   },
   "#20CY2VYYYY": {
     "expLevel": 1,
-    "trophies": 3800,
+    "trophies": 3830,
     "bestTrophies": 3830,
-    "wins": 386,
+    "wins": 387,
     "losses": 369,
-    "battleCount": 755,
+    "battleCount": 756,
     "threeCrownWins": 177,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3756,9 +3763,9 @@
     "expLevel": 60,
     "trophies": 13002,
     "bestTrophies": 13002,
-    "wins": 2015,
-    "losses": 1669,
-    "battleCount": 3684,
+    "wins": 2016,
+    "losses": 1670,
+    "battleCount": 3686,
     "threeCrownWins": 645,
     "warDayWins": 2,
     "clanCardsCollected": 10990,
@@ -3837,11 +3844,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Electro Wizard",
-      "rarity": "legendary",
+      "name": "Dark Prince",
+      "rarity": "epic",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#RYRY0V89G": {

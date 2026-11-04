@@ -251,6 +251,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#20CY2VYYYY",
+        "name": "gigiti",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 0,
@@ -717,6 +726,15 @@
         {
           "tag": "#GQP92GLC8",
           "name": "Adawell",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#20CY2VYYYY",
+          "name": "gigiti",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1573,7 +1591,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#80QG20JCU",
