@@ -365,12 +365,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2923,
-    "losses": 2504,
-    "battleCount": 5427,
+    "losses": 2505,
+    "battleCount": 5428,
     "threeCrownWins": 1104,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15441,
+    "totalDonations": 15465,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -456,9 +456,9 @@
     "expLevel": 67,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3934,
+    "wins": 3935,
     "losses": 3013,
-    "battleCount": 6947,
+    "battleCount": 6948,
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
@@ -1361,7 +1361,7 @@
     "threeCrownWins": 2721,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72773,
+    "totalDonations": 72789,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2023,13 +2023,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -2261,10 +2254,10 @@
     "expLevel": 39,
     "trophies": 9562,
     "bestTrophies": 9562,
-    "wins": 1192,
-    "losses": 1037,
-    "battleCount": 2229,
-    "threeCrownWins": 671,
+    "wins": 1194,
+    "losses": 1039,
+    "battleCount": 2233,
+    "threeCrownWins": 672,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 4364,
@@ -2290,13 +2283,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2342,11 +2328,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Furnace",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {
@@ -3257,15 +3243,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3268,
+    "trophies": 3149,
     "bestTrophies": 3397,
     "wins": 3198,
-    "losses": 2800,
-    "battleCount": 5998,
+    "losses": 2804,
+    "battleCount": 6002,
     "threeCrownWins": 2569,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20390,
+    "totalDonations": 20398,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3769,7 +3755,7 @@
     "threeCrownWins": 645,
     "warDayWins": 2,
     "clanCardsCollected": 10990,
-    "totalDonations": 32726,
+    "totalDonations": 32730,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
