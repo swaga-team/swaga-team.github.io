@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110066,
+  "clanScore": 110067,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -221,7 +221,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261103T193119.000Z",
+      "lastSeen": "20261104T201531.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -416,6 +416,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261104T200917.000Z",
+      "expLevel": 0,
+      "trophies": 9560,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 23,
+      "previousClanRank": 22,
+      "donations": 150,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
@@ -427,28 +445,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 24,
       "previousClanRank": 24,
       "donations": 106,
       "donationsReceived": 150,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261104T174421.000Z",
-      "expLevel": 0,
-      "trophies": 9530,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 24,
-      "previousClanRank": 22,
-      "donations": 150,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -635,9 +635,9 @@
       "tag": "#CVCJY2V0Y",
       "name": "martinillo99",
       "role": "member",
-      "lastSeen": "20261104T165029.000Z",
+      "lastSeen": "20261104T203902.000Z",
       "expLevel": 0,
-      "trophies": 3076,
+      "trophies": 3047,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",

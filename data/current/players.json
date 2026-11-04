@@ -186,7 +186,7 @@
     "threeCrownWins": 1067,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34704,
+    "totalDonations": 34750,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1100,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3610,
-    "losses": 3060,
-    "battleCount": 6670,
+    "wins": 3612,
+    "losses": 3061,
+    "battleCount": 6673,
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1129,6 +1129,13 @@
         "elixirCost": 7,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Battle Ram",
@@ -1990,11 +1997,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9530,
+    "trophies": 9560,
     "bestTrophies": 9825,
-    "wins": 2294,
+    "wins": 2295,
     "losses": 2121,
-    "battleCount": 4415,
+    "battleCount": 4416,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3945,11 +3952,11 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3076,
+    "trophies": 3047,
     "bestTrophies": 3217,
-    "wins": 336,
-    "losses": 269,
-    "battleCount": 605,
+    "wins": 337,
+    "losses": 271,
+    "battleCount": 608,
     "threeCrownWins": 186,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3959,25 +3966,18 @@
     "bestPathOfLegendSeasonResult": null,
     "currentDeck": [
       {
-        "name": "Dart Goblin",
-        "rarity": "rare",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
-      },
-      {
-        "name": "Furnace",
-        "rarity": "rare",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
-      },
-      {
         "name": "Hog Rider",
         "rarity": "rare",
         "elixirCost": 4,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      },
+      {
+        "name": "Goblin Drill",
+        "rarity": "epic",
+        "elixirCost": 4,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
       },
       {
         "name": "Goblin Barrel",
@@ -3987,32 +3987,39 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
       },
       {
-        "name": "Royal Hogs",
-        "rarity": "rare",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
-      },
-      {
-        "name": "Baby Dragon",
-        "rarity": "epic",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
-      },
-      {
-        "name": "Guards",
-        "rarity": "epic",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/1ArKfLJxYo6_NU_S9cAeIrfbXqWH0oULVJXedxBXQlU.png"
-      },
-      {
-        "name": "Knight",
+        "name": "Goblin Gang",
         "rarity": "common",
         "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+      },
+      {
+        "name": "Spear Goblins",
+        "rarity": "common",
+        "elixirCost": 2,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+      },
+      {
+        "name": "Valkyrie",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      },
+      {
+        "name": "Goblin Hut",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      },
+      {
+        "name": "Arrows",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
       }
     ],
     "currentFavouriteCard": {

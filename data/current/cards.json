@@ -20343,7 +20343,7 @@
       0
     ],
     "Goblin Hut": [
-      11,
+      12,
       0
     ],
     "Giant": [
@@ -20447,7 +20447,7 @@
       0
     ],
     "Witch": [
-      8,
+      9,
       0
     ],
     "Guards": [
@@ -20467,7 +20467,7 @@
       0
     ],
     "Royal Recruits": [
-      6,
+      7,
       0
     ],
     "Three Musketeers": [
@@ -20527,7 +20527,7 @@
       0
     ],
     "Barbarian Hut": [
-      7,
+      8,
       0
     ],
     "Giant Skeleton": [
@@ -20564,6 +20564,10 @@
     ],
     "Minion Horde": [
       10,
+      0
+    ],
+    "Rune Giant": [
+      7,
       0
     ]
   },
