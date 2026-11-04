@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1880,
+  "donationsPerWeek": 1890,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
       "role": "coLeader",
-      "lastSeen": "20261103T232254.000Z",
+      "lastSeen": "20261104T003000.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 4,
-      "donations": 82,
+      "donations": 92,
       "donationsReceived": 90,
       "clanChestPoints": 0
     },
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 27,
       "donations": 74,
-      "donationsReceived": 80,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -635,9 +635,9 @@
       "tag": "#CVCJY2V0Y",
       "name": "martinillo99",
       "role": "member",
-      "lastSeen": "20261102T191243.000Z",
+      "lastSeen": "20261104T002953.000Z",
       "expLevel": 0,
-      "trophies": 3160,
+      "trophies": 3165,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
