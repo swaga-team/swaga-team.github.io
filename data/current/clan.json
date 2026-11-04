@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1940,
+  "donationsPerWeek": 1948,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 36,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261104T064604.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 116,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#QP0PPC0QU",
       "name": "pshkzzz",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 107,
       "donationsReceived": 40,
@@ -49,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 92,
       "donationsReceived": 110,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261103T165932.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 5,
-      "donations": 116,
-      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -398,6 +398,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CJR008LV9",
+      "name": "cook",
+      "role": "member",
+      "lastSeen": "20261104T071429.000Z",
+      "expLevel": 0,
+      "trophies": 9562,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 22,
+      "previousClanRank": 25,
+      "donations": 88,
+      "donationsReceived": 120,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
@@ -409,28 +427,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 22,
+      "clanRank": 23,
       "previousClanRank": 26,
       "donations": 126,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CJR008LV9",
-      "name": "cook",
-      "role": "member",
-      "lastSeen": "20261103T165418.000Z",
-      "expLevel": 0,
-      "trophies": 9562,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 23,
-      "previousClanRank": 25,
-      "donations": 80,
-      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -628,7 +628,7 @@
       "clanRank": 34,
       "previousClanRank": 41,
       "donations": 144,
-      "donationsReceived": 160,
+      "donationsReceived": 168,
       "clanChestPoints": 0
     },
     {
