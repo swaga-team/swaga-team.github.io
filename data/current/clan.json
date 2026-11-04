@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110035,
+  "clanScore": 110006,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2197,
+  "donationsPerWeek": 2283,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 74,
-      "donationsReceived": 129,
+      "donationsReceived": 145,
       "clanChestPoints": 0
     },
     {
@@ -178,16 +178,16 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 56,
-      "donationsReceived": 80,
+      "donationsReceived": 110,
       "clanChestPoints": 0
     },
     {
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261104T035532.000Z",
+      "lastSeen": "20261104T112257.000Z",
       "expLevel": 0,
-      "trophies": 13080,
+      "trophies": 13050,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 106,
+      "donations": 132,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261104T111814.000Z",
+      "lastSeen": "20261104T125945.000Z",
       "expLevel": 0,
-      "trophies": 11604,
+      "trophies": 11577,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 17,
-      "donations": 218,
+      "donations": 244,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -398,24 +398,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261104T103832.000Z",
-      "expLevel": 0,
-      "trophies": 9562,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 22,
-      "previousClanRank": 26,
-      "donations": 126,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -427,10 +409,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 22,
       "previousClanRank": 25,
       "donations": 88,
       "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261104T130015.000Z",
+      "expLevel": 0,
+      "trophies": 9500,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 23,
+      "previousClanRank": 26,
+      "donations": 126,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -473,7 +473,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261104T104001.000Z",
+      "lastSeen": "20261104T125359.000Z",
       "expLevel": 0,
       "trophies": 8769,
       "arena": {
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 29,
       "donations": 35,
-      "donationsReceived": 88,
+      "donationsReceived": 112,
       "clanChestPoints": 0
     },
     {
@@ -599,7 +599,7 @@
       "tag": "#VGVQG0CVG",
       "name": "¿ G1ntex21 ?",
       "role": "member",
-      "lastSeen": "20261103T230058.000Z",
+      "lastSeen": "20261104T113940.000Z",
       "expLevel": 0,
       "trophies": 3492,
       "arena": {
@@ -635,7 +635,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261104T095001.000Z",
+      "lastSeen": "20261104T122447.000Z",
       "expLevel": 0,
       "trophies": 3149,
       "arena": {
@@ -645,7 +645,7 @@
       },
       "clanRank": 35,
       "previousClanRank": 41,
-      "donations": 160,
+      "donations": 194,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -653,7 +653,7 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261103T142537.000Z",
+      "lastSeen": "20261104T112915.000Z",
       "expLevel": 0,
       "trophies": 2820,
       "arena": {
@@ -664,7 +664,7 @@
       "clanRank": 36,
       "previousClanRank": 43,
       "donations": 16,
-      "donationsReceived": 50,
+      "donationsReceived": 66,
       "clanChestPoints": 0
     }
   ]

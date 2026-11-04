@@ -914,15 +914,15 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13080,
+    "trophies": 13050,
     "bestTrophies": 13234,
     "wins": 2367,
-    "losses": 2066,
-    "battleCount": 4433,
+    "losses": 2067,
+    "battleCount": 4434,
     "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15151,
+    "totalDonations": 15177,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1438,15 +1438,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11604,
+    "trophies": 11577,
     "bestTrophies": 11650,
-    "wins": 2248,
-    "losses": 2456,
-    "battleCount": 4704,
+    "wins": 2249,
+    "losses": 2458,
+    "battleCount": 4707,
     "threeCrownWins": 1076,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12491,
+    "totalDonations": 12517,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1990,11 +1990,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9562,
+    "trophies": 9500,
     "bestTrophies": 9825,
     "wins": 2293,
-    "losses": 2118,
-    "battleCount": 4411,
+    "losses": 2121,
+    "battleCount": 4414,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2021,6 +2021,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2066,11 +2073,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
-      "rarity": "rare",
+      "name": "Tesla",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2339,10 +2346,10 @@
     "expLevel": 42,
     "trophies": 8769,
     "bestTrophies": 8769,
-    "wins": 2634,
-    "losses": 2799,
-    "battleCount": 5433,
-    "threeCrownWins": 1640,
+    "wins": 2635,
+    "losses": 2801,
+    "battleCount": 5436,
+    "threeCrownWins": 1642,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
     "totalDonations": 26194,
@@ -3251,7 +3258,7 @@
     "threeCrownWins": 2569,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20398,
+    "totalDonations": 20432,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
