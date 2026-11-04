@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1890,
+  "donationsPerWeek": 1910,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 92,
-      "donationsReceived": 90,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     },
     {
@@ -185,7 +185,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261103T225833.000Z",
+      "lastSeen": "20261104T035532.000Z",
       "expLevel": 0,
       "trophies": 13110,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 86,
+      "donations": 106,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 27,
       "donations": 74,
-      "donationsReceived": 90,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     },
     {
