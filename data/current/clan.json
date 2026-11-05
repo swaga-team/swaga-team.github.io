@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110105,
+  "clanScore": 110133,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3074,
+  "donationsPerWeek": 3210,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 36,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261105T162849.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 195,
+      "donationsReceived": 200,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 92,
       "donationsReceived": 200,
@@ -49,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 191,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261105T134833.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 1,
-      "donations": 167,
-      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -167,9 +167,9 @@
       "tag": "#U0QJL29PY",
       "name": "egor",
       "role": "elder",
-      "lastSeen": "20261104T105624.000Z",
+      "lastSeen": "20261105T150331.000Z",
       "expLevel": 0,
-      "trophies": 13350,
+      "trophies": 13377,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -177,8 +177,8 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 56,
-      "donationsReceived": 120,
+      "donations": 72,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -203,9 +203,9 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261104T190043.000Z",
+      "lastSeen": "20261105T160709.000Z",
       "expLevel": 0,
-      "trophies": 13061,
+      "trophies": 13029,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -275,7 +275,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261105T115820.000Z",
+      "lastSeen": "20261105T165000.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -285,15 +285,15 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 214,
-      "donationsReceived": 260,
+      "donations": 224,
+      "donationsReceived": 270,
       "clanChestPoints": 0
     },
     {
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261104T185352.000Z",
+      "lastSeen": "20261105T171655.000Z",
       "expLevel": 0,
       "trophies": 11642,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 286,
-      "donationsReceived": 240,
+      "donations": 312,
+      "donationsReceived": 270,
       "clanChestPoints": 0
     },
     {
@@ -412,7 +412,7 @@
       "clanRank": 22,
       "previousClanRank": 22,
       "donations": 140,
-      "donationsReceived": 176,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -455,9 +455,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261105T105612.000Z",
+      "lastSeen": "20261105T152955.000Z",
       "expLevel": 0,
-      "trophies": 9269,
+      "trophies": 9302,
       "arena": {
         "id": 54000020,
         "name": "Valkalla",
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 25,
-      "donations": 98,
+      "donations": 124,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -599,7 +599,7 @@
       "tag": "#VGVQG0CVG",
       "name": "¿ G1ntex21 ?",
       "role": "member",
-      "lastSeen": "20261104T113940.000Z",
+      "lastSeen": "20261105T160810.000Z",
       "expLevel": 0,
       "trophies": 3492,
       "arena": {
@@ -617,13 +617,13 @@
       "tag": "#CVCJY2V0Y",
       "name": "martinillo99",
       "role": "member",
-      "lastSeen": "20261105T062358.000Z",
+      "lastSeen": "20261105T161307.000Z",
       "expLevel": 0,
-      "trophies": 3314,
+      "trophies": 3415,
       "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
+        "id": 54000024,
+        "name": "Electro Valley",
+        "rawName": "Arena_Electric"
       },
       "clanRank": 34,
       "previousClanRank": 35,
@@ -635,9 +635,9 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261105T141201.000Z",
+      "lastSeen": "20261105T170305.000Z",
       "expLevel": 0,
-      "trophies": 3239,
+      "trophies": 3329,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -645,8 +645,8 @@
       },
       "clanRank": 35,
       "previousClanRank": 34,
-      "donations": 220,
-      "donationsReceived": 248,
+      "donations": 250,
+      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {

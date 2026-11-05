@@ -2523,5 +2523,25 @@
       "Wall Breakers"
     ],
     "at": "2026-11-05T14:27:12+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#CVCJY2V0Y",
+    "name": "martinillo99",
+    "arena": "Electro Valley",
+    "raw": "Arena_Electric",
+    "at": "2026-11-05T17:19:14+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CVCJY2V0Y",
+    "name": "martinillo99",
+    "cards": [
+      {
+        "name": "Giant",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-05T17:19:14+00:00"
   }
 ]
