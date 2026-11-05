@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110133,
+  "clanScore": 110107,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2856,
+  "donationsPerWeek": 2882,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -254,28 +254,10 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#C8YV202C",
-      "name": "undertaker",
-      "role": "member",
-      "lastSeen": "20261103T111827.000Z",
-      "expLevel": 0,
-      "trophies": 11769,
-      "arena": {
-        "id": 54000132,
-        "name": "Summit of Heroes",
-        "rawName": "Arena_L14"
-      },
-      "clanRank": 14,
-      "previousClanRank": 14,
-      "donations": 20,
-      "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261105T054347.000Z",
+      "lastSeen": "20261105T075223.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -283,10 +265,28 @@
         "name": "Summit of Heroes",
         "rawName": "Arena_L14"
       },
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 15,
-      "donations": 188,
-      "donationsReceived": 250,
+      "donations": 196,
+      "donationsReceived": 260,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#C8YV202C",
+      "name": "undertaker",
+      "role": "member",
+      "lastSeen": "20261105T083319.000Z",
+      "expLevel": 0,
+      "trophies": 11679,
+      "arena": {
+        "id": 54000132,
+        "name": "Summit of Heroes",
+        "rawName": "Arena_L14"
+      },
+      "clanRank": 15,
+      "previousClanRank": 14,
+      "donations": 38,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 176,
+      "donationsReceived": 192,
       "clanChestPoints": 0
     },
     {
@@ -583,7 +583,7 @@
       "role": "member",
       "lastSeen": "20261105T065914.000Z",
       "expLevel": 0,
-      "trophies": 3860,
+      "trophies": 3831,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",
