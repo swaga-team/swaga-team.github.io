@@ -289,20 +289,11 @@
       {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
-        "fame": 400,
+        "fame": 500,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 3
-      },
-      {
-        "tag": "#LV0GVYYL8",
-        "name": "kkyo",
-        "fame": 600,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 3
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#V0RCP20LR",
@@ -316,6 +307,15 @@
       {
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
+        "fame": 700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#LV0GVYYL8",
+        "name": "kkyo",
         "fame": 700,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -341,7 +341,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4425,
+    "periodPoints": 4625,
     "clanScore": 2155
   },
   "clans": [
@@ -807,20 +807,11 @@
         {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
-          "fame": 400,
+          "fame": 500,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
-          "tag": "#LV0GVYYL8",
-          "name": "kkyo",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#V0RCP20LR",
@@ -834,6 +825,15 @@
         {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#LV0GVYYL8",
+          "name": "kkyo",
           "fame": 700,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -859,7 +859,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4425,
+      "periodPoints": 4625,
       "clanScore": 2155
     },
     {
@@ -1448,15 +1448,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#LVJLCCR2",
           "name": "animals1948",
           "fame": 0,
@@ -1493,6 +1484,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 600,
@@ -1520,7 +1520,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2500,
+      "periodPoints": 3000,
       "clanScore": 2145
     },
     {

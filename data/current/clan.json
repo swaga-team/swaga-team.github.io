@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110142,
+  "clanScore": 110145,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3262,
+  "donationsPerWeek": 3282,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 5,
       "donations": 224,
-      "donationsReceived": 230,
+      "donationsReceived": 250,
       "clanChestPoints": 0
     },
     {
@@ -527,7 +527,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261105T172802.000Z",
+      "lastSeen": "20261105T195349.000Z",
       "expLevel": 0,
       "trophies": 6878,
       "arena": {
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 29,
-      "donations": 100,
+      "donations": 110,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -655,7 +655,7 @@
       "role": "member",
       "lastSeen": "20261105T185654.000Z",
       "expLevel": 0,
-      "trophies": 2847,
+      "trophies": 2875,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
@@ -663,7 +663,7 @@
       },
       "clanRank": 36,
       "previousClanRank": 36,
-      "donations": 22,
+      "donations": 32,
       "donationsReceived": 88,
       "clanChestPoints": 0
     }
