@@ -2368,8 +2368,8 @@
     "trophies": 8769,
     "bestTrophies": 8769,
     "wins": 2640,
-    "losses": 2808,
-    "battleCount": 5448,
+    "losses": 2809,
+    "battleCount": 5449,
     "threeCrownWins": 1645,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
@@ -3271,15 +3271,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3149,
+    "trophies": 3239,
     "bestTrophies": 3397,
-    "wins": 3198,
+    "wins": 3201,
     "losses": 2804,
-    "battleCount": 6002,
-    "threeCrownWins": 2569,
+    "battleCount": 6005,
+    "threeCrownWins": 2572,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20432,
+    "totalDonations": 20440,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3342,11 +3342,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Battle Ram",
+      "name": "Barbarian Hut",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/ho0nOG2y3Ch86elHHcocQs8Fv_QNe0cFJ2CijsxABZA.png"
     }
   },
   "#8LJQ29VPG": {
