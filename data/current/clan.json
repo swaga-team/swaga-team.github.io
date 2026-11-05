@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2802,
+  "donationsPerWeek": 2820,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
       "role": "member",
-      "lastSeen": "20261105T043151.000Z",
+      "lastSeen": "20261105T060402.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,8 +32,8 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 4,
-      "donations": 173,
+      "previousClanRank": 2,
+      "donations": 183,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -50,7 +50,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 6,
+      "previousClanRank": 5,
       "donations": 70,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -68,9 +68,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 5,
+      "previousClanRank": 3,
       "donations": 74,
-      "donationsReceived": 192,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 2,
+      "previousClanRank": 1,
       "donations": 139,
       "donationsReceived": 160,
       "clanChestPoints": 0
@@ -104,7 +104,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 5,
-      "previousClanRank": 1,
+      "previousClanRank": 4,
       "donations": 172,
       "donationsReceived": 190,
       "clanChestPoints": 0
@@ -122,7 +122,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 6,
-      "previousClanRank": 3,
+      "previousClanRank": 6,
       "donations": 107,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -275,7 +275,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261104T195243.000Z",
+      "lastSeen": "20261105T054347.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -285,8 +285,8 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 180,
-      "donationsReceived": 220,
+      "donations": 188,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
@@ -410,7 +410,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 22,
-      "previousClanRank": 22,
+      "previousClanRank": 23,
       "donations": 198,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -428,7 +428,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 23,
-      "previousClanRank": 23,
+      "previousClanRank": 22,
       "donations": 122,
       "donationsReceived": 160,
       "clanChestPoints": 0
