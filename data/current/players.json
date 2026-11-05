@@ -186,7 +186,7 @@
     "threeCrownWins": 1067,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34750,
+    "totalDonations": 34758,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2997,9 +2997,9 @@
     "expLevel": 27,
     "trophies": 6500,
     "bestTrophies": 6514,
-    "wins": 587,
-    "losses": 504,
-    "battleCount": 1091,
+    "wins": 588,
+    "losses": 505,
+    "battleCount": 1093,
     "threeCrownWins": 392,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3026,6 +3026,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Valkyrie",
