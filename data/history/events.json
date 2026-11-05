@@ -2323,5 +2323,41 @@
     "months": 1,
     "approx": true,
     "at": "2026-11-05T01:09:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8LRPG2VPQ",
+    "name": "CHLE N EGRA",
+    "cards": [
+      {
+        "name": "Royal Hogs",
+        "level": 15
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 13
+      },
+      {
+        "name": "Archers",
+        "level": 13
+      },
+      {
+        "name": "Bats",
+        "level": 13
+      },
+      {
+        "name": "Skeleton Army",
+        "level": 13
+      },
+      {
+        "name": "Sparky",
+        "level": 13
+      },
+      {
+        "name": "Minion Giant",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-05T03:59:15+00:00"
   }
 ]

@@ -101,7 +101,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 40993,
+    "totalDonations": 41001,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -272,9 +272,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11031,
-    "losses": 10683,
-    "battleCount": 21714,
+    "wins": 11032,
+    "losses": 10685,
+    "battleCount": 21717,
     "threeCrownWins": 5599,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -353,11 +353,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
+      "name": "Inferno Tower",
+      "rarity": "rare",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/GSHY_wrooMMLET6bG_WJB8redtwx66c4i80ipi4gYOM.png"
     }
   },
   "#R98U8U290": {
@@ -917,12 +917,12 @@
     "trophies": 13138,
     "bestTrophies": 13234,
     "wins": 2370,
-    "losses": 2067,
-    "battleCount": 4437,
+    "losses": 2069,
+    "battleCount": 4439,
     "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15191,
+    "totalDonations": 15207,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -997,11 +997,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#P08LLGYLQ": {
@@ -3691,7 +3691,7 @@
     "threeCrownWins": 1450,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
-    "totalDonations": 18170,
+    "totalDonations": 18194,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
