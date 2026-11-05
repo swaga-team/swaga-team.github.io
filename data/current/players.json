@@ -95,15 +95,15 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3701,
+    "wins": 3702,
     "losses": 2081,
-    "battleCount": 5782,
+    "battleCount": 5783,
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
     "totalDonations": 41029,
     "currentPathOfLegendSeasonResult": {
-      "leagueNumber": 1,
+      "leagueNumber": 2,
       "trophies": 0,
       "rank": null
     },
@@ -279,9 +279,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11038,
-    "losses": 10688,
-    "battleCount": 21726,
+    "wins": 11040,
+    "losses": 10690,
+    "battleCount": 21730,
     "threeCrownWins": 5600,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -1997,11 +1997,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9566,
+    "trophies": 9536,
     "bestTrophies": 9825,
     "wins": 2298,
-    "losses": 2125,
-    "battleCount": 4423,
+    "losses": 2126,
+    "battleCount": 4424,
     "threeCrownWins": 784,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2080,11 +2080,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
-      "rarity": "common",
+      "name": "Golden Knight",
+      "rarity": "champion",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2275,13 +2275,13 @@
     "expLevel": 39,
     "trophies": 9562,
     "bestTrophies": 9562,
-    "wins": 1198,
-    "losses": 1047,
-    "battleCount": 2245,
+    "wins": 1200,
+    "losses": 1054,
+    "battleCount": 2254,
     "threeCrownWins": 672,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4398,
+    "totalDonations": 4416,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2337,8 +2337,8 @@
         "name": "Wall Breakers",
         "rarity": "epic",
         "elixirCost": 2,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/_xPphEfC8eEwFNrfU3cMQG9-f5JaLQ31ARCA7l3XtW4.png"
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/_xPphEfC8eEwFNrfU3cMQG9-f5JaLQ31ARCA7l3XtW4.png"
       },
       {
         "name": "Ice Spirit",
@@ -2356,11 +2356,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Furnace",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Royal Giant",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#22JLP29RV": {
@@ -2912,13 +2912,13 @@
     "expLevel": 39,
     "trophies": 6878,
     "bestTrophies": 6878,
-    "wins": 2516,
-    "losses": 2652,
-    "battleCount": 5168,
-    "threeCrownWins": 1823,
+    "wins": 2518,
+    "losses": 2654,
+    "battleCount": 5172,
+    "threeCrownWins": 1825,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37241,
+    "totalDonations": 37249,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3286,7 +3286,7 @@
     "threeCrownWins": 2572,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20440,
+    "totalDonations": 20458,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
