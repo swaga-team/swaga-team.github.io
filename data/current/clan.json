@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2930,
+  "donationsPerWeek": 2982,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 36,
   "memberList": [
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261105T101018.000Z",
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261105T115526.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 1,
-      "donations": 149,
-      "donationsReceived": 160,
+      "previousClanRank": 4,
+      "donations": 198,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261105T091727.000Z",
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261105T114841.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 4,
-      "donations": 180,
-      "donationsReceived": 230,
+      "previousClanRank": 1,
+      "donations": 157,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261105T075223.000Z",
+      "lastSeen": "20261105T115820.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 196,
+      "donations": 214,
       "donationsReceived": 260,
       "clanChestPoints": 0
     },
@@ -466,7 +466,7 @@
       "clanRank": 25,
       "previousClanRank": 25,
       "donations": 98,
-      "donationsReceived": 40,
+      "donationsReceived": 72,
       "clanChestPoints": 0
     },
     {
@@ -527,7 +527,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261105T104147.000Z",
+      "lastSeen": "20261105T111747.000Z",
       "expLevel": 0,
       "trophies": 6878,
       "arena": {
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 29,
-      "donations": 64,
+      "donations": 72,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -545,7 +545,7 @@
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
-      "lastSeen": "20261105T102553.000Z",
+      "lastSeen": "20261105T112418.000Z",
       "expLevel": 0,
       "trophies": 6500,
       "arena": {
@@ -583,7 +583,7 @@
       "role": "member",
       "lastSeen": "20261105T104501.000Z",
       "expLevel": 0,
-      "trophies": 3800,
+      "trophies": 3804,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",

@@ -1142,11 +1142,11 @@
         {
           "tag": "#20UJ9UGUQP",
           "name": "vulnerablezz",
-          "fame": 0,
+          "fame": 450,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsed": 3,
+          "decksUsedToday": 3
         },
         {
           "tag": "#8PVGVG90Q",
@@ -1158,7 +1158,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 950,
       "clanScore": 2140
     },
     {
@@ -1430,24 +1430,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2LRQVPP0V",
-          "name": "Nikatnyte_2",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#YCPL99V8Y",
-          "name": "koki",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
           "fame": 0,
@@ -1482,9 +1464,27 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2LRQVPP0V",
+          "name": "Nikatnyte_2",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#YCPL99V8Y",
+          "name": "koki",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 900,
       "clanScore": 2145
     },
     {
@@ -1603,15 +1603,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#UQGCLYR8",
           "name": "sonocu",
           "fame": 0,
@@ -1650,15 +1641,6 @@
         {
           "tag": "#2JL088R92",
           "name": "Ҝㄥ乇ᐯ|丂シ",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1736,9 +1718,27 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 775,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 1075,
       "clanScore": 2153
     }
   ],
