@@ -53,6 +53,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#QU8082PC2",
+        "name": "yrikkiller",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 0,
@@ -580,6 +589,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#QU8082PC2",
+          "name": "yrikkiller",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 0,
@@ -969,15 +987,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#ULCYG0VGV",
-          "name": "TheMrPoop",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2YQG8YQV",
           "name": "BADGAME",
           "fame": 0,
@@ -1176,6 +1185,15 @@
           "decksUsedToday": 3
         },
         {
+          "tag": "#ULCYG0VGV",
+          "name": "TheMrPoop",
+          "fame": 325,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#Q08QQGVYP",
           "name": "ANTEK PRABOWO",
           "fame": 400,
@@ -1212,7 +1230,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2075,
+      "periodPoints": 2400,
       "clanScore": 2140
     },
     {
@@ -1747,15 +1765,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#J2QJ9PR80",
           "name": "L$M",
           "fame": 600,
@@ -1783,6 +1792,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#V2YYJY890",
           "name": "Player456",
           "fame": 700,
@@ -1801,7 +1819,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3475,
+      "periodPoints": 3975,
       "clanScore": 2153
     }
   ],
