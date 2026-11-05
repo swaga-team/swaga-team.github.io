@@ -215,15 +215,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#GQQL9YLYQ",
-        "name": "Ter",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#R98U8U290",
         "name": "tenkuu.☁️",
         "fame": 0,
@@ -296,6 +287,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#GQQL9YLYQ",
+        "name": "Ter",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 500,
@@ -350,7 +350,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4775,
+    "periodPoints": 5175,
     "clanScore": 2155
   },
   "clans": [
@@ -470,15 +470,6 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#8Y2PVY8",
-          "name": "Good Like",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 525,
@@ -515,6 +506,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#8Y2PVY8",
+          "name": "Good Like",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#2L8LR0QGU",
           "name": "mr.tvister",
           "fame": 700,
@@ -524,7 +524,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4250,
+      "periodPoints": 4550,
       "clanScore": 2169
     },
     {
@@ -742,15 +742,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GQQL9YLYQ",
-          "name": "Ter",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R98U8U290",
           "name": "tenkuu.☁️",
           "fame": 0,
@@ -823,6 +814,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#GQQL9YLYQ",
+          "name": "Ter",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 500,
@@ -877,7 +877,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4775,
+      "periodPoints": 5175,
       "clanScore": 2155
     },
     {

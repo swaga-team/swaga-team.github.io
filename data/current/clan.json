@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3346,
+  "donationsPerWeek": 3392,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 5,
       "donations": 224,
-      "donationsReceived": 260,
+      "donationsReceived": 270,
       "clanChestPoints": 0
     },
     {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 15,
       "donations": 224,
-      "donationsReceived": 290,
+      "donationsReceived": 300,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 226,
+      "donationsReceived": 234,
       "clanChestPoints": 0
     },
     {
@@ -419,7 +419,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261105T142133.000Z",
+      "lastSeen": "20261105T213933.000Z",
       "expLevel": 0,
       "trophies": 9536,
       "arena": {
@@ -429,7 +429,7 @@
       },
       "clanRank": 23,
       "previousClanRank": 22,
-      "donations": 216,
+      "donations": 262,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -610,7 +610,7 @@
       "clanRank": 33,
       "previousClanRank": 33,
       "donations": 10,
-      "donationsReceived": 10,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
@@ -664,7 +664,7 @@
       "clanRank": 36,
       "previousClanRank": 36,
       "donations": 32,
-      "donationsReceived": 100,
+      "donationsReceived": 108,
       "clanChestPoints": 0
     },
     {
