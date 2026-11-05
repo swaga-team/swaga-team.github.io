@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110107,
+  "clanScore": 110115,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2890,
+  "donationsPerWeek": 2930,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261105T095834.000Z",
+      "lastSeen": "20261105T101018.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 139,
+      "donations": 149,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 4,
       "donations": 180,
-      "donationsReceived": 190,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
@@ -254,6 +254,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#C8YV202C",
+      "name": "undertaker",
+      "role": "member",
+      "lastSeen": "20261105T101045.000Z",
+      "expLevel": 0,
+      "trophies": 11709,
+      "arena": {
+        "id": 54000132,
+        "name": "Summit of Heroes",
+        "rawName": "Arena_L14"
+      },
+      "clanRank": 14,
+      "previousClanRank": 14,
+      "donations": 38,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
@@ -265,28 +283,10 @@
         "name": "Summit of Heroes",
         "rawName": "Arena_L14"
       },
-      "clanRank": 14,
+      "clanRank": 15,
       "previousClanRank": 15,
       "donations": 196,
       "donationsReceived": 260,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#C8YV202C",
-      "name": "undertaker",
-      "role": "member",
-      "lastSeen": "20261105T083319.000Z",
-      "expLevel": 0,
-      "trophies": 11679,
-      "arena": {
-        "id": 54000132,
-        "name": "Summit of Heroes",
-        "rawName": "Arena_L14"
-      },
-      "clanRank": 15,
-      "previousClanRank": 14,
-      "donations": 38,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -455,9 +455,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261103T211810.000Z",
+      "lastSeen": "20261105T105612.000Z",
       "expLevel": 0,
-      "trophies": 9242,
+      "trophies": 9269,
       "arena": {
         "id": 54000020,
         "name": "Valkalla",
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 25,
-      "donations": 88,
+      "donations": 98,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -527,7 +527,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261104T230849.000Z",
+      "lastSeen": "20261105T104147.000Z",
       "expLevel": 0,
       "trophies": 6878,
       "arena": {
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 29,
-      "donations": 54,
+      "donations": 64,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -545,7 +545,7 @@
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
-      "lastSeen": "20261105T095101.000Z",
+      "lastSeen": "20261105T102553.000Z",
       "expLevel": 0,
       "trophies": 6500,
       "arena": {
@@ -581,9 +581,9 @@
       "tag": "#20CY2VYYYY",
       "name": "gigiti",
       "role": "member",
-      "lastSeen": "20261105T065914.000Z",
+      "lastSeen": "20261105T104501.000Z",
       "expLevel": 0,
-      "trophies": 3831,
+      "trophies": 3800,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",
@@ -591,7 +591,7 @@
       },
       "clanRank": 32,
       "previousClanRank": 32,
-      "donations": 0,
+      "donations": 10,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },

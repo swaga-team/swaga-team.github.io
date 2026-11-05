@@ -197,35 +197,8 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#JU2L2U8LG",
-        "name": "адцкий гей",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#QP0PPC0QU",
         "name": "pshkzzz",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#9282CQQ90",
-        "name": "Чушпан",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -321,9 +294,36 @@
         "boatAttacks": 0,
         "decksUsed": 0,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#JU2L2U8LG",
+        "name": "адцкий гей",
+        "fame": 75,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#9282CQQ90",
+        "name": "Чушпан",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
       }
     ],
-    "periodPoints": 0,
+    "periodPoints": 375,
     "clanScore": 2155
   },
   "clans": [
@@ -334,6 +334,15 @@
       "fame": 0,
       "repairPoints": 0,
       "participants": [
+        {
+          "tag": "#URYCJPG02",
+          "name": "Sascke",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
         {
           "tag": "#2YGGRCP00",
           "name": "kjjo",
@@ -364,15 +373,6 @@
         {
           "tag": "#8Y2PVY8",
           "name": "Good Like",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#PRQC0GRRU",
-          "name": "Brunhgilda",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -425,15 +425,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QQYVQG22G",
-          "name": "ecko",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R00CLL2Q",
           "name": "TWIX",
           "fame": 0,
@@ -479,16 +470,34 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2L8LR0QGU",
-          "name": "mr.tvister",
+          "tag": "#PRQC0GRRU",
+          "name": "Brunhgilda",
+          "fame": 525,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#QQYVQG22G",
+          "name": "ecko",
           "fame": 600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#2L8LR0QGU",
+          "name": "mr.tvister",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 600,
+      "periodPoints": 1825,
       "clanScore": 2169
     },
     {
@@ -688,35 +697,8 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#JU2L2U8LG",
-          "name": "адцкий гей",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#QP0PPC0QU",
           "name": "pshkzzz",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#9282CQQ90",
-          "name": "Чушпан",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -812,9 +794,36 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#JU2L2U8LG",
+          "name": "адцкий гей",
+          "fame": 75,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#9282CQQ90",
+          "name": "Чушпан",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 375,
       "clanScore": 2155
     },
     {

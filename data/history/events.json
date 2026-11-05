@@ -2443,5 +2443,69 @@
       }
     ],
     "at": "2026-11-05T10:09:44+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "Giant Snowball",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-05T11:10:01+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#20CY2VYYYY",
+    "name": "gigiti",
+    "cards": [
+      {
+        "name": "Minion Horde",
+        "level": 11
+      },
+      {
+        "name": "Sparky",
+        "level": 10
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 9
+      },
+      {
+        "name": "Ice Spirit",
+        "level": 9
+      },
+      {
+        "name": "Tesla",
+        "level": 9
+      },
+      {
+        "name": "Fire Spirit",
+        "level": 8
+      },
+      {
+        "name": "Goblin Barrel",
+        "level": 8
+      },
+      {
+        "name": "Ice Golem",
+        "level": 8
+      },
+      {
+        "name": "X-Bow",
+        "level": 8
+      },
+      {
+        "name": "Wall Breakers",
+        "level": 8
+      },
+      {
+        "name": "Earthquake",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-05T11:10:01+00:00"
   }
 ]
