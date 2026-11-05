@@ -272,13 +272,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11034,
-    "losses": 10686,
-    "battleCount": 21720,
-    "threeCrownWins": 5599,
+    "wins": 11038,
+    "losses": 10688,
+    "battleCount": 21726,
+    "threeCrownWins": 5600,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138579,
+    "totalDonations": 138597,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2925,
-    "losses": 2508,
-    "battleCount": 5433,
-    "threeCrownWins": 1104,
+    "wins": 2928,
+    "losses": 2510,
+    "battleCount": 5438,
+    "threeCrownWins": 1105,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15499,
+    "totalDonations": 15507,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1106,7 +1106,7 @@
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 22427,
+    "totalDonations": 22437,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1129,13 +1129,6 @@
         "elixirCost": 7,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Battle Ram",
@@ -1723,10 +1716,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2500,
-    "losses": 2196,
-    "battleCount": 4696,
-    "threeCrownWins": 895,
+    "wins": 2507,
+    "losses": 2198,
+    "battleCount": 4705,
+    "threeCrownWins": 897,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -1804,11 +1797,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Sparky",
+      "rarity": "legendary",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -3523,11 +3516,11 @@
   },
   "#20CY2VYYYY": {
     "expLevel": 1,
-    "trophies": 3830,
-    "bestTrophies": 3830,
-    "wins": 387,
+    "trophies": 3860,
+    "bestTrophies": 3860,
+    "wins": 388,
     "losses": 372,
-    "battleCount": 759,
+    "battleCount": 760,
     "threeCrownWins": 177,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3594,11 +3587,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Minions",
-      "rarity": "common",
+      "name": "Princess",
+      "rarity": "legendary",
       "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
     }
   },
   "#VJQQLCJP8": {
@@ -3959,12 +3952,12 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3227,
-    "bestTrophies": 3227,
-    "wins": 343,
+    "trophies": 3314,
+    "bestTrophies": 3314,
+    "wins": 346,
     "losses": 271,
-    "battleCount": 614,
-    "threeCrownWins": 190,
+    "battleCount": 617,
+    "threeCrownWins": 192,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -4030,11 +4023,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Goblin Gang",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
     }
   },
   "#C8YV202C": {

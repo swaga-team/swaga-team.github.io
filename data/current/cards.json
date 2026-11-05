@@ -18277,7 +18277,7 @@
       0
     ],
     "Giant": [
-      9,
+      10,
       0
     ],
     "Mini P.E.K.K.A": [
@@ -18417,7 +18417,7 @@
       0
     ],
     "Royal Giant": [
-      7,
+      8,
       0
     ],
     "Three Musketeers": [
@@ -18541,7 +18541,7 @@
       0
     ],
     "Zappies": [
-      7,
+      8,
       0
     ],
     "Hunter": [
@@ -18553,11 +18553,19 @@
       0
     ],
     "Electro Dragon": [
-      6,
+      8,
       0
     ],
     "Wall Breakers": [
       6,
+      0
+    ],
+    "Princess": [
+      9,
+      0
+    ],
+    "Earthquake": [
+      3,
       0
     ]
   },
@@ -20335,7 +20343,7 @@
       0
     ],
     "Minions": [
-      7,
+      8,
       0
     ],
     "Goblins": [
@@ -20519,7 +20527,7 @@
       0
     ],
     "Minion Giant": [
-      7,
+      8,
       0
     ],
     "Goblin Giant": [
@@ -20571,7 +20579,7 @@
       0
     ],
     "Hunter": [
-      8,
+      9,
       0
     ]
   },

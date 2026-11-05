@@ -2359,5 +2359,49 @@
       }
     ],
     "at": "2026-11-05T03:59:15+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#20CY2VYYYY",
+    "name": "gigiti",
+    "cards": [
+      {
+        "name": "Giant",
+        "level": 10
+      },
+      {
+        "name": "Royal Giant",
+        "level": 8
+      },
+      {
+        "name": "Zappies",
+        "level": 8
+      },
+      {
+        "name": "Electro Dragon",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-05T07:24:19+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CVCJY2V0Y",
+    "name": "martinillo99",
+    "cards": [
+      {
+        "name": "Hunter",
+        "level": 9
+      },
+      {
+        "name": "Minions",
+        "level": 8
+      },
+      {
+        "name": "Minion Giant",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-05T07:24:19+00:00"
   }
 ]
