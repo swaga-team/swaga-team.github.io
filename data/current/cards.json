@@ -17951,11 +17951,11 @@
   },
   "#VGVQG0CVG": {
     "Knight": [
-      8,
+      9,
       0
     ],
     "Archers": [
-      9,
+      10,
       1
     ],
     "Minions": [
@@ -17991,11 +17991,11 @@
       0
     ],
     "Goblins": [
-      7,
+      8,
       0
     ],
     "Goblin Cage": [
-      9,
+      10,
       1
     ],
     "Tombstone": [
@@ -18019,7 +18019,7 @@
       0
     ],
     "Cannon": [
-      7,
+      8,
       0
     ],
     "Mega Minion": [
@@ -18051,7 +18051,7 @@
       0
     ],
     "Fire Spirit": [
-      7,
+      8,
       0
     ],
     "Electro Spirit": [
@@ -18083,7 +18083,7 @@
       0
     ],
     "Goblin Curse": [
-      8,
+      9,
       0
     ],
     "Flying Machine": [
@@ -18111,7 +18111,7 @@
       0
     ],
     "Elite Barbarians": [
-      3,
+      4,
       1
     ],
     "Witch": [
@@ -18151,7 +18151,7 @@
       0
     ],
     "Vines": [
-      8,
+      9,
       0
     ],
     "Ice Golem": [
@@ -18207,7 +18207,7 @@
       0
     ],
     "Goblin Giant": [
-      8,
+      9,
       0
     ],
     "Poison": [
@@ -18223,7 +18223,7 @@
       0
     ],
     "Zappies": [
-      7,
+      8,
       0
     ],
     "X-Bow": [
@@ -18239,7 +18239,7 @@
       0
     ],
     "Golem": [
-      8,
+      9,
       0
     ],
     "Electro Wizard": [
@@ -18251,6 +18251,10 @@
       0
     ],
     "Inferno Dragon": [
+      10,
+      0
+    ],
+    "Miner": [
       9,
       0
     ]
@@ -21078,6 +21082,96 @@
     ],
     "Minion Giant": [
       10,
+      0
+    ]
+  },
+  "#J0VGQP9PY": {
+    "Knight": [
+      7,
+      0
+    ],
+    "Archers": [
+      7,
+      0
+    ],
+    "Minions": [
+      3,
+      0
+    ],
+    "Arrows": [
+      4,
+      0
+    ],
+    "Fireball": [
+      4,
+      0
+    ],
+    "Giant": [
+      6,
+      0
+    ],
+    "Musketeer": [
+      5,
+      0
+    ],
+    "Mini P.E.K.K.A": [
+      7,
+      0
+    ],
+    "Spear Goblins": [
+      7,
+      0
+    ],
+    "Goblin Cage": [
+      7,
+      0
+    ],
+    "Skeletons": [
+      8,
+      0
+    ],
+    "Tombstone": [
+      5,
+      0
+    ],
+    "Goblins": [
+      6,
+      0
+    ],
+    "Valkyrie": [
+      6,
+      0
+    ],
+    "Cannon": [
+      7,
+      0
+    ],
+    "Barbarians": [
+      5,
+      0
+    ],
+    "Bomber": [
+      7,
+      0
+    ],
+    "Goblin Hut": [
+      5,
+      0
+    ],
+    "Battle Ram": [
+      8,
+      0
+    ],
+    "Mega Minion": [
+      5,
+      0
+    ],
+    "Inferno Tower": [
+      7,
+      0
+    ],
+    "Bomb Tower": [
+      7,
       0
     ]
   }

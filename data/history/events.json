@@ -2599,5 +2599,71 @@
       }
     ],
     "at": "2026-11-05T19:58:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VGVQG0CVG",
+    "name": "¿ G1ntex21 ?",
+    "cards": [
+      {
+        "name": "Archers",
+        "level": 10
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 10
+      },
+      {
+        "name": "Inferno Dragon",
+        "level": 10
+      },
+      {
+        "name": "Knight",
+        "level": 9
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 9
+      },
+      {
+        "name": "Vines",
+        "level": 9
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 9
+      },
+      {
+        "name": "Golem",
+        "level": 9
+      },
+      {
+        "name": "Goblins",
+        "level": 8
+      },
+      {
+        "name": "Cannon",
+        "level": 8
+      },
+      {
+        "name": "Fire Spirit",
+        "level": 8
+      },
+      {
+        "name": "Zappies",
+        "level": 8
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 4
+      }
+    ],
+    "at": "2026-11-05T20:55:06+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#J0VGQP9PY",
+    "name": "алиса спийс❤️",
+    "at": "2026-11-05T20:55:06+00:00"
   }
 ]

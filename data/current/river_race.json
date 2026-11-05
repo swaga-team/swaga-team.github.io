@@ -260,6 +260,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#J0VGQP9PY",
+        "name": "алиса спийс❤️",
+        "fame": 150,
+        "repairPoints": 0,
+        "boatAttacks": 2,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
         "fame": 200,
@@ -341,7 +350,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4625,
+    "periodPoints": 4775,
     "clanScore": 2155
   },
   "clans": [
@@ -373,15 +382,6 @@
         {
           "tag": "#VL28PPQJ2",
           "name": "Bulba",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#8Y2PVY8",
-          "name": "Good Like",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -470,6 +470,15 @@
           "decksUsedToday": 3
         },
         {
+          "tag": "#8Y2PVY8",
+          "name": "Good Like",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 525,
@@ -515,7 +524,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3850,
+      "periodPoints": 4250,
       "clanScore": 2169
     },
     {
@@ -778,6 +787,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#J0VGQP9PY",
+          "name": "алиса спийс❤️",
+          "fame": 150,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
           "fame": 200,
@@ -859,7 +877,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4625,
+      "periodPoints": 4775,
       "clanScore": 2155
     },
     {
@@ -1484,15 +1502,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 600,
@@ -1518,9 +1527,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3000,
+      "periodPoints": 3200,
       "clanScore": 2145
     },
     {
