@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 110262,
+  "clanScore": 110266,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -398,6 +398,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261105T224600.000Z",
+      "expLevel": 0,
+      "trophies": 9567,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 22,
+      "previousClanRank": 22,
+      "donations": 262,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -409,28 +427,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 22,
+      "clanRank": 23,
       "previousClanRank": 23,
       "donations": 140,
       "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261105T213933.000Z",
-      "expLevel": 0,
-      "trophies": 9536,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 23,
-      "previousClanRank": 22,
-      "donations": 262,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {

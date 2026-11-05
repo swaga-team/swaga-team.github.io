@@ -287,17 +287,17 @@
         "decksUsedToday": 1
       },
       {
-        "tag": "#GQQL9YLYQ",
-        "name": "Ter",
-        "fame": 400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 3
-      },
-      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#GQQL9YLYQ",
+        "name": "Ter",
         "fame": 500,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -350,7 +350,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5175,
+    "periodPoints": 5275,
     "clanScore": 2155
   },
   "clans": [
@@ -814,17 +814,17 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#GQQL9YLYQ",
-          "name": "Ter",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#GQQL9YLYQ",
+          "name": "Ter",
           "fame": 500,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -877,7 +877,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5175,
+      "periodPoints": 5275,
       "clanScore": 2155
     },
     {
@@ -1558,8 +1558,8 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
+          "tag": "#QCVJPQ0PY",
+          "name": "2.6Hograta",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1747,6 +1747,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#J2QJ9PR80",
           "name": "L$M",
           "fame": 600,
@@ -1792,7 +1801,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3275,
+      "periodPoints": 3475,
       "clanScore": 2153
     }
   ],
