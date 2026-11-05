@@ -107,15 +107,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJQQLCJP8",
-        "name": "Генри lll",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#Q2RJCVYUQ",
         "name": "NEVIDIMKA YT",
         "fame": 0,
@@ -145,15 +136,6 @@
       {
         "tag": "#P08LLGYLQ",
         "name": "Luka13",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#222YY9YCC",
-        "name": "king abolfazl",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -206,6 +188,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#228RUQRC2Q",
+        "name": "CHAPALA",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 0,
@@ -251,15 +242,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9GVPRJQLL",
         "name": "NovaZonday",
         "fame": 0,
@@ -276,6 +258,15 @@
         "boatAttacks": 1,
         "decksUsed": 1,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#222YY9YCC",
+        "name": "king abolfazl",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
       },
       {
         "tag": "#CGPUY8P2",
@@ -296,6 +287,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#VJQQLCJP8",
+        "name": "Генри lll",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
         "fame": 600,
@@ -303,6 +303,15 @@
         "boatAttacks": 0,
         "decksUsed": 3,
         "decksUsedToday": 3
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 650,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PQQ2JYL2G",
@@ -332,7 +341,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 3175,
+    "periodPoints": 4425,
     "clanScore": 2155
   },
   "clans": [
@@ -616,15 +625,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJQQLCJP8",
-          "name": "Генри lll",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
           "fame": 0,
@@ -654,15 +654,6 @@
         {
           "tag": "#P08LLGYLQ",
           "name": "Luka13",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#222YY9YCC",
-          "name": "king abolfazl",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -715,6 +706,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#228RUQRC2Q",
+          "name": "CHAPALA",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 0,
@@ -760,15 +760,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9GVPRJQLL",
           "name": "NovaZonday",
           "fame": 0,
@@ -785,6 +776,15 @@
           "boatAttacks": 1,
           "decksUsed": 1,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#222YY9YCC",
+          "name": "king abolfazl",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#CGPUY8P2",
@@ -805,6 +805,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#VJQQLCJP8",
+          "name": "Генри lll",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#LV0GVYYL8",
           "name": "kkyo",
           "fame": 600,
@@ -812,6 +821,15 @@
           "boatAttacks": 0,
           "decksUsed": 3,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 650,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PQQ2JYL2G",
@@ -841,7 +859,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3175,
+      "periodPoints": 4425,
       "clanScore": 2155
     },
     {
@@ -1549,15 +1567,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V2YYJY890",
-          "name": "Player456",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V9GUL2JYP",
           "name": "3DNEVEL",
           "fame": 0,
@@ -1747,6 +1756,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#V2YYJY890",
+          "name": "Player456",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 775,
@@ -1756,7 +1774,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2575,
+      "periodPoints": 3275,
       "clanScore": 2153
     }
   ],
