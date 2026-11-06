@@ -524,15 +524,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QQYVQG22G",
-          "name": "ecko",
-          "fame": 1000,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 1125,
@@ -544,6 +535,15 @@
         {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#QQYVQG22G",
+          "name": "ecko",
           "fame": 1200,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -569,7 +569,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2900,
+      "periodPoints": 3100,
       "clanScore": 2169
     },
     {
@@ -1459,6 +1459,15 @@
         {
           "tag": "#U2VJ0L8V2",
           "name": "IGRAQ_NA_DEBELO",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#2UYQUGU00",
+          "name": "reg3",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
