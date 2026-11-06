@@ -298,11 +298,11 @@
       {
         "tag": "#JU2L2U8LG",
         "name": "адцкий гей",
-        "fame": 525,
+        "fame": 650,
         "repairPoints": 0,
-        "boatAttacks": 1,
-        "decksUsed": 4,
-        "decksUsedToday": 0
+        "boatAttacks": 2,
+        "decksUsed": 5,
+        "decksUsedToday": 1
       },
       {
         "tag": "#QP0PPC0QU",
@@ -317,15 +317,6 @@
         "tag": "#V0RCP20LR",
         "name": "подписични черв",
         "fame": 650,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#9JQ8PCJ",
-        "name": "lastiq",
-        "fame": 700,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 4,
@@ -377,6 +368,15 @@
         "decksUsedToday": 4
       },
       {
+        "tag": "#9JQ8PCJ",
+        "name": "lastiq",
+        "fame": 1400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#8LRPG2VPQ",
         "name": "CHLE N EGRA",
         "fame": 1400,
@@ -386,7 +386,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 3900,
+    "periodPoints": 4725,
     "clanScore": 2155
   },
   "clans": [
@@ -861,11 +861,11 @@
         {
           "tag": "#JU2L2U8LG",
           "name": "адцкий гей",
-          "fame": 525,
+          "fame": 650,
           "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "boatAttacks": 2,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#QP0PPC0QU",
@@ -880,15 +880,6 @@
           "tag": "#V0RCP20LR",
           "name": "подписични черв",
           "fame": 650,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#9JQ8PCJ",
-          "name": "lastiq",
-          "fame": 700,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
@@ -940,6 +931,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#9JQ8PCJ",
+          "name": "lastiq",
+          "fame": 1400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8LRPG2VPQ",
           "name": "CHLE N EGRA",
           "fame": 1400,
@@ -949,7 +949,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3900,
+      "periodPoints": 4725,
       "clanScore": 2155
     },
     {

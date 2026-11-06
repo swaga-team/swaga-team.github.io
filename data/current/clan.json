@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114032,
+  "clanScore": 114049,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -20,10 +20,10 @@
   "members": 40,
   "memberList": [
     {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261106T114149.000Z",
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261106T124919.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 4,
-      "donations": 262,
-      "donationsReceived": 310,
+      "previousClanRank": 2,
+      "donations": 92,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
       "role": "member",
-      "lastSeen": "20261106T113643.000Z",
+      "lastSeen": "20261106T124024.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -56,10 +56,10 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261106T111323.000Z",
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261106T123927.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -68,9 +68,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 2,
-      "donations": 92,
-      "donationsReceived": 240,
+      "previousClanRank": 4,
+      "donations": 262,
+      "donationsReceived": 310,
       "clanChestPoints": 0
     },
     {
@@ -203,9 +203,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261106T112219.000Z",
+      "lastSeen": "20261106T130641.000Z",
       "expLevel": 0,
-      "trophies": 13168,
+      "trophies": 13227,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -473,9 +473,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261106T115634.000Z",
+      "lastSeen": "20261106T120629.000Z",
       "expLevel": 0,
-      "trophies": 9336,
+      "trophies": 9335,
       "arena": {
         "id": 54000020,
         "name": "Valkalla",
@@ -491,7 +491,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261106T051013.000Z",
+      "lastSeen": "20261106T125916.000Z",
       "expLevel": 0,
       "trophies": 8769,
       "arena": {
@@ -527,7 +527,7 @@
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
-      "lastSeen": "20261106T115014.000Z",
+      "lastSeen": "20261106T120457.000Z",
       "expLevel": 0,
       "trophies": 8295,
       "arena": {
@@ -545,7 +545,7 @@
       "tag": "#8RYCGVUV0",
       "name": "PARADOHA",
       "role": "member",
-      "lastSeen": "20261106T105330.000Z",
+      "lastSeen": "20261106T121742.000Z",
       "expLevel": 0,
       "trophies": 7688,
       "arena": {
@@ -635,9 +635,9 @@
       "tag": "#20CY2VYYYY",
       "name": "gigiti",
       "role": "member",
-      "lastSeen": "20261106T074500.000Z",
+      "lastSeen": "20261106T121738.000Z",
       "expLevel": 0,
-      "trophies": 3836,
+      "trophies": 3867,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",
