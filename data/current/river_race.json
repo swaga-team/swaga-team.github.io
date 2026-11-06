@@ -242,15 +242,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9282CQQ90",
         "name": "Чушпан",
         "fame": 300,
@@ -287,15 +278,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#GQQL9YLYQ",
-        "name": "Ter",
-        "fame": 500,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#JU2L2U8LG",
         "name": "адцкий гей",
         "fame": 650,
@@ -323,6 +305,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 5,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#U0QJL29PY",
         "name": "egor",
         "fame": 700,
@@ -334,6 +325,15 @@
       {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
+        "fame": 900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#GQQL9YLYQ",
+        "name": "Ter",
         "fame": 900,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -386,7 +386,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4925,
+    "periodPoints": 5725,
     "clanScore": 2155
   },
   "clans": [
@@ -506,27 +506,9 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R00Q2G2LV",
-          "name": "Kozolkazya",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YVCPRVC88",
           "name": "Thunder ⚡",
           "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#2L8LR0QGU",
-          "name": "mr.tvister",
-          "fame": 700,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
@@ -542,11 +524,29 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#R00Q2G2LV",
+          "name": "Kozolkazya",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 6,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 1125,
           "repairPoints": 0,
           "boatAttacks": 3,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#2L8LR0QGU",
+          "name": "mr.tvister",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 4
         },
@@ -560,7 +560,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1500,
+      "periodPoints": 2400,
       "clanScore": 2169
     },
     {
@@ -805,15 +805,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9282CQQ90",
           "name": "Чушпан",
           "fame": 300,
@@ -850,15 +841,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#GQQL9YLYQ",
-          "name": "Ter",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#JU2L2U8LG",
           "name": "адцкий гей",
           "fame": 650,
@@ -886,6 +868,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#U0QJL29PY",
           "name": "egor",
           "fame": 700,
@@ -897,6 +888,15 @@
         {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#GQQL9YLYQ",
+          "name": "Ter",
           "fame": 900,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -949,7 +949,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4925,
+      "periodPoints": 5725,
       "clanScore": 2155
     },
     {
@@ -1061,6 +1061,15 @@
         {
           "tag": "#QU02RQUC",
           "name": "rc144",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#VR2JQQ2LG",
+          "name": "fffff",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1621,14 +1630,14 @@
         {
           "tag": "#VJGYGPPL9",
           "name": "pacs",
-          "fame": 800,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 1
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 100,
+      "periodPoints": 600,
       "clanScore": 2145
     },
     {
