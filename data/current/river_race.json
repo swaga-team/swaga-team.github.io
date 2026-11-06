@@ -44,15 +44,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PLUQRR22G",
-        "name": "ветмо",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#QU8082PC2",
         "name": "yrikkiller",
         "fame": 0,
@@ -188,8 +179,8 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
+        "tag": "#PQQGRL028",
+        "name": "govnoed",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -213,15 +204,6 @@
         "boatAttacks": 0,
         "decksUsed": 0,
         "decksUsedToday": 0
-      },
-      {
-        "tag": "#JU2L2U8LG",
-        "name": "адцкий гей",
-        "fame": 75,
-        "repairPoints": 0,
-        "boatAttacks": 1,
-        "decksUsed": 1,
-        "decksUsedToday": 1
       },
       {
         "tag": "#Q2RJCVYUQ",
@@ -287,6 +269,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#PLUQRR22G",
+        "name": "ветмо",
+        "fame": 375,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 500,
@@ -301,6 +292,15 @@
         "fame": 500,
         "repairPoints": 0,
         "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#JU2L2U8LG",
+        "name": "адцкий гей",
+        "fame": 525,
+        "repairPoints": 0,
+        "boatAttacks": 1,
         "decksUsed": 4,
         "decksUsedToday": 4
       },
@@ -366,9 +366,18 @@
         "boatAttacks": 0,
         "decksUsed": 4,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6925,
+    "periodPoints": 8450,
     "clanScore": 2155
   },
   "clans": [
@@ -589,15 +598,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PLUQRR22G",
-          "name": "ветмо",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#QU8082PC2",
           "name": "yrikkiller",
           "fame": 0,
@@ -733,8 +733,8 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
+          "tag": "#PQQGRL028",
+          "name": "govnoed",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -758,15 +758,6 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
-        },
-        {
-          "tag": "#JU2L2U8LG",
-          "name": "адцкий гей",
-          "fame": 75,
-          "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 1,
-          "decksUsedToday": 1
         },
         {
           "tag": "#Q2RJCVYUQ",
@@ -832,6 +823,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#PLUQRR22G",
+          "name": "ветмо",
+          "fame": 375,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 500,
@@ -846,6 +846,15 @@
           "fame": 500,
           "repairPoints": 0,
           "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#JU2L2U8LG",
+          "name": "адцкий гей",
+          "fame": 525,
+          "repairPoints": 0,
+          "boatAttacks": 1,
           "decksUsed": 4,
           "decksUsedToday": 4
         },
@@ -911,9 +920,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6925,
+      "periodPoints": 8450,
       "clanScore": 2155
     },
     {
@@ -1475,15 +1493,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GGGYLVJQ",
-          "name": "Горни Дъбник 79",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#LLYQRGQ80",
           "name": "stoqn kolev 69",
           "fame": 0,
@@ -1538,6 +1547,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#GGGYLVJQ",
+          "name": "Горни Дъбник 79",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#20VV8YGUGY",
           "name": "Кондьо играча",
           "fame": 500,
@@ -1583,7 +1601,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3700,
+      "periodPoints": 4200,
       "clanScore": 2145
     },
     {
