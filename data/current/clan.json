@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3440,
+  "donationsPerWeek": 3450,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 38,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261106T035610.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 191,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 244,
       "donationsReceived": 270,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 4,
       "donations": 195,
       "donationsReceived": 200,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 92,
       "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261105T141057.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 1,
-      "donations": 191,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -365,7 +365,7 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261103T203727.000Z",
+      "lastSeen": "20261106T035342.000Z",
       "expLevel": 0,
       "trophies": 10053,
       "arena": {
@@ -375,7 +375,7 @@
       },
       "clanRank": 20,
       "previousClanRank": 20,
-      "donations": 36,
+      "donations": 46,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 24,
       "donations": 134,
-      "donationsReceived": 180,
+      "donationsReceived": 190,
       "clanChestPoints": 0
     },
     {
