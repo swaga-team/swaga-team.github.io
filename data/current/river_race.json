@@ -53,15 +53,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9RJPRQLL2",
-        "name": "Morj",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#JGL98Q9G2",
         "name": "(LP)Wasabi",
         "fame": 0,
@@ -215,15 +206,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#8UCG80RYR",
-        "name": "Daisy Sprout",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 2,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PQQGRL028",
         "name": "govnoed",
         "fame": 200,
@@ -249,6 +231,15 @@
         "boatAttacks": 0,
         "decksUsed": 2,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#9RJPRQLL2",
+        "name": "Morj",
+        "fame": 350,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PLUQRR22G",
@@ -323,6 +314,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#8UCG80RYR",
+        "name": "Daisy Sprout",
+        "fame": 825,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 5,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 900,
@@ -386,7 +386,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5725,
+    "periodPoints": 6700,
     "clanScore": 2155
   },
   "clans": [
@@ -616,15 +616,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9RJPRQLL2",
-          "name": "Morj",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#JGL98Q9G2",
           "name": "(LP)Wasabi",
           "fame": 0,
@@ -778,15 +769,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8UCG80RYR",
-          "name": "Daisy Sprout",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PQQGRL028",
           "name": "govnoed",
           "fame": 200,
@@ -812,6 +794,15 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#9RJPRQLL2",
+          "name": "Morj",
+          "fame": 350,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PLUQRR22G",
@@ -886,6 +877,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#8UCG80RYR",
+          "name": "Daisy Sprout",
+          "fame": 825,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 5,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 900,
@@ -949,7 +949,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5725,
+      "periodPoints": 6700,
       "clanScore": 2155
     },
     {
@@ -1601,15 +1601,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YCPL99V8Y",
-          "name": "koki",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 700,
@@ -1617,6 +1608,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#YCPL99V8Y",
+          "name": "koki",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#CV2U2P9UU",
@@ -1637,7 +1637,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 600,
+      "periodPoints": 700,
       "clanScore": 2145
     },
     {
@@ -1864,15 +1864,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V2YYJY890",
-          "name": "Player456",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 900,
@@ -1898,9 +1889,18 @@
           "boatAttacks": 3,
           "decksUsed": 8,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V2YYJY890",
+          "name": "Player456",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 950,
+      "periodPoints": 1450,
       "clanScore": 2153
     }
   ],

@@ -2988,5 +2988,117 @@
       }
     ],
     "at": "2026-11-06T16:56:58+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Prince",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-06T18:57:23+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9282CQQ90",
+    "name": "Чушпан",
+    "cards": [
+      {
+        "name": "Spear Goblins",
+        "level": 13
+      },
+      {
+        "name": "Skeleton Barrel",
+        "level": 12
+      },
+      {
+        "name": "Arrows",
+        "level": 12
+      },
+      {
+        "name": "Dark Prince",
+        "level": 12
+      },
+      {
+        "name": "Cannon",
+        "level": 12
+      },
+      {
+        "name": "Fire Spirit",
+        "level": 12
+      },
+      {
+        "name": "Bomber",
+        "level": 12
+      },
+      {
+        "name": "Rage",
+        "level": 11
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 11
+      },
+      {
+        "name": "Skeleton Dragons",
+        "level": 11
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 11
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 11
+      },
+      {
+        "name": "Archers",
+        "level": 11
+      },
+      {
+        "name": "Lightning",
+        "level": 10
+      },
+      {
+        "name": "Mirror",
+        "level": 10
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 10
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 10
+      },
+      {
+        "name": "Goblins",
+        "level": 10
+      },
+      {
+        "name": "Berserker",
+        "level": 8
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 7
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 7
+      },
+      {
+        "name": "Void",
+        "level": 7
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 2
+      }
+    ],
+    "at": "2026-11-06T18:57:23+00:00"
   }
 ]
