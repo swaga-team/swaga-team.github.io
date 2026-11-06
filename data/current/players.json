@@ -272,9 +272,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11045,
-    "losses": 10693,
-    "battleCount": 21738,
+    "wins": 11046,
+    "losses": 10694,
+    "battleCount": 21740,
     "threeCrownWins": 5602,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -353,11 +353,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#R98U8U290": {
@@ -824,13 +824,13 @@
     "expLevel": 58,
     "trophies": 13435,
     "bestTrophies": 13435,
-    "wins": 2337,
-    "losses": 1656,
-    "battleCount": 3993,
-    "threeCrownWins": 602,
+    "wins": 2341,
+    "losses": 1658,
+    "battleCount": 3999,
+    "threeCrownWins": 603,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30501,
+    "totalDonations": 30509,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -905,11 +905,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dart Goblin",
-      "rarity": "rare",
-      "elixirCost": 3,
+      "name": "Tesla",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -1454,13 +1454,13 @@
     "expLevel": 48,
     "trophies": 11677,
     "bestTrophies": 11731,
-    "wins": 2264,
-    "losses": 2468,
-    "battleCount": 4732,
-    "threeCrownWins": 1079,
+    "wins": 2268,
+    "losses": 2470,
+    "battleCount": 4738,
+    "threeCrownWins": 1080,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12665,
+    "totalDonations": 12683,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1535,11 +1535,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#YR2GG8C2": {
@@ -2181,15 +2181,15 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9302,
-    "bestTrophies": 9332,
-    "wins": 1034,
+    "trophies": 9365,
+    "bestTrophies": 9365,
+    "wins": 1036,
     "losses": 813,
-    "battleCount": 1847,
+    "battleCount": 1849,
     "threeCrownWins": 527,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3379,
+    "totalDonations": 3395,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2264,11 +2264,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Mini P.E.K.K.A",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#CJR008LV9": {
@@ -2304,13 +2304,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2919,13 +2912,13 @@
     "expLevel": 39,
     "trophies": 6878,
     "bestTrophies": 6878,
-    "wins": 2530,
-    "losses": 2660,
-    "battleCount": 5190,
-    "threeCrownWins": 1833,
+    "wins": 2531,
+    "losses": 2661,
+    "battleCount": 5192,
+    "threeCrownWins": 1834,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37279,
+    "totalDonations": 37295,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3537,11 +3530,11 @@
   },
   "#20CY2VYYYY": {
     "expLevel": 1,
-    "trophies": 3804,
+    "trophies": 3836,
     "bestTrophies": 3861,
-    "wins": 390,
+    "wins": 391,
     "losses": 381,
-    "battleCount": 771,
+    "battleCount": 772,
     "threeCrownWins": 177,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3791,9 +3784,9 @@
     "expLevel": 60,
     "trophies": 13029,
     "bestTrophies": 13061,
-    "wins": 2019,
+    "wins": 2020,
     "losses": 1671,
-    "battleCount": 3690,
+    "battleCount": 3691,
     "threeCrownWins": 647,
     "warDayWins": 2,
     "clanCardsCollected": 10990,
@@ -3872,11 +3865,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Gang",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#RYRY0V89G": {
@@ -4053,15 +4046,15 @@
   },
   "#C8YV202C": {
     "expLevel": 43,
-    "trophies": 11745,
-    "bestTrophies": 11864,
-    "wins": 1841,
-    "losses": 1778,
-    "battleCount": 3619,
-    "threeCrownWins": 1018,
+    "trophies": 11840,
+    "bestTrophies": 11868,
+    "wins": 1845,
+    "losses": 1779,
+    "battleCount": 3624,
+    "threeCrownWins": 1019,
     "warDayWins": 7,
     "clanCardsCollected": 16317,
-    "totalDonations": 5512,
+    "totalDonations": 5538,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4136,11 +4129,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Wizard",
+      "rarity": "rare",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#J0VGQP9PY": {
@@ -4317,15 +4310,15 @@
   },
   "#PQQGRL028": {
     "expLevel": 68,
-    "trophies": 13442,
-    "bestTrophies": 13442,
-    "wins": 1757,
-    "losses": 1136,
-    "battleCount": 2893,
-    "threeCrownWins": 809,
+    "trophies": 13625,
+    "bestTrophies": 13714,
+    "wins": 1767,
+    "losses": 1140,
+    "battleCount": 2907,
+    "threeCrownWins": 812,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 27585,
+    "totalDonations": 27609,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

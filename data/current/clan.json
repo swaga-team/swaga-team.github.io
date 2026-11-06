@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 112918,
+  "clanScore": 113043,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3708,
+  "donationsPerWeek": 3816,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 2,
       "donations": 92,
-      "donationsReceived": 216,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -149,17 +149,17 @@
       "tag": "#PQQGRL028",
       "name": "govnoed",
       "role": "member",
-      "lastSeen": "20261106T062706.000Z",
+      "lastSeen": "20261106T085822.000Z",
       "expLevel": 0,
-      "trophies": 13471,
+      "trophies": 13652,
       "arena": {
-        "id": 54000143,
-        "name": "Little Prince's Tavern",
-        "rawName": "Arena_L17"
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
       },
       "clanRank": 8,
       "previousClanRank": 0,
-      "donations": 54,
+      "donations": 78,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -177,8 +177,8 @@
       },
       "clanRank": 9,
       "previousClanRank": 8,
-      "donations": 110,
-      "donationsReceived": 140,
+      "donations": 118,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -221,7 +221,7 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261105T160709.000Z",
+      "lastSeen": "20261106T084240.000Z",
       "expLevel": 0,
       "trophies": 13029,
       "arena": {
@@ -232,7 +232,7 @@
       "clanRank": 12,
       "previousClanRank": 11,
       "donations": 44,
-      "donationsReceived": 80,
+      "donationsReceived": 104,
       "clanChestPoints": 0
     },
     {
@@ -254,6 +254,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#C8YV202C",
+      "name": "undertaker",
+      "role": "member",
+      "lastSeen": "20261106T083057.000Z",
+      "expLevel": 0,
+      "trophies": 11840,
+      "arena": {
+        "id": 54000132,
+        "name": "Summit of Heroes",
+        "rawName": "Arena_L14"
+      },
+      "clanRank": 14,
+      "previousClanRank": 14,
+      "donations": 68,
+      "donationsReceived": 56,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#J9Y9Y9YRG",
       "name": "Sinner",
       "role": "member",
@@ -265,35 +283,17 @@
         "name": "Summit of Heroes",
         "rawName": "Arena_L14"
       },
-      "clanRank": 14,
+      "clanRank": 15,
       "previousClanRank": 13,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
-      "tag": "#C8YV202C",
-      "name": "undertaker",
-      "role": "member",
-      "lastSeen": "20261106T063324.000Z",
-      "expLevel": 0,
-      "trophies": 11745,
-      "arena": {
-        "id": 54000132,
-        "name": "Summit of Heroes",
-        "rawName": "Arena_L14"
-      },
-      "clanRank": 15,
-      "previousClanRank": 14,
-      "donations": 42,
-      "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261106T065343.000Z",
+      "lastSeen": "20261106T081949.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 15,
-      "donations": 392,
+      "donations": 410,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 22,
       "donations": 158,
-      "donationsReceived": 232,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -473,9 +473,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261106T064753.000Z",
+      "lastSeen": "20261106T084934.000Z",
       "expLevel": 0,
-      "trophies": 9302,
+      "trophies": 9365,
       "arena": {
         "id": 54000020,
         "name": "Valkalla",
@@ -483,8 +483,8 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 142,
-      "donationsReceived": 80,
+      "donations": 158,
+      "donationsReceived": 96,
       "clanChestPoints": 0
     },
     {
@@ -545,7 +545,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261105T231419.000Z",
+      "lastSeen": "20261106T085339.000Z",
       "expLevel": 0,
       "trophies": 6878,
       "arena": {
@@ -555,7 +555,7 @@
       },
       "clanRank": 30,
       "previousClanRank": 29,
-      "donations": 120,
+      "donations": 136,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -617,9 +617,9 @@
       "tag": "#20CY2VYYYY",
       "name": "gigiti",
       "role": "member",
-      "lastSeen": "20261105T104501.000Z",
+      "lastSeen": "20261106T074500.000Z",
       "expLevel": 0,
-      "trophies": 3804,
+      "trophies": 3836,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",

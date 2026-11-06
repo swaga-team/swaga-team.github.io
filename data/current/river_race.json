@@ -197,15 +197,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9GVPRJQLL",
-        "name": "NovaZonday",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#Q2RJCVYUQ",
         "name": "NEVIDIMKA YT",
         "fame": 100,
@@ -260,13 +251,22 @@
         "decksUsedToday": 2
       },
       {
-        "tag": "#9282CQQ90",
-        "name": "Чушпан",
+        "tag": "#9GVPRJQLL",
+        "name": "NovaZonday",
         "fame": 200,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#9282CQQ90",
+        "name": "Чушпан",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
       },
       {
         "tag": "#PLUQRR22G",
@@ -377,7 +377,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 8450,
+    "periodPoints": 8750,
     "clanScore": 2155
   },
   "clans": [
@@ -751,15 +751,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9GVPRJQLL",
-          "name": "NovaZonday",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
           "fame": 100,
@@ -814,13 +805,22 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#9282CQQ90",
-          "name": "Чушпан",
+          "tag": "#9GVPRJQLL",
+          "name": "NovaZonday",
           "fame": 200,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#9282CQQ90",
+          "name": "Чушпан",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#PLUQRR22G",
@@ -931,7 +931,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 8450,
+      "periodPoints": 8750,
       "clanScore": 2155
     },
     {
@@ -1315,6 +1315,15 @@
         {
           "tag": "#2RU0J2YLL",
           "name": "Ref4o",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#RCUVVC2U8",
+          "name": "Maykal",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1783,15 +1792,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20CL00UJ",
-          "name": "King Bernie",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VQ2U22JRP",
           "name": "FREEWINS",
           "fame": 0,
@@ -1862,9 +1862,18 @@
           "boatAttacks": 1,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#20CL00UJ",
+          "name": "King Bernie",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3975,
+      "periodPoints": 4875,
       "clanScore": 2153
     }
   ],
