@@ -1529,15 +1529,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2YCR89URU",
-          "name": "Ivan_PrO_XD",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#92YUUCP0",
           "name": "Valo",
           "fame": 0,
@@ -1601,15 +1592,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V2U2R8J28",
-          "name": "gy",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
           "fame": 500,
@@ -1626,6 +1608,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2YCR89URU",
+          "name": "Ivan_PrO_XD",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2LRQVPP0V",
@@ -1646,6 +1637,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#V2U2R8J28",
+          "name": "gy",
+          "fame": 950,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 1200,
@@ -1664,7 +1664,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1200,
+      "periodPoints": 2250,
       "clanScore": 2145
     },
     {
@@ -1756,6 +1756,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YYYGG9VV2",
+          "name": "Andre_Nji",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#UQGCLYR8",
           "name": "sonocu",
           "fame": 0,
@@ -1828,6 +1837,24 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#G0QYU9G0Q",
+          "name": "Ans",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#VGYPL2JUG",
+          "name": "RNAX",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#VQ2U22JRP",
           "name": "FREEWINS",
           "fame": 0,
@@ -1864,22 +1891,13 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#J2QJ9PR80",
-          "name": "L$M",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2VLGJUPP",
           "name": "Hub",
-          "fame": 700,
+          "fame": 800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 1
+          "decksUsed": 6,
+          "decksUsedToday": 2
         },
         {
           "tag": "#20CL00UJ",
@@ -1918,6 +1936,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#J2QJ9PR80",
+          "name": "L$M",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
           "fame": 1325,
@@ -1927,7 +1954,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2575,
+      "periodPoints": 3375,
       "clanScore": 2153
     }
   ],
