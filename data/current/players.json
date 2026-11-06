@@ -1276,7 +1276,7 @@
     "threeCrownWins": 630,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 24942,
+    "totalDonations": 24958,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2174,11 +2174,11 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9367,
-    "bestTrophies": 9367,
-    "wins": 1040,
+    "trophies": 9397,
+    "bestTrophies": 9397,
+    "wins": 1041,
     "losses": 817,
-    "battleCount": 1857,
+    "battleCount": 1858,
     "threeCrownWins": 531,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2210,7 +2210,7 @@
         "name": "Mini P.E.K.K.A",
         "rarity": "rare",
         "elixirCost": 4,
-        "evolved": false,
+        "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
       },
       {
@@ -2297,13 +2297,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2905,10 +2898,10 @@
     "expLevel": 39,
     "trophies": 6878,
     "bestTrophies": 6878,
-    "wins": 2548,
-    "losses": 2675,
-    "battleCount": 5223,
-    "threeCrownWins": 1842,
+    "wins": 2550,
+    "losses": 2677,
+    "battleCount": 5227,
+    "threeCrownWins": 1843,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37321,
@@ -2986,11 +2979,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Giant",
-      "rarity": "epic",
+      "name": "Sparky",
+      "rarity": "legendary",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#GQP92GLC8": {
