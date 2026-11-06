@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114144,
+  "clanScore": 114146,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4170,
+  "donationsPerWeek": 4246,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 40,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261106T170502.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 236,
+      "donationsReceived": 240,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 4,
       "donations": 272,
       "donationsReceived": 310,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261106T153921.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 218,
-      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261106T155437.000Z",
+      "lastSeen": "20261106T172228.000Z",
       "expLevel": 0,
-      "trophies": 11707,
+      "trophies": 11713,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 15,
-      "donations": 456,
+      "donations": 472,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 302,
-      "donationsReceived": 360,
+      "donationsReceived": 380,
       "clanChestPoints": 0
     },
     {
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261105T184456.000Z",
+      "lastSeen": "20261106T174329.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 240,
+      "donationsReceived": 264,
       "clanChestPoints": 0
     },
     {
@@ -401,7 +401,7 @@
       "tag": "#CC9J8Y902",
       "name": "Michael",
       "role": "member",
-      "lastSeen": "20261105T235244.000Z",
+      "lastSeen": "20261106T170609.000Z",
       "expLevel": 0,
       "trophies": 9789,
       "arena": {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 21,
-      "donations": 0,
+      "donations": 26,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261106T144324.000Z",
+      "lastSeen": "20261106T172229.000Z",
       "expLevel": 0,
       "trophies": 6878,
       "arena": {
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 29,
-      "donations": 136,
+      "donations": 152,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 35,
       "donations": 294,
-      "donationsReceived": 320,
+      "donationsReceived": 352,
       "clanChestPoints": 0
     },
     {
