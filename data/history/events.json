@@ -2782,5 +2782,17 @@
       "Executioner"
     ],
     "at": "2026-11-06T09:01:53+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQGRL028",
+    "name": "govnoed",
+    "cards": [
+      {
+        "name": "Cannon",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-06T10:07:51+00:00"
   }
 ]
