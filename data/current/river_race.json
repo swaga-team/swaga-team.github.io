@@ -161,6 +161,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#28G90Y9JL",
+        "name": "GamerPro",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#QP0PPC0QU",
         "name": "pshkzzz",
         "fame": 0,
@@ -461,15 +470,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#VCLLGG9QG",
-          "name": "Moriarty",
-          "fame": 325,
-          "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#VQ2VLCVUY",
           "name": "DESKEND",
           "fame": 400,
@@ -477,6 +477,15 @@
           "boatAttacks": 0,
           "decksUsed": 3,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#VCLLGG9QG",
+          "name": "Moriarty",
+          "fame": 450,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PRQC0GRRU",
@@ -533,7 +542,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4550,
+      "periodPoints": 4675,
       "clanScore": 2169
     },
     {
@@ -690,6 +699,15 @@
         {
           "tag": "#8UCG80RYR",
           "name": "Daisy Sprout",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#28G90Y9JL",
+          "name": "GamerPro",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
