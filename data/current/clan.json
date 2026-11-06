@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114049,
+  "clanScore": 114070,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -20,10 +20,10 @@
   "members": 40,
   "memberList": [
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261106T124919.000Z",
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261106T141224.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 2,
-      "donations": 92,
-      "donationsReceived": 240,
+      "previousClanRank": 0,
+      "donations": 132,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261106T124024.000Z",
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261106T131225.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 0,
-      "donations": 132,
-      "donationsReceived": 40,
+      "previousClanRank": 2,
+      "donations": 92,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -205,7 +205,7 @@
       "role": "member",
       "lastSeen": "20261106T130641.000Z",
       "expLevel": 0,
-      "trophies": 13227,
+      "trophies": 13255,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -221,7 +221,7 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261106T110955.000Z",
+      "lastSeen": "20261106T132354.000Z",
       "expLevel": 0,
       "trophies": 13029,
       "arena": {
@@ -383,9 +383,9 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261106T035342.000Z",
+      "lastSeen": "20261106T133139.000Z",
       "expLevel": 0,
-      "trophies": 10053,
+      "trophies": 10001,
       "arena": {
         "id": 54000117,
         "name": "Lumberlove Cabin",
@@ -545,9 +545,9 @@
       "tag": "#8RYCGVUV0",
       "name": "PARADOHA",
       "role": "member",
-      "lastSeen": "20261106T121742.000Z",
+      "lastSeen": "20261106T131720.000Z",
       "expLevel": 0,
-      "trophies": 7688,
+      "trophies": 7858,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261106T113112.000Z",
+      "lastSeen": "20261106T131833.000Z",
       "expLevel": 0,
       "trophies": 6878,
       "arena": {

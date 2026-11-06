@@ -224,15 +224,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#8RYCGVUV0",
-        "name": "PARADOHA",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 2,
-        "decksUsedToday": 2
-      },
-      {
         "tag": "#PQQGRL028",
         "name": "govnoed",
         "fame": 200,
@@ -276,6 +267,15 @@
         "boatAttacks": 1,
         "decksUsed": 3,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#8RYCGVUV0",
+        "name": "PARADOHA",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -386,7 +386,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4725,
+    "periodPoints": 4925,
     "clanScore": 2155
   },
   "clans": [
@@ -515,15 +515,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QQYVQG22G",
-          "name": "ecko",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YVCPRVC88",
           "name": "Thunder ⚡",
           "fame": 600,
@@ -540,6 +531,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#QQYVQG22G",
+          "name": "ecko",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#PRQC0GRRU",
@@ -560,7 +560,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1300,
+      "periodPoints": 1500,
       "clanScore": 2169
     },
     {
@@ -787,15 +787,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8RYCGVUV0",
-          "name": "PARADOHA",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#PQQGRL028",
           "name": "govnoed",
           "fame": 200,
@@ -839,6 +830,15 @@
           "boatAttacks": 1,
           "decksUsed": 3,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#8RYCGVUV0",
+          "name": "PARADOHA",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -949,7 +949,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4725,
+      "periodPoints": 4925,
       "clanScore": 2155
     },
     {
@@ -1601,15 +1601,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJGYGPPL9",
-          "name": "pacs",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 700,
@@ -1626,9 +1617,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#VJGYGPPL9",
+          "name": "pacs",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 100,
       "clanScore": 2145
     },
     {
@@ -1638,15 +1638,6 @@
       "fame": 1189,
       "repairPoints": 0,
       "participants": [
-        {
-          "tag": "#28PQPC0VL",
-          "name": "coxy",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
         {
           "tag": "#QCVJPQ0PY",
           "name": "2.6Hograta",
@@ -1828,6 +1819,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#28PQPC0VL",
+          "name": "coxy",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#J2QJ9PR80",
           "name": "L$M",
           "fame": 600,
@@ -1891,7 +1891,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 350,
+      "periodPoints": 450,
       "clanScore": 2153
     }
   ],
