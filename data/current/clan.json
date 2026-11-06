@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115176,
+  "clanScore": 115151,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -203,9 +203,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261106T224641.000Z",
+      "lastSeen": "20261106T225005.000Z",
       "expLevel": 0,
-      "trophies": 13289,
+      "trophies": 13228,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -434,24 +434,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261106T152956.000Z",
-      "expLevel": 0,
-      "trophies": 9656,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 24,
-      "previousClanRank": 22,
-      "donations": 262,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -463,10 +445,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 24,
       "previousClanRank": 23,
       "donations": 174,
       "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261106T232643.000Z",
+      "expLevel": 0,
+      "trophies": 9596,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 22,
+      "donations": 262,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -527,7 +527,7 @@
       "tag": "#8RYCGVUV0",
       "name": "PARADOHA",
       "role": "member",
-      "lastSeen": "20261106T163316.000Z",
+      "lastSeen": "20261106T233630.000Z",
       "expLevel": 0,
       "trophies": 8402,
       "arena": {
@@ -581,9 +581,9 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261106T214947.000Z",
+      "lastSeen": "20261106T232756.000Z",
       "expLevel": 0,
-      "trophies": 6878,
+      "trophies": 6845,
       "arena": {
         "id": 54000015,
         "name": "Silent Sanctuary",

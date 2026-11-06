@@ -914,11 +914,11 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13289,
+    "trophies": 13228,
     "bestTrophies": 13289,
     "wins": 2384,
-    "losses": 2075,
-    "battleCount": 4459,
+    "losses": 2077,
+    "battleCount": 4461,
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -997,11 +997,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#P08LLGYLQ": {
@@ -1997,11 +1997,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9656,
+    "trophies": 9596,
     "bestTrophies": 9825,
     "wins": 2303,
-    "losses": 2133,
-    "battleCount": 4436,
+    "losses": 2135,
+    "battleCount": 4438,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2080,11 +2080,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
-      "rarity": "epic",
-      "elixirCost": 7,
+      "name": "Tesla",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2896,11 +2896,11 @@
   },
   "#9282CQQ90": {
     "expLevel": 39,
-    "trophies": 6878,
+    "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2550,
-    "losses": 2677,
-    "battleCount": 5227,
+    "losses": 2678,
+    "battleCount": 5228,
     "threeCrownWins": 1843,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
