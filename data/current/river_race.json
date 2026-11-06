@@ -116,15 +116,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#Q2RJCVYUQ",
-        "name": "NEVIDIMKA YT",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YQ2VLPJ0L",
         "name": "arch1tector",
         "fame": 0,
@@ -145,15 +136,6 @@
       {
         "tag": "#P08LLGYLQ",
         "name": "Luka13",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#8UCG80RYR",
-        "name": "Daisy Sprout",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -242,6 +224,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#Q2RJCVYUQ",
+        "name": "NEVIDIMKA YT",
+        "fame": 100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#R98U8U290",
         "name": "tenkuu.☁️",
         "fame": 100,
@@ -262,6 +253,15 @@
       {
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
+        "tag": "#8UCG80RYR",
+        "name": "Daisy Sprout",
         "fame": 200,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -368,7 +368,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6625,
+    "periodPoints": 6925,
     "clanScore": 2155
   },
   "clans": [
@@ -661,15 +661,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#Q2RJCVYUQ",
-          "name": "NEVIDIMKA YT",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YQ2VLPJ0L",
           "name": "arch1tector",
           "fame": 0,
@@ -690,15 +681,6 @@
         {
           "tag": "#P08LLGYLQ",
           "name": "Luka13",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#8UCG80RYR",
-          "name": "Daisy Sprout",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -787,6 +769,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#Q2RJCVYUQ",
+          "name": "NEVIDIMKA YT",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#R98U8U290",
           "name": "tenkuu.☁️",
           "fame": 100,
@@ -807,6 +798,15 @@
         {
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#8UCG80RYR",
+          "name": "Daisy Sprout",
           "fame": 200,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -913,7 +913,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6625,
+      "periodPoints": 6925,
       "clanScore": 2155
     },
     {
@@ -1176,15 +1176,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#PRJYV2CP",
           "name": "vabrinoza",
           "fame": 275,
@@ -1230,20 +1221,29 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#C2YCPLRPY",
-          "name": "Kevin 3348",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 500,
           "repairPoints": 0,
           "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#C2YCPLRPY",
+          "name": "Kevin 3348",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
         },
@@ -1257,7 +1257,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3775,
+      "periodPoints": 4275,
       "clanScore": 2140
     },
     {

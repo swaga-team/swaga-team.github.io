@@ -457,12 +457,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 3937,
-    "losses": 3013,
-    "battleCount": 6950,
+    "losses": 3014,
+    "battleCount": 6951,
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29135,
+    "totalDonations": 29143,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2346,9 +2346,9 @@
     "expLevel": 42,
     "trophies": 8769,
     "bestTrophies": 8769,
-    "wins": 2640,
-    "losses": 2809,
-    "battleCount": 5449,
+    "wins": 2642,
+    "losses": 2810,
+    "battleCount": 5452,
     "threeCrownWins": 1645,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
@@ -2427,11 +2427,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Royal Giant",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#LGQC0JPLU": {
@@ -4033,7 +4033,7 @@
     "threeCrownWins": 1016,
     "warDayWins": 7,
     "clanCardsCollected": 16317,
-    "totalDonations": 5508,
+    "totalDonations": 5512,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

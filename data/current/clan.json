@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3468,
+  "donationsPerWeek": 3480,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 38,
   "memberList": [
+    {
+      "tag": "#8UCG80RYR",
+      "name": "Daisy Sprout",
+      "role": "leader",
+      "lastSeen": "20261106T050811.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 78,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#QP0PPC0QU",
       "name": "pshkzzz",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 125,
       "donationsReceived": 40,
@@ -49,8 +67,8 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
-      "previousClanRank": 1,
+      "clanRank": 3,
+      "previousClanRank": 3,
       "donations": 191,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -67,8 +85,8 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
-      "previousClanRank": 5,
+      "clanRank": 4,
+      "previousClanRank": 4,
       "donations": 244,
       "donationsReceived": 270,
       "clanChestPoints": 0
@@ -85,8 +103,8 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
-      "previousClanRank": 4,
+      "clanRank": 5,
+      "previousClanRank": 1,
       "donations": 195,
       "donationsReceived": 200,
       "clanChestPoints": 0
@@ -103,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
-      "previousClanRank": 3,
-      "donations": 92,
-      "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#8UCG80RYR",
-      "name": "Daisy Sprout",
-      "role": "leader",
-      "lastSeen": "20261105T043033.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
       "clanRank": 6,
       "previousClanRank": 2,
-      "donations": 70,
-      "donationsReceived": 0,
+      "donations": 92,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -221,7 +221,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261105T063301.000Z",
+      "lastSeen": "20261106T055954.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -266,7 +266,7 @@
         "rawName": "Arena_L14"
       },
       "clanRank": 14,
-      "previousClanRank": 16,
+      "previousClanRank": 15,
       "donations": 358,
       "donationsReceived": 280,
       "clanChestPoints": 0
@@ -275,7 +275,7 @@
       "tag": "#C8YV202C",
       "name": "undertaker",
       "role": "member",
-      "lastSeen": "20261105T101045.000Z",
+      "lastSeen": "20261106T055843.000Z",
       "expLevel": 0,
       "trophies": 11709,
       "arena": {
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 14,
-      "donations": 38,
+      "donations": 42,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -302,7 +302,7 @@
         "rawName": "Arena_L14"
       },
       "clanRank": 16,
-      "previousClanRank": 15,
+      "previousClanRank": 16,
       "donations": 224,
       "donationsReceived": 300,
       "clanChestPoints": 0
@@ -410,7 +410,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 22,
-      "previousClanRank": 22,
+      "previousClanRank": 23,
       "donations": 262,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -428,7 +428,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 23,
-      "previousClanRank": 23,
+      "previousClanRank": 22,
       "donations": 140,
       "donationsReceived": 200,
       "clanChestPoints": 0
@@ -473,7 +473,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261105T011015.000Z",
+      "lastSeen": "20261106T051013.000Z",
       "expLevel": 0,
       "trophies": 8769,
       "arena": {
@@ -644,7 +644,7 @@
         "rawName": "Arena_Electric"
       },
       "clanRank": 35,
-      "previousClanRank": 35,
+      "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -662,7 +662,7 @@
         "rawName": "Arena_L"
       },
       "clanRank": 36,
-      "previousClanRank": 34,
+      "previousClanRank": 35,
       "donations": 250,
       "donationsReceived": 280,
       "clanChestPoints": 0
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 0,
       "donations": 8,
-      "donationsReceived": 28,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     }
   ]
