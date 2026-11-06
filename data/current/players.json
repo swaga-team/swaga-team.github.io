@@ -186,7 +186,7 @@
     "threeCrownWins": 1068,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34812,
+    "totalDonations": 34822,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -916,13 +916,13 @@
     "expLevel": 43,
     "trophies": 13138,
     "bestTrophies": 13234,
-    "wins": 2370,
-    "losses": 2069,
-    "battleCount": 4439,
+    "wins": 2372,
+    "losses": 2071,
+    "battleCount": 4443,
     "threeCrownWins": 1186,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15207,
+    "totalDonations": 15235,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -997,11 +997,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#P08LLGYLQ": {
@@ -2084,10 +2084,10 @@
     "expLevel": 20,
     "trophies": 9530,
     "bestTrophies": 9562,
-    "wins": 1021,
-    "losses": 686,
-    "battleCount": 1707,
-    "threeCrownWins": 507,
+    "wins": 1022,
+    "losses": 687,
+    "battleCount": 1709,
+    "threeCrownWins": 508,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 3055,
@@ -2113,13 +2113,6 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -3952,11 +3945,11 @@
   },
   "#CVCJY2V0Y": {
     "expLevel": 24,
-    "trophies": 3400,
+    "trophies": 3405,
     "bestTrophies": 3444,
-    "wins": 355,
-    "losses": 280,
-    "battleCount": 635,
+    "wins": 357,
+    "losses": 283,
+    "battleCount": 640,
     "threeCrownWins": 197,
     "warDayWins": 0,
     "clanCardsCollected": 0,
