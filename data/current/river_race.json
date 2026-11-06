@@ -170,15 +170,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#QP0PPC0QU",
-        "name": "pshkzzz",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#GQP92GLC8",
         "name": "Adawell",
         "fame": 0,
@@ -224,15 +215,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#R98U8U290",
-        "name": "tenkuu.☁️",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#RYRY0V89G",
         "name": "Клэшер",
         "fame": 0,
@@ -256,6 +238,15 @@
         "fame": 75,
         "repairPoints": 0,
         "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#R98U8U290",
+        "name": "tenkuu.☁️",
+        "fame": 100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 1
       },
@@ -323,6 +314,15 @@
         "decksUsedToday": 4
       },
       {
+        "tag": "#QP0PPC0QU",
+        "name": "pshkzzz",
+        "fame": 650,
+        "repairPoints": 0,
+        "boatAttacks": 2,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#V0RCP20LR",
         "name": "подписични черв",
         "fame": 650,
@@ -368,7 +368,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5875,
+    "periodPoints": 6625,
     "clanScore": 2155
   },
   "clans": [
@@ -434,15 +434,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R00CLL2Q",
-          "name": "TWIX",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CVVJPVCUY",
           "name": "апельсин",
           "fame": 0,
@@ -484,6 +475,15 @@
           "fame": 450,
           "repairPoints": 0,
           "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#R00CLL2Q",
+          "name": "TWIX",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
         },
@@ -542,7 +542,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4675,
+      "periodPoints": 5175,
       "clanScore": 2169
     },
     {
@@ -715,15 +715,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QP0PPC0QU",
-          "name": "pshkzzz",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GQP92GLC8",
           "name": "Adawell",
           "fame": 0,
@@ -769,15 +760,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R98U8U290",
-          "name": "tenkuu.☁️",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#RYRY0V89G",
           "name": "Клэшер",
           "fame": 0,
@@ -801,6 +783,15 @@
           "fame": 75,
           "repairPoints": 0,
           "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#R98U8U290",
+          "name": "tenkuu.☁️",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 1
         },
@@ -868,6 +859,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#QP0PPC0QU",
+          "name": "pshkzzz",
+          "fame": 650,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#V0RCP20LR",
           "name": "подписични черв",
           "fame": 650,
@@ -913,7 +913,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5875,
+      "periodPoints": 6625,
       "clanScore": 2155
     },
     {
@@ -989,15 +989,6 @@
         {
           "tag": "#8Q9J928Q",
           "name": "scottriyan",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#C2YCPLRPY",
-          "name": "Kevin 3348",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1095,6 +1086,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#UG0VYLCV8",
+          "name": "Septiawan",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#2Q88LCCUJ",
           "name": "Tarantino",
           "fame": 0,
@@ -1115,15 +1115,6 @@
         {
           "tag": "#Y9YJCCJU",
           "name": "david#",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1185,6 +1176,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#PRJYV2CP",
           "name": "vabrinoza",
           "fame": 275,
@@ -1230,6 +1230,15 @@
           "decksUsedToday": 3
         },
         {
+          "tag": "#C2YCPLRPY",
+          "name": "Kevin 3348",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 500,
@@ -1248,7 +1257,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3175,
+      "periodPoints": 3775,
       "clanScore": 2140
     },
     {

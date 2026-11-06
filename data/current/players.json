@@ -3,13 +3,13 @@
     "expLevel": 60,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3531,
+    "wins": 3533,
     "losses": 4127,
-    "battleCount": 7658,
-    "threeCrownWins": 1010,
+    "battleCount": 7660,
+    "threeCrownWins": 1012,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17076,
+    "totalDonations": 17094,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -365,8 +365,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2928,
-    "losses": 2510,
-    "battleCount": 5438,
+    "losses": 2511,
+    "battleCount": 5439,
     "threeCrownWins": 1105,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -445,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
+      "name": "P.E.K.K.A",
+      "rarity": "epic",
       "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
     }
   },
   "#8UCG80RYR": {
