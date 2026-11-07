@@ -3851,11 +3851,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
-      "rarity": "common",
+      "name": "Dark Prince",
+      "rarity": "epic",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#RYRY0V89G": {
@@ -4388,12 +4388,12 @@
   },
   "#8RYCGVUV0": {
     "expLevel": 38,
-    "trophies": 8634,
-    "bestTrophies": 8694,
-    "wins": 1250,
-    "losses": 1072,
-    "battleCount": 2322,
-    "threeCrownWins": 1061,
+    "trophies": 8809,
+    "bestTrophies": 8809,
+    "wins": 1260,
+    "losses": 1076,
+    "battleCount": 2336,
+    "threeCrownWins": 1065,
     "warDayWins": 1,
     "clanCardsCollected": 1300,
     "totalDonations": 20520,
@@ -4463,11 +4463,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
       },
       {
-        "name": "Electro Wizard",
-        "rarity": "legendary",
-        "elixirCost": 4,
+        "name": "Witch",
+        "rarity": "epic",
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
       }
     ],
     "currentFavouriteCard": {
