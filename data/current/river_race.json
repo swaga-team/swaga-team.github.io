@@ -197,15 +197,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#222YY9YCC",
-        "name": "king abolfazl",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 2,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PQQGRL028",
         "name": "govnoed",
         "fame": 200,
@@ -222,6 +213,15 @@
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#222YY9YCC",
+        "name": "king abolfazl",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 1
       },
       {
         "tag": "#9282CQQ90",
@@ -359,15 +359,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQ2JYL2G",
-        "name": "MFbren",
-        "fame": 1400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
         "fame": 1400,
@@ -393,9 +384,18 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#PQQ2JYL2G",
+        "name": "MFbren",
+        "fame": 2000,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 900,
+    "periodPoints": 1600,
     "clanScore": 2155
   },
   "clans": [
@@ -542,15 +542,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QQYVQG22G",
-          "name": "ecko",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2L8LR0QGU",
           "name": "mr.tvister",
           "fame": 1300,
@@ -567,9 +558,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#QQYVQG22G",
+          "name": "ecko",
+          "fame": 1400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 1
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 200,
       "clanScore": 2169
     },
     {
@@ -769,15 +769,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#222YY9YCC",
-          "name": "king abolfazl",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PQQGRL028",
           "name": "govnoed",
           "fame": 200,
@@ -794,6 +785,15 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#222YY9YCC",
+          "name": "king abolfazl",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 1
         },
         {
           "tag": "#9282CQQ90",
@@ -931,15 +931,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQ2JYL2G",
-          "name": "MFbren",
-          "fame": 1400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
           "fame": 1400,
@@ -965,9 +956,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#PQQ2JYL2G",
+          "name": "MFbren",
+          "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 900,
+      "periodPoints": 1600,
       "clanScore": 2155
     },
     {
@@ -1576,6 +1576,15 @@
         {
           "tag": "#LVJLCCR2",
           "name": "animals1948",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#JV28YQVQY",
+          "name": "помярчо69",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

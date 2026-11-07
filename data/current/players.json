@@ -1461,13 +1461,13 @@
     "expLevel": 48,
     "trophies": 11647,
     "bestTrophies": 11767,
-    "wins": 2279,
-    "losses": 2481,
-    "battleCount": 4760,
+    "wins": 2281,
+    "losses": 2483,
+    "battleCount": 4764,
     "threeCrownWins": 1084,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12787,
+    "totalDonations": 12805,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#YR2GG8C2": {
@@ -1737,10 +1737,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2512,
-    "losses": 2206,
-    "battleCount": 4718,
-    "threeCrownWins": 899,
+    "wins": 2515,
+    "losses": 2210,
+    "battleCount": 4725,
+    "threeCrownWins": 900,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -2011,11 +2011,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9659,
+    "trophies": 9663,
     "bestTrophies": 9825,
-    "wins": 2305,
-    "losses": 2135,
-    "battleCount": 4440,
+    "wins": 2306,
+    "losses": 2136,
+    "battleCount": 4442,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2094,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
-      "rarity": "common",
+      "name": "Golden Knight",
+      "rarity": "champion",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#9RJPRQLL2": {
