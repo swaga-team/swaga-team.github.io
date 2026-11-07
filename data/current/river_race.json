@@ -314,15 +314,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJQQLCJP8",
-        "name": "Генри lll",
-        "fame": 900,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#CGPUY8P2",
         "name": "BIG BOY",
         "fame": 900,
@@ -393,9 +384,18 @@
         "boatAttacks": 0,
         "decksUsed": 8,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#VJQQLCJP8",
+        "name": "Генри lll",
+        "fame": 1800,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 0,
+    "periodPoints": 900,
     "clanScore": 2155
   },
   "clans": [
@@ -886,15 +886,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJQQLCJP8",
-          "name": "Генри lll",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CGPUY8P2",
           "name": "BIG BOY",
           "fame": 900,
@@ -965,9 +956,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#VJQQLCJP8",
+          "name": "Генри lll",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 900,
       "clanScore": 2155
     },
     {
@@ -1293,15 +1293,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20UJ9UGUQP",
-          "name": "vulnerablezz",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 950,
@@ -1318,9 +1309,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#20UJ9UGUQP",
+          "name": "vulnerablezz",
+          "fame": 1350,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 3
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 450,
       "clanScore": 2140
     },
     {
@@ -1965,14 +1965,14 @@
         {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
-          "fame": 1625,
+          "fame": 1825,
           "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 10,
-          "decksUsedToday": 2
+          "boatAttacks": 5,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 700,
       "clanScore": 2153
     }
   ],

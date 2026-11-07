@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115261,
+  "clanScore": 114411,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4750,
+  "donationsPerWeek": 4768,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 41,
+  "members": 40,
   "memberList": [
+    {
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261107T095907.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 196,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 262,
       "donationsReceived": 280,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261107T075848.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 4,
-      "donations": 178,
-      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 116,
-      "donationsReceived": 200,
+      "donationsReceived": 210,
       "clanChestPoints": 0
     },
     {
@@ -506,24 +506,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#8RYCGVUV0",
-      "name": "PARADOHA",
-      "role": "member",
-      "lastSeen": "20261107T093112.000Z",
-      "expLevel": 0,
-      "trophies": 9104,
-      "arena": {
-        "id": 54000020,
-        "name": "Valkalla",
-        "rawName": "Arena_L9"
-      },
-      "clanRank": 28,
-      "previousClanRank": 28,
-      "donations": 56,
-      "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
@@ -535,7 +517,7 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 29,
+      "clanRank": 28,
       "previousClanRank": 27,
       "donations": 35,
       "donationsReceived": 160,
@@ -553,7 +535,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 30,
+      "clanRank": 29,
       "previousClanRank": 29,
       "donations": 0,
       "donationsReceived": 0,
@@ -571,7 +553,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 31,
+      "clanRank": 30,
       "previousClanRank": 30,
       "donations": 82,
       "donationsReceived": 80,
@@ -581,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261107T073512.000Z",
+      "lastSeen": "20261107T101755.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -589,7 +571,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 32,
+      "clanRank": 31,
       "previousClanRank": 31,
       "donations": 162,
       "donationsReceived": 200,
@@ -607,7 +589,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 33,
+      "clanRank": 32,
       "previousClanRank": 32,
       "donations": 28,
       "donationsReceived": 80,
@@ -625,7 +607,7 @@
         "name": "Royal Crypt",
         "rawName": "Arena_L3"
       },
-      "clanRank": 34,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
@@ -643,7 +625,7 @@
         "name": "Miner's Mine",
         "rawName": "Arena_L1"
       },
-      "clanRank": 35,
+      "clanRank": 34,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -661,7 +643,7 @@
         "name": "Spooky Town",
         "rawName": "Arena_T"
       },
-      "clanRank": 36,
+      "clanRank": 35,
       "previousClanRank": 35,
       "donations": 10,
       "donationsReceived": 0,
@@ -679,7 +661,7 @@
         "name": "Electro Valley",
         "rawName": "Arena_Electric"
       },
-      "clanRank": 37,
+      "clanRank": 36,
       "previousClanRank": 37,
       "donations": 0,
       "donationsReceived": 0,
@@ -697,7 +679,7 @@
         "name": "Electro Valley",
         "rawName": "Arena_Electric"
       },
-      "clanRank": 38,
+      "clanRank": 37,
       "previousClanRank": 36,
       "donations": 10,
       "donationsReceived": 40,
@@ -715,7 +697,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 39,
+      "clanRank": 38,
       "previousClanRank": 38,
       "donations": 324,
       "donationsReceived": 400,
@@ -725,7 +707,7 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261106T101557.000Z",
+      "lastSeen": "20261107T101218.000Z",
       "expLevel": 0,
       "trophies": 2875,
       "arena": {
@@ -733,10 +715,10 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 40,
+      "clanRank": 39,
       "previousClanRank": 39,
       "donations": 32,
-      "donationsReceived": 140,
+      "donationsReceived": 148,
       "clanChestPoints": 0
     },
     {
@@ -751,7 +733,7 @@
         "name": "Spell Valley",
         "rawName": "Arena4"
       },
-      "clanRank": 41,
+      "clanRank": 40,
       "previousClanRank": 40,
       "donations": 8,
       "donationsReceived": 40,

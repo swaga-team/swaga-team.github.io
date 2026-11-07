@@ -3452,5 +3452,139 @@
       }
     ],
     "at": "2026-11-07T09:51:50+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQGRL028",
+    "name": "govnoed",
+    "cards": [
+      {
+        "name": "Hog Rider",
+        "level": 16
+      },
+      {
+        "name": "Zap",
+        "level": 16
+      },
+      {
+        "name": "Clone",
+        "level": 12
+      },
+      {
+        "name": "Wall Breakers",
+        "level": 10
+      },
+      {
+        "name": "Graveyard",
+        "level": 10
+      },
+      {
+        "name": "Firecracker",
+        "level": 10
+      },
+      {
+        "name": "Void",
+        "level": 10
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 9
+      },
+      {
+        "name": "Tombstone",
+        "level": 9
+      },
+      {
+        "name": "Flying Machine",
+        "level": 9
+      },
+      {
+        "name": "Zappies",
+        "level": 9
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 9
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 9
+      },
+      {
+        "name": "Tornado",
+        "level": 9
+      },
+      {
+        "name": "Rascals",
+        "level": 9
+      },
+      {
+        "name": "Guards",
+        "level": 9
+      },
+      {
+        "name": "Bats",
+        "level": 9
+      },
+      {
+        "name": "Elixir Golem",
+        "level": 9
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 9
+      },
+      {
+        "name": "Battle Healer",
+        "level": 9
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 9
+      },
+      {
+        "name": "Berserker",
+        "level": 9
+      },
+      {
+        "name": "Rune Giant",
+        "level": 9
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-07T10:48:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Skeleton Barrel",
+        "level": 11
+      },
+      {
+        "name": "Vines",
+        "level": 9
+      },
+      {
+        "name": "Giant",
+        "level": 8
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-07T10:48:33+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "at": "2026-11-07T10:48:33+00:00"
   }
 ]
