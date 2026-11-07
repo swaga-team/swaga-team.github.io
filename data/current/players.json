@@ -101,7 +101,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41144,
+    "totalDonations": 41152,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11711,
-    "bestTrophies": 11769,
-    "wins": 2290,
-    "losses": 2490,
-    "battleCount": 4780,
-    "threeCrownWins": 1085,
+    "trophies": 11799,
+    "bestTrophies": 11799,
+    "wins": 2294,
+    "losses": 2491,
+    "battleCount": 4785,
+    "threeCrownWins": 1086,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12861,
+    "totalDonations": 12871,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2035,13 +2035,6 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -3188,9 +3181,9 @@
     "expLevel": 21,
     "trophies": 5381,
     "bestTrophies": 5439,
-    "wins": 789,
-    "losses": 744,
-    "battleCount": 1533,
+    "wins": 791,
+    "losses": 745,
+    "battleCount": 1536,
     "threeCrownWins": 504,
     "warDayWins": 1,
     "clanCardsCollected": 3550,
@@ -3278,15 +3271,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3243,
+    "trophies": 3273,
     "bestTrophies": 3397,
-    "wins": 3210,
-    "losses": 2813,
-    "battleCount": 6023,
-    "threeCrownWins": 2579,
+    "wins": 3213,
+    "losses": 2816,
+    "battleCount": 6029,
+    "threeCrownWins": 2582,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20600,
+    "totalDonations": 20610,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3349,11 +3342,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Barbarian Hut",
-      "rarity": "rare",
-      "elixirCost": 6,
+      "name": "Mortar",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ho0nOG2y3Ch86elHHcocQs8Fv_QNe0cFJ2CijsxABZA.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
     }
   },
   "#8LJQ29VPG": {

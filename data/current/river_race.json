@@ -395,15 +395,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 1950,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 11,
-        "decksUsedToday": 3
-      },
-      {
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
         "fame": 2000,
@@ -411,9 +402,18 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 2050,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5825,
+    "periodPoints": 5925,
     "clanScore": 2155
   },
   "clans": [
@@ -985,15 +985,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 1950,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 11,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
           "fame": 2000,
@@ -1001,9 +992,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 2050,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5825,
+      "periodPoints": 5925,
       "clanScore": 2155
     },
     {
