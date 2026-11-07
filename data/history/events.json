@@ -3828,5 +3828,29 @@
       "Wizard"
     ],
     "at": "2026-11-07T21:42:35+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Battle Ram",
+        "level": 12
+      },
+      {
+        "name": "Bats",
+        "level": 12
+      },
+      {
+        "name": "Zap",
+        "level": 8
+      },
+      {
+        "name": "Zappies",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-07T22:43:01+00:00"
   }
 ]
