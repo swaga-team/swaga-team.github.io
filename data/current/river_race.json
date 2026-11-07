@@ -314,15 +314,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#GQQL9YLYQ",
-        "name": "Ter",
-        "fame": 900,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PLUQRR22G",
         "name": "ветмо",
         "fame": 1100,
@@ -332,31 +323,13 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#LV0GVYYL8",
-        "name": "kkyo",
-        "fame": 1300,
+        "tag": "#GQQL9YLYQ",
+        "name": "Ter",
+        "fame": 1175,
         "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 1300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 9,
-        "decksUsedToday": 1
-      },
-      {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 1350,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
+        "boatAttacks": 1,
+        "decksUsed": 10,
+        "decksUsedToday": 2
       },
       {
         "tag": "#9JQ8PCJ",
@@ -377,6 +350,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#LV0GVYYL8",
+        "name": "kkyo",
+        "fame": 1750,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 10,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 1800,
@@ -384,6 +366,24 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 1900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 1950,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 11,
+        "decksUsedToday": 3
       },
       {
         "tag": "#PQQ2JYL2G",
@@ -395,7 +395,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2600,
+    "periodPoints": 4525,
     "clanScore": 2155
   },
   "clans": [
@@ -886,15 +886,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GQQL9YLYQ",
-          "name": "Ter",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PLUQRR22G",
           "name": "ветмо",
           "fame": 1100,
@@ -904,31 +895,13 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#LV0GVYYL8",
-          "name": "kkyo",
-          "fame": 1300,
+          "tag": "#GQQL9YLYQ",
+          "name": "Ter",
+          "fame": 1175,
           "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 1
-        },
-        {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 1350,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "boatAttacks": 1,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#9JQ8PCJ",
@@ -949,6 +922,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#LV0GVYYL8",
+          "name": "kkyo",
+          "fame": 1750,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 1800,
@@ -956,6 +938,24 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 1900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 1950,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
+          "decksUsedToday": 3
         },
         {
           "tag": "#PQQ2JYL2G",
@@ -967,7 +967,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2600,
+      "periodPoints": 4525,
       "clanScore": 2155
     },
     {

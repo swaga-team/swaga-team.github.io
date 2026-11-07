@@ -101,7 +101,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41124,
+    "totalDonations": 41144,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -124,13 +124,6 @@
         "elixirCost": 5,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -188,12 +181,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2214,
-    "losses": 1487,
-    "battleCount": 3701,
-    "threeCrownWins": 1069,
+    "losses": 1488,
+    "battleCount": 3702,
+    "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34858,
+    "totalDonations": 34868,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -469,7 +462,7 @@
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29181,
+    "totalDonations": 29191,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1284,10 +1277,10 @@
     "expLevel": 56,
     "trophies": 11695,
     "bestTrophies": 11695,
-    "wins": 1100,
+    "wins": 1103,
     "losses": 1039,
-    "battleCount": 2139,
-    "threeCrownWins": 630,
+    "battleCount": 2142,
+    "threeCrownWins": 631,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 25002,
@@ -1459,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11617,
+    "trophies": 11679,
     "bestTrophies": 11767,
-    "wins": 2282,
-    "losses": 2485,
-    "battleCount": 4767,
+    "wins": 2285,
+    "losses": 2486,
+    "battleCount": 4771,
     "threeCrownWins": 1084,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12823,
+    "totalDonations": 12833,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1535,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Cannon",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#YR2GG8C2": {
@@ -2013,13 +2006,13 @@
     "expLevel": 38,
     "trophies": 9663,
     "bestTrophies": 9825,
-    "wins": 2306,
+    "wins": 2307,
     "losses": 2136,
-    "battleCount": 4442,
+    "battleCount": 4443,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17945,
+    "totalDonations": 17955,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2094,11 +2087,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
+      "name": "Elite Barbarians",
       "rarity": "common",
-      "elixirCost": 4,
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2912,10 +2905,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2551,
-    "losses": 2682,
-    "battleCount": 5233,
-    "threeCrownWins": 1844,
+    "wins": 2552,
+    "losses": 2683,
+    "battleCount": 5235,
+    "threeCrownWins": 1845,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37321,
@@ -3280,13 +3273,13 @@
     "expLevel": 58,
     "trophies": 3302,
     "bestTrophies": 3397,
-    "wins": 3209,
+    "wins": 3210,
     "losses": 2811,
-    "battleCount": 6020,
+    "battleCount": 6021,
     "threeCrownWins": 2579,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20562,
+    "totalDonations": 20600,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
