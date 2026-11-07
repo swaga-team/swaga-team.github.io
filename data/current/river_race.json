@@ -71,15 +71,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9JPPYRL90",
-        "name": "disruption",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#VGVQG0CVG",
         "name": "¿ G1ntex21 ?",
         "fame": 0,
@@ -161,6 +152,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#9JPPYRL90",
+        "name": "disruption",
+        "fame": 100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#Q2RJCVYUQ",
         "name": "NEVIDIMKA YT",
         "fame": 100,
@@ -195,15 +195,6 @@
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 1
-      },
-      {
-        "tag": "#PQQGRL028",
-        "name": "govnoed",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 0
       },
       {
         "tag": "#9GVPRJQLL",
@@ -296,13 +287,13 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#8UCG80RYR",
-        "name": "Daisy Sprout",
-        "fame": 825,
+        "tag": "#PQQGRL028",
+        "name": "govnoed",
+        "fame": 800,
         "repairPoints": 0,
-        "boatAttacks": 1,
-        "decksUsed": 5,
-        "decksUsedToday": 0
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 3
       },
       {
         "tag": "#CGPUY8P2",
@@ -329,6 +320,15 @@
         "repairPoints": 0,
         "boatAttacks": 1,
         "decksUsed": 10,
+        "decksUsedToday": 2
+      },
+      {
+        "tag": "#8UCG80RYR",
+        "name": "Daisy Sprout",
+        "fame": 1325,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 7,
         "decksUsedToday": 2
       },
       {
@@ -395,7 +395,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4525,
+    "periodPoints": 5725,
     "clanScore": 2155
   },
   "clans": [
@@ -506,15 +506,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#PRQC0GRRU",
-          "name": "Brunhgilda",
-          "fame": 1125,
-          "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
           "fame": 1200,
@@ -560,6 +551,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#PRQC0GRRU",
+          "name": "Brunhgilda",
+          "fame": 1525,
+          "repairPoints": 0,
+          "boatAttacks": 7,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#QQYVQG22G",
           "name": "ecko",
           "fame": 1900,
@@ -569,7 +569,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2225,
+      "periodPoints": 2625,
       "clanScore": 2169
     },
     {
@@ -636,15 +636,6 @@
         {
           "tag": "#8JRL80GY0",
           "name": "vickymaddy",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#9JPPYRL90",
-          "name": "disruption",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -733,6 +724,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#9JPPYRL90",
+          "name": "disruption",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
           "fame": 100,
@@ -767,15 +767,6 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 1
-        },
-        {
-          "tag": "#PQQGRL028",
-          "name": "govnoed",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
         },
         {
           "tag": "#9GVPRJQLL",
@@ -868,13 +859,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8UCG80RYR",
-          "name": "Daisy Sprout",
-          "fame": 825,
+          "tag": "#PQQGRL028",
+          "name": "govnoed",
+          "fame": 800,
           "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 5,
-          "decksUsedToday": 0
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 3
         },
         {
           "tag": "#CGPUY8P2",
@@ -901,6 +892,15 @@
           "repairPoints": 0,
           "boatAttacks": 1,
           "decksUsed": 10,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#8UCG80RYR",
+          "name": "Daisy Sprout",
+          "fame": 1325,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 7,
           "decksUsedToday": 2
         },
         {
@@ -967,7 +967,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4525,
+      "periodPoints": 5725,
       "clanScore": 2155
     },
     {
@@ -1637,15 +1637,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#YCPL99V8Y",
-          "name": "koki",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VJGYGPPL9",
           "name": "pacs",
           "fame": 1300,
@@ -1671,9 +1662,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#YCPL99V8Y",
+          "name": "koki",
+          "fame": 1900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1200,
+      "periodPoints": 1900,
       "clanScore": 2145
     },
     {
@@ -1803,6 +1803,15 @@
         {
           "tag": "#8C0Y8UUY0",
           "name": "Ｅｌ Ｂｏｂㅤ✿",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#UGJU8CVL",
+          "name": "Ging Freecss",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
