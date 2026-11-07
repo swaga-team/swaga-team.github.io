@@ -3384,5 +3384,49 @@
       }
     ],
     "at": "2026-11-07T07:01:54+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      {
+        "name": "Royal Delivery",
+        "level": 16
+      },
+      {
+        "name": "Skeletons",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-07T08:05:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8UCG80RYR",
+    "name": "Daisy Sprout",
+    "cards": [
+      {
+        "name": "Electro Dragon",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-07T08:05:55+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#JU2L2U8LG",
+    "name": "адцкий гей",
+    "arena": "Legendary Arena",
+    "raw": "Arena_L10",
+    "at": "2026-11-07T08:05:55+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "arena": "Valkalla",
+    "raw": "Arena_L9",
+    "at": "2026-11-07T08:05:55+00:00"
   }
 ]
