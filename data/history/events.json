@@ -3742,5 +3742,30 @@
       }
     ],
     "at": "2026-11-07T12:54:56+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PLUQRR22G",
+    "name": "ветмо",
+    "cards": [
+      {
+        "name": "Barbarian Hut",
+        "level": 11
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-07T13:54:50+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#PLUQRR22G",
+    "name": "ветмо",
+    "cards": [
+      "Ice Wizard"
+    ],
+    "at": "2026-11-07T13:54:50+00:00"
   }
 ]

@@ -224,15 +224,6 @@
         "decksUsedToday": 1
       },
       {
-        "tag": "#9282CQQ90",
-        "name": "Чушпан",
-        "fame": 300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 2,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 350,
@@ -260,13 +251,13 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PLUQRR22G",
-        "name": "ветмо",
-        "fame": 500,
+        "tag": "#9282CQQ90",
+        "name": "Чушпан",
+        "fame": 400,
         "repairPoints": 0,
-        "boatAttacks": 2,
-        "decksUsed": 4,
-        "decksUsedToday": 0
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 1
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -332,13 +323,13 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 1200,
+        "tag": "#PLUQRR22G",
+        "name": "ветмо",
+        "fame": 1100,
         "repairPoints": 0,
-        "boatAttacks": 0,
+        "boatAttacks": 4,
         "decksUsed": 8,
-        "decksUsedToday": 0
+        "decksUsedToday": 4
       },
       {
         "tag": "#LV0GVYYL8",
@@ -348,6 +339,15 @@
         "boatAttacks": 0,
         "decksUsed": 7,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 1300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 9,
+        "decksUsedToday": 1
       },
       {
         "tag": "#V0RCP20LR",
@@ -395,7 +395,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 1800,
+    "periodPoints": 2600,
     "clanScore": 2155
   },
   "clans": [
@@ -506,15 +506,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#R00CLL2Q",
-          "name": "TWIX",
-          "fame": 1000,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 1125,
@@ -560,6 +551,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#R00CLL2Q",
+          "name": "TWIX",
+          "fame": 1500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#QQYVQG22G",
           "name": "ecko",
           "fame": 1900,
@@ -569,7 +569,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1725,
+      "periodPoints": 2225,
       "clanScore": 2169
     },
     {
@@ -796,15 +796,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#9282CQQ90",
-          "name": "Чушпан",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 350,
@@ -832,13 +823,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PLUQRR22G",
-          "name": "ветмо",
-          "fame": 500,
+          "tag": "#9282CQQ90",
+          "name": "Чушпан",
+          "fame": 400,
           "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 1
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -904,13 +895,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 1200,
+          "tag": "#PLUQRR22G",
+          "name": "ветмо",
+          "fame": 1100,
           "repairPoints": 0,
-          "boatAttacks": 0,
+          "boatAttacks": 4,
           "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#LV0GVYYL8",
@@ -920,6 +911,15 @@
           "boatAttacks": 0,
           "decksUsed": 7,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#V0RCP20LR",
@@ -967,7 +967,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1800,
+      "periodPoints": 2600,
       "clanScore": 2155
     },
     {
@@ -1637,15 +1637,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#2LRQVPP0V",
-          "name": "Nikatnyte_2",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 1200,
@@ -1671,9 +1662,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2LRQVPP0V",
+          "name": "Nikatnyte_2",
+          "fame": 1900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 1200,
       "clanScore": 2145
     },
     {
@@ -1918,15 +1918,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 1100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2VLGJUPP",
           "name": "Hub",
           "fame": 1100,
@@ -1972,6 +1963,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 1825,
@@ -1981,7 +1981,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 700,
+      "periodPoints": 1400,
       "clanScore": 2153
     }
   ],

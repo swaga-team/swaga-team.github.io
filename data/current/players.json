@@ -1285,12 +1285,12 @@
     "trophies": 11695,
     "bestTrophies": 11695,
     "wins": 1100,
-    "losses": 1038,
-    "battleCount": 2138,
+    "losses": 1039,
+    "battleCount": 2139,
     "threeCrownWins": 630,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 24958,
+    "totalDonations": 25002,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1459,15 +1459,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11647,
+    "trophies": 11617,
     "bestTrophies": 11767,
     "wins": 2282,
-    "losses": 2484,
-    "battleCount": 4766,
+    "losses": 2485,
+    "battleCount": 4767,
     "threeCrownWins": 1084,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12808,
+    "totalDonations": 12823,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2913,8 +2913,8 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2551,
-    "losses": 2681,
-    "battleCount": 5232,
+    "losses": 2682,
+    "battleCount": 5233,
     "threeCrownWins": 1844,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3690,15 +3690,15 @@
   },
   "#PLUQRR22G": {
     "expLevel": 55,
-    "trophies": 10532,
-    "bestTrophies": 10564,
-    "wins": 2920,
+    "trophies": 10591,
+    "bestTrophies": 10591,
+    "wins": 2924,
     "losses": 3478,
-    "battleCount": 6398,
-    "threeCrownWins": 1450,
+    "battleCount": 6402,
+    "threeCrownWins": 1451,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
-    "totalDonations": 18239,
+    "totalDonations": 18285,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3726,15 +3726,15 @@
         "name": "Ice Wizard",
         "rarity": "legendary",
         "elixirCost": 3,
-        "evolved": false,
+        "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
       },
       {
-        "name": "Mortar",
-        "rarity": "common",
+        "name": "Goblin Cage",
+        "rarity": "rare",
         "elixirCost": 4,
         "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/vD24bBgK4rSq7wx5QEbuqChtPMRFviL_ep76GwQw1yA.png"
       },
       {
         "name": "Goblin Barrel",
@@ -3773,11 +3773,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Dragons",
+      "name": "Goblin Gang",
       "rarity": "common",
-      "elixirCost": 4,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
     }
   },
   "#9GVPRJQLL": {
