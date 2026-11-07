@@ -1990,15 +1990,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20CL00UJ",
-          "name": "King Bernie",
-          "fame": 1600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
           "fame": 1750,
@@ -2033,9 +2024,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#20CL00UJ",
+          "name": "King Bernie",
+          "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2525,
+      "periodPoints": 2925,
       "clanScore": 2153
     }
   ],
