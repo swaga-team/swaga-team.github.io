@@ -3343,5 +3343,34 @@
       }
     ],
     "at": "2026-11-07T03:54:45+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "cards": [
+      {
+        "name": "P.E.K.K.A",
+        "level": 15
+      },
+      {
+        "name": "Fireball",
+        "level": 15
+      },
+      {
+        "name": "Bats",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-07T04:56:09+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "cards": [
+      "Dart Goblin"
+    ],
+    "at": "2026-11-07T04:56:09+00:00"
   }
 ]
