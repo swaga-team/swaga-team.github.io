@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4786,
+  "donationsPerWeek": 4797,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 40,
   "memberList": [
+    {
+      "tag": "#28G90Y9JL",
+      "name": "GamerPro",
+      "role": "member",
+      "lastSeen": "20261107T122228.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 8,
+      "donations": 8,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#8UCG80RYR",
       "name": "Daisy Sprout",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 116,
       "donationsReceived": 0,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 4,
       "donations": 196,
       "donationsReceived": 80,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 1,
       "donations": 262,
       "donationsReceived": 280,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 3,
       "donations": 245,
       "donationsReceived": 0,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 2,
       "donations": 280,
       "donationsReceived": 350,
@@ -121,7 +139,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 5,
       "donations": 92,
       "donationsReceived": 240,
@@ -139,28 +157,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 7,
+      "clanRank": 8,
       "previousClanRank": 7,
       "donations": 125,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#28G90Y9JL",
-      "name": "GamerPro",
-      "role": "member",
-      "lastSeen": "20261031T183101.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 8,
-      "previousClanRank": 8,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -221,7 +221,7 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261106T132354.000Z",
+      "lastSeen": "20261107T114705.000Z",
       "expLevel": 0,
       "trophies": 13029,
       "arena": {
@@ -232,7 +232,7 @@
       "clanRank": 12,
       "previousClanRank": 12,
       "donations": 52,
-      "donationsReceived": 120,
+      "donationsReceived": 131,
       "clanChestPoints": 0
     },
     {
@@ -311,7 +311,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261107T105837.000Z",
+      "lastSeen": "20261107T115641.000Z",
       "expLevel": 0,
       "trophies": 11647,
       "arena": {
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 16,
-      "donations": 532,
+      "donations": 535,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -347,7 +347,7 @@
       "tag": "#PLUQRR22G",
       "name": "ветмо",
       "role": "member",
-      "lastSeen": "20261107T042531.000Z",
+      "lastSeen": "20261107T125017.000Z",
       "expLevel": 0,
       "trophies": 10532,
       "arena": {

@@ -3598,5 +3598,149 @@
       }
     ],
     "at": "2026-11-07T11:45:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#28G90Y9JL",
+    "name": "GamerPro",
+    "cards": [
+      {
+        "name": "Witch",
+        "level": 11
+      },
+      {
+        "name": "Mini P.E.K.K.A",
+        "level": 11
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 11
+      },
+      {
+        "name": "Electro Wizard",
+        "level": 11
+      },
+      {
+        "name": "Graveyard",
+        "level": 11
+      },
+      {
+        "name": "Minion Giant",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-07T12:54:56+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9GVPRJQLL",
+    "name": "NovaZonday",
+    "cards": [
+      {
+        "name": "Barbarian Hut",
+        "level": 11
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 11
+      },
+      {
+        "name": "Mega Minion",
+        "level": 11
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 11
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-07T12:54:56+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Goblin Giant",
+        "level": 9
+      },
+      {
+        "name": "Electro Giant",
+        "level": 9
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 9
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 9
+      },
+      {
+        "name": "Goblin Demolisher",
+        "level": 9
+      },
+      {
+        "name": "Cannon Cart",
+        "level": 8
+      },
+      {
+        "name": "Battle Healer",
+        "level": 8
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 8
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 8
+      },
+      {
+        "name": "Bowler",
+        "level": 8
+      },
+      {
+        "name": "Mortar",
+        "level": 8
+      },
+      {
+        "name": "Guards",
+        "level": 8
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 8
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 8
+      },
+      {
+        "name": "Barbarian Hut",
+        "level": 8
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 8
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 8
+      },
+      {
+        "name": "Berserker",
+        "level": 8
+      },
+      {
+        "name": "Rune Giant",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-07T12:54:56+00:00"
   }
 ]
