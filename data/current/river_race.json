@@ -98,6 +98,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#UY2UPL2GV",
+        "name": "\"Erick\"",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#R992J02JG",
         "name": "arman",
         "fame": 0,
@@ -145,6 +154,15 @@
       {
         "tag": "#RYRY0V89G",
         "name": "Клэшер",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#J9Y9Y9YRG",
+        "name": "Sinner",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -287,15 +305,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQGRL028",
-        "name": "govnoed",
-        "fame": 800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 3
-      },
-      {
         "tag": "#CGPUY8P2",
         "name": "BIG BOY",
         "fame": 900,
@@ -303,6 +312,15 @@
         "boatAttacks": 0,
         "decksUsed": 6,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#PQQGRL028",
+        "name": "govnoed",
+        "fame": 900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 5,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PLUQRR22G",
@@ -395,7 +413,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5725,
+    "periodPoints": 5825,
     "clanScore": 2155
   },
   "clans": [
@@ -524,15 +542,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#2L8LR0QGU",
-          "name": "mr.tvister",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8Y2PVY8",
           "name": "Good Like",
           "fame": 1400,
@@ -567,9 +576,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#2L8LR0QGU",
+          "name": "mr.tvister",
+          "fame": 2100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2625,
+      "periodPoints": 3425,
       "clanScore": 2169
     },
     {
@@ -670,6 +688,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#UY2UPL2GV",
+          "name": "\"Erick\"",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#R992J02JG",
           "name": "arman",
           "fame": 0,
@@ -717,6 +744,15 @@
         {
           "tag": "#RYRY0V89G",
           "name": "Клэшер",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#J9Y9Y9YRG",
+          "name": "Sinner",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -859,15 +895,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQGRL028",
-          "name": "govnoed",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#CGPUY8P2",
           "name": "BIG BOY",
           "fame": 900,
@@ -875,6 +902,15 @@
           "boatAttacks": 0,
           "decksUsed": 6,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#PQQGRL028",
+          "name": "govnoed",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PLUQRR22G",
@@ -967,7 +1003,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5725,
+      "periodPoints": 5825,
       "clanScore": 2155
     },
     {
@@ -1574,15 +1610,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#LVJLCCR2",
-          "name": "animals1948",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#JV28YQVQY",
           "name": "помярчо69",
           "fame": 0,
@@ -1608,6 +1635,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#LVJLCCR2",
+          "name": "animals1948",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#20VV8YGUGY",
@@ -1673,7 +1709,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1900,
+      "periodPoints": 2400,
       "clanScore": 2145
     },
     {
@@ -1956,11 +1992,11 @@
         {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
-          "fame": 1325,
+          "fame": 1525,
           "repairPoints": 0,
           "boatAttacks": 1,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#20CL00UJ",
@@ -1990,7 +2026,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1400,
+      "periodPoints": 1600,
       "clanScore": 2153
     }
   ],
