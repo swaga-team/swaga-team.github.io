@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115151,
+  "clanScore": 115152,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4430,
+  "donationsPerWeek": 4446,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261107T002337.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 280,
+      "donationsReceived": 310,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 207,
       "donationsReceived": 0,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 5,
       "donations": 236,
       "donationsReceived": 240,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 1,
       "donations": 88,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261106T161434.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 4,
-      "donations": 272,
-      "donationsReceived": 310,
       "clanChestPoints": 0
     },
     {
@@ -401,7 +401,7 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261106T133139.000Z",
+      "lastSeen": "20261106T235938.000Z",
       "expLevel": 0,
       "trophies": 10001,
       "arena": {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 20,
-      "donations": 46,
+      "donations": 54,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 0,
       "donations": 8,
-      "donationsReceived": 40,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
@@ -689,9 +689,9 @@
       "tag": "#CVCJY2V0Y",
       "name": "martinillo99",
       "role": "member",
-      "lastSeen": "20261106T194408.000Z",
+      "lastSeen": "20261107T001518.000Z",
       "expLevel": 0,
-      "trophies": 3458,
+      "trophies": 3461,
       "arena": {
         "id": 54000024,
         "name": "Electro Valley",
