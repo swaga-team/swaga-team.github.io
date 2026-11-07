@@ -3428,5 +3428,29 @@
     "arena": "Valkalla",
     "raw": "Arena_L9",
     "at": "2026-11-07T08:05:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#29GJQ0G9Q",
+    "name": "✨R_U_B_I_N✨",
+    "cards": [
+      {
+        "name": "Miner",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-07T09:51:50+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "cards": [
+      {
+        "name": "Ice Wizard",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-07T09:51:50+00:00"
   }
 ]
