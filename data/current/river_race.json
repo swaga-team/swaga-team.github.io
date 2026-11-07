@@ -251,15 +251,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#PLUQRR22G",
-        "name": "ветмо",
-        "fame": 375,
-        "repairPoints": 0,
-        "boatAttacks": 1,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#8RYCGVUV0",
         "name": "PARADOHA",
         "fame": 400,
@@ -267,6 +258,15 @@
         "boatAttacks": 0,
         "decksUsed": 4,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#PLUQRR22G",
+        "name": "ветмо",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 2,
+        "decksUsed": 4,
+        "decksUsedToday": 1
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -395,7 +395,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6800,
+    "periodPoints": 6925,
     "clanScore": 2155
   },
   "clans": [
@@ -823,15 +823,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#PLUQRR22G",
-          "name": "ветмо",
-          "fame": 375,
-          "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8RYCGVUV0",
           "name": "PARADOHA",
           "fame": 400,
@@ -839,6 +830,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#PLUQRR22G",
+          "name": "ветмо",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 4,
+          "decksUsedToday": 1
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -967,7 +967,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6800,
+      "periodPoints": 6925,
       "clanScore": 2155
     },
     {
@@ -1230,15 +1230,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QP8G29U9Y",
-          "name": "Oyen™",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#PRJYV2CP",
           "name": "vabrinoza",
           "fame": 275,
@@ -1246,6 +1237,15 @@
           "boatAttacks": 3,
           "decksUsed": 3,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#QP8G29U9Y",
+          "name": "Oyen™",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#Q08QQGVYP",
@@ -1320,7 +1320,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1450,
+      "periodPoints": 1650,
       "clanScore": 2140
     },
     {
@@ -1686,6 +1686,15 @@
         {
           "tag": "#LVG82UVR",
           "name": "simotastic",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#9LRPL9QQ8",
+          "name": "joão felix",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

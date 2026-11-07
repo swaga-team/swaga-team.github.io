@@ -3183,5 +3183,165 @@
       }
     ],
     "at": "2026-11-06T20:51:58+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "arena": "PANCAKES!",
+    "raw": "Arena_L8",
+    "at": "2026-11-07T03:54:45+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8RYCGVUV0",
+    "name": "PARADOHA",
+    "cards": [
+      {
+        "name": "Knight",
+        "level": 11
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 11
+      },
+      {
+        "name": "Flying Machine",
+        "level": 9
+      },
+      {
+        "name": "Inferno Tower",
+        "level": 9
+      },
+      {
+        "name": "Bowler",
+        "level": 9
+      },
+      {
+        "name": "Barbarian Hut",
+        "level": 9
+      },
+      {
+        "name": "Elixir Golem",
+        "level": 9
+      },
+      {
+        "name": "Mortar",
+        "level": 9
+      },
+      {
+        "name": "Mega Minion",
+        "level": 9
+      },
+      {
+        "name": "Cannon Cart",
+        "level": 9
+      },
+      {
+        "name": "Earthquake",
+        "level": 9
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 9
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 9
+      },
+      {
+        "name": "Spear Goblins",
+        "level": 9
+      },
+      {
+        "name": "Skeleton Dragons",
+        "level": 9
+      },
+      {
+        "name": "Tombstone",
+        "level": 9
+      },
+      {
+        "name": "Royal Hogs",
+        "level": 9
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 9
+      },
+      {
+        "name": "Barbarian Barrel",
+        "level": 9
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 9
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 9
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 9
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 9
+      },
+      {
+        "name": "Electro Dragon",
+        "level": 9
+      },
+      {
+        "name": "Zappies",
+        "level": 9
+      },
+      {
+        "name": "Guards",
+        "level": 9
+      },
+      {
+        "name": "Tornado",
+        "level": 9
+      },
+      {
+        "name": "Battle Healer",
+        "level": 9
+      },
+      {
+        "name": "Berserker",
+        "level": 9
+      },
+      {
+        "name": "Goblin Demolisher",
+        "level": 9
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 9
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 9
+      },
+      {
+        "name": "Void",
+        "level": 9
+      },
+      {
+        "name": "Vines",
+        "level": 9
+      },
+      {
+        "name": "Minion Giant",
+        "level": 9
+      },
+      {
+        "name": "Rune Giant",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-07T03:54:45+00:00"
   }
 ]

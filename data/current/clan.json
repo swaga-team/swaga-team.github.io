@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115160,
+  "clanScore": 115171,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4456,
+  "donationsPerWeek": 4466,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 280,
-      "donationsReceived": 320,
+      "donationsReceived": 330,
       "clanChestPoints": 0
     },
     {
@@ -347,9 +347,9 @@
       "tag": "#PLUQRR22G",
       "name": "ветмо",
       "role": "member",
-      "lastSeen": "20261106T095055.000Z",
+      "lastSeen": "20261107T033452.000Z",
       "expLevel": 0,
-      "trophies": 10534,
+      "trophies": 10564,
       "arena": {
         "id": 54000130,
         "name": "Royal Road",
@@ -401,7 +401,7 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261106T235938.000Z",
+      "lastSeen": "20261107T030858.000Z",
       "expLevel": 0,
       "trophies": 10001,
       "arena": {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 20,
-      "donations": 54,
+      "donations": 64,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -527,13 +527,13 @@
       "tag": "#8RYCGVUV0",
       "name": "PARADOHA",
       "role": "member",
-      "lastSeen": "20261107T023523.000Z",
+      "lastSeen": "20261107T034602.000Z",
       "expLevel": 0,
-      "trophies": 8496,
+      "trophies": 8522,
       "arena": {
-        "id": 54000018,
-        "name": "Clash Fest",
-        "rawName": "Arena_L7"
+        "id": 54000019,
+        "name": "PANCAKES!",
+        "rawName": "Arena_L8"
       },
       "clanRank": 29,
       "previousClanRank": 0,
