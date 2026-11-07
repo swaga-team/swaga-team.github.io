@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114456,
+  "clanScore": 114461,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5170,
+  "donationsPerWeek": 5180,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
       "role": "coLeader",
-      "lastSeen": "20261107T182625.000Z",
+      "lastSeen": "20261107T200704.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261107T171129.000Z",
+      "lastSeen": "20261107T195429.000Z",
       "expLevel": 0,
-      "trophies": 11799,
+      "trophies": 11770,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 598,
+      "donations": 608,
       "donationsReceived": 440,
       "clanChestPoints": 0
     },
@@ -599,9 +599,9 @@
       "tag": "#QU8082PC2",
       "name": "yrikkiller",
       "role": "member",
-      "lastSeen": "20261106T195202.000Z",
+      "lastSeen": "20261107T202855.000Z",
       "expLevel": 0,
-      "trophies": 6109,
+      "trophies": 6224,
       "arena": {
         "id": 54000014,
         "name": "Royal Crypt",
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 39,
       "donations": 372,
-      "donationsReceived": 430,
+      "donationsReceived": 440,
       "clanChestPoints": 0
     },
     {
