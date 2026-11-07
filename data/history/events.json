@@ -3779,5 +3779,25 @@
       }
     ],
     "at": "2026-11-07T14:47:09+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#LV0GVYYL8",
+    "name": "kkyo",
+    "cards": [
+      {
+        "name": "Fire Spirit",
+        "level": 16
+      },
+      {
+        "name": "Mega Knight",
+        "level": 11
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-07T18:50:13+00:00"
   }
 ]
