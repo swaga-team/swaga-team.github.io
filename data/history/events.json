@@ -3799,5 +3799,25 @@
       }
     ],
     "at": "2026-11-07T18:50:13+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VGVQG0CVG",
+    "name": "¿ G1ntex21 ?",
+    "cards": [
+      {
+        "name": "Barbarians",
+        "level": 10
+      },
+      {
+        "name": "Valkyrie",
+        "level": 9
+      },
+      {
+        "name": "Rocket",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-07T19:46:30+00:00"
   }
 ]

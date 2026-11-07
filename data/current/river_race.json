@@ -80,15 +80,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#22JLP29RV",
-        "name": "Kale",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#P08LLGYLQ",
         "name": "Luka13",
         "fame": 0,
@@ -204,6 +195,15 @@
         "boatAttacks": 2,
         "decksUsed": 2,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#22JLP29RV",
+        "name": "Kale",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
       },
       {
         "tag": "#28G90Y9JL",
@@ -413,7 +413,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6125,
+    "periodPoints": 6325,
     "clanScore": 2155
   },
   "clans": [
@@ -670,15 +670,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#22JLP29RV",
-          "name": "Kale",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#P08LLGYLQ",
           "name": "Luka13",
           "fame": 0,
@@ -794,6 +785,15 @@
           "boatAttacks": 2,
           "decksUsed": 2,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#22JLP29RV",
+          "name": "Kale",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
         },
         {
           "tag": "#28G90Y9JL",
@@ -1003,7 +1003,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6125,
+      "periodPoints": 6325,
       "clanScore": 2155
     },
     {
@@ -1893,6 +1893,15 @@
         {
           "tag": "#JR888YL2R",
           "name": "Calluzi",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#GYL9R8RCU",
+          "name": "flash",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
