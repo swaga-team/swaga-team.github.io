@@ -3970,5 +3970,66 @@
       }
     ],
     "at": "2026-11-08T12:55:55+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#J9Y9Y9YRG",
+    "name": "Sinner",
+    "arena": "Magic Academy",
+    "raw": "Arena_L15",
+    "at": "2026-11-08T14:46:14+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J9Y9Y9YRG",
+    "name": "Sinner",
+    "cards": [
+      {
+        "name": "Zappies",
+        "level": 12
+      },
+      {
+        "name": "Goblin Demolisher",
+        "level": 12
+      },
+      {
+        "name": "Firecracker",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-08T14:46:14+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PL82RPJUJ",
+    "name": ")))",
+    "cards": [
+      {
+        "name": "Hog Rider",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-08T14:46:14+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#PL82RPJUJ",
+    "name": ")))",
+    "cards": [
+      "Skeleton Barrel"
+    ],
+    "at": "2026-11-08T14:46:14+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Executioner",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-08T14:46:14+00:00"
   }
 ]

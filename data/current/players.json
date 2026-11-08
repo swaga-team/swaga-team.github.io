@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3714,
+    "wins": 3716,
     "losses": 2087,
-    "battleCount": 5801,
-    "threeCrownWins": 1075,
+    "battleCount": 5803,
+    "threeCrownWins": 1076,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41172,
+    "totalDonations": 41182,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -186,7 +186,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34896,
+    "totalDonations": 34916,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1190,12 +1190,12 @@
   },
   "#J9Y9Y9YRG": {
     "expLevel": 1,
-    "trophies": 11874,
-    "bestTrophies": 11874,
-    "wins": 1561,
-    "losses": 513,
-    "battleCount": 2074,
-    "threeCrownWins": 488,
+    "trophies": 12026,
+    "bestTrophies": 12026,
+    "wins": 1570,
+    "losses": 514,
+    "battleCount": 2084,
+    "threeCrownWins": 490,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 30,
@@ -1273,24 +1273,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant Skeleton",
+      "name": "Dark Prince",
       "rarity": "epic",
-      "elixirCost": 6,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#PL82RPJUJ": {
     "expLevel": 56,
     "trophies": 11695,
     "bestTrophies": 11695,
-    "wins": 1105,
+    "wins": 1107,
     "losses": 1039,
-    "battleCount": 2144,
+    "battleCount": 2146,
     "threeCrownWins": 632,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25088,
+    "totalDonations": 25108,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1365,11 +1365,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#29GJQ0G9Q": {
@@ -1737,10 +1737,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2519,
-    "losses": 2213,
-    "battleCount": 4732,
-    "threeCrownWins": 901,
+    "wins": 2522,
+    "losses": 2214,
+    "battleCount": 4736,
+    "threeCrownWins": 902,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -2011,11 +2011,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9634,
+    "trophies": 9664,
     "bestTrophies": 9825,
-    "wins": 2308,
+    "wins": 2309,
     "losses": 2138,
-    "battleCount": 4446,
+    "battleCount": 4447,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2094,24 +2094,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
-      "rarity": "rare",
+      "name": "Golden Knight",
+      "rarity": "champion",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
     "trophies": 9559,
     "bestTrophies": 9562,
-    "wins": 1024,
-    "losses": 688,
-    "battleCount": 1712,
+    "wins": 1027,
+    "losses": 689,
+    "battleCount": 1716,
     "threeCrownWins": 508,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3073,
+    "totalDonations": 3093,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2926,10 +2926,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2556,
-    "losses": 2686,
-    "battleCount": 5242,
-    "threeCrownWins": 1848,
+    "wins": 2558,
+    "losses": 2688,
+    "battleCount": 5246,
+    "threeCrownWins": 1849,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37351,
@@ -3007,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
-      "rarity": "legendary",
+      "name": "Goblin Giant",
+      "rarity": "epic",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
     }
   },
   "#GQP92GLC8": {
@@ -3890,9 +3890,9 @@
     "expLevel": 48,
     "trophies": 10001,
     "bestTrophies": 10142,
-    "wins": 2745,
-    "losses": 3429,
-    "battleCount": 6174,
+    "wins": 2747,
+    "losses": 3430,
+    "battleCount": 6177,
     "threeCrownWins": 1140,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3971,11 +3971,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Electro Dragon",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/tN9h6lnMNPCNsx0LMFmvpHgznbDZ1fBRkx-C7UfNmfY.png"
     }
   },
   "#CVCJY2V0Y": {

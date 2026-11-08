@@ -143,15 +143,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#RYRY0V89G",
-        "name": "Клэшер",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#J9Y9Y9YRG",
         "name": "Sinner",
         "fame": 0,
@@ -224,6 +215,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#RYRY0V89G",
+        "name": "Клэшер",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#29GJQ0G9Q",
         "name": "✨R_U_B_I_N✨",
         "fame": 400,
@@ -251,15 +251,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9282CQQ90",
-        "name": "Чушпан",
-        "fame": 400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YQ2VLPJ0L",
         "name": "arch1tector",
         "fame": 500,
@@ -272,6 +263,15 @@
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
         "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#9282CQQ90",
+        "name": "Чушпан",
+        "fame": 600,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 4,
@@ -341,15 +341,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 1500,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 10,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PLUQRR22G",
         "name": "ветмо",
         "fame": 1525,
@@ -386,6 +377,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 2000,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#8LRPG2VPQ",
         "name": "CHLE N EGRA",
         "fame": 2100,
@@ -395,18 +395,18 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 2300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 14,
-        "decksUsedToday": 2
-      },
-      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 2400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 16,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 2700,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 16,
@@ -422,7 +422,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4075,
+    "periodPoints": 5475,
     "clanScore": 2155
   },
   "clans": [
@@ -742,15 +742,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#RYRY0V89G",
-          "name": "Клэшер",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#J9Y9Y9YRG",
           "name": "Sinner",
           "fame": 0,
@@ -823,6 +814,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#RYRY0V89G",
+          "name": "Клэшер",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#29GJQ0G9Q",
           "name": "✨R_U_B_I_N✨",
           "fame": 400,
@@ -850,15 +850,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9282CQQ90",
-          "name": "Чушпан",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YQ2VLPJ0L",
           "name": "arch1tector",
           "fame": 500,
@@ -871,6 +862,15 @@
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
           "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#9282CQQ90",
+          "name": "Чушпан",
+          "fame": 600,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
@@ -940,15 +940,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 1500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 10,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PLUQRR22G",
           "name": "ветмо",
           "fame": 1525,
@@ -985,6 +976,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#8LRPG2VPQ",
           "name": "CHLE N EGRA",
           "fame": 2100,
@@ -994,18 +994,18 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 2300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 14,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 2400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 2700,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 16,
@@ -1021,7 +1021,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4075,
+      "periodPoints": 5475,
       "clanScore": 2155
     },
     {
@@ -1673,15 +1673,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2YCR89URU",
-          "name": "Ivan_PrO_XD",
-          "fame": 1100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
           "fame": 1100,
@@ -1689,6 +1680,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2YCR89URU",
+          "name": "Ivan_PrO_XD",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJGYGPPL9",
@@ -1727,7 +1727,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1100,
+      "periodPoints": 1800,
       "clanScore": 2145
     },
     {
@@ -1767,15 +1767,6 @@
         {
           "tag": "#LRG0YLY2G",
           "name": "oussama",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#V9GUL2JYP",
-          "name": "3DNEVEL",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1972,6 +1963,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#V9GUL2JYP",
+          "name": "3DNEVEL",
+          "fame": 75,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#28PQPC0VL",
           "name": "coxy",
           "fame": 100,
@@ -2062,7 +2062,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1450,
+      "periodPoints": 1525,
       "clanScore": 2153
     }
   ],
