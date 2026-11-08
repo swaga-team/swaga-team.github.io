@@ -508,11 +508,11 @@
         {
           "tag": "#YVCPRVC88",
           "name": "Thunder ⚡",
-          "fame": 700,
+          "fame": 800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 1
+          "decksUsed": 6,
+          "decksUsedToday": 2
         },
         {
           "tag": "#VQ2VLCVUY",
@@ -587,7 +587,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3525,
+      "periodPoints": 3625,
       "clanScore": 2169
     },
     {
@@ -1302,15 +1302,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 1000,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1075,
@@ -1318,6 +1309,15 @@
           "boatAttacks": 9,
           "decksUsed": 9,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 1250,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#CYYPJQP9R",
@@ -1356,7 +1356,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2550,
+      "periodPoints": 2800,
       "clanScore": 2140
     },
     {
