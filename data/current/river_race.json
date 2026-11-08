@@ -305,15 +305,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 900,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 6,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PQQGRL028",
         "name": "govnoed",
         "fame": 900,
@@ -338,6 +329,15 @@
         "repairPoints": 0,
         "boatAttacks": 1,
         "decksUsed": 10,
+        "decksUsedToday": 2
+      },
+      {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 1300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
         "decksUsedToday": 2
       },
       {
@@ -413,7 +413,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6325,
+    "periodPoints": 6725,
     "clanScore": 2155
   },
   "clans": [
@@ -895,15 +895,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PQQGRL028",
           "name": "govnoed",
           "fame": 900,
@@ -928,6 +919,15 @@
           "repairPoints": 0,
           "boatAttacks": 1,
           "decksUsed": 10,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
           "decksUsedToday": 2
         },
         {
@@ -1003,7 +1003,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6325,
+      "periodPoints": 6725,
       "clanScore": 2155
     },
     {
@@ -1311,15 +1311,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 1250,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 10,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
           "fame": 1300,
@@ -1347,6 +1338,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 1450,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#ULCYG0VGV",
           "name": "TheMrPoop",
           "fame": 1600,
@@ -1356,7 +1356,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2800,
+      "periodPoints": 3000,
       "clanScore": 2140
     },
     {
@@ -1628,15 +1628,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#GGGYLVJQ",
-          "name": "Горни Дъбник 79",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#LVJLCCR2",
           "name": "animals1948",
           "fame": 500,
@@ -1673,13 +1664,13 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 1500,
+          "tag": "#GGGYLVJQ",
+          "name": "Горни Дъбник 79",
+          "fame": 1100,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#2LRQVPP0V",
@@ -1707,9 +1698,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 2100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3300,
+      "periodPoints": 4500,
       "clanScore": 2145
     },
     {
