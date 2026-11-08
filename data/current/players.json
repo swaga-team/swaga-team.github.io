@@ -914,11 +914,11 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13228,
+    "trophies": 13199,
     "bestTrophies": 13289,
     "wins": 2384,
-    "losses": 2077,
-    "battleCount": 4461,
+    "losses": 2078,
+    "battleCount": 4462,
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -997,11 +997,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#P08LLGYLQ": {
