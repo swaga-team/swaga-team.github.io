@@ -1100,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3617,
-    "losses": 3064,
-    "battleCount": 6681,
+    "wins": 3619,
+    "losses": 3066,
+    "battleCount": 6685,
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2912,10 +2912,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2566,
-    "losses": 2693,
-    "battleCount": 5259,
-    "threeCrownWins": 1852,
+    "wins": 2572,
+    "losses": 2698,
+    "battleCount": 5270,
+    "threeCrownWins": 1854,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37371,
@@ -2993,11 +2993,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Giant",
-      "rarity": "epic",
+      "name": "Sparky",
+      "rarity": "legendary",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#GQP92GLC8": {

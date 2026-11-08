@@ -1347,15 +1347,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#CYYPJQP9R",
-          "name": "adev3",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V8V0RL2Y9",
           "name": "(c7) SARAH",
           "fame": 1450,
@@ -1392,6 +1383,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CYYPJQP9R",
+          "name": "adev3",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#20UJ9UGUQP",
           "name": "vulnerablezz",
           "fame": 1875,
@@ -1401,7 +1401,7 @@
           "decksUsedToday": 3
         }
       ],
-      "periodPoints": 1850,
+      "periodPoints": 2350,
       "clanScore": 2140
     },
     {
