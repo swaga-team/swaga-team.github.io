@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114461,
+  "clanScore": 114497,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5280,
+  "donationsPerWeek": 5346,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 3,
       "donations": 234,
-      "donationsReceived": 140,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -167,18 +167,18 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261106T115023.000Z",
+      "lastSeen": "20261108T090018.000Z",
       "expLevel": 0,
-      "trophies": 13435,
+      "trophies": 13500,
       "arena": {
-        "id": 54000143,
-        "name": "Little Prince's Tavern",
-        "rawName": "Arena_L17"
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 162,
-      "donationsReceived": 160,
+      "donations": 190,
+      "donationsReceived": 170,
       "clanChestPoints": 0
     },
     {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
@@ -383,7 +383,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261107T162157.000Z",
+      "lastSeen": "20261108T091049.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -434,6 +434,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261108T091319.000Z",
+      "expLevel": 0,
+      "trophies": 9664,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 24,
+      "previousClanRank": 25,
+      "donations": 326,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -445,28 +463,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 24,
+      "clanRank": 25,
       "previousClanRank": 24,
       "donations": 174,
       "donationsReceived": 280,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261107T174121.000Z",
-      "expLevel": 0,
-      "trophies": 9635,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 25,
-      "previousClanRank": 25,
-      "donations": 288,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261107T232415.000Z",
+      "lastSeen": "20261108T090927.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 382,
-      "donationsReceived": 440,
+      "donationsReceived": 456,
       "clanChestPoints": 0
     },
     {

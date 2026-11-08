@@ -829,15 +829,15 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13435,
-    "bestTrophies": 13435,
-    "wins": 2342,
-    "losses": 1662,
-    "battleCount": 4004,
+    "trophies": 13500,
+    "bestTrophies": 13501,
+    "wins": 2347,
+    "losses": 1666,
+    "battleCount": 4013,
     "threeCrownWins": 604,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30553,
+    "totalDonations": 30581,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1221,13 +1221,6 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Royal Ghost",
@@ -2011,15 +2004,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9635,
+    "trophies": 9664,
     "bestTrophies": 9825,
-    "wins": 2307,
+    "wins": 2308,
     "losses": 2137,
-    "battleCount": 4444,
+    "battleCount": 4445,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17955,
+    "totalDonations": 17993,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2042,6 +2035,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2087,11 +2087,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Ronin",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/X0dTFs7OGUavreDEzOtYd_YNZ8Zly6qgAE-dd-bNfWU.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2912,10 +2912,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2552,
+    "wins": 2556,
     "losses": 2686,
-    "battleCount": 5238,
-    "threeCrownWins": 1845,
+    "battleCount": 5242,
+    "threeCrownWins": 1848,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37351,
