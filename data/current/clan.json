@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115074,
+  "clanScore": 115066,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5690,
+  "donationsPerWeek": 5716,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -203,9 +203,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261108T152018.000Z",
+      "lastSeen": "20261108T160146.000Z",
       "expLevel": 0,
-      "trophies": 13197,
+      "trophies": 13168,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 268,
+      "donations": 286,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261107T195429.000Z",
+      "lastSeen": "20261108T163342.000Z",
       "expLevel": 0,
-      "trophies": 11770,
+      "trophies": 11767,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 608,
-      "donationsReceived": 440,
+      "donations": 616,
+      "donationsReceived": 450,
       "clanChestPoints": 0
     },
     {
@@ -545,7 +545,7 @@
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
-      "lastSeen": "20261107T152620.000Z",
+      "lastSeen": "20261108T160642.000Z",
       "expLevel": 0,
       "trophies": 8265,
       "arena": {
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261108T135931.000Z",
+      "lastSeen": "20261108T160208.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -574,7 +574,7 @@
       "clanRank": 31,
       "previousClanRank": 31,
       "donations": 192,
-      "donationsReceived": 280,
+      "donationsReceived": 296,
       "clanChestPoints": 0
     },
     {

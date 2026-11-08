@@ -368,15 +368,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQ2JYL2G",
-        "name": "MFbren",
-        "fame": 2000,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#CGPUY8P2",
         "name": "BIG BOY",
         "fame": 2000,
@@ -404,6 +395,15 @@
         "decksUsedToday": 4
       },
       {
+        "tag": "#PQQ2JYL2G",
+        "name": "MFbren",
+        "fame": 2700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 16,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 2700,
@@ -422,7 +422,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5475,
+    "periodPoints": 6175,
     "clanScore": 2155
   },
   "clans": [
@@ -967,15 +967,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQ2JYL2G",
-          "name": "MFbren",
-          "fame": 2000,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CGPUY8P2",
           "name": "BIG BOY",
           "fame": 2000,
@@ -1003,6 +994,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#PQQ2JYL2G",
+          "name": "MFbren",
+          "fame": 2700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 2700,
@@ -1021,7 +1021,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5475,
+      "periodPoints": 6175,
       "clanScore": 2155
     },
     {
@@ -1974,11 +1974,11 @@
         {
           "tag": "#28PQPC0VL",
           "name": "coxy",
-          "fame": 100,
+          "fame": 200,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
+          "decksUsed": 2,
+          "decksUsedToday": 1
         },
         {
           "tag": "#VLJ9YJ0JR",
@@ -2062,7 +2062,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1525,
+      "periodPoints": 1625,
       "clanScore": 2153
     }
   ],

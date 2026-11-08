@@ -914,15 +914,15 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13197,
+    "trophies": 13168,
     "bestTrophies": 13289,
     "wins": 2388,
-    "losses": 2080,
-    "battleCount": 4468,
+    "losses": 2081,
+    "battleCount": 4469,
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15313,
+    "totalDonations": 15331,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1459,15 +1459,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 11770,
-    "bestTrophies": 11799,
-    "wins": 2294,
-    "losses": 2492,
-    "battleCount": 4786,
-    "threeCrownWins": 1086,
+    "trophies": 11767,
+    "bestTrophies": 11800,
+    "wins": 2298,
+    "losses": 2494,
+    "battleCount": 4792,
+    "threeCrownWins": 1089,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12881,
+    "totalDonations": 12889,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Knight",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#YR2GG8C2": {
@@ -2681,13 +2681,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/vD24bBgK4rSq7wx5QEbuqChtPMRFviL_ep76GwQw1yA.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Lumberjack",
         "rarity": "legendary",
         "elixirCost": 4,
@@ -2926,10 +2919,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2558,
-    "losses": 2688,
-    "battleCount": 5246,
-    "threeCrownWins": 1849,
+    "wins": 2561,
+    "losses": 2691,
+    "battleCount": 5252,
+    "threeCrownWins": 1850,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37351,
@@ -3007,11 +3000,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Giant",
-      "rarity": "epic",
+      "name": "Sparky",
+      "rarity": "legendary",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#GQP92GLC8": {
