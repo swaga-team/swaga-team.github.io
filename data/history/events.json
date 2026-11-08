@@ -3934,5 +3934,41 @@
       }
     ],
     "at": "2026-11-08T11:45:54+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Night Witch",
+        "level": 10
+      },
+      {
+        "name": "Barbarians",
+        "level": 9
+      },
+      {
+        "name": "Tesla",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-08T12:55:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VGVQG0CVG",
+    "name": "¿ G1ntex21 ?",
+    "cards": [
+      {
+        "name": "Goblin Barrel",
+        "level": 12
+      },
+      {
+        "name": "Inferno Tower",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-08T12:55:55+00:00"
   }
 ]

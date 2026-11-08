@@ -404,15 +404,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 2050,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 2400,
@@ -420,9 +411,18 @@
         "boatAttacks": 0,
         "decksUsed": 16,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 2550,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 14,
+        "decksUsedToday": 2
       }
     ],
-    "periodPoints": 1425,
+    "periodPoints": 1925,
     "clanScore": 2155
   },
   "clans": [
@@ -580,11 +580,11 @@
         {
           "tag": "#QQYVQG22G",
           "name": "ecko",
-          "fame": 1900,
+          "fame": 2600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2L8LR0QGU",
@@ -596,7 +596,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 825,
+      "periodPoints": 1525,
       "clanScore": 2169
     },
     {
@@ -1003,15 +1003,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 2050,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 2400,
@@ -1019,9 +1010,18 @@
           "boatAttacks": 0,
           "decksUsed": 16,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 2550,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 14,
+          "decksUsedToday": 2
         }
       ],
-      "periodPoints": 1425,
+      "periodPoints": 1925,
       "clanScore": 2155
     },
     {
@@ -1691,15 +1691,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YCPL99V8Y",
-          "name": "koki",
-          "fame": 1900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VJGYGPPL9",
           "name": "pacs",
           "fame": 2000,
@@ -1718,6 +1709,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YCPL99V8Y",
+          "name": "koki",
+          "fame": 2400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 15,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 2500,
@@ -1727,7 +1727,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 600,
+      "periodPoints": 1100,
       "clanScore": 2145
     },
     {
@@ -2026,15 +2026,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 1800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 1825,
@@ -2060,9 +2051,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 2100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 14,
+          "decksUsedToday": 2
         }
       ],
-      "periodPoints": 300,
+      "periodPoints": 600,
       "clanScore": 2153
     }
   ],

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114995,
+  "clanScore": 115007,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5510,
+  "donationsPerWeek": 5520,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#PQQGRL028",
       "name": "govnoed",
       "role": "member",
-      "lastSeen": "20261108T111640.000Z",
+      "lastSeen": "20261108T121419.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 4,
       "donations": 166,
-      "donationsReceived": 20,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     },
     {
@@ -347,9 +347,9 @@
       "tag": "#PLUQRR22G",
       "name": "ветмо",
       "role": "member",
-      "lastSeen": "20261108T111821.000Z",
+      "lastSeen": "20261108T120848.000Z",
       "expLevel": 0,
-      "trophies": 10591,
+      "trophies": 10651,
       "arena": {
         "id": 54000130,
         "name": "Royal Road",
@@ -434,24 +434,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261108T091319.000Z",
-      "expLevel": 0,
-      "trophies": 9664,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 24,
-      "previousClanRank": 25,
-      "donations": 326,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -463,10 +445,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 24,
       "previousClanRank": 24,
       "donations": 174,
       "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261108T123739.000Z",
+      "expLevel": 0,
+      "trophies": 9634,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 25,
+      "donations": 326,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -601,7 +601,7 @@
       "role": "member",
       "lastSeen": "20261108T114315.000Z",
       "expLevel": 0,
-      "trophies": 6397,
+      "trophies": 6428,
       "arena": {
         "id": 54000014,
         "name": "Royal Crypt",
@@ -689,9 +689,9 @@
       "tag": "#VGVQG0CVG",
       "name": "¿ G1ntex21 ?",
       "role": "member",
-      "lastSeen": "20261107T191138.000Z",
+      "lastSeen": "20261108T115512.000Z",
       "expLevel": 0,
-      "trophies": 3522,
+      "trophies": 3492,
       "arena": {
         "id": 54000024,
         "name": "Electro Valley",
@@ -707,7 +707,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261108T072057.000Z",
+      "lastSeen": "20261108T124350.000Z",
       "expLevel": 0,
       "trophies": 3273,
       "arena": {
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 38,
-      "donations": 382,
+      "donations": 392,
       "donationsReceived": 480,
       "clanChestPoints": 0
     },

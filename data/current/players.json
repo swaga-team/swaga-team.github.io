@@ -2011,11 +2011,11 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9664,
+    "trophies": 9634,
     "bestTrophies": 9825,
     "wins": 2308,
-    "losses": 2137,
-    "battleCount": 4445,
+    "losses": 2138,
+    "battleCount": 4446,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2094,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ronin",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Valkyrie",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/X0dTFs7OGUavreDEzOtYd_YNZ8Zly6qgAE-dd-bNfWU.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#9RJPRQLL2": {
@@ -3287,13 +3287,13 @@
     "expLevel": 58,
     "trophies": 3273,
     "bestTrophies": 3397,
-    "wins": 3214,
+    "wins": 3215,
     "losses": 2816,
-    "battleCount": 6030,
+    "battleCount": 6031,
     "threeCrownWins": 2582,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20620,
+    "totalDonations": 20630,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3457,11 +3457,11 @@
   },
   "#VGVQG0CVG": {
     "expLevel": 3,
-    "trophies": 3522,
+    "trophies": 3492,
     "bestTrophies": 3526,
-    "wins": 254,
-    "losses": 232,
-    "battleCount": 486,
+    "wins": 255,
+    "losses": 235,
+    "battleCount": 490,
     "threeCrownWins": 160,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3528,11 +3528,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Army",
+      "name": "Witch",
       "rarity": "epic",
-      "elixirCost": 3,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#20CY2VYYYY": {
@@ -3697,11 +3697,11 @@
   },
   "#PLUQRR22G": {
     "expLevel": 55,
-    "trophies": 10591,
-    "bestTrophies": 10591,
-    "wins": 2924,
-    "losses": 3480,
-    "battleCount": 6404,
+    "trophies": 10651,
+    "bestTrophies": 10680,
+    "wins": 2927,
+    "losses": 3481,
+    "battleCount": 6408,
     "threeCrownWins": 1451,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
@@ -3780,11 +3780,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
-      "rarity": "rare",
+      "name": "Skeleton Dragons",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
     }
   },
   "#9GVPRJQLL": {
@@ -4225,12 +4225,12 @@
   },
   "#QU8082PC2": {
     "expLevel": 1,
-    "trophies": 6397,
-    "bestTrophies": 6399,
-    "wins": 413,
-    "losses": 229,
-    "battleCount": 642,
-    "threeCrownWins": 156,
+    "trophies": 6428,
+    "bestTrophies": 6455,
+    "wins": 418,
+    "losses": 233,
+    "battleCount": 651,
+    "threeCrownWins": 160,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -4308,11 +4308,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Sparky",
+      "rarity": "legendary",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#PQQGRL028": {
@@ -4320,8 +4320,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 1810,
-    "losses": 1159,
-    "battleCount": 2969,
+    "losses": 1161,
+    "battleCount": 2971,
     "threeCrownWins": 815,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
