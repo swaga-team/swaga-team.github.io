@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114497,
+  "clanScore": 114984,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,11 +13,11 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5346,
+  "donationsPerWeek": 5384,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 40,
+  "members": 41,
   "memberList": [
     {
       "tag": "#CGPUY8P2",
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 190,
-      "donationsReceived": 170,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -239,7 +239,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261107T212543.000Z",
+      "lastSeen": "20261108T101028.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 0,
-      "donationsReceived": 20,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     },
     {
@@ -311,7 +311,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261107T174820.000Z",
+      "lastSeen": "20261108T103603.000Z",
       "expLevel": 0,
       "trophies": 11695,
       "arena": {
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 17,
-      "donations": 426,
+      "donations": 464,
       "donationsReceived": 420,
       "clanChestPoints": 0
     },
@@ -614,6 +614,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#U00CVC89C",
+      "name": "Zenitsu",
+      "role": "member",
+      "lastSeen": "20261108T102613.000Z",
+      "expLevel": 0,
+      "trophies": 5634,
+      "arena": {
+        "id": 54000013,
+        "name": "Executioner's Kitchen",
+        "rawName": "Arena_L2"
+      },
+      "clanRank": 34,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#8JRL80GY0",
       "name": "vickymaddy",
       "role": "member",
@@ -625,7 +643,7 @@
         "name": "Miner's Mine",
         "rawName": "Arena_L1"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -643,7 +661,7 @@
         "name": "Spooky Town",
         "rawName": "Arena_T"
       },
-      "clanRank": 35,
+      "clanRank": 36,
       "previousClanRank": 35,
       "donations": 10,
       "donationsReceived": 0,
@@ -661,7 +679,7 @@
         "name": "Electro Valley",
         "rawName": "Arena_Electric"
       },
-      "clanRank": 36,
+      "clanRank": 37,
       "previousClanRank": 36,
       "donations": 0,
       "donationsReceived": 0,
@@ -679,7 +697,7 @@
         "name": "Electro Valley",
         "rawName": "Arena_Electric"
       },
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 37,
       "donations": 10,
       "donationsReceived": 40,
@@ -697,17 +715,17 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 38,
+      "clanRank": 39,
       "previousClanRank": 38,
       "donations": 382,
-      "donationsReceived": 456,
+      "donationsReceived": 464,
       "clanChestPoints": 0
     },
     {
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261107T101218.000Z",
+      "lastSeen": "20261108T101625.000Z",
       "expLevel": 0,
       "trophies": 2875,
       "arena": {
@@ -715,10 +733,10 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 39,
       "donations": 32,
-      "donationsReceived": 170,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -733,7 +751,7 @@
         "name": "Spell Valley",
         "rawName": "Arena4"
       },
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 40,
       "donations": 8,
       "donationsReceived": 40,

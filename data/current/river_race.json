@@ -206,6 +206,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#U00CVC89C",
+        "name": "Zenitsu",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#28G90Y9JL",
         "name": "GamerPro",
         "fame": 200,
@@ -368,15 +377,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJQQLCJP8",
-        "name": "Генри lll",
-        "fame": 1800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 1900,
@@ -411,9 +411,18 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#VJQQLCJP8",
+        "name": "Генри lll",
+        "fame": 2400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 16,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 0,
+    "periodPoints": 800,
     "clanScore": 2155
   },
   "clans": [
@@ -796,6 +805,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#U00CVC89C",
+          "name": "Zenitsu",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#28G90Y9JL",
           "name": "GamerPro",
           "fame": 200,
@@ -958,15 +976,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJQQLCJP8",
-          "name": "Генри lll",
-          "fame": 1800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 1900,
@@ -1001,9 +1010,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#VJQQLCJP8",
+          "name": "Генри lll",
+          "fame": 2400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 800,
       "clanScore": 2155
     },
     {
@@ -1302,15 +1320,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8PVGVG90Q",
-          "name": "FH solow",
-          "fame": 1075,
-          "repairPoints": 0,
-          "boatAttacks": 9,
-          "decksUsed": 9,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
           "fame": 1300,
@@ -1318,6 +1327,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#8PVGVG90Q",
+          "name": "FH solow",
+          "fame": 1325,
+          "repairPoints": 0,
+          "boatAttacks": 11,
+          "decksUsed": 11,
+          "decksUsedToday": 2
         },
         {
           "tag": "#VRG2PYQGJ",
@@ -1356,7 +1374,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 250,
       "clanScore": 2140
     },
     {
@@ -1673,15 +1691,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2LRQVPP0V",
-          "name": "Nikatnyte_2",
-          "fame": 1900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 1900,
@@ -1707,9 +1716,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2LRQVPP0V",
+          "name": "Nikatnyte_2",
+          "fame": 2500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 600,
       "clanScore": 2145
     },
     {
