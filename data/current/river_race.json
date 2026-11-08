@@ -341,15 +341,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9JQ8PCJ",
-        "name": "lastiq",
-        "fame": 1400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PLUQRR22G",
         "name": "ветмо",
         "fame": 1525,
@@ -384,6 +375,15 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#9JQ8PCJ",
+        "name": "lastiq",
+        "fame": 2100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
       },
       {
         "tag": "#8LRPG2VPQ",
@@ -431,7 +431,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6175,
+    "periodPoints": 6875,
     "clanScore": 2155
   },
   "clans": [
@@ -949,15 +949,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9JQ8PCJ",
-          "name": "lastiq",
-          "fame": 1400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PLUQRR22G",
           "name": "ветмо",
           "fame": 1525,
@@ -992,6 +983,15 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#9JQ8PCJ",
+          "name": "lastiq",
+          "fame": 2100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#8LRPG2VPQ",
@@ -1039,7 +1039,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6175,
+      "periodPoints": 6875,
       "clanScore": 2155
     },
     {
@@ -1052,6 +1052,15 @@
         {
           "tag": "#VLPVCYPYP",
           "name": "016",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#2009V0RUQ",
+          "name": "NamiRin.",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2010,11 +2019,11 @@
         {
           "tag": "#28PQPC0VL",
           "name": "coxy",
-          "fame": 600,
+          "fame": 800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 3
+          "decksUsed": 5,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2VLGJUPP",
@@ -2080,7 +2089,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3425,
+      "periodPoints": 3625,
       "clanScore": 2153
     }
   ],
