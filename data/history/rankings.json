@@ -338,11 +338,11 @@
     "local": {
       "trophies": {
         "rank": null,
-        "cutoff": 133413
+        "cutoff": 133489
       },
       "war": {
         "rank": null,
-        "cutoff": 2673
+        "cutoff": 2675
       }
     }
   }

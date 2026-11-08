@@ -332,15 +332,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#GQQL9YLYQ",
-        "name": "Ter",
-        "fame": 1175,
-        "repairPoints": 0,
-        "boatAttacks": 1,
-        "decksUsed": 10,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PLUQRR22G",
         "name": "ветмо",
         "fame": 1525,
@@ -357,6 +348,15 @@
         "boatAttacks": 1,
         "decksUsed": 8,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#GQQL9YLYQ",
+        "name": "Ter",
+        "fame": 1575,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 13,
+        "decksUsedToday": 3
       },
       {
         "tag": "#LV0GVYYL8",
@@ -431,7 +431,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6975,
+    "periodPoints": 7375,
     "clanScore": 2155
   },
   "clans": [
@@ -940,15 +940,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GQQL9YLYQ",
-          "name": "Ter",
-          "fame": 1175,
-          "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 10,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PLUQRR22G",
           "name": "ветмо",
           "fame": 1525,
@@ -965,6 +956,15 @@
           "boatAttacks": 1,
           "decksUsed": 8,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#GQQL9YLYQ",
+          "name": "Ter",
+          "fame": 1575,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 13,
+          "decksUsedToday": 3
         },
         {
           "tag": "#LV0GVYYL8",
@@ -1039,7 +1039,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6975,
+      "periodPoints": 7375,
       "clanScore": 2155
     },
     {

@@ -1315,13 +1315,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -2013,13 +2006,13 @@
     "expLevel": 38,
     "trophies": 9724,
     "bestTrophies": 9825,
-    "wins": 2311,
-    "losses": 2138,
-    "battleCount": 4449,
+    "wins": 2312,
+    "losses": 2140,
+    "battleCount": 4452,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18021,
+    "totalDonations": 18031,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2094,11 +2087,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
-      "rarity": "rare",
+      "name": "Golden Knight",
+      "rarity": "champion",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#9RJPRQLL2": {
