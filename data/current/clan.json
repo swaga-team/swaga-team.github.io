@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114454,
+  "clanScore": 114461,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5270,
+  "donationsPerWeek": 5280,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261108T065540.000Z",
+      "lastSeen": "20261108T071425.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 3,
       "donations": 234,
-      "donationsReceived": 130,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
@@ -275,9 +275,9 @@
       "tag": "#J9Y9Y9YRG",
       "name": "Sinner",
       "role": "member",
-      "lastSeen": "20261101T090652.000Z",
+      "lastSeen": "20261108T080019.000Z",
       "expLevel": 0,
-      "trophies": 11816,
+      "trophies": 11847,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -689,7 +689,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261107T172342.000Z",
+      "lastSeen": "20261108T072057.000Z",
       "expLevel": 0,
       "trophies": 3273,
       "arena": {
@@ -699,7 +699,7 @@
       },
       "clanRank": 38,
       "previousClanRank": 38,
-      "donations": 372,
+      "donations": 382,
       "donationsReceived": 440,
       "clanChestPoints": 0
     },
