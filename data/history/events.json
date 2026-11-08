@@ -3892,5 +3892,17 @@
       }
     ],
     "at": "2026-11-08T08:07:20+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J9Y9Y9YRG",
+    "name": "Sinner",
+    "cards": [
+      {
+        "name": "Goblin Demolisher",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-08T08:56:22+00:00"
   }
 ]
