@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5210,
+  "donationsPerWeek": 5230,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 318,
-      "donationsReceived": 400,
+      "donationsReceived": 410,
       "clanChestPoints": 0
     },
     {
@@ -401,7 +401,7 @@
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
-      "lastSeen": "20261107T030858.000Z",
+      "lastSeen": "20261108T041533.000Z",
       "expLevel": 0,
       "trophies": 10001,
       "arena": {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 22,
-      "donations": 64,
+      "donations": 84,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -574,7 +574,7 @@
       "clanRank": 31,
       "previousClanRank": 32,
       "donations": 192,
-      "donationsReceived": 260,
+      "donationsReceived": 270,
       "clanChestPoints": 0
     },
     {
