@@ -1377,12 +1377,12 @@
     "trophies": 11523,
     "bestTrophies": 11523,
     "wins": 3640,
-    "losses": 2823,
-    "battleCount": 6463,
+    "losses": 2824,
+    "battleCount": 6464,
     "threeCrownWins": 2722,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72851,
+    "totalDonations": 72859,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1450,11 +1450,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
-      "rarity": "epic",
-      "elixirCost": 7,
+      "name": "Minion Horde",
+      "rarity": "common",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
     }
   },
   "#PQQ2JYL2G": {
@@ -1467,7 +1467,7 @@
     "threeCrownWins": 1089,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 12889,
+    "totalDonations": 12907,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2287,15 +2287,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9646,
+    "trophies": 9643,
     "bestTrophies": 9676,
-    "wins": 1206,
-    "losses": 1060,
-    "battleCount": 2266,
+    "wins": 1207,
+    "losses": 1061,
+    "battleCount": 2268,
     "threeCrownWins": 675,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4450,
+    "totalDonations": 4460,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2318,6 +2318,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2363,11 +2370,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblinstein",
-      "rarity": "champion",
-      "elixirCost": 5,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {
@@ -4225,11 +4232,11 @@
   },
   "#QU8082PC2": {
     "expLevel": 1,
-    "trophies": 6654,
+    "trophies": 6684,
     "bestTrophies": 6709,
-    "wins": 431,
+    "wins": 432,
     "losses": 241,
-    "battleCount": 672,
+    "battleCount": 673,
     "threeCrownWins": 164,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4586,12 +4593,12 @@
   },
   "#U00CVC89C": {
     "expLevel": 25,
-    "trophies": 5721,
-    "bestTrophies": 5721,
-    "wins": 495,
+    "trophies": 5779,
+    "bestTrophies": 5779,
+    "wins": 497,
     "losses": 159,
-    "battleCount": 654,
-    "threeCrownWins": 344,
+    "battleCount": 656,
+    "threeCrownWins": 346,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 829,
@@ -4669,11 +4676,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
+      "name": "Sparky",
       "rarity": "legendary",
-      "elixirCost": 7,
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   }
 }
