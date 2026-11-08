@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115068,
+  "clanScore": 115078,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -32,7 +32,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 1,
+      "previousClanRank": 3,
       "donations": 330,
       "donationsReceived": 360,
       "clanChestPoints": 0
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 3,
+      "previousClanRank": 1,
       "donations": 272,
       "donationsReceived": 160,
       "clanChestPoints": 0
@@ -581,7 +581,7 @@
       "tag": "#QU8082PC2",
       "name": "yrikkiller",
       "role": "member",
-      "lastSeen": "20261108T145926.000Z",
+      "lastSeen": "20261108T184358.000Z",
       "expLevel": 0,
       "trophies": 6530,
       "arena": {
@@ -617,9 +617,9 @@
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261108T173253.000Z",
+      "lastSeen": "20261108T180759.000Z",
       "expLevel": 0,
-      "trophies": 5658,
+      "trophies": 5721,
       "arena": {
         "id": 54000013,
         "name": "Executioner's Kitchen",
@@ -653,9 +653,9 @@
       "tag": "#20CY2VYYYY",
       "name": "gigiti",
       "role": "member",
-      "lastSeen": "20261106T193127.000Z",
+      "lastSeen": "20261108T181426.000Z",
       "expLevel": 0,
-      "trophies": 3897,
+      "trophies": 3927,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",

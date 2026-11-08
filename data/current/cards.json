@@ -21325,7 +21325,7 @@
       0
     ],
     "Witch": [
-      11,
+      12,
       0
     ],
     "Baby Dragon": [
@@ -21493,7 +21493,7 @@
       0
     ],
     "Earthquake": [
-      3,
+      5,
       0
     ],
     "Electro Dragon": [
@@ -21517,7 +21517,7 @@
       0
     ],
     "Suspicious Bush": [
-      6,
+      7,
       0
     ],
     "Executioner": [
@@ -21589,7 +21589,7 @@
       0
     ],
     "Ice Wizard": [
-      10,
+      11,
       0
     ],
     "Skeleton King": [
@@ -23506,6 +23506,10 @@
     ],
     "Spirit Empress": [
       9,
+      0
+    ],
+    "Skeleton King": [
+      11,
       0
     ]
   }

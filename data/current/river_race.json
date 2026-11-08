@@ -107,6 +107,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#20Y8QQ9GY8",
+        "name": "自由牢湿",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#GQP92GLC8",
         "name": "Adawell",
         "fame": 0,
@@ -508,11 +517,11 @@
         {
           "tag": "#YP8CUJV2Y",
           "name": "DDshka",
-          "fame": 100,
+          "fame": 200,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
+          "decksUsed": 2,
+          "decksUsedToday": 1
         },
         {
           "tag": "#YVCPRVC88",
@@ -542,15 +551,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VCLLGG9QG",
-          "name": "Moriarty",
-          "fame": 1350,
-          "repairPoints": 0,
-          "boatAttacks": 12,
-          "decksUsed": 13,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#R00CLL2Q",
           "name": "TWIX",
           "fame": 1500,
@@ -578,6 +578,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#VCLLGG9QG",
+          "name": "Moriarty",
+          "fame": 1625,
+          "repairPoints": 0,
+          "boatAttacks": 15,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#QQYVQG22G",
           "name": "ecko",
           "fame": 2600,
@@ -596,7 +605,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1525,
+      "periodPoints": 1900,
       "clanScore": 2169
     },
     {
@@ -699,6 +708,15 @@
         {
           "tag": "#R992J02JG",
           "name": "arman",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#20Y8QQ9GY8",
+          "name": "自由牢湿",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2010,11 +2028,11 @@
         {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
-          "fame": 1750,
+          "fame": 1850,
           "repairPoints": 0,
           "boatAttacks": 2,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 13,
+          "decksUsedToday": 1
         },
         {
           "tag": "#J2QJ9PR80",
@@ -2046,11 +2064,11 @@
         {
           "tag": "#V2YYJY890",
           "name": "Player456",
-          "fame": 2200,
+          "fame": 2500,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 14,
-          "decksUsedToday": 2
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#YVQ9LRGP9",
@@ -2062,7 +2080,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3025,
+      "periodPoints": 3425,
       "clanScore": 2153
     }
   ],

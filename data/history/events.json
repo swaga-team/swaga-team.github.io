@@ -4039,5 +4039,29 @@
     "arena": "Silent Sanctuary",
     "raw": "Arena_L4",
     "at": "2026-11-08T15:42:26+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Witch",
+        "level": 12
+      },
+      {
+        "name": "Ice Wizard",
+        "level": 11
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 7
+      },
+      {
+        "name": "Earthquake",
+        "level": 5
+      }
+    ],
+    "at": "2026-11-08T18:49:24+00:00"
   }
 ]
