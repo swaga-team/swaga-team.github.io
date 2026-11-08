@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115059,
+  "clanScore": 115074,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5650,
+  "donationsPerWeek": 5690,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261108T152651.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 330,
+      "donationsReceived": 360,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 2,
       "donations": 338,
-      "donationsReceived": 440,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261108T140010.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 320,
-      "donationsReceived": 350,
+      "donationsReceived": 470,
       "clanChestPoints": 0
     },
     {
@@ -203,9 +203,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261108T131901.000Z",
+      "lastSeen": "20261108T152018.000Z",
       "expLevel": 0,
-      "trophies": 13199,
+      "trophies": 13197,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 258,
+      "donations": 268,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -257,7 +257,7 @@
       "tag": "#J9Y9Y9YRG",
       "name": "Sinner",
       "role": "member",
-      "lastSeen": "20261108T141402.000Z",
+      "lastSeen": "20261108T144746.000Z",
       "expLevel": 0,
       "trophies": 12026,
       "arena": {
@@ -439,7 +439,7 @@
       "role": "elder",
       "lastSeen": "20261108T143823.000Z",
       "expLevel": 0,
-      "trophies": 9664,
+      "trophies": 9694,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 326,
+      "donations": 346,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -578,6 +578,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#QU8082PC2",
+      "name": "yrikkiller",
+      "role": "member",
+      "lastSeen": "20261108T145926.000Z",
+      "expLevel": 0,
+      "trophies": 6530,
+      "arena": {
+        "id": 54000015,
+        "name": "Silent Sanctuary",
+        "rawName": "Arena_L4"
+      },
+      "clanRank": 32,
+      "previousClanRank": 33,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
@@ -589,37 +607,19 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 32,
       "donations": 28,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
-      "tag": "#QU8082PC2",
-      "name": "yrikkiller",
-      "role": "member",
-      "lastSeen": "20261108T114315.000Z",
-      "expLevel": 0,
-      "trophies": 6428,
-      "arena": {
-        "id": 54000014,
-        "name": "Royal Crypt",
-        "rawName": "Arena_L3"
-      },
-      "clanRank": 33,
-      "previousClanRank": 33,
-      "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261108T102613.000Z",
+      "lastSeen": "20261108T151135.000Z",
       "expLevel": 0,
-      "trophies": 5634,
+      "trophies": 5633,
       "arena": {
         "id": 54000013,
         "name": "Executioner's Kitchen",

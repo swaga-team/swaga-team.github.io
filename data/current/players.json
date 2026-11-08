@@ -101,7 +101,7 @@
     "threeCrownWins": 1076,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41182,
+    "totalDonations": 41192,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -914,15 +914,15 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13199,
+    "trophies": 13197,
     "bestTrophies": 13289,
-    "wins": 2387,
-    "losses": 2079,
-    "battleCount": 4466,
+    "wins": 2388,
+    "losses": 2080,
+    "battleCount": 4468,
     "threeCrownWins": 1189,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15303,
+    "totalDonations": 15313,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1193,8 +1193,8 @@
     "trophies": 12026,
     "bestTrophies": 12026,
     "wins": 1570,
-    "losses": 514,
-    "battleCount": 2084,
+    "losses": 515,
+    "battleCount": 2085,
     "threeCrownWins": 490,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2011,15 +2011,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9664,
+    "trophies": 9694,
     "bestTrophies": 9825,
-    "wins": 2309,
+    "wins": 2310,
     "losses": 2138,
-    "battleCount": 4447,
+    "battleCount": 4448,
     "threeCrownWins": 785,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 17993,
+    "totalDonations": 18013,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2094,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Golden Knight",
-      "rarity": "champion",
+      "name": "Valkyrie",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#9RJPRQLL2": {
@@ -4232,12 +4232,12 @@
   },
   "#QU8082PC2": {
     "expLevel": 1,
-    "trophies": 6428,
-    "bestTrophies": 6455,
-    "wins": 418,
-    "losses": 233,
-    "battleCount": 651,
-    "threeCrownWins": 160,
+    "trophies": 6530,
+    "bestTrophies": 6530,
+    "wins": 423,
+    "losses": 236,
+    "battleCount": 659,
+    "threeCrownWins": 162,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -4593,12 +4593,12 @@
   },
   "#U00CVC89C": {
     "expLevel": 25,
-    "trophies": 5634,
-    "bestTrophies": 5634,
-    "wins": 490,
-    "losses": 157,
-    "battleCount": 647,
-    "threeCrownWins": 341,
+    "trophies": 5633,
+    "bestTrophies": 5663,
+    "wins": 491,
+    "losses": 158,
+    "battleCount": 649,
+    "threeCrownWins": 342,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 829,
@@ -4676,11 +4676,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
+      "name": "Mega Knight",
       "rarity": "legendary",
-      "elixirCost": 6,
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   }
 }

@@ -4031,5 +4031,13 @@
       }
     ],
     "at": "2026-11-08T14:46:14+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "arena": "Silent Sanctuary",
+    "raw": "Arena_L4",
+    "at": "2026-11-08T15:42:26+00:00"
   }
 ]
