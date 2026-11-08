@@ -569,15 +569,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8Y2PVY8",
-          "name": "Good Like",
-          "fame": 1600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
           "fame": 1625,
@@ -585,6 +576,15 @@
           "boatAttacks": 15,
           "decksUsed": 16,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#8Y2PVY8",
+          "name": "Good Like",
+          "fame": 1700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#QQYVQG22G",
@@ -605,7 +605,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1900,
+      "periodPoints": 2000,
       "clanScore": 2169
     },
     {
@@ -1747,14 +1747,14 @@
         {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
-          "fame": 2600,
+          "fame": 2700,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 15,
-          "decksUsedToday": 3
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2300,
+      "periodPoints": 2400,
       "clanScore": 2145
     },
     {
