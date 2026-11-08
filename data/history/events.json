@@ -3918,5 +3918,21 @@
     "tag": "#U00CVC89C",
     "name": "Zenitsu",
     "at": "2026-11-08T10:49:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Sparky",
+        "level": 12
+      },
+      {
+        "name": "Miner",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-08T11:45:54+00:00"
   }
 ]

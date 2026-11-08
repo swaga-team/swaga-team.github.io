@@ -21465,7 +21465,7 @@
       0
     ],
     "Miner": [
-      10,
+      11,
       0
     ],
     "Skeleton Barrel": [
@@ -21481,7 +21481,7 @@
       0
     ],
     "Sparky": [
-      11,
+      12,
       0
     ],
     "Wall Breakers": [
@@ -21598,6 +21598,14 @@
     ],
     "Boss Bandit": [
       11,
+      0
+    ],
+    "Goblin Curse": [
+      6,
+      0
+    ],
+    "Night Witch": [
+      9,
       0
     ]
   },
