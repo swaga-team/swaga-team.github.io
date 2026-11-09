@@ -4243,5 +4243,40 @@
       }
     ],
     "at": "2026-11-09T09:17:37+00:00"
+  },
+  {
+    "type": "war_week",
+    "at": "2026-11-09T09:40:05+00:00",
+    "season": 138,
+    "week": 1,
+    "rank": 1,
+    "fame": 10000,
+    "trophy_change": 20,
+    "best": {
+      "tag": "#V0RCP20LR",
+      "name": "подписични черв",
+      "fame": 2850
+    }
+  },
+  {
+    "type": "evolution",
+    "tag": "#R98U8U290",
+    "name": "tenkuu.☁️",
+    "cards": [
+      "Mirror"
+    ],
+    "at": "2026-11-09T11:02:29+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "at": "2026-11-09T11:02:29+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#20CY2VYYYY",
+    "name": "gigiti",
+    "at": "2026-11-09T11:02:29+00:00"
   }
 ]
