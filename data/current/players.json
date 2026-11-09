@@ -1100,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3625,
-    "losses": 3076,
-    "battleCount": 6701,
+    "wins": 3626,
+    "losses": 3078,
+    "battleCount": 6704,
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1181,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Golden Knight",
-      "rarity": "champion",
-      "elixirCost": 4,
+      "name": "Mega Minion",
+      "rarity": "rare",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1290,7 +1290,7 @@
     "threeCrownWins": 633,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25186,
+    "totalDonations": 25196,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12000,
+    "trophies": 12030,
     "bestTrophies": 12060,
-    "wins": 2326,
-    "losses": 2514,
-    "battleCount": 4840,
+    "wins": 2327,
+    "losses": 2516,
+    "battleCount": 4843,
     "threeCrownWins": 1092,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13013,
+    "totalDonations": 13023,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1478,39 +1478,11 @@
     },
     "currentDeck": [
       {
-        "name": "Dart Goblin",
-        "rarity": "rare",
-        "elixirCost": 3,
+        "name": "Mega Knight",
+        "rarity": "legendary",
+        "elixirCost": 7,
         "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
-      },
-      {
-        "name": "Knight",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
-      },
-      {
-        "name": "Cannon",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
-      },
-      {
-        "name": "Rocket",
-        "rarity": "rare",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
-      },
-      {
-        "name": "Skeletons",
-        "rarity": "common",
-        "elixirCost": 1,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       },
       {
         "name": "Electro Wizard",
@@ -1520,11 +1492,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
       },
       {
-        "name": "The Log",
-        "rarity": "legendary",
-        "elixirCost": 2,
+        "name": "Tesla",
+        "rarity": "common",
+        "elixirCost": 4,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Vines",
+        "rarity": "epic",
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/V5sJlPuo2WBRtirJ1lGEPJA4NvQ0KPwFeMrpxLX5z_8.png"
       },
       {
         "name": "Hog Rider",
@@ -1532,6 +1511,27 @@
         "elixirCost": 4,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      },
+      {
+        "name": "The Log",
+        "rarity": "legendary",
+        "elixirCost": 2,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+      },
+      {
+        "name": "Skeleton Army",
+        "rarity": "epic",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+      },
+      {
+        "name": "Night Witch",
+        "rarity": "legendary",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
       }
     ],
     "currentFavouriteCard": {
@@ -2004,15 +2004,15 @@
   },
   "#GQQL9YLYQ": {
     "expLevel": 38,
-    "trophies": 9757,
+    "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2316,
+    "wins": 2317,
     "losses": 2142,
-    "battleCount": 4458,
+    "battleCount": 4459,
     "threeCrownWins": 787,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18083,
+    "totalDonations": 18099,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2656,7 +2656,7 @@
     "threeCrownWins": 301,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1215,
+    "totalDonations": 1233,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2920,8 +2920,8 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2581,
-    "losses": 2705,
-    "battleCount": 5286,
+    "losses": 2708,
+    "battleCount": 5289,
     "threeCrownWins": 1860,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3000,11 +3000,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Drill",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Sparky",
+      "rarity": "legendary",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#GQP92GLC8": {
@@ -5041,11 +5041,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2463,
+    "trophies": 2376,
     "bestTrophies": 2550,
-    "wins": 186,
-    "losses": 114,
-    "battleCount": 300,
+    "wins": 188,
+    "losses": 119,
+    "battleCount": 307,
     "threeCrownWins": 80,
     "warDayWins": 0,
     "clanCardsCollected": 0,

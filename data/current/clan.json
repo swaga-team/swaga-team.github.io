@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114854,
+  "clanScore": 114856,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1062,
+  "donationsPerWeek": 1116,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -257,7 +257,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261109T201400.000Z",
+      "lastSeen": "20261109T210706.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -275,9 +275,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261109T201609.000Z",
+      "lastSeen": "20261109T212127.000Z",
       "expLevel": 0,
-      "trophies": 12000,
+      "trophies": 12030,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 16,
-      "donations": 106,
+      "donations": 116,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -293,7 +293,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261109T185447.000Z",
+      "lastSeen": "20261109T212601.000Z",
       "expLevel": 0,
       "trophies": 11726,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 17,
-      "donations": 60,
-      "donationsReceived": 60,
+      "donations": 70,
+      "donationsReceived": 68,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 38,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -416,6 +416,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#GQQL9YLYQ",
+      "name": "Ter",
+      "role": "elder",
+      "lastSeen": "20261109T214247.000Z",
+      "expLevel": 0,
+      "trophies": 9790,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 23,
+      "previousClanRank": 24,
+      "donations": 68,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CC9J8Y902",
       "name": "Michael",
       "role": "member",
@@ -427,27 +445,9 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 24,
       "previousClanRank": 23,
       "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GQQL9YLYQ",
-      "name": "Ter",
-      "role": "elder",
-      "lastSeen": "20261109T165348.000Z",
-      "expLevel": 0,
-      "trophies": 9757,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 24,
-      "previousClanRank": 24,
-      "donations": 52,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -527,7 +527,7 @@
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
-      "lastSeen": "20261109T065733.000Z",
+      "lastSeen": "20261109T211410.000Z",
       "expLevel": 0,
       "trophies": 8355,
       "arena": {
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 30,
-      "donations": 16,
+      "donations": 34,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261109T181017.000Z",
+      "lastSeen": "20261109T213129.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -574,7 +574,7 @@
       "clanRank": 31,
       "previousClanRank": 31,
       "donations": 18,
-      "donationsReceived": 40,
+      "donationsReceived": 48,
       "clanChestPoints": 0
     },
     {
@@ -700,16 +700,16 @@
       "clanRank": 38,
       "previousClanRank": 40,
       "donations": 6,
-      "donationsReceived": 24,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     },
     {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261109T195619.000Z",
+      "lastSeen": "20261109T210337.000Z",
       "expLevel": 0,
-      "trophies": 2463,
+      "trophies": 2376,
       "arena": {
         "id": 54000009,
         "name": "Frozen Peak",
@@ -718,7 +718,7 @@
       "clanRank": 39,
       "previousClanRank": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     },
     {

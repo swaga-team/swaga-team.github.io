@@ -4498,5 +4498,41 @@
     "role": "elder",
     "previous": "member",
     "at": "2026-11-09T20:57:19+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#Q2RJCVYUQ",
+    "name": "NEVIDIMKA YT",
+    "cards": [
+      {
+        "name": "Ronin",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-09T21:52:59+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      {
+        "name": "Goblin Barrel",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-09T21:52:59+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9282CQQ90",
+    "name": "Чушпан",
+    "cards": [
+      {
+        "name": "Guards",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-09T21:52:59+00:00"
   }
 ]
