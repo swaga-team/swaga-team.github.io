@@ -4278,5 +4278,21 @@
     "tag": "#20CY2VYYYY",
     "name": "gigiti",
     "at": "2026-11-09T11:02:29+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "Magic Archer",
+        "level": 10
+      },
+      {
+        "name": "Goblin Demolisher",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-09T12:00:20+00:00"
   }
 ]

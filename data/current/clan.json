@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115532,
+  "clanScore": 115528,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 496,
+  "donationsPerWeek": 512,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 1,
       "donations": 7,
-      "donationsReceived": 16,
+      "donationsReceived": 32,
       "clanChestPoints": 0
     },
     {
@@ -205,7 +205,7 @@
       "role": "member",
       "lastSeen": "20261109T105258.000Z",
       "expLevel": 0,
-      "trophies": 13198,
+      "trophies": 13170,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -491,9 +491,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261109T104952.000Z",
+      "lastSeen": "20261109T113429.000Z",
       "expLevel": 0,
-      "trophies": 9534,
+      "trophies": 9506,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261109T083348.000Z",
+      "lastSeen": "20261109T115514.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 31,
-      "donations": 0,
+      "donations": 8,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -583,7 +583,7 @@
       "role": "member",
       "lastSeen": "20261109T094608.000Z",
       "expLevel": 0,
-      "trophies": 6777,
+      "trophies": 6780,
       "arena": {
         "id": 54000015,
         "name": "Silent Sanctuary",
@@ -617,7 +617,7 @@
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
-      "lastSeen": "20261109T075717.000Z",
+      "lastSeen": "20261109T115753.000Z",
       "expLevel": 0,
       "trophies": 6500,
       "arena": {
@@ -707,9 +707,9 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261109T042823.000Z",
+      "lastSeen": "20261109T114757.000Z",
       "expLevel": 0,
-      "trophies": 3273,
+      "trophies": 3335,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 18,
+      "donations": 26,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
