@@ -89,15 +89,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#UY2UPL2GV",
-        "name": "\"Erick\"",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#R992J02JG",
         "name": "arman",
         "fame": 0,
@@ -179,15 +170,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#R98U8U290",
-        "name": "tenkuu.☁️",
-        "fame": 100,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 200,
@@ -215,13 +197,13 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#J0VGQP9PY",
-        "name": "алиса спийс❤️",
+        "tag": "#R98U8U290",
+        "name": "tenkuu.☁️",
         "fame": 300,
         "repairPoints": 0,
-        "boatAttacks": 4,
-        "decksUsed": 4,
-        "decksUsedToday": 2
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 1
       },
       {
         "tag": "#RYRY0V89G",
@@ -231,6 +213,24 @@
         "boatAttacks": 0,
         "decksUsed": 2,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#J0VGQP9PY",
+        "name": "алиса спийс❤️",
+        "fame": 375,
+        "repairPoints": 0,
+        "boatAttacks": 5,
+        "decksUsed": 5,
+        "decksUsedToday": 3
+      },
+      {
+        "tag": "#UY2UPL2GV",
+        "name": "\"Erick\"",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#28G90Y9JL",
@@ -431,7 +431,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 7725,
+    "periodPoints": 8400,
     "clanScore": 2155
   },
   "clans": [
@@ -697,15 +697,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#UY2UPL2GV",
-          "name": "\"Erick\"",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R992J02JG",
           "name": "arman",
           "fame": 0,
@@ -787,15 +778,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R98U8U290",
-          "name": "tenkuu.☁️",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#22JLP29RV",
           "name": "Kale",
           "fame": 200,
@@ -823,13 +805,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#J0VGQP9PY",
-          "name": "алиса спийс❤️",
+          "tag": "#R98U8U290",
+          "name": "tenkuu.☁️",
           "fame": 300,
           "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 2
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 1
         },
         {
           "tag": "#RYRY0V89G",
@@ -839,6 +821,24 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#J0VGQP9PY",
+          "name": "алиса спийс❤️",
+          "fame": 375,
+          "repairPoints": 0,
+          "boatAttacks": 5,
+          "decksUsed": 5,
+          "decksUsedToday": 3
+        },
+        {
+          "tag": "#UY2UPL2GV",
+          "name": "\"Erick\"",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#28G90Y9JL",
@@ -1039,7 +1039,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 7725,
+      "periodPoints": 8400,
       "clanScore": 2155
     },
     {
@@ -1212,6 +1212,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#G098QJR2V",
+          "name": "Clasher",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#PGY8L8JU8",
           "name": "Clasher",
           "fame": 0,
@@ -1356,15 +1365,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 1450,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1575,
@@ -1372,6 +1372,15 @@
           "boatAttacks": 13,
           "decksUsed": 13,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 1575,
+          "repairPoints": 0,
+          "boatAttacks": 5,
+          "decksUsed": 13,
+          "decksUsedToday": 1
         },
         {
           "tag": "#VRG2PYQGJ",
@@ -1410,7 +1419,7 @@
           "decksUsedToday": 3
         }
       ],
-      "periodPoints": 2350,
+      "periodPoints": 2475,
       "clanScore": 2140
     },
     {
