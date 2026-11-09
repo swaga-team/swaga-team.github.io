@@ -186,7 +186,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34962,
+    "totalDonations": 34978,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1100,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3624,
-    "losses": 3075,
-    "battleCount": 6699,
+    "wins": 3625,
+    "losses": 3076,
+    "battleCount": 6701,
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1181,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rascals",
-      "rarity": "common",
-      "elixirCost": 5,
+      "name": "Golden Knight",
+      "rarity": "champion",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1452,12 +1452,12 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12030,
-    "bestTrophies": 12058,
-    "wins": 2322,
-    "losses": 2512,
-    "battleCount": 4834,
-    "threeCrownWins": 1091,
+    "trophies": 12000,
+    "bestTrophies": 12060,
+    "wins": 2326,
+    "losses": 2514,
+    "battleCount": 4840,
+    "threeCrownWins": 1092,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 13013,
@@ -5041,11 +5041,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2493,
+    "trophies": 2463,
     "bestTrophies": 2550,
     "wins": 186,
-    "losses": 113,
-    "battleCount": 299,
+    "losses": 114,
+    "battleCount": 300,
     "threeCrownWins": 80,
     "warDayWins": 0,
     "clanCardsCollected": 0,

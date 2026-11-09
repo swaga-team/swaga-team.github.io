@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114872,
+  "clanScore": 114854,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1046,
+  "donationsPerWeek": 1062,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 40,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261109T201258.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 24,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#28G90Y9JL",
       "name": "GamerPro",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 0,
       "donationsReceived": 0,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 90,
       "donationsReceived": 80,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 5,
       "donations": 25,
       "donationsReceived": 40,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 7,
       "donations": 20,
       "donationsReceived": 40,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 3,
       "donations": 51,
       "donationsReceived": 0,
@@ -121,28 +139,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 1,
       "donations": 0,
       "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261109T150555.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 7,
-      "previousClanRank": 4,
-      "donations": 8,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -220,7 +220,7 @@
     {
       "tag": "#2G2VYP9G",
       "name": "THE BOSS G.",
-      "role": "member",
+      "role": "elder",
       "lastSeen": "20261109T164035.000Z",
       "expLevel": 0,
       "trophies": 13116,
@@ -257,7 +257,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261109T195743.000Z",
+      "lastSeen": "20261109T201400.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -275,9 +275,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261109T195526.000Z",
+      "lastSeen": "20261109T201609.000Z",
       "expLevel": 0,
-      "trophies": 12060,
+      "trophies": 12000,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 30,
+      "donationsReceived": 38,
       "clanChestPoints": 0
     },
     {
@@ -700,7 +700,25 @@
       "clanRank": 38,
       "previousClanRank": 40,
       "donations": 6,
-      "donationsReceived": 16,
+      "donationsReceived": 24,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#VC298L8UV",
+      "name": "ink",
+      "role": "member",
+      "lastSeen": "20261109T195619.000Z",
+      "expLevel": 0,
+      "trophies": 2463,
+      "arena": {
+        "id": 54000009,
+        "name": "Frozen Peak",
+        "rawName": "Arena8"
+      },
+      "clanRank": 39,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -715,28 +733,10 @@
         "name": "Spell Valley",
         "rawName": "Arena4"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 41,
       "donations": 10,
       "donationsReceived": 20,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#VC298L8UV",
-      "name": "ink",
-      "role": "member",
-      "lastSeen": "20261109T195619.000Z",
-      "expLevel": 0,
-      "trophies": 2493,
-      "arena": {
-        "id": 54000009,
-        "name": "Frozen Peak",
-        "rawName": "Arena8"
-      },
-      "clanRank": 40,
-      "previousClanRank": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     }
   ]
