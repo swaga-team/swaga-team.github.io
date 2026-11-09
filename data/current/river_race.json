@@ -107,6 +107,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#2G2VYP9G",
+        "name": "THE BOSS G.",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#9JPPYRL90",
         "name": "disruption",
         "fame": 0,
@@ -593,7 +602,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#CVVJPVCUY",
@@ -735,6 +744,15 @@
         {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#2G2VYP9G",
+          "name": "THE BOSS G.",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
