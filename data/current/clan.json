@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114605,
+  "clanScore": 114612,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 974,
+  "donationsPerWeek": 992,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261109T165748.000Z",
+      "lastSeen": "20261109T171735.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 5,
       "donations": 20,
-      "donationsReceived": 24,
+      "donationsReceived": 32,
       "clanChestPoints": 0
     },
     {
@@ -232,7 +232,7 @@
       "clanRank": 12,
       "previousClanRank": 0,
       "donations": 8,
-      "donationsReceived": 30,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -275,9 +275,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261109T154730.000Z",
+      "lastSeen": "20261109T173521.000Z",
       "expLevel": 0,
-      "trophies": 12000,
+      "trophies": 12030,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 16,
-      "donations": 72,
+      "donations": 90,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -563,7 +563,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261109T121951.000Z",
+      "lastSeen": "20261109T175329.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
