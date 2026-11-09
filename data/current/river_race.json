@@ -140,7 +140,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 0,
-        "decksUsedToday": 0
+        "decksUsedToday": 2
       },
       {
         "tag": "#Q2RJCVYUQ",
@@ -154,6 +154,15 @@
       {
         "tag": "#VJJUCQLVY",
         "name": "Картошка Боб",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#VC298L8UV",
+        "name": "ink",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -248,7 +257,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 0,
-        "decksUsedToday": 0
+        "decksUsedToday": 1
       },
       {
         "tag": "#28G90Y9JL",
@@ -784,7 +793,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 2
         },
         {
           "tag": "#Q2RJCVYUQ",
@@ -798,6 +807,15 @@
         {
           "tag": "#VJJUCQLVY",
           "name": "Картошка Боб",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#VC298L8UV",
+          "name": "ink",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -892,7 +910,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#28G90Y9JL",
