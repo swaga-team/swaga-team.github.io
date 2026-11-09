@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115135,
+  "clanScore": 115138,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5950,
+  "donationsPerWeek": 0,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -33,8 +33,8 @@
       },
       "clanRank": 1,
       "previousClanRank": 2,
-      "donations": 376,
-      "donationsReceived": 470,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -51,8 +51,8 @@
       },
       "clanRank": 2,
       "previousClanRank": 3,
-      "donations": 368,
-      "donationsReceived": 360,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -69,8 +69,8 @@
       },
       "clanRank": 3,
       "previousClanRank": 7,
-      "donations": 92,
-      "donationsReceived": 280,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -87,8 +87,8 @@
       },
       "clanRank": 4,
       "previousClanRank": 5,
-      "donations": 8,
-      "donationsReceived": 40,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -105,8 +105,8 @@
       },
       "clanRank": 5,
       "previousClanRank": 1,
-      "donations": 272,
-      "donationsReceived": 160,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -123,8 +123,8 @@
       },
       "clanRank": 6,
       "previousClanRank": 4,
-      "donations": 166,
-      "donationsReceived": 40,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -141,7 +141,7 @@
       },
       "clanRank": 7,
       "previousClanRank": 6,
-      "donations": 245,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -159,8 +159,8 @@
       },
       "clanRank": 8,
       "previousClanRank": 8,
-      "donations": 125,
-      "donationsReceived": 40,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -177,8 +177,8 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 210,
-      "donationsReceived": 200,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -195,8 +195,8 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 72,
-      "donationsReceived": 160,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 334,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -231,8 +231,8 @@
       },
       "clanRank": 12,
       "previousClanRank": 12,
-      "donations": 70,
-      "donationsReceived": 200,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -249,7 +249,7 @@
       },
       "clanRank": 13,
       "previousClanRank": 13,
-      "donations": 94,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -268,7 +268,7 @@
       "clanRank": 14,
       "previousClanRank": 15,
       "donations": 0,
-      "donationsReceived": 40,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -285,8 +285,8 @@
       },
       "clanRank": 15,
       "previousClanRank": 14,
-      "donations": 136,
-      "donationsReceived": 80,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 634,
-      "donationsReceived": 480,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -321,8 +321,8 @@
       },
       "clanRank": 17,
       "previousClanRank": 17,
-      "donations": 512,
-      "donationsReceived": 480,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -339,8 +339,8 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 124,
-      "donationsReceived": 280,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -357,7 +357,7 @@
       },
       "clanRank": 19,
       "previousClanRank": 19,
-      "donations": 159,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -375,8 +375,8 @@
       },
       "clanRank": 20,
       "previousClanRank": 20,
-      "donations": 18,
-      "donationsReceived": 40,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 320,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 22,
-      "donations": 84,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -429,7 +429,7 @@
       },
       "clanRank": 23,
       "previousClanRank": 23,
-      "donations": 26,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 364,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -465,8 +465,8 @@
       },
       "clanRank": 25,
       "previousClanRank": 24,
-      "donations": 184,
-      "donationsReceived": 320,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -483,8 +483,8 @@
       },
       "clanRank": 26,
       "previousClanRank": 27,
-      "donations": 172,
-      "donationsReceived": 280,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -501,8 +501,8 @@
       },
       "clanRank": 27,
       "previousClanRank": 26,
-      "donations": 182,
-      "donationsReceived": 120,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -519,8 +519,8 @@
       },
       "clanRank": 28,
       "previousClanRank": 28,
-      "donations": 35,
-      "donationsReceived": 160,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -555,15 +555,15 @@
       },
       "clanRank": 30,
       "previousClanRank": 30,
-      "donations": 92,
-      "donationsReceived": 80,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261108T220033.000Z",
+      "lastSeen": "20261109T000535.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -573,8 +573,8 @@
       },
       "clanRank": 31,
       "previousClanRank": 31,
-      "donations": 212,
-      "donationsReceived": 320,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -609,8 +609,8 @@
       },
       "clanRank": 33,
       "previousClanRank": 32,
-      "donations": 28,
-      "donationsReceived": 80,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -663,7 +663,7 @@
       },
       "clanRank": 36,
       "previousClanRank": 35,
-      "donations": 10,
+      "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -671,9 +671,9 @@
       "tag": "#CVCJY2V0Y",
       "name": "martinillo99",
       "role": "member",
-      "lastSeen": "20261108T185354.000Z",
+      "lastSeen": "20261109T003228.000Z",
       "expLevel": 0,
-      "trophies": 3555,
+      "trophies": 3584,
       "arena": {
         "id": 54000024,
         "name": "Electro Valley",
@@ -699,8 +699,8 @@
       },
       "clanRank": 38,
       "previousClanRank": 37,
-      "donations": 10,
-      "donationsReceived": 40,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -717,8 +717,8 @@
       },
       "clanRank": 39,
       "previousClanRank": 38,
-      "donations": 412,
-      "donationsReceived": 480,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 39,
-      "donations": 32,
-      "donationsReceived": 200,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -753,8 +753,8 @@
       },
       "clanRank": 41,
       "previousClanRank": 40,
-      "donations": 8,
-      "donationsReceived": 40,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     }
   ]
