@@ -188,15 +188,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#J0VGQP9PY",
-        "name": "алиса спийс❤️",
-        "fame": 150,
-        "repairPoints": 0,
-        "boatAttacks": 2,
-        "decksUsed": 2,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 200,
@@ -222,6 +213,15 @@
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#J0VGQP9PY",
+        "name": "алиса спийс❤️",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 2
       },
       {
         "tag": "#RYRY0V89G",
@@ -431,7 +431,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 7575,
+    "periodPoints": 7725,
     "clanScore": 2155
   },
   "clans": [
@@ -796,15 +796,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#J0VGQP9PY",
-          "name": "алиса спийс❤️",
-          "fame": 150,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 2,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#22JLP29RV",
           "name": "Kale",
           "fame": 200,
@@ -830,6 +821,15 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#J0VGQP9PY",
+          "name": "алиса спийс❤️",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 2
         },
         {
           "tag": "#RYRY0V89G",
@@ -1039,7 +1039,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 7575,
+      "periodPoints": 7725,
       "clanScore": 2155
     },
     {
@@ -1106,6 +1106,15 @@
         {
           "tag": "#L2UJCYRC8",
           "name": "abi",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#2P0GV902Y",
+          "name": "Cal_tj",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

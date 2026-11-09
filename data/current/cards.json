@@ -21111,7 +21111,7 @@
       0
     ],
     "Minions": [
-      3,
+      4,
       0
     ],
     "Arrows": [
@@ -21127,7 +21127,7 @@
       0
     ],
     "Musketeer": [
-      5,
+      6,
       0
     ],
     "Mini P.E.K.K.A": [
@@ -21171,7 +21171,7 @@
       0
     ],
     "Goblin Hut": [
-      5,
+      6,
       0
     ],
     "Battle Ram": [
@@ -21179,7 +21179,7 @@
       0
     ],
     "Mega Minion": [
-      5,
+      6,
       0
     ],
     "Inferno Tower": [
@@ -21187,6 +21187,18 @@
       0
     ],
     "Bomb Tower": [
+      7,
+      0
+    ],
+    "Fire Spirit": [
+      5,
+      0
+    ],
+    "Wizard": [
+      8,
+      0
+    ],
+    "Skeleton Dragons": [
       7,
       0
     ]

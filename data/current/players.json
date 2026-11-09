@@ -4131,15 +4131,15 @@
   },
   "#J0VGQP9PY": {
     "expLevel": 1,
-    "trophies": 1089,
-    "bestTrophies": 1089,
-    "wins": 53,
+    "trophies": 1206,
+    "bestTrophies": 1206,
+    "wins": 58,
     "losses": 8,
-    "battleCount": 61,
+    "battleCount": 66,
     "threeCrownWins": 36,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 8,
+    "totalDonations": 18,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4152,18 +4152,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
       },
       {
-        "name": "Archers",
-        "rarity": "common",
-        "elixirCost": 3,
+        "name": "Wizard",
+        "rarity": "rare",
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
       },
       {
-        "name": "Spear Goblins",
+        "name": "Skeleton Dragons",
         "rarity": "common",
-        "elixirCost": 2,
+        "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
       },
       {
         "name": "Arrows",
@@ -4180,11 +4180,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
       },
       {
-        "name": "Goblins",
+        "name": "Fire Spirit",
         "rarity": "common",
-        "elixirCost": 2,
+        "elixirCost": 1,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/X_DQUye_OaS3QN6VC9CPw05Fit7wvSm3XegXIXKP--0.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/16-BqusVvynIgYI8_Jci3LDC-r8AI_xaIYLgXqtlmS8.png"
       },
       {
         "name": "Musketeer",
@@ -4305,13 +4305,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1810,
+    "wins": 1814,
     "losses": 1161,
-    "battleCount": 2971,
+    "battleCount": 2975,
     "threeCrownWins": 815,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 27803,
+    "totalDonations": 27823,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
