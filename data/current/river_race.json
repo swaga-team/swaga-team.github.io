@@ -560,15 +560,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PRQC0GRRU",
-          "name": "Brunhgilda",
-          "fame": 1525,
-          "repairPoints": 0,
-          "boatAttacks": 7,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
           "fame": 1625,
@@ -585,6 +576,15 @@
           "boatAttacks": 0,
           "decksUsed": 10,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#PRQC0GRRU",
+          "name": "Brunhgilda",
+          "fame": 1925,
+          "repairPoints": 0,
+          "boatAttacks": 11,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#QQYVQG22G",
@@ -605,7 +605,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2000,
+      "periodPoints": 2400,
       "clanScore": 2169
     },
     {
