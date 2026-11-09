@@ -4215,5 +4215,33 @@
       }
     ],
     "at": "2026-11-09T07:35:19+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "arena": "Magic Academy",
+    "raw": "Arena_L15",
+    "at": "2026-11-09T09:17:37+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "Skeleton Dragons",
+        "level": 12
+      },
+      {
+        "name": "Zappies",
+        "level": 8
+      },
+      {
+        "name": "Elixir Golem",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-09T09:17:37+00:00"
   }
 ]

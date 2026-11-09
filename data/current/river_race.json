@@ -107,15 +107,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#GQP92GLC8",
-        "name": "Adawell",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#20CY2VYYYY",
         "name": "gigiti",
         "fame": 0,
@@ -249,6 +240,15 @@
         "boatAttacks": 0,
         "decksUsed": 4,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#GQP92GLC8",
+        "name": "Adawell",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#29GJQ0G9Q",
@@ -431,7 +431,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 8600,
+    "periodPoints": 9000,
     "clanScore": 2155
   },
   "clans": [
@@ -544,11 +544,11 @@
         {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
-          "fame": 1200,
+          "fame": 1400,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#R00CLL2Q",
@@ -605,7 +605,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2400,
+      "periodPoints": 2600,
       "clanScore": 2169
     },
     {
@@ -708,15 +708,6 @@
         {
           "tag": "#20Y8QQ9GY8",
           "name": "自由牢湿",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#GQP92GLC8",
-          "name": "Adawell",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -857,6 +848,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#GQP92GLC8",
+          "name": "Adawell",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#29GJQ0G9Q",
@@ -1039,7 +1039,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 8600,
+      "periodPoints": 9000,
       "clanScore": 2155
     },
     {
@@ -1720,11 +1720,11 @@
         {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
-          "fame": 1100,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#2YCR89URU",
@@ -1772,7 +1772,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3100,
+      "periodPoints": 3300,
       "clanScore": 2145
     },
     {
@@ -1812,6 +1812,15 @@
         {
           "tag": "#LRG0YLY2G",
           "name": "oussama",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#V0J0GV890",
+          "name": "skinnyryan",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
