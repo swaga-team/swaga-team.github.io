@@ -4171,5 +4171,49 @@
       }
     ],
     "at": "2026-11-09T06:13:20+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#Q2RJCVYUQ",
+    "name": "NEVIDIMKA YT",
+    "cards": [
+      {
+        "name": "Elixir Golem",
+        "level": 14
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-09T07:35:19+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#JU2L2U8LG",
+    "name": "адцкий гей",
+    "cards": [
+      {
+        "name": "Giant",
+        "level": 11
+      },
+      {
+        "name": "Freeze",
+        "level": 11
+      },
+      {
+        "name": "Goblin Gang",
+        "level": 11
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 11
+      },
+      {
+        "name": "Fisherman",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-09T07:35:19+00:00"
   }
 ]
