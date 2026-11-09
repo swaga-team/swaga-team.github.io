@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115156,
+  "clanScore": 115153,
   "clanWarTrophies": 2155,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 204,
+  "donationsPerWeek": 320,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
+    {
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261109T054255.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 58,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 16,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261109T032704.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 20,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -177,15 +177,15 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 26,
-      "donationsReceived": 0,
+      "donations": 36,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
       "tag": "#U0QJL29PY",
       "name": "egor",
       "role": "elder",
-      "lastSeen": "20261109T050253.000Z",
+      "lastSeen": "20261109T051431.000Z",
       "expLevel": 0,
       "trophies": 13377,
       "arena": {
@@ -195,8 +195,8 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 24,
-      "donationsReceived": 20,
+      "donations": 44,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -254,24 +254,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#C8YV202C",
-      "name": "undertaker",
-      "role": "member",
-      "lastSeen": "20261109T050352.000Z",
-      "expLevel": 0,
-      "trophies": 12030,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 14,
-      "previousClanRank": 14,
-      "donations": 34,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#J9Y9Y9YRG",
       "name": "Sinner",
       "role": "member",
@@ -283,9 +265,27 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 15,
       "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#C8YV202C",
+      "name": "undertaker",
+      "role": "member",
+      "lastSeen": "20261109T051406.000Z",
+      "expLevel": 0,
+      "trophies": 12002,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 15,
+      "previousClanRank": 14,
+      "donations": 54,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261108T212957.000Z",
+      "lastSeen": "20261109T051339.000Z",
       "expLevel": 0,
-      "trophies": 11856,
+      "trophies": 11882,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 28,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -491,9 +491,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261107T074211.000Z",
+      "lastSeen": "20261109T055238.000Z",
       "expLevel": 0,
-      "trophies": 9549,
+      "trophies": 9530,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -520,7 +520,7 @@
       "clanRank": 28,
       "previousClanRank": 28,
       "donations": 0,
-      "donationsReceived": 24,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -545,7 +545,7 @@
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
-      "lastSeen": "20261108T160642.000Z",
+      "lastSeen": "20261109T051344.000Z",
       "expLevel": 0,
       "trophies": 8265,
       "arena": {

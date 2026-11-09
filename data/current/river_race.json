@@ -316,11 +316,11 @@
       {
         "tag": "#U0QJL29PY",
         "name": "egor",
-        "fame": 700,
+        "fame": 900,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
+        "decksUsed": 5,
+        "decksUsedToday": 1
       },
       {
         "tag": "#PQQGRL028",
@@ -431,7 +431,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 8400,
+    "periodPoints": 8600,
     "clanScore": 2155
   },
   "clans": [
@@ -924,11 +924,11 @@
         {
           "tag": "#U0QJL29PY",
           "name": "egor",
-          "fame": 700,
+          "fame": 900,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#PQQGRL028",
@@ -1039,7 +1039,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 8400,
+      "periodPoints": 8600,
       "clanScore": 2155
     },
     {
@@ -1374,15 +1374,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 1575,
-          "repairPoints": 0,
-          "boatAttacks": 5,
-          "decksUsed": 13,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#VRG2PYQGJ",
           "name": "toni",
           "fame": 1600,
@@ -1417,9 +1408,18 @@
           "boatAttacks": 1,
           "decksUsed": 13,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 2175,
+          "repairPoints": 0,
+          "boatAttacks": 5,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2475,
+      "periodPoints": 3075,
       "clanScore": 2140
     },
     {
