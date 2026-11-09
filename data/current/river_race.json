@@ -107,6 +107,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#2QQG2QPCY",
+        "name": "Clasher",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#2G2VYP9G",
         "name": "THE BOSS G.",
         "fame": 0,
@@ -753,6 +762,15 @@
         {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#2QQG2QPCY",
+          "name": "Clasher",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

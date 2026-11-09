@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114856,
+  "clanScore": 115770,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,11 +13,11 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1116,
+  "donationsPerWeek": 1132,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 40,
+  "members": 41,
   "memberList": [
     {
       "tag": "#LV0GVYYL8",
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 17,
       "donations": 70,
-      "donationsReceived": 68,
+      "donationsReceived": 76,
       "clanChestPoints": 0
     },
     {
@@ -452,6 +452,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#2QQG2QPCY",
+      "name": "Clasher",
+      "role": "member",
+      "lastSeen": "20261109T224829.000Z",
+      "expLevel": 0,
+      "trophies": 9697,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 0,
+      "donations": 16,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -463,7 +481,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 25,
       "donations": 54,
       "donationsReceived": 80,
@@ -481,7 +499,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 26,
       "donations": 6,
       "donationsReceived": 0,
@@ -499,7 +517,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 27,
+      "clanRank": 28,
       "previousClanRank": 27,
       "donations": 46,
       "donationsReceived": 40,
@@ -517,7 +535,7 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 28,
+      "clanRank": 29,
       "previousClanRank": 28,
       "donations": 0,
       "donationsReceived": 80,
@@ -535,7 +553,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 29,
+      "clanRank": 30,
       "previousClanRank": 30,
       "donations": 34,
       "donationsReceived": 40,
@@ -553,7 +571,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 29,
       "donations": 16,
       "donationsReceived": 0,
@@ -571,10 +589,10 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 31,
+      "clanRank": 32,
       "previousClanRank": 31,
       "donations": 18,
-      "donationsReceived": 48,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
@@ -589,7 +607,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 0,
       "donations": 46,
       "donationsReceived": 40,
@@ -607,7 +625,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 33,
+      "clanRank": 34,
       "previousClanRank": 32,
       "donations": 0,
       "donationsReceived": 0,
@@ -625,7 +643,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
@@ -643,7 +661,7 @@
         "name": "Executioner's Kitchen",
         "rawName": "Arena_L2"
       },
-      "clanRank": 35,
+      "clanRank": 36,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -661,7 +679,7 @@
         "name": "Serenity Peak",
         "rawName": "Arena14"
       },
-      "clanRank": 36,
+      "clanRank": 37,
       "previousClanRank": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -679,7 +697,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 39,
       "donations": 72,
       "donationsReceived": 80,
@@ -697,7 +715,7 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 38,
+      "clanRank": 39,
       "previousClanRank": 40,
       "donations": 6,
       "donationsReceived": 30,
@@ -715,7 +733,7 @@
         "name": "Frozen Peak",
         "rawName": "Arena8"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 0,
       "donations": 0,
       "donationsReceived": 30,
@@ -733,7 +751,7 @@
         "name": "Spell Valley",
         "rawName": "Arena4"
       },
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 41,
       "donations": 10,
       "donationsReceived": 20,
