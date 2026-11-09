@@ -4306,5 +4306,69 @@
       }
     ],
     "at": "2026-11-09T13:18:58+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#90QGJUUG",
+    "name": "Narek",
+    "at": "2026-11-09T15:00:08+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#R992J02JG",
+    "name": "arman",
+    "cards": [
+      {
+        "name": "Electro Giant",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-09T15:00:08+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQQL9YLYQ",
+    "name": "Ter",
+    "cards": [
+      {
+        "name": "Zappies",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-09T15:00:08+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CJR008LV9",
+    "name": "cook",
+    "cards": [
+      {
+        "name": "Wall Breakers",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-09T15:00:08+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Wizard",
+        "level": 12
+      },
+      {
+        "name": "Electro Wizard",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-09T15:00:08+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "at": "2026-11-09T15:00:08+00:00"
   }
 ]
