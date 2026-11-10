@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115794,
+  "clanScore": 115808,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1460,
+  "donationsPerWeek": 1474,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 74,
+      "donationsReceived": 78,
       "clanChestPoints": 0
     },
     {
@@ -470,6 +470,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#JU2L2U8LG",
+      "name": "адцкий гей",
+      "role": "member",
+      "lastSeen": "20261110T081005.000Z",
+      "expLevel": 0,
+      "trophies": 9595,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 26,
+      "previousClanRank": 27,
+      "donations": 108,
+      "donationsReceived": 64,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -481,7 +499,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 25,
       "donations": 54,
       "donationsReceived": 80,
@@ -499,28 +517,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 27,
+      "clanRank": 28,
       "previousClanRank": 26,
       "donations": 6,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#JU2L2U8LG",
-      "name": "адцкий гей",
-      "role": "member",
-      "lastSeen": "20261110T070604.000Z",
-      "expLevel": 0,
-      "trophies": 9533,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 28,
-      "previousClanRank": 27,
-      "donations": 98,
-      "donationsReceived": 64,
       "clanChestPoints": 0
     },
     {
@@ -617,7 +617,7 @@
       "tag": "#QU8082PC2",
       "name": "yrikkiller",
       "role": "member",
-      "lastSeen": "20261109T090512.000Z",
+      "lastSeen": "20261110T073359.000Z",
       "expLevel": 0,
       "trophies": 6654,
       "arena": {
@@ -671,7 +671,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261110T054035.000Z",
+      "lastSeen": "20261110T075118.000Z",
       "expLevel": 0,
       "trophies": 4769,
       "arena": {
@@ -727,7 +727,7 @@
       "role": "member",
       "lastSeen": "20261110T071221.000Z",
       "expLevel": 0,
-      "trophies": 2556,
+      "trophies": 2610,
       "arena": {
         "id": 54000009,
         "name": "Frozen Peak",
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 0,
-      "donations": 14,
-      "donationsReceived": 30,
+      "donations": 18,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {

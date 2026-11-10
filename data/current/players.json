@@ -2188,15 +2188,15 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9533,
-    "bestTrophies": 9592,
-    "wins": 1056,
-    "losses": 830,
-    "battleCount": 1886,
-    "threeCrownWins": 536,
+    "trophies": 9595,
+    "bestTrophies": 9625,
+    "wins": 1059,
+    "losses": 831,
+    "battleCount": 1890,
+    "threeCrownWins": 537,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3517,
+    "totalDonations": 3527,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4871,9 +4871,9 @@
     "expLevel": 1,
     "trophies": 4769,
     "bestTrophies": 4806,
-    "wins": 609,
+    "wins": 610,
     "losses": 318,
-    "battleCount": 927,
+    "battleCount": 928,
     "threeCrownWins": 164,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4933,11 +4933,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Recruits",
-      "rarity": "common",
-      "elixirCost": 7,
+      "name": "Bowler",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
     }
   },
   "#2G2VYP9G": {
@@ -5034,11 +5034,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2556,
-    "bestTrophies": 2556,
-    "wins": 196,
-    "losses": 121,
-    "battleCount": 317,
+    "trophies": 2610,
+    "bestTrophies": 2622,
+    "wins": 199,
+    "losses": 124,
+    "battleCount": 323,
     "threeCrownWins": 82,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5105,11 +5105,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Valkyrie",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#2QQG2QPCY": {
