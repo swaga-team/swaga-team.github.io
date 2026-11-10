@@ -4801,5 +4801,33 @@
       }
     ],
     "at": "2026-11-10T18:58:15+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Royal Ghost",
+        "level": 15
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 11
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 11
+      },
+      {
+        "name": "Zappies",
+        "level": 10
+      },
+      {
+        "name": "Goblin Demolisher",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-10T22:49:23+00:00"
   }
 ]

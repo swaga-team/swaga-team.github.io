@@ -2103,15 +2103,15 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9559,
-    "bestTrophies": 9562,
-    "wins": 1027,
+    "trophies": 9586,
+    "bestTrophies": 9586,
+    "wins": 1028,
     "losses": 690,
-    "battleCount": 1717,
-    "threeCrownWins": 508,
+    "battleCount": 1718,
+    "threeCrownWins": 509,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3099,
+    "totalDonations": 3122,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5152,13 +5152,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
