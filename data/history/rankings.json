@@ -376,13 +376,13 @@
   {
     "date": "2026-11-10",
     "score": {
-      "trophies": 115830,
+      "trophies": 115845,
       "war": 2175
     },
     "global": {
       "trophies": {
         "rank": null,
-        "cutoff": 139863
+        "cutoff": 139864
       },
       "war": {
         "rank": null,
@@ -392,11 +392,11 @@
     "local": {
       "trophies": {
         "rank": null,
-        "cutoff": 133426
+        "cutoff": 133529
       },
       "war": {
         "rank": null,
-        "cutoff": 2609
+        "cutoff": 2616
       }
     }
   }
