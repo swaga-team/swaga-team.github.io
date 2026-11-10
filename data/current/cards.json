@@ -24675,7 +24675,7 @@
       0
     ],
     "Dark Prince": [
-      8,
+      9,
       0
     ],
     "Ice Golem": [
@@ -24695,7 +24695,7 @@
       1
     ],
     "Barbarian Barrel": [
-      9,
+      10,
       0
     ],
     "Poison": [
@@ -24727,7 +24727,7 @@
       0
     ],
     "Goblin Gang": [
-      8,
+      9,
       0
     ],
     "Furnace": [
@@ -24755,7 +24755,7 @@
       0
     ],
     "Zappies": [
-      7,
+      8,
       0
     ],
     "Inferno Dragon": [
@@ -24807,7 +24807,7 @@
       0
     ],
     "Rascals": [
-      8,
+      9,
       0
     ],
     "Electro Giant": [
@@ -24815,7 +24815,7 @@
       1
     ],
     "Suspicious Bush": [
-      6,
+      7,
       0
     ],
     "Magic Archer": [
@@ -24823,7 +24823,7 @@
       0
     ],
     "Heal Spirit": [
-      5,
+      7,
       0
     ],
     "Executioner": [
@@ -24852,6 +24852,10 @@
     ],
     "Rage": [
       9,
+      0
+    ],
+    "Bowler": [
+      8,
       0
     ]
   },

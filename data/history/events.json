@@ -4580,5 +4580,41 @@
       }
     ],
     "at": "2026-11-10T03:56:37+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Barbarian Barrel",
+        "level": 10
+      },
+      {
+        "name": "Dark Prince",
+        "level": 9
+      },
+      {
+        "name": "Goblin Gang",
+        "level": 9
+      },
+      {
+        "name": "Rascals",
+        "level": 9
+      },
+      {
+        "name": "Zappies",
+        "level": 8
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 7
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-10T05:58:30+00:00"
   }
 ]
