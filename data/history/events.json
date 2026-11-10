@@ -4628,5 +4628,41 @@
       }
     ],
     "at": "2026-11-10T07:14:13+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#R98U8U290",
+    "name": "tenkuu.☁️",
+    "cards": [
+      {
+        "name": "Elixir Collector",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-10T09:59:12+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Witch",
+        "level": 11
+      },
+      {
+        "name": "Cannon Cart",
+        "level": 11
+      },
+      {
+        "name": "Elixir Golem",
+        "level": 9
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 6
+      }
+    ],
+    "at": "2026-11-10T09:59:12+00:00"
   }
 ]
