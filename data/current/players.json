@@ -831,13 +831,13 @@
     "expLevel": 58,
     "trophies": 13583,
     "bestTrophies": 13675,
-    "wins": 2367,
-    "losses": 1684,
-    "battleCount": 4051,
+    "wins": 2369,
+    "losses": 1688,
+    "battleCount": 4057,
     "threeCrownWins": 607,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30697,
+    "totalDonations": 30707,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -912,24 +912,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
+      "name": "Knight",
       "rarity": "common",
-      "elixirCost": 4,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13199,
+    "trophies": 13169,
     "bestTrophies": 13289,
-    "wins": 2394,
-    "losses": 2090,
-    "battleCount": 4484,
-    "threeCrownWins": 1191,
+    "wins": 2395,
+    "losses": 2091,
+    "battleCount": 4486,
+    "threeCrownWins": 1192,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15495,
+    "totalDonations": 15505,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114957,
+  "clanScore": 114950,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2350,
+  "donationsPerWeek": 2370,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 2,
       "donations": 132,
-      "donationsReceived": 150,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -167,7 +167,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261110T092554.000Z",
+      "lastSeen": "20261110T225119.000Z",
       "expLevel": 0,
       "trophies": 13583,
       "arena": {
@@ -177,8 +177,8 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 96,
-      "donationsReceived": 80,
+      "donations": 106,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -203,9 +203,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261110T202841.000Z",
+      "lastSeen": "20261110T231542.000Z",
       "expLevel": 0,
-      "trophies": 13199,
+      "trophies": 13169,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 116,
+      "donations": 126,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
