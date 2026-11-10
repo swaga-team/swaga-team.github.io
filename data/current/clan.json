@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114955,
+  "clanScore": 114941,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -254,24 +254,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQ2JYL2G",
-      "name": "MFbren",
-      "role": "elder",
-      "lastSeen": "20261110T155717.000Z",
-      "expLevel": 0,
-      "trophies": 12187,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 14,
-      "previousClanRank": 15,
-      "donations": 263,
-      "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
@@ -283,10 +265,28 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 14,
       "donations": 16,
       "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#PQQ2JYL2G",
+      "name": "MFbren",
+      "role": "elder",
+      "lastSeen": "20261110T171858.000Z",
+      "expLevel": 0,
+      "trophies": 12130,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 15,
+      "previousClanRank": 15,
+      "donations": 263,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261110T162214.000Z",
+      "lastSeen": "20261110T174416.000Z",
       "expLevel": 0,
       "trophies": 3285,
       "arena": {

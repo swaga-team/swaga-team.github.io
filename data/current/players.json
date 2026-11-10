@@ -1459,11 +1459,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12187,
+    "trophies": 12130,
     "bestTrophies": 12187,
     "wins": 2340,
-    "losses": 2523,
-    "battleCount": 4863,
+    "losses": 2525,
+    "battleCount": 4865,
     "threeCrownWins": 1093,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Electro Wizard",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Knight",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#YR2GG8C2": {
