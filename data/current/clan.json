@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115882,
+  "clanScore": 114924,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1982,
+  "donationsPerWeek": 2018,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 41,
+  "members": 40,
   "memberList": [
+    {
+      "tag": "#8UCG80RYR",
+      "name": "Daisy Sprout",
+      "role": "leader",
+      "lastSeen": "20261110T140407.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 3,
+      "donations": 30,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 106,
-      "donationsReceived": 100,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 51,
       "donationsReceived": 80,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 161,
       "donationsReceived": 0,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 5,
       "donations": 24,
       "donationsReceived": 120,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 1,
       "donations": 142,
       "donationsReceived": 120,
@@ -121,28 +139,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 8,
       "donations": 0,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#8UCG80RYR",
-      "name": "Daisy Sprout",
-      "role": "leader",
-      "lastSeen": "20261109T163427.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 7,
-      "previousClanRank": 3,
-      "donations": 20,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -257,7 +257,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261109T210706.000Z",
+      "lastSeen": "20261110T133930.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -380,24 +380,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#R992J02JG",
-      "name": "arman",
-      "role": "member",
-      "lastSeen": "20261110T112338.000Z",
-      "expLevel": 0,
-      "trophies": 10060,
-      "arena": {
-        "id": 54000117,
-        "name": "Lumberlove Cabin",
-        "rawName": "Arena_L11"
-      },
-      "clanRank": 21,
-      "previousClanRank": 21,
-      "donations": 100,
-      "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#RYRY0V89G",
       "name": "Клэшер",
       "role": "member",
@@ -409,7 +391,7 @@
         "name": "Lumberlove Cabin",
         "rawName": "Arena_L11"
       },
-      "clanRank": 22,
+      "clanRank": 21,
       "previousClanRank": 22,
       "donations": 0,
       "donationsReceived": 0,
@@ -427,7 +409,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 22,
       "previousClanRank": 24,
       "donations": 68,
       "donationsReceived": 0,
@@ -445,7 +427,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 24,
+      "clanRank": 23,
       "previousClanRank": 23,
       "donations": 0,
       "donationsReceived": 0,
@@ -463,10 +445,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 24,
       "previousClanRank": 0,
       "donations": 42,
-      "donationsReceived": 64,
+      "donationsReceived": 72,
       "clanChestPoints": 0
     },
     {
@@ -481,7 +463,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 25,
       "previousClanRank": 27,
       "donations": 116,
       "donationsReceived": 80,
@@ -491,7 +473,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261109T145301.000Z",
+      "lastSeen": "20261110T132117.000Z",
       "expLevel": 0,
       "trophies": 9588,
       "arena": {
@@ -499,9 +481,9 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 27,
+      "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 54,
+      "donations": 80,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -517,7 +499,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 28,
+      "clanRank": 27,
       "previousClanRank": 26,
       "donations": 6,
       "donationsReceived": 0,
@@ -535,10 +517,10 @@
         "name": "Valkalla",
         "rawName": "Arena_L9"
       },
-      "clanRank": 29,
+      "clanRank": 28,
       "previousClanRank": 28,
       "donations": 12,
-      "donationsReceived": 128,
+      "donationsReceived": 136,
       "clanChestPoints": 0
     },
     {
@@ -553,7 +535,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 30,
+      "clanRank": 29,
       "previousClanRank": 29,
       "donations": 34,
       "donationsReceived": 40,
@@ -571,7 +553,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 31,
+      "clanRank": 30,
       "previousClanRank": 30,
       "donations": 16,
       "donationsReceived": 0,
@@ -589,7 +571,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 32,
+      "clanRank": 31,
       "previousClanRank": 32,
       "donations": 128,
       "donationsReceived": 80,
@@ -599,7 +581,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261110T102424.000Z",
+      "lastSeen": "20261110T140247.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -607,7 +589,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 33,
+      "clanRank": 32,
       "previousClanRank": 31,
       "donations": 38,
       "donationsReceived": 80,
@@ -625,7 +607,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 34,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
@@ -643,7 +625,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 35,
+      "clanRank": 34,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -661,7 +643,7 @@
         "name": "Executioner's Kitchen",
         "rawName": "Arena_L2"
       },
-      "clanRank": 36,
+      "clanRank": 35,
       "previousClanRank": 35,
       "donations": 0,
       "donationsReceived": 0,
@@ -679,7 +661,7 @@
         "name": "Serenity Peak",
         "rawName": "Arena14"
       },
-      "clanRank": 37,
+      "clanRank": 36,
       "previousClanRank": 36,
       "donations": 17,
       "donationsReceived": 80,
@@ -697,7 +679,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 38,
+      "clanRank": 37,
       "previousClanRank": 37,
       "donations": 100,
       "donationsReceived": 120,
@@ -715,7 +697,7 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 39,
+      "clanRank": 38,
       "previousClanRank": 38,
       "donations": 16,
       "donationsReceived": 30,
@@ -725,7 +707,7 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261110T121534.000Z",
+      "lastSeen": "20261110T133633.000Z",
       "expLevel": 0,
       "trophies": 2617,
       "arena": {
@@ -733,7 +715,7 @@
         "name": "Frozen Peak",
         "rawName": "Arena8"
       },
-      "clanRank": 40,
+      "clanRank": 39,
       "previousClanRank": 0,
       "donations": 18,
       "donationsReceived": 60,
@@ -751,7 +733,7 @@
         "name": "Spell Valley",
         "rawName": "Arena4"
       },
-      "clanRank": 41,
+      "clanRank": 40,
       "previousClanRank": 39,
       "donations": 10,
       "donationsReceived": 20,

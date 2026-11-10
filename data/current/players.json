@@ -463,15 +463,15 @@
     "expLevel": 67,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3945,
+    "wins": 3947,
     "losses": 3015,
-    "battleCount": 6960,
+    "battleCount": 6962,
     "threeCrownWins": 1191,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29251,
+    "totalDonations": 29261,
     "currentPathOfLegendSeasonResult": {
-      "leagueNumber": 1,
+      "leagueNumber": 2,
       "trophies": 0,
       "rank": null
     },
@@ -544,11 +544,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Night Witch",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Lightning",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
     }
   },
   "#28G90Y9JL": {
@@ -1108,8 +1108,8 @@
     "trophies": 12150,
     "bestTrophies": 12267,
     "wins": 3626,
-    "losses": 3078,
-    "battleCount": 6704,
+    "losses": 3079,
+    "battleCount": 6705,
     "threeCrownWins": 2425,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2289,13 +2289,13 @@
     "expLevel": 39,
     "trophies": 9588,
     "bestTrophies": 9703,
-    "wins": 1211,
-    "losses": 1067,
-    "battleCount": 2278,
+    "wins": 1212,
+    "losses": 1068,
+    "battleCount": 2280,
     "threeCrownWins": 677,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4514,
+    "totalDonations": 4540,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2370,11 +2370,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dart Goblin",
-      "rarity": "rare",
-      "elixirCost": 3,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#22JLP29RV": {
@@ -2933,9 +2933,9 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2584,
-    "losses": 2711,
-    "battleCount": 5295,
+    "wins": 2585,
+    "losses": 2712,
+    "battleCount": 5297,
     "threeCrownWins": 1863,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3014,11 +3014,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Graveyard",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#GQP92GLC8": {
@@ -5050,10 +5050,10 @@
     "expLevel": 1,
     "trophies": 2617,
     "bestTrophies": 2622,
-    "wins": 203,
-    "losses": 127,
-    "battleCount": 330,
-    "threeCrownWins": 83,
+    "wins": 204,
+    "losses": 128,
+    "battleCount": 332,
+    "threeCrownWins": 84,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 24,
@@ -5119,11 +5119,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Mini P.E.K.K.A",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#2QQG2QPCY": {
