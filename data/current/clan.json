@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114963,
+  "clanScore": 114954,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2287,
+  "donationsPerWeek": 2327,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 2,
       "donations": 132,
-      "donationsReceived": 120,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
@@ -254,24 +254,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQ2JYL2G",
-      "name": "MFbren",
-      "role": "elder",
-      "lastSeen": "20261110T201919.000Z",
-      "expLevel": 0,
-      "trophies": 12162,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 14,
-      "previousClanRank": 15,
-      "donations": 281,
-      "donationsReceived": 140,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
@@ -283,17 +265,35 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 14,
       "donations": 16,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
+      "tag": "#PQQ2JYL2G",
+      "name": "MFbren",
+      "role": "elder",
+      "lastSeen": "20261110T211517.000Z",
+      "expLevel": 0,
+      "trophies": 12130,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 15,
+      "previousClanRank": 15,
+      "donations": 281,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261110T200739.000Z",
+      "lastSeen": "20261110T210814.000Z",
       "expLevel": 0,
       "trophies": 11726,
       "arena": {
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 136,
+      "donations": 156,
       "donationsReceived": 180,
       "clanChestPoints": 0
     },
@@ -437,7 +437,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261110T194620.000Z",
+      "lastSeen": "20261110T213450.000Z",
       "expLevel": 0,
       "trophies": 9697,
       "arena": {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 58,
+      "donations": 78,
       "donationsReceived": 112,
       "clanChestPoints": 0
     },
@@ -709,7 +709,7 @@
       "role": "member",
       "lastSeen": "20261110T204726.000Z",
       "expLevel": 0,
-      "trophies": 2610,
+      "trophies": 2605,
       "arena": {
         "id": 54000009,
         "name": "Frozen Peak",
