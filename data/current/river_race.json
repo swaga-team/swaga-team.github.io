@@ -2059,7 +2059,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 3
         },
         {
           "tag": "#UQGCLYR8",
@@ -2172,6 +2172,15 @@
         {
           "tag": "#GYL9R8RCU",
           "name": "flash",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#QVQPQRRCY",
+          "name": "ZEON☆LUCIO",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
