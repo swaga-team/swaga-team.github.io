@@ -4540,5 +4540,33 @@
     "tag": "#2QQG2QPCY",
     "name": "Clasher",
     "at": "2026-11-09T22:51:48+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Minions",
+        "level": 16
+      },
+      {
+        "name": "Giant",
+        "level": 13
+      },
+      {
+        "name": "Goblinstein",
+        "level": 13
+      },
+      {
+        "name": "Miner",
+        "level": 12
+      },
+      {
+        "name": "Golem",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-10T01:06:39+00:00"
   }
 ]

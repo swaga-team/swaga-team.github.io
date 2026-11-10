@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115770,
+  "clanScore": 115788,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1148,
+  "donationsPerWeek": 1164,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 40,
-      "donationsReceived": 40,
+      "donationsReceived": 50,
       "clanChestPoints": 0
     },
     {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 17,
       "donations": 70,
-      "donationsReceived": 84,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#CC9J8Y902",
       "name": "Michael",
       "role": "member",
-      "lastSeen": "20261107T155445.000Z",
+      "lastSeen": "20261110T005337.000Z",
       "expLevel": 0,
       "trophies": 9789,
       "arena": {
@@ -455,7 +455,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261109T224829.000Z",
+      "lastSeen": "20261110T004157.000Z",
       "expLevel": 0,
       "trophies": 9697,
       "arena": {
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 0,
-      "donations": 16,
+      "donations": 26,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261109T210337.000Z",
+      "lastSeen": "20261110T000713.000Z",
       "expLevel": 0,
-      "trophies": 2376,
+      "trophies": 2556,
       "arena": {
         "id": 54000009,
         "name": "Frozen Peak",
@@ -735,7 +735,7 @@
       },
       "clanRank": 40,
       "previousClanRank": 0,
-      "donations": 0,
+      "donations": 6,
       "donationsReceived": 30,
       "clanChestPoints": 0
     },

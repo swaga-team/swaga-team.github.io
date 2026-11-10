@@ -5041,15 +5041,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2376,
-    "bestTrophies": 2550,
-    "wins": 188,
-    "losses": 119,
-    "battleCount": 307,
-    "threeCrownWins": 80,
+    "trophies": 2556,
+    "bestTrophies": 2556,
+    "wins": 196,
+    "losses": 121,
+    "battleCount": 317,
+    "threeCrownWins": 82,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 6,
+    "totalDonations": 12,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5112,24 +5112,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Wizard",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2250,
-    "losses": 1074,
-    "battleCount": 3324,
-    "threeCrownWins": 1101,
+    "wins": 2253,
+    "losses": 1077,
+    "battleCount": 3330,
+    "threeCrownWins": 1102,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26348,
+    "totalDonations": 26358,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5204,11 +5204,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Princess",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Monk",
+      "rarity": "champion",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
     }
   }
 }
