@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115791,
+  "clanScore": 115792,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1244,
+  "donationsPerWeek": 1372,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261110T041321.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 90,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261110T041001.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 3,
+      "donations": 119,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
@@ -31,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 142,
-      "donationsReceived": 88,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261110T031936.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 4,
-      "donations": 66,
-      "donationsReceived": 60,
+      "donationsReceived": 96,
       "clanChestPoints": 0
     },
     {
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 6,
       "donations": 0,
       "donationsReceived": 0,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 5,
       "donations": 25,
       "donationsReceived": 40,
@@ -103,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 7,
       "donations": 20,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261109T154305.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 3,
-      "donations": 51,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -347,7 +347,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261110T034357.000Z",
+      "lastSeen": "20261110T035743.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 40,
+      "donationsReceived": 64,
       "clanChestPoints": 0
     },
     {
@@ -466,7 +466,7 @@
       "clanRank": 25,
       "previousClanRank": 0,
       "donations": 26,
-      "donationsReceived": 16,
+      "donationsReceived": 32,
       "clanChestPoints": 0
     },
     {
@@ -509,9 +509,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261109T130653.000Z",
+      "lastSeen": "20261110T043133.000Z",
       "expLevel": 0,
-      "trophies": 9506,
+      "trophies": 9509,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -519,8 +519,8 @@
       },
       "clanRank": 28,
       "previousClanRank": 27,
-      "donations": 46,
-      "donationsReceived": 40,
+      "donations": 82,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 28,
       "donations": 2,
-      "donationsReceived": 88,
+      "donationsReceived": 104,
       "clanChestPoints": 0
     },
     {
@@ -592,7 +592,7 @@
       "clanRank": 32,
       "previousClanRank": 31,
       "donations": 18,
-      "donationsReceived": 72,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -682,7 +682,7 @@
       "clanRank": 37,
       "previousClanRank": 0,
       "donations": 0,
-      "donationsReceived": 20,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {

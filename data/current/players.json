@@ -186,7 +186,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35020,
+    "totalDonations": 35044,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2940,
-    "losses": 2522,
-    "battleCount": 5462,
-    "threeCrownWins": 1112,
+    "wins": 2942,
+    "losses": 2524,
+    "battleCount": 5466,
+    "threeCrownWins": 1113,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15612,
+    "totalDonations": 15680,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -445,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Rocket",
+      "rarity": "rare",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
     }
   },
   "#8UCG80RYR": {
@@ -1730,10 +1730,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2529,
-    "losses": 2214,
-    "battleCount": 4743,
-    "threeCrownWins": 905,
+    "wins": 2535,
+    "losses": 2217,
+    "battleCount": 4752,
+    "threeCrownWins": 908,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -1811,11 +1811,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
+      "name": "Ice Wizard",
       "rarity": "legendary",
-      "elixirCost": 6,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -2188,15 +2188,15 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9506,
+    "trophies": 9509,
     "bestTrophies": 9592,
-    "wins": 1052,
-    "losses": 826,
-    "battleCount": 1878,
+    "wins": 1054,
+    "losses": 827,
+    "battleCount": 1881,
     "threeCrownWins": 535,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3465,
+    "totalDonations": 3501,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
