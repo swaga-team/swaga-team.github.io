@@ -186,7 +186,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 34994,
+    "totalDonations": 35020,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1730,9 +1730,9 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2527,
+    "wins": 2529,
     "losses": 2214,
-    "battleCount": 4741,
+    "battleCount": 4743,
     "threeCrownWins": 905,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -2372,15 +2372,15 @@
   },
   "#22JLP29RV": {
     "expLevel": 42,
-    "trophies": 8826,
-    "bestTrophies": 8826,
-    "wins": 2650,
+    "trophies": 8856,
+    "bestTrophies": 8856,
+    "wins": 2652,
     "losses": 2812,
-    "battleCount": 5462,
-    "threeCrownWins": 1648,
+    "battleCount": 5464,
+    "threeCrownWins": 1649,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
-    "totalDonations": 26194,
+    "totalDonations": 26196,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2455,11 +2455,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
+      "name": "Balloon",
       "rarity": "epic",
-      "elixirCost": 7,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
     }
   },
   "#LGQC0JPLU": {
@@ -4319,13 +4319,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1817,
+    "wins": 1821,
     "losses": 1165,
-    "battleCount": 2982,
+    "battleCount": 2986,
     "threeCrownWins": 815,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 27893,
+    "totalDonations": 27945,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5152,13 +5152,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
