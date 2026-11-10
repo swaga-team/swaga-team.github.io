@@ -1565,6 +1565,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#2GVCUGV0",
+          "name": "Tedyeezy",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#2RU0J2YLL",
           "name": "Ref4o",
           "fame": 0,
@@ -2095,7 +2104,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#80QG20JCU",

@@ -23277,7 +23277,7 @@
       0
     ],
     "Witch": [
-      12,
+      13,
       0
     ],
     "Skeleton Army": [
@@ -23533,6 +23533,10 @@
       0
     ],
     "Cannon Cart": [
+      6,
+      0
+    ],
+    "Goblin Drill": [
       6,
       0
     ]
@@ -23991,6 +23995,10 @@
       0
     ],
     "Lava Hound": [
+      9,
+      0
+    ],
+    "Spirit Empress": [
       9,
       0
     ]
@@ -25383,7 +25391,7 @@
       0
     ],
     "Mini P.E.K.K.A": [
-      6,
+      7,
       0
     ],
     "Spear Goblins": [
