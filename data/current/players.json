@@ -193,7 +193,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35044,
+    "totalDonations": 35060,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2197,13 +2197,13 @@
     "expLevel": 40,
     "trophies": 9595,
     "bestTrophies": 9625,
-    "wins": 1059,
+    "wins": 1060,
     "losses": 831,
-    "battleCount": 1890,
+    "battleCount": 1891,
     "threeCrownWins": 537,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3527,
+    "totalDonations": 3535,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2379,12 +2379,12 @@
   },
   "#22JLP29RV": {
     "expLevel": 42,
-    "trophies": 8996,
-    "bestTrophies": 8996,
-    "wins": 2657,
+    "trophies": 9054,
+    "bestTrophies": 9054,
+    "wins": 2659,
     "losses": 2812,
-    "battleCount": 5469,
-    "threeCrownWins": 1653,
+    "battleCount": 5471,
+    "threeCrownWins": 1655,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
     "totalDonations": 26206,
@@ -3636,10 +3636,10 @@
     "wins": 117,
     "losses": 25,
     "battleCount": 142,
-    "threeCrownWins": 67,
+    "threeCrownWins": 68,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 150,
+    "totalDonations": 160,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4701,13 +4701,13 @@
     "expLevel": 1,
     "trophies": 6902,
     "bestTrophies": 6930,
-    "wins": 892,
+    "wins": 894,
     "losses": 685,
-    "battleCount": 1577,
-    "threeCrownWins": 268,
+    "battleCount": 1579,
+    "threeCrownWins": 269,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1661,
+    "totalDonations": 1671,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4782,11 +4782,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Cannon Cart",
-      "rarity": "epic",
+      "name": "Giant",
+      "rarity": "rare",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
     }
   },
   "#90QGJUUG": {
@@ -5048,11 +5048,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2621,
+    "trophies": 2617,
     "bestTrophies": 2622,
-    "wins": 202,
-    "losses": 125,
-    "battleCount": 327,
+    "wins": 203,
+    "losses": 127,
+    "battleCount": 330,
     "threeCrownWins": 83,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5119,21 +5119,21 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Wizard",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2255,
-    "losses": 1077,
-    "battleCount": 3332,
-    "threeCrownWins": 1102,
+    "wins": 2257,
+    "losses": 1079,
+    "battleCount": 3336,
+    "threeCrownWins": 1104,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
     "totalDonations": 26374,
@@ -5159,13 +5159,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5211,11 +5204,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Monk",
-      "rarity": "champion",
-      "elixirCost": 5,
+      "name": "Flying Machine",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/hzKNE3QwFcrSrDDRuVW3QY_OnrDPijSiIp-PsWgFevE.png"
     }
   }
 }
