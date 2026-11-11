@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114974,
+  "clanScore": 114987,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2502,
+  "donationsPerWeek": 2534,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 186,
-      "donationsReceived": 198,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -452,6 +452,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#JU2L2U8LG",
+      "name": "адцкий гей",
+      "role": "member",
+      "lastSeen": "20261111T045605.000Z",
+      "expLevel": 0,
+      "trophies": 9650,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 27,
+      "donations": 116,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
@@ -463,28 +481,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 28,
       "donations": 39,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#JU2L2U8LG",
-      "name": "адцкий гей",
-      "role": "member",
-      "lastSeen": "20261111T045605.000Z",
-      "expLevel": 0,
-      "trophies": 9593,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 26,
-      "previousClanRank": 27,
-      "donations": 116,
-      "donationsReceived": 80,
+      "donationsReceived": 10,
       "clanChestPoints": 0
     },
     {
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261110T143932.000Z",
+      "lastSeen": "20261111T055450.000Z",
       "expLevel": 0,
       "trophies": 6902,
       "arena": {
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 33,
-      "donations": 138,
+      "donations": 168,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -655,7 +655,7 @@
       "role": "member",
       "lastSeen": "20261111T050010.000Z",
       "expLevel": 0,
-      "trophies": 4769,
+      "trophies": 4768,
       "arena": {
         "id": 54000056,
         "name": "Serenity Peak",
@@ -664,7 +664,7 @@
       "clanRank": 36,
       "previousClanRank": 37,
       "donations": 17,
-      "donationsReceived": 90,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     },
     {
@@ -707,13 +707,13 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261111T003706.000Z",
+      "lastSeen": "20261111T053014.000Z",
       "expLevel": 0,
-      "trophies": 2607,
+      "trophies": 2661,
       "arena": {
-        "id": 54000009,
-        "name": "Frozen Peak",
-        "rawName": "Arena8"
+        "id": 54000010,
+        "name": "Jungle Arena",
+        "rawName": "Arena9"
       },
       "clanRank": 39,
       "previousClanRank": 40,
@@ -725,7 +725,7 @@
       "tag": "#J0VGQP9PY",
       "name": "алиса спийс❤️",
       "role": "member",
-      "lastSeen": "20261110T060336.000Z",
+      "lastSeen": "20261111T055047.000Z",
       "expLevel": 0,
       "trophies": 1179,
       "arena": {
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 41,
-      "donations": 10,
-      "donationsReceived": 20,
+      "donations": 12,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     }
   ]

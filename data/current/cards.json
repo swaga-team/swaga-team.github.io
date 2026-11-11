@@ -21131,7 +21131,7 @@
       0
     ],
     "Mini P.E.K.K.A": [
-      7,
+      8,
       0
     ],
     "Spear Goblins": [
@@ -21191,7 +21191,7 @@
       0
     ],
     "Fire Spirit": [
-      5,
+      8,
       0
     ],
     "Wizard": [
@@ -21200,6 +21200,10 @@
     ],
     "Skeleton Dragons": [
       7,
+      0
+    ],
+    "Electro Spirit": [
+      6,
       0
     ]
   },
@@ -23607,7 +23611,7 @@
       0
     ],
     "Goblin Hut": [
-      8,
+      9,
       0
     ],
     "Inferno Tower": [
@@ -24519,7 +24523,7 @@
       0
     ],
     "Mini P.E.K.K.A": [
-      8,
+      11,
       0
     ],
     "Spear Goblins": [
@@ -24616,7 +24620,7 @@
     ],
     "Zap": [
       9,
-      0
+      1
     ],
     "Mortar": [
       9,
@@ -24727,7 +24731,7 @@
       0
     ],
     "Vines": [
-      8,
+      9,
       0
     ],
     "Tesla": [
@@ -24755,7 +24759,7 @@
       0
     ],
     "Balloon": [
-      8,
+      11,
       0
     ],
     "Skeleton Barrel": [
@@ -24868,6 +24872,10 @@
     ],
     "Bowler": [
       8,
+      0
+    ],
+    "Elixir Golem": [
+      7,
       0
     ]
   },
@@ -25375,7 +25383,7 @@
       0
     ],
     "Minions": [
-      8,
+      9,
       0
     ],
     "Arrows": [
@@ -25515,7 +25523,7 @@
       0
     ],
     "Skeleton Army": [
-      7,
+      8,
       0
     ],
     "Royal Recruits": [
@@ -25576,6 +25584,14 @@
     ],
     "Freeze": [
       6,
+      0
+    ],
+    "Goblin Gang": [
+      7,
+      0
+    ],
+    "Barbarian Hut": [
+      3,
       0
     ]
   },
