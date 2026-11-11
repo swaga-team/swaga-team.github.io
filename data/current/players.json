@@ -186,7 +186,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35086,
+    "totalDonations": 35104,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3697,15 +3697,15 @@
   },
   "#PLUQRR22G": {
     "expLevel": 55,
-    "trophies": 10709,
-    "bestTrophies": 10709,
-    "wins": 2930,
+    "trophies": 10828,
+    "bestTrophies": 10828,
+    "wins": 2934,
     "losses": 3484,
-    "battleCount": 6414,
+    "battleCount": 6418,
     "threeCrownWins": 1451,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
-    "totalDonations": 18329,
+    "totalDonations": 18337,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4319,9 +4319,9 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1827,
-    "losses": 1167,
-    "battleCount": 2994,
+    "wins": 1828,
+    "losses": 1169,
+    "battleCount": 2997,
     "threeCrownWins": 816,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
@@ -5116,13 +5116,13 @@
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2266,
-    "losses": 1080,
-    "battleCount": 3346,
-    "threeCrownWins": 1105,
+    "wins": 2271,
+    "losses": 1082,
+    "battleCount": 3353,
+    "threeCrownWins": 1106,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26420,
+    "totalDonations": 26438,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5197,11 +5197,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Monk",
-      "rarity": "champion",
-      "elixirCost": 5,
+      "name": "Goblin Hut",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
     }
   }
 }
