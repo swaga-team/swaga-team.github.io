@@ -186,7 +186,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35104,
+    "totalDonations": 35112,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3697,11 +3697,11 @@
   },
   "#PLUQRR22G": {
     "expLevel": 55,
-    "trophies": 10828,
-    "bestTrophies": 10828,
-    "wins": 2934,
-    "losses": 3484,
-    "battleCount": 6418,
+    "trophies": 10824,
+    "bestTrophies": 10856,
+    "wins": 2935,
+    "losses": 3485,
+    "battleCount": 6420,
     "threeCrownWins": 1451,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
@@ -3780,11 +3780,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Barrel",
-      "rarity": "epic",
-      "elixirCost": 3,
+      "name": "Valkyrie",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#9GVPRJQLL": {
