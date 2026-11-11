@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 114971,
+  "clanScore": 114974,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2484,
+  "donationsPerWeek": 2502,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 186,
-      "donationsReceived": 190,
+      "donationsReceived": 198,
       "clanChestPoints": 0
     },
     {
@@ -452,18 +452,36 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#JU2L2U8LG",
-      "name": "адцкий гей",
+      "tag": "#9RJPRQLL2",
+      "name": "Morj",
       "role": "member",
-      "lastSeen": "20261110T115812.000Z",
+      "lastSeen": "20261111T043048.000Z",
       "expLevel": 0,
-      "trophies": 9595,
+      "trophies": 9613,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
       "clanRank": 25,
+      "previousClanRank": 28,
+      "donations": 39,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#JU2L2U8LG",
+      "name": "адцкий гей",
+      "role": "member",
+      "lastSeen": "20261111T045605.000Z",
+      "expLevel": 0,
+      "trophies": 9593,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 26,
       "previousClanRank": 27,
       "donations": 116,
       "donationsReceived": 80,
@@ -473,7 +491,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261110T132117.000Z",
+      "lastSeen": "20261111T044450.000Z",
       "expLevel": 0,
       "trophies": 9588,
       "arena": {
@@ -481,28 +499,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 26,
       "donations": 80,
       "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9RJPRQLL2",
-      "name": "Morj",
-      "role": "member",
-      "lastSeen": "20261110T221125.000Z",
-      "expLevel": 0,
-      "trophies": 9586,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 27,
-      "previousClanRank": 28,
-      "donations": 29,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -653,7 +653,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261110T125639.000Z",
+      "lastSeen": "20261111T050010.000Z",
       "expLevel": 0,
       "trophies": 4769,
       "arena": {
@@ -664,14 +664,14 @@
       "clanRank": 36,
       "previousClanRank": 37,
       "donations": 17,
-      "donationsReceived": 80,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261111T023828.000Z",
+      "lastSeen": "20261111T040548.000Z",
       "expLevel": 0,
       "trophies": 3285,
       "arena": {
@@ -681,7 +681,7 @@
       },
       "clanRank": 37,
       "previousClanRank": 38,
-      "donations": 100,
+      "donations": 108,
       "donationsReceived": 144,
       "clanChestPoints": 0
     },

@@ -4829,5 +4829,33 @@
       }
     ],
     "at": "2026-11-10T22:49:23+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Royal Giant",
+        "level": 12
+      },
+      {
+        "name": "Dark Prince",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-11T05:05:32+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Giant Skeleton",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-11T05:05:32+00:00"
   }
 ]
