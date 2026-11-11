@@ -193,7 +193,7 @@
     "threeCrownWins": 1070,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35150,
+    "totalDonations": 35168,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1297,7 +1297,7 @@
     "threeCrownWins": 634,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25352,
+    "totalDonations": 25370,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1412,13 +1412,6 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "The Log",
@@ -2021,8 +2014,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2318,
-    "losses": 2147,
-    "battleCount": 4465,
+    "losses": 2149,
+    "battleCount": 4467,
     "threeCrownWins": 787,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2297,8 +2290,8 @@
     "trophies": 9588,
     "bestTrophies": 9703,
     "wins": 1221,
-    "losses": 1080,
-    "battleCount": 2301,
+    "losses": 1081,
+    "battleCount": 2302,
     "threeCrownWins": 684,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2325,13 +2318,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2377,11 +2363,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {
@@ -2940,10 +2926,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2592,
-    "losses": 2717,
-    "battleCount": 5309,
-    "threeCrownWins": 1868,
+    "wins": 2598,
+    "losses": 2719,
+    "battleCount": 5317,
+    "threeCrownWins": 1870,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37442,
@@ -3021,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
-      "rarity": "common",
-      "elixirCost": 4,
+      "name": "Elixir Collector",
+      "rarity": "rare",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/BGLo3Grsp81c72EpxLLk-Sofk3VY56zahnUNOv3JcT0.png"
     }
   },
   "#GQP92GLC8": {
@@ -5062,11 +5048,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2666,
-    "bestTrophies": 2723,
-    "wins": 216,
-    "losses": 142,
-    "battleCount": 358,
+    "trophies": 2697,
+    "bestTrophies": 2726,
+    "wins": 218,
+    "losses": 143,
+    "battleCount": 361,
     "threeCrownWins": 91,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5133,11 +5119,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Mini P.E.K.K.A",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#2QQG2QPCY": {
