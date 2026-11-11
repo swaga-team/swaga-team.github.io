@@ -224,6 +224,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#VU2P0VJYC",
+        "name": "BigHandsomeMan",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
         "fame": 0,
@@ -879,6 +888,15 @@
         {
           "tag": "#UY2UPL2GV",
           "name": "\"Erick\"",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#VU2P0VJYC",
+          "name": "BigHandsomeMan",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1877,7 +1895,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 3
         },
         {
           "tag": "#LVJLCCR2",

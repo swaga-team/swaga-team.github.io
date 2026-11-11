@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115110,
+  "clanScore": 115743,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3308,
+  "donationsPerWeek": 3380,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 40,
+  "members": 41,
   "memberList": [
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261111T165712.000Z",
+      "lastSeen": "20261111T174747.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 6,
-      "donations": 111,
+      "donations": 121,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 2,
       "donations": 54,
-      "donationsReceived": 192,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 176,
-      "donationsReceived": 180,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -254,24 +254,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQ2JYL2G",
-      "name": "MFbren",
-      "role": "elder",
-      "lastSeen": "20261111T142443.000Z",
-      "expLevel": 0,
-      "trophies": 12161,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 14,
-      "previousClanRank": 15,
-      "donations": 353,
-      "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
@@ -283,10 +265,28 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 14,
       "donations": 16,
       "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#PQQ2JYL2G",
+      "name": "MFbren",
+      "role": "elder",
+      "lastSeen": "20261111T174124.000Z",
+      "expLevel": 0,
+      "trophies": 12097,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 15,
+      "previousClanRank": 15,
+      "donations": 383,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -560,10 +560,28 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#VU2P0VJYC",
+      "name": "BigHandsomeMan",
+      "role": "member",
+      "lastSeen": "20261111T173014.000Z",
+      "expLevel": 0,
+      "trophies": 7528,
+      "arena": {
+        "id": 54000017,
+        "name": "Boot Camp",
+        "rawName": "Arena_L6"
+      },
+      "clanRank": 31,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261111T150138.000Z",
+      "lastSeen": "20261111T173420.000Z",
       "expLevel": 0,
       "trophies": 7193,
       "arena": {
@@ -571,9 +589,9 @@
         "name": "Dragon Spa",
         "rawName": "Arena_L5"
       },
-      "clanRank": 31,
+      "clanRank": 32,
       "previousClanRank": 31,
-      "donations": 258,
+      "donations": 268,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },
@@ -589,7 +607,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 32,
       "donations": 71,
       "donationsReceived": 120,
@@ -607,7 +625,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 33,
+      "clanRank": 34,
       "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
@@ -625,7 +643,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -643,7 +661,7 @@
         "name": "Executioner's Kitchen",
         "rawName": "Arena_L2"
       },
-      "clanRank": 35,
+      "clanRank": 36,
       "previousClanRank": 35,
       "donations": 0,
       "donationsReceived": 0,
@@ -661,7 +679,7 @@
         "name": "Serenity Peak",
         "rawName": "Arena14"
       },
-      "clanRank": 36,
+      "clanRank": 37,
       "previousClanRank": 36,
       "donations": 17,
       "donationsReceived": 160,
@@ -671,18 +689,18 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261111T164635.000Z",
+      "lastSeen": "20261111T171958.000Z",
       "expLevel": 0,
-      "trophies": 3198,
+      "trophies": 3287,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 37,
       "donations": 174,
-      "donationsReceived": 176,
+      "donationsReceived": 190,
       "clanChestPoints": 0
     },
     {
@@ -697,7 +715,7 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 38,
+      "clanRank": 39,
       "previousClanRank": 38,
       "donations": 16,
       "donationsReceived": 30,
@@ -707,18 +725,18 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261111T100135.000Z",
+      "lastSeen": "20261111T173332.000Z",
       "expLevel": 0,
-      "trophies": 2723,
+      "trophies": 2694,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 39,
-      "donations": 40,
-      "donationsReceived": 150,
+      "donations": 62,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -733,7 +751,7 @@
         "name": "Builder's Workshop",
         "rawName": "Arena5"
       },
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 40,
       "donations": 12,
       "donationsReceived": 40,
