@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115821,
+  "clanScore": 115824,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3584,
+  "donationsPerWeek": 3620,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
       "role": "coLeader",
-      "lastSeen": "20261111T202342.000Z",
+      "lastSeen": "20261111T230938.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 3,
-      "donations": 214,
+      "donations": 232,
       "donationsReceived": 210,
       "clanChestPoints": 0
     },
@@ -293,7 +293,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261111T211603.000Z",
+      "lastSeen": "20261111T231053.000Z",
       "expLevel": 0,
       "trophies": 11759,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 244,
-      "donationsReceived": 220,
+      "donations": 262,
+      "donationsReceived": 228,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 152,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261111T144152.000Z",
+      "lastSeen": "20261111T230117.000Z",
       "expLevel": 0,
       "trophies": 4939,
       "arena": {
@@ -682,7 +682,7 @@
       "clanRank": 37,
       "previousClanRank": 36,
       "donations": 17,
-      "donationsReceived": 160,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -727,7 +727,7 @@
       "role": "member",
       "lastSeen": "20261111T224452.000Z",
       "expLevel": 0,
-      "trophies": 2697,
+      "trophies": 2727,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
