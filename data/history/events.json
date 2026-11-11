@@ -5007,5 +5007,17 @@
       "Archers"
     ],
     "at": "2026-11-11T07:19:49+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YQ2VLPJ0L",
+    "name": "arch1tector",
+    "cards": [
+      {
+        "name": "Dart Goblin",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-11T09:00:34+00:00"
   }
 ]

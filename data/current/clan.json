@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115024,
+  "clanScore": 115027,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2658,
+  "donationsPerWeek": 2682,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -32,7 +32,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 4,
+      "previousClanRank": 1,
       "donations": 224,
       "donationsReceived": 200,
       "clanChestPoints": 0
@@ -50,9 +50,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 1,
+      "previousClanRank": 2,
       "donations": 44,
-      "donationsReceived": 144,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -68,7 +68,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 2,
+      "previousClanRank": 5,
       "donations": 158,
       "donationsReceived": 160,
       "clanChestPoints": 0
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 5,
+      "previousClanRank": 7,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -122,7 +122,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 6,
-      "previousClanRank": 7,
+      "previousClanRank": 4,
       "donations": 64,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -167,7 +167,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261110T225119.000Z",
+      "lastSeen": "20261111T084516.000Z",
       "expLevel": 0,
       "trophies": 13583,
       "arena": {
@@ -177,7 +177,7 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 106,
+      "donations": 122,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -203,7 +203,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261111T071343.000Z",
+      "lastSeen": "20261111T072125.000Z",
       "expLevel": 0,
       "trophies": 13170,
       "arena": {
@@ -392,7 +392,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 21,
-      "previousClanRank": 22,
+      "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -410,7 +410,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 22,
-      "previousClanRank": 23,
+      "previousClanRank": 22,
       "donations": 100,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -428,7 +428,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 23,
-      "previousClanRank": 24,
+      "previousClanRank": 23,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -446,7 +446,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 24,
-      "previousClanRank": 25,
+      "previousClanRank": 24,
       "donations": 106,
       "donationsReceived": 120,
       "clanChestPoints": 0
@@ -464,7 +464,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 25,
-      "previousClanRank": 27,
+      "previousClanRank": 25,
       "donations": 116,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -473,7 +473,7 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261111T043048.000Z",
+      "lastSeen": "20261111T083606.000Z",
       "expLevel": 0,
       "trophies": 9613,
       "arena": {
@@ -482,8 +482,8 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 26,
-      "previousClanRank": 28,
-      "donations": 39,
+      "previousClanRank": 27,
+      "donations": 47,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -491,7 +491,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261111T071318.000Z",
+      "lastSeen": "20261111T085255.000Z",
       "expLevel": 0,
       "trophies": 9588,
       "arena": {
@@ -518,7 +518,7 @@
         "rawName": "Arena_L9"
       },
       "clanRank": 28,
-      "previousClanRank": 29,
+      "previousClanRank": 28,
       "donations": 12,
       "donationsReceived": 160,
       "clanChestPoints": 0
@@ -536,7 +536,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 29,
-      "previousClanRank": 30,
+      "previousClanRank": 29,
       "donations": 34,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -554,7 +554,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 30,
-      "previousClanRank": 31,
+      "previousClanRank": 30,
       "donations": 16,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261111T065956.000Z",
+      "lastSeen": "20261111T081105.000Z",
       "expLevel": 0,
       "trophies": 6902,
       "arena": {
@@ -572,7 +572,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 31,
-      "previousClanRank": 33,
+      "previousClanRank": 31,
       "donations": 168,
       "donationsReceived": 120,
       "clanChestPoints": 0
@@ -608,7 +608,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 33,
-      "previousClanRank": 34,
+      "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -626,7 +626,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 34,
-      "previousClanRank": 35,
+      "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -644,7 +644,7 @@
         "rawName": "Arena_L2"
       },
       "clanRank": 35,
-      "previousClanRank": 36,
+      "previousClanRank": 35,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -662,7 +662,7 @@
         "rawName": "Arena14"
       },
       "clanRank": 36,
-      "previousClanRank": 37,
+      "previousClanRank": 36,
       "donations": 17,
       "donationsReceived": 120,
       "clanChestPoints": 0
@@ -680,9 +680,9 @@
         "rawName": "Arena_L"
       },
       "clanRank": 37,
-      "previousClanRank": 38,
+      "previousClanRank": 37,
       "donations": 156,
-      "donationsReceived": 144,
+      "donationsReceived": 152,
       "clanChestPoints": 0
     },
     {
@@ -698,7 +698,7 @@
         "rawName": "Arena9"
       },
       "clanRank": 38,
-      "previousClanRank": 39,
+      "previousClanRank": 38,
       "donations": 16,
       "donationsReceived": 30,
       "clanChestPoints": 0
@@ -716,7 +716,7 @@
         "rawName": "Arena9"
       },
       "clanRank": 39,
-      "previousClanRank": 40,
+      "previousClanRank": 39,
       "donations": 40,
       "donationsReceived": 120,
       "clanChestPoints": 0
@@ -725,16 +725,16 @@
       "tag": "#J0VGQP9PY",
       "name": "алиса спийс❤️",
       "role": "member",
-      "lastSeen": "20261111T065553.000Z",
+      "lastSeen": "20261111T075624.000Z",
       "expLevel": 0,
-      "trophies": 1420,
+      "trophies": 1450,
       "arena": {
         "id": 54000005,
         "name": "Builder's Workshop",
         "rawName": "Arena5"
       },
       "clanRank": 40,
-      "previousClanRank": 41,
+      "previousClanRank": 40,
       "donations": 12,
       "donationsReceived": 40,
       "clanChestPoints": 0
