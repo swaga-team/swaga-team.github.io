@@ -5072,5 +5072,41 @@
       }
     ],
     "at": "2026-11-11T11:05:25+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      {
+        "name": "Mortar",
+        "level": 12
+      },
+      {
+        "name": "Electro Giant",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-11T13:14:48+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Royal Hogs",
+        "level": 10
+      },
+      {
+        "name": "Dark Prince",
+        "level": 10
+      },
+      {
+        "name": "Skeleton Barrel",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-11T13:14:48+00:00"
   }
 ]

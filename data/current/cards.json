@@ -7969,7 +7969,7 @@
       0
     ],
     "Mortar": [
-      11,
+      12,
       0
     ],
     "Ram Rider": [
@@ -8021,7 +8021,7 @@
       0
     ],
     "Electro Giant": [
-      11,
+      12,
       0
     ],
     "Spear Goblins": [
@@ -24695,7 +24695,7 @@
       0
     ],
     "Royal Hogs": [
-      9,
+      10,
       0
     ],
     "Giant Snowball": [
@@ -24711,7 +24711,7 @@
       0
     ],
     "Dark Prince": [
-      9,
+      10,
       0
     ],
     "Ice Golem": [
@@ -24783,7 +24783,7 @@
       0
     ],
     "Skeleton Barrel": [
-      7,
+      8,
       0
     ],
     "Hunter": [
@@ -24896,6 +24896,14 @@
     ],
     "Elixir Golem": [
       7,
+      0
+    ],
+    "Mirror": [
+      9,
+      0
+    ],
+    "Lumberjack": [
+      9,
       0
     ]
   },
