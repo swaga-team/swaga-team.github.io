@@ -323,6 +323,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#8P8JU9LLJ",
+        "name": "Bussystar",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#8RYCGVUV0",
         "name": "PARADOHA",
         "fame": 0,
@@ -987,6 +996,15 @@
         {
           "tag": "#J0VGQP9PY",
           "name": "алиса спийс❤️",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#8P8JU9LLJ",
+          "name": "Bussystar",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2014,7 +2032,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#V9GUL2JYP",
