@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115027,
+  "clanScore": 115009,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2682,
+  "donationsPerWeek": 2748,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -177,17 +177,17 @@
       },
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 122,
-      "donationsReceived": 120,
+      "donations": 132,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
       "tag": "#U0QJL29PY",
       "name": "egor",
       "role": "elder",
-      "lastSeen": "20261110T101131.000Z",
+      "lastSeen": "20261111T095654.000Z",
       "expLevel": 0,
-      "trophies": 13400,
+      "trophies": 13343,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -195,8 +195,8 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 74,
-      "donationsReceived": 80,
+      "donations": 100,
+      "donationsReceived": 110,
       "clanChestPoints": 0
     },
     {
@@ -473,7 +473,7 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261111T083606.000Z",
+      "lastSeen": "20261111T100252.000Z",
       "expLevel": 0,
       "trophies": 9613,
       "arena": {
@@ -491,7 +491,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261111T085255.000Z",
+      "lastSeen": "20261111T094115.000Z",
       "expLevel": 0,
       "trophies": 9588,
       "arena": {
@@ -501,8 +501,8 @@
       },
       "clanRank": 27,
       "previousClanRank": 26,
-      "donations": 80,
-      "donationsReceived": 120,
+      "donations": 100,
+      "donationsReceived": 128,
       "clanChestPoints": 0
     },
     {
@@ -563,17 +563,17 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261111T081105.000Z",
+      "lastSeen": "20261111T093748.000Z",
       "expLevel": 0,
-      "trophies": 6902,
+      "trophies": 7017,
       "arena": {
-        "id": 54000015,
-        "name": "Silent Sanctuary",
-        "rawName": "Arena_L4"
+        "id": 54000016,
+        "name": "Dragon Spa",
+        "rawName": "Arena_L5"
       },
       "clanRank": 31,
       "previousClanRank": 31,
-      "donations": 168,
+      "donations": 178,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -635,7 +635,7 @@
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261111T005548.000Z",
+      "lastSeen": "20261111T090205.000Z",
       "expLevel": 0,
       "trophies": 5963,
       "arena": {
@@ -682,7 +682,7 @@
       "clanRank": 37,
       "previousClanRank": 37,
       "donations": 156,
-      "donationsReceived": 152,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -707,7 +707,7 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261111T053014.000Z",
+      "lastSeen": "20261111T100135.000Z",
       "expLevel": 0,
       "trophies": 2661,
       "arena": {

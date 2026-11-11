@@ -5019,5 +5019,22 @@
       }
     ],
     "at": "2026-11-11T09:00:34+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "arena": "Dragon Spa",
+    "raw": "Arena_L5",
+    "at": "2026-11-11T10:04:00+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      "Barbarians"
+    ],
+    "at": "2026-11-11T10:04:00+00:00"
   }
 ]
