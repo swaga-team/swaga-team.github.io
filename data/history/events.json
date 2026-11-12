@@ -5529,5 +5529,41 @@
       "Tesla"
     ],
     "at": "2026-11-12T20:55:26+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#LV0GVYYL8",
+    "name": "kkyo",
+    "cards": [
+      {
+        "name": "Ice Wizard",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-12T22:52:56+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#JU2L2U8LG",
+    "name": "адцкий гей",
+    "cards": [
+      {
+        "name": "Skeleton Dragons",
+        "level": 12
+      },
+      {
+        "name": "Flying Machine",
+        "level": 12
+      },
+      {
+        "name": "Mortar",
+        "level": 11
+      },
+      {
+        "name": "Lightning",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-12T22:52:56+00:00"
   }
 ]
