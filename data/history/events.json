@@ -5200,5 +5200,25 @@
     "months": 1,
     "approx": true,
     "at": "2026-11-12T01:18:12+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VU2P0VJYC",
+    "name": "BigHandsomeMan",
+    "cards": [
+      {
+        "name": "Bats",
+        "level": 10
+      },
+      {
+        "name": "Royal Giant",
+        "level": 10
+      },
+      {
+        "name": "Electro Giant",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-12T02:56:08+00:00"
   }
 ]
