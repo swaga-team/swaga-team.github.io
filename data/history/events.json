@@ -5402,5 +5402,26 @@
       }
     ],
     "at": "2026-11-12T11:10:28+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#LV0GVYYL8",
+    "name": "kkyo",
+    "cards": [
+      "Ice Wizard"
+    ],
+    "at": "2026-11-12T13:17:37+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Balloon",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-12T13:17:37+00:00"
   }
 ]
