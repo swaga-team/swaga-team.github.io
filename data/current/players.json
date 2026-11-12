@@ -4878,9 +4878,9 @@
     "expLevel": 1,
     "trophies": 4939,
     "bestTrophies": 4939,
-    "wins": 633,
-    "losses": 327,
-    "battleCount": 960,
+    "wins": 634,
+    "losses": 333,
+    "battleCount": 967,
     "threeCrownWins": 169,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4947,11 +4947,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Archers",
+      "name": "Royal Recruits",
       "rarity": "common",
-      "elixirCost": 3,
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png"
     }
   },
   "#2G2VYP9G": {
