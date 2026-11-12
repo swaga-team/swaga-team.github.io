@@ -260,6 +260,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#YYV2V82G0",
+        "name": "•Harrison Ford•",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#JU2L2U8LG",
         "name": "адцкий гей",
         "fame": 0,
@@ -933,6 +942,15 @@
         {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#YYV2V82G0",
+          "name": "•Harrison Ford•",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1652,7 +1670,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 2
         },
         {
           "tag": "#U8LQ0UJ8L",
@@ -1859,7 +1877,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#LLYQRGQ80",

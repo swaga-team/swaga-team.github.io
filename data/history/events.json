@@ -5287,5 +5287,51 @@
     "arena": "P.E.K.K.A's Playhouse",
     "raw": "Arena6",
     "at": "2026-11-12T06:08:49+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VU2P0VJYC",
+    "name": "BigHandsomeMan",
+    "cards": [
+      {
+        "name": "Royal Giant",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-12T07:25:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Spirit Empress",
+        "level": 10
+      },
+      {
+        "name": "Rascals",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-12T07:25:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Goblin Curse",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-12T07:25:34+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#YYV2V82G0",
+    "name": "•Harrison Ford•",
+    "at": "2026-11-12T07:25:34+00:00"
   }
 ]
