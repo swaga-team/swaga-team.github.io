@@ -186,7 +186,7 @@
     "threeCrownWins": 1072,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35208,
+    "totalDonations": 35216,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1452,11 +1452,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12031,
+    "trophies": 12062,
     "bestTrophies": 12193,
-    "wins": 2352,
+    "wins": 2353,
     "losses": 2549,
-    "battleCount": 4901,
+    "battleCount": 4902,
     "threeCrownWins": 1093,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1535,11 +1535,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rocket",
-      "rarity": "rare",
-      "elixirCost": 6,
+      "name": "Knight",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#YR2GG8C2": {
@@ -2273,12 +2273,12 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9588,
+    "trophies": 9617,
     "bestTrophies": 9703,
-    "wins": 1222,
-    "losses": 1081,
-    "battleCount": 2303,
-    "threeCrownWins": 685,
+    "wins": 1229,
+    "losses": 1087,
+    "battleCount": 2316,
+    "threeCrownWins": 688,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 4588,
@@ -2304,6 +2304,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -5211,15 +5218,15 @@
   },
   "#VU2P0VJYC": {
     "expLevel": 1,
-    "trophies": 7719,
-    "bestTrophies": 7719,
-    "wins": 463,
-    "losses": 153,
-    "battleCount": 616,
-    "threeCrownWins": 132,
+    "trophies": 7749,
+    "bestTrophies": 7749,
+    "wins": 470,
+    "losses": 157,
+    "battleCount": 627,
+    "threeCrownWins": 135,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1185,
+    "totalDonations": 1193,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5294,11 +5301,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Golem",
-      "rarity": "epic",
-      "elixirCost": 8,
+      "name": "Mortar",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
     }
   },
   "#8P8JU9LLJ": {

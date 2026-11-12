@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115918,
+  "clanScore": 115933,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4850,
+  "donationsPerWeek": 4866,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261112T185659.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 70,
+      "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 264,
       "donationsReceived": 200,
@@ -49,9 +67,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
-      "donations": 254,
+      "donations": 262,
       "donationsReceived": 280,
       "clanChestPoints": 0
     },
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 106,
       "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261112T152016.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 4,
-      "donations": 70,
-      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -275,9 +275,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261112T165900.000Z",
+      "lastSeen": "20261112T181558.000Z",
       "expLevel": 0,
-      "trophies": 12031,
+      "trophies": 12062,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -347,7 +347,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261112T061712.000Z",
+      "lastSeen": "20261112T185655.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -493,7 +493,7 @@
       "role": "member",
       "lastSeen": "20261112T175515.000Z",
       "expLevel": 0,
-      "trophies": 9588,
+      "trophies": 9617,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -502,7 +502,7 @@
       "clanRank": 27,
       "previousClanRank": 27,
       "donations": 128,
-      "donationsReceived": 200,
+      "donationsReceived": 216,
       "clanChestPoints": 0
     },
     {
@@ -565,7 +565,7 @@
       "role": "member",
       "lastSeen": "20261112T174415.000Z",
       "expLevel": 0,
-      "trophies": 7719,
+      "trophies": 7749,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 31,
-      "donations": 130,
+      "donations": 138,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },

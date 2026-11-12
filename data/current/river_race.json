@@ -26,15 +26,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CJR008LV9",
-        "name": "cook",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#CVCJY2V0Y",
         "name": "martinillo99",
         "fame": 0,
@@ -449,6 +440,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#CJR008LV9",
+        "name": "cook",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
         "fame": 400,
@@ -521,7 +521,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5125,
+    "periodPoints": 5525,
     "clanScore": 2175
   },
   "clans": [
@@ -717,15 +717,6 @@
         {
           "tag": "#29GJQ0G9Q",
           "name": "✨R_U_B_I_N✨",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#CJR008LV9",
-          "name": "cook",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1147,6 +1138,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#CJR008LV9",
+          "name": "cook",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
           "fame": 400,
@@ -1219,7 +1219,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5125,
+      "periodPoints": 5525,
       "clanScore": 2175
     },
     {
@@ -2323,15 +2323,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#V2YYJY890",
-          "name": "Player456",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 400,
@@ -2357,9 +2348,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V2YYJY890",
+          "name": "Player456",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1800,
+      "periodPoints": 2400,
       "clanScore": 2163
     }
   ],
