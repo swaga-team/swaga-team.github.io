@@ -5423,5 +5423,20 @@
       }
     ],
     "at": "2026-11-12T13:17:37+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#Q8P0QGCGP",
+    "name": "sentgva",
+    "at": "2026-11-12T14:59:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      "Dark Prince"
+    ],
+    "at": "2026-11-12T14:59:55+00:00"
   }
 ]
