@@ -1401,15 +1401,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QP8G29U9Y",
-          "name": "Oyen™",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VR2JQQ2LG",
           "name": "fffff",
           "fame": 0,
@@ -1509,15 +1500,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CYYPJQP9R",
-          "name": "adev3",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#Y9YJCCJU",
           "name": "david#",
           "fame": 0,
@@ -1599,6 +1581,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#QP8G29U9Y",
+          "name": "Oyen™",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 500,
@@ -1606,9 +1597,18 @@
           "boatAttacks": 4,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#CYYPJQP9R",
+          "name": "adev3",
+          "fame": 650,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 1250,
       "clanScore": 2120
     },
     {
@@ -1889,15 +1889,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJGYGPPL9",
-          "name": "pacs",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#LLYQRGQ80",
           "name": "stoqn kolev 69",
           "fame": 0,
@@ -1961,6 +1952,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#VJGYGPPL9",
+          "name": "pacs",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
           "fame": 400,
@@ -1997,7 +1997,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2300,
+      "periodPoints": 2600,
       "clanScore": 2135
     },
     {
@@ -2269,15 +2269,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20CL00UJ",
-          "name": "King Bernie",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#88JVQYYGL",
           "name": "StoneDFisherMan",
           "fame": 0,
@@ -2332,6 +2323,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#20CL00UJ",
+          "name": "King Bernie",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#YVQ9LRGP9",
           "name": "core",
           "fame": 500,
@@ -2359,7 +2359,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2800,
+      "periodPoints": 3200,
       "clanScore": 2163
     }
   ],
