@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115916,
+  "clanScore": 115913,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4290,
+  "donationsPerWeek": 4316,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261112T100254.000Z",
+      "lastSeen": "20261112T110717.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -200,6 +200,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#2G2VYP9G",
+      "name": "THE BOSS G.",
+      "role": "elder",
+      "lastSeen": "20261112T102741.000Z",
+      "expLevel": 0,
+      "trophies": 13179,
+      "arena": {
+        "id": 54000143,
+        "name": "Little Prince's Tavern",
+        "rawName": "Arena_L17"
+      },
+      "clanRank": 11,
+      "previousClanRank": 12,
+      "donations": 8,
+      "donationsReceived": 50,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
@@ -211,28 +229,10 @@
         "name": "Little Prince's Tavern",
         "rawName": "Arena_L17"
       },
-      "clanRank": 11,
+      "clanRank": 12,
       "previousClanRank": 11,
       "donations": 228,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#2G2VYP9G",
-      "name": "THE BOSS G.",
-      "role": "elder",
-      "lastSeen": "20261109T164035.000Z",
-      "expLevel": 0,
-      "trophies": 13116,
-      "arena": {
-        "id": 54000143,
-        "name": "Little Prince's Tavern",
-        "rawName": "Arena_L17"
-      },
-      "clanRank": 12,
-      "previousClanRank": 12,
-      "donations": 8,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -466,7 +466,7 @@
       "clanRank": 25,
       "previousClanRank": 25,
       "donations": 168,
-      "donationsReceived": 108,
+      "donationsReceived": 116,
       "clanChestPoints": 0
     },
     {
@@ -581,9 +581,9 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261112T052536.000Z",
+      "lastSeen": "20261112T101920.000Z",
       "expLevel": 0,
-      "trophies": 7394,
+      "trophies": 7217,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -591,7 +591,7 @@
       },
       "clanRank": 32,
       "previousClanRank": 32,
-      "donations": 372,
+      "donations": 398,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -599,7 +599,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261112T095247.000Z",
+      "lastSeen": "20261112T102734.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -610,7 +610,7 @@
       "clanRank": 33,
       "previousClanRank": 33,
       "donations": 71,
-      "donationsReceived": 152,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -635,7 +635,7 @@
       "tag": "#GQP92GLC8",
       "name": "Adawell",
       "role": "member",
-      "lastSeen": "20261112T090217.000Z",
+      "lastSeen": "20261112T102017.000Z",
       "expLevel": 0,
       "trophies": 6500,
       "arena": {

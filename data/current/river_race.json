@@ -116,15 +116,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#2G2VYP9G",
-        "name": "THE BOSS G.",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9JPPYRL90",
         "name": "disruption",
         "fame": 0,
@@ -154,15 +145,6 @@
       {
         "tag": "#Q2RJCVYUQ",
         "name": "NEVIDIMKA YT",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#VJJUCQLVY",
-        "name": "Картошка Боб",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -307,15 +289,6 @@
       {
         "tag": "#R992J02JG",
         "name": "arman",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -510,9 +483,36 @@
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#VJJUCQLVY",
+        "name": "Картошка Боб",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#2G2VYP9G",
+        "name": "THE BOSS G.",
+        "fame": 650,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
       }
     ],
-    "periodPoints": 200,
+    "periodPoints": 2050,
     "clanScore": 2175
   },
   "clans": [
@@ -805,15 +805,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2G2VYP9G",
-          "name": "THE BOSS G.",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9JPPYRL90",
           "name": "disruption",
           "fame": 0,
@@ -843,15 +834,6 @@
         {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#VJJUCQLVY",
-          "name": "Картошка Боб",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -996,15 +978,6 @@
         {
           "tag": "#R992J02JG",
           "name": "arman",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1199,9 +1172,36 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#VJJUCQLVY",
+          "name": "Картошка Боб",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#2G2VYP9G",
+          "name": "THE BOSS G.",
+          "fame": 650,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
         }
       ],
-      "periodPoints": 200,
+      "periodPoints": 2050,
       "clanScore": 2175
     },
     {
@@ -2206,15 +2206,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#202Q0YVP8V",
           "name": "Wiseman71",
           "fame": 0,
@@ -2339,9 +2330,18 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 400,
       "clanScore": 2163
     }
   ],

@@ -5365,5 +5365,42 @@
       }
     ],
     "at": "2026-11-12T10:08:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      {
+        "name": "Flying Machine",
+        "level": 16
+      },
+      {
+        "name": "Fire Spirit",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-12T11:10:28+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      "Royal Hogs"
+    ],
+    "at": "2026-11-12T11:10:28+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "Goblin Demolisher",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-12T11:10:28+00:00"
   }
 ]
