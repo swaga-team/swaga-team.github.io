@@ -96,8 +96,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 3736,
-    "losses": 2095,
-    "battleCount": 5831,
+    "losses": 2096,
+    "battleCount": 5832,
     "threeCrownWins": 1079,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -124,6 +124,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      },
+      {
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -462,7 +469,7 @@
     "threeCrownWins": 1192,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29313,
+    "totalDonations": 29337,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -1452,11 +1459,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12060,
+    "trophies": 12031,
     "bestTrophies": 12193,
-    "wins": 2351,
-    "losses": 2547,
-    "battleCount": 4898,
+    "wins": 2352,
+    "losses": 2549,
+    "battleCount": 4901,
     "threeCrownWins": 1093,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1478,11 +1485,11 @@
     },
     "currentDeck": [
       {
-        "name": "Giant",
+        "name": "Dart Goblin",
         "rarity": "rare",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+        "elixirCost": 3,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
       },
       {
         "name": "Knight",
@@ -1527,19 +1534,19 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
       },
       {
-        "name": "Mortar",
-        "rarity": "common",
+        "name": "Hog Rider",
+        "rarity": "rare",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
       }
     ],
     "currentFavouriteCard": {
-      "name": "Electro Wizard",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Rocket",
+      "rarity": "rare",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
     }
   },
   "#YR2GG8C2": {
@@ -2006,13 +2013,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2318,
+    "wins": 2319,
     "losses": 2151,
-    "battleCount": 4469,
+    "battleCount": 4470,
     "threeCrownWins": 787,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18211,
+    "totalDonations": 18245,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2919,10 +2926,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2606,
-    "losses": 2723,
-    "battleCount": 5329,
-    "threeCrownWins": 1874,
+    "wins": 2608,
+    "losses": 2724,
+    "battleCount": 5332,
+    "threeCrownWins": 1875,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37460,
