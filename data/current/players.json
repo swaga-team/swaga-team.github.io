@@ -126,13 +126,6 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
         "name": "Cannon",
         "rarity": "common",
         "elixirCost": 3,
@@ -371,9 +364,9 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2943,
-    "losses": 2526,
-    "battleCount": 5469,
+    "wins": 2944,
+    "losses": 2527,
+    "battleCount": 5471,
     "threeCrownWins": 1113,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -452,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Fireball",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
     }
   },
   "#8UCG80RYR": {
@@ -1459,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12069,
+    "trophies": 12011,
     "bestTrophies": 12193,
     "wins": 2349,
-    "losses": 2540,
-    "battleCount": 4889,
+    "losses": 2542,
+    "battleCount": 4891,
     "threeCrownWins": 1093,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13290,
+    "totalDonations": 13314,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1535,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mortar",
-      "rarity": "common",
+      "name": "Electro Wizard",
+      "rarity": "legendary",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#YR2GG8C2": {
@@ -2289,10 +2282,10 @@
     "expLevel": 39,
     "trophies": 9588,
     "bestTrophies": 9703,
-    "wins": 1221,
+    "wins": 1222,
     "losses": 1081,
-    "battleCount": 2302,
-    "threeCrownWins": 684,
+    "battleCount": 2303,
+    "threeCrownWins": 685,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 4588,
@@ -2318,6 +2311,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -4876,11 +4876,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 4939,
+    "trophies": 4938,
     "bestTrophies": 4939,
-    "wins": 636,
-    "losses": 335,
-    "battleCount": 971,
+    "wins": 638,
+    "losses": 337,
+    "battleCount": 975,
     "threeCrownWins": 169,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4947,11 +4947,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Flying Machine",
+      "name": "Royal Hogs",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/hzKNE3QwFcrSrDDRuVW3QY_OnrDPijSiIp-PsWgFevE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
     }
   },
   "#2G2VYP9G": {
@@ -5048,15 +5048,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2727,
-    "bestTrophies": 2727,
-    "wins": 219,
-    "losses": 143,
-    "battleCount": 362,
+    "trophies": 2731,
+    "bestTrophies": 2731,
+    "wins": 220,
+    "losses": 144,
+    "battleCount": 364,
     "threeCrownWins": 91,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 68,
+    "totalDonations": 78,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5119,11 +5119,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5221,7 +5221,7 @@
     "threeCrownWins": 129,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1073,
+    "totalDonations": 1091,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
