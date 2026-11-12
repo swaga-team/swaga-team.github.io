@@ -19253,7 +19253,7 @@
       0
     ],
     "Goblin Barrel": [
-      15,
+      16,
       0
     ],
     "Cannon": [
@@ -21224,6 +21224,22 @@
     ],
     "Mortar": [
       7,
+      0
+    ],
+    "Minion Giant": [
+      5,
+      0
+    ],
+    "Baby Dragon": [
+      7,
+      0
+    ],
+    "Flying Machine": [
+      6,
+      0
+    ],
+    "Zap": [
+      9,
       0
     ]
   },
@@ -23927,7 +23943,7 @@
       0
     ],
     "Tornado": [
-      8,
+      10,
       0
     ],
     "Clone": [
@@ -24007,7 +24023,7 @@
       0
     ],
     "Elixir Collector": [
-      7,
+      8,
       0
     ],
     "Bandit": [
@@ -26279,7 +26295,7 @@
       0
     ],
     "Royal Giant": [
-      10,
+      11,
       0
     ],
     "Three Musketeers": [
@@ -26579,6 +26595,10 @@
       0
     ],
     "Graveyard": [
+      9,
+      0
+    ],
+    "Mother Witch": [
       9,
       0
     ]
