@@ -652,24 +652,24 @@
         {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
-          "fame": 200,
+          "fame": 300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
-          "tag": "#VCLLGG9QG",
-          "name": "Moriarty",
-          "fame": 325,
-          "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 3,
-          "decksUsedToday": 3
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#VCLLGG9QG",
+          "name": "Moriarty",
           "fame": 400,
           "repairPoints": 0,
           "boatAttacks": 4,
@@ -695,7 +695,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2025,
+      "periodPoints": 2200,
       "clanScore": 2164
     },
     {
