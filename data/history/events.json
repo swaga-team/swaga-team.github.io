@@ -5333,5 +5333,25 @@
     "tag": "#YYV2V82G0",
     "name": "•Harrison Ford•",
     "at": "2026-11-12T07:25:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Dark Prince",
+        "level": 11
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 9
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-12T09:06:30+00:00"
   }
 ]

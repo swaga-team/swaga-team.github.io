@@ -1781,6 +1781,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YQRGGJ20",
+          "name": "king23",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#929P2GGQL",
           "name": "Vito",
           "fame": 0,
@@ -2176,7 +2185,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 3
         },
         {
           "tag": "#80QG20JCU",

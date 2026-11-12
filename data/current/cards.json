@@ -24719,7 +24719,7 @@
       0
     ],
     "Giant Snowball": [
-      8,
+      9,
       0
     ],
     "Battle Healer": [
@@ -24731,7 +24731,7 @@
       0
     ],
     "Dark Prince": [
-      10,
+      11,
       0
     ],
     "Ice Golem": [
@@ -24747,7 +24747,7 @@
       0
     ],
     "Royal Recruits": [
-      8,
+      9,
       1
     ],
     "Barbarian Barrel": [
@@ -24928,6 +24928,18 @@
     ],
     "Phoenix": [
       9,
+      0
+    ],
+    "Spirit Empress": [
+      12,
+      0
+    ],
+    "Cannon Cart": [
+      8,
+      0
+    ],
+    "Clone": [
+      8,
       0
     ]
   },
