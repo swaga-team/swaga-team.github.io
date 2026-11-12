@@ -251,15 +251,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#JU2L2U8LG",
-        "name": "адцкий гей",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#U00CVC89C",
         "name": "Zenitsu",
         "fame": 0,
@@ -476,6 +467,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#JU2L2U8LG",
+        "name": "адцкий гей",
+        "fame": 75,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#9282CQQ90",
         "name": "Чушпан",
         "fame": 200,
@@ -512,7 +512,7 @@
         "decksUsedToday": 3
       }
     ],
-    "periodPoints": 2050,
+    "periodPoints": 2125,
     "clanScore": 2175
   },
   "clans": [
@@ -940,15 +940,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#JU2L2U8LG",
-          "name": "адцкий гей",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#U00CVC89C",
           "name": "Zenitsu",
           "fame": 0,
@@ -1165,6 +1156,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#JU2L2U8LG",
+          "name": "адцкий гей",
+          "fame": 75,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#9282CQQ90",
           "name": "Чушпан",
           "fame": 200,
@@ -1201,7 +1201,7 @@
           "decksUsedToday": 3
         }
       ],
-      "periodPoints": 2050,
+      "periodPoints": 2125,
       "clanScore": 2175
     },
     {
@@ -1999,15 +1999,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#QCVJPQ0PY",
           "name": "2.6Hograta",
           "fame": 0,
@@ -2339,9 +2330,18 @@
           "boatAttacks": 2,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
         }
       ],
-      "periodPoints": 400,
+      "periodPoints": 900,
       "clanScore": 2163
     }
   ],

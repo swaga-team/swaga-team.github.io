@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2944,
-    "losses": 2527,
-    "battleCount": 5471,
+    "wins": 2946,
+    "losses": 2528,
+    "battleCount": 5474,
     "threeCrownWins": 1113,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15738,
+    "totalDonations": 15758,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -445,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Fireball",
-      "rarity": "rare",
+      "name": "Mortar",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
     }
   },
   "#8UCG80RYR": {
@@ -2096,15 +2096,15 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9613,
-    "bestTrophies": 9613,
-    "wins": 1033,
+    "trophies": 9642,
+    "bestTrophies": 9642,
+    "wins": 1034,
     "losses": 690,
-    "battleCount": 1723,
+    "battleCount": 1724,
     "threeCrownWins": 509,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3160,
+    "totalDonations": 3170,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2127,13 +2127,6 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2190,13 +2183,13 @@
     "expLevel": 40,
     "trophies": 9622,
     "bestTrophies": 9650,
-    "wins": 1065,
+    "wins": 1066,
     "losses": 836,
-    "battleCount": 1901,
-    "threeCrownWins": 539,
+    "battleCount": 1902,
+    "threeCrownWins": 540,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3587,
+    "totalDonations": 3597,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3300,7 +3293,7 @@
     "threeCrownWins": 2601,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 20876,
+    "totalDonations": 20890,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4692,15 +4685,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 7217,
+    "trophies": 7242,
     "bestTrophies": 7427,
-    "wins": 985,
-    "losses": 750,
-    "battleCount": 1735,
-    "threeCrownWins": 303,
+    "wins": 992,
+    "losses": 759,
+    "battleCount": 1751,
+    "threeCrownWins": 305,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1941,
+    "totalDonations": 1951,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4775,11 +4768,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Cannon Cart",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Sparky",
+      "rarity": "legendary",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#90QGJUUG": {
@@ -5256,20 +5249,6 @@
         "elixirCost": 6,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ho0nOG2y3Ch86elHHcocQs8Fv_QNe0cFJ2CijsxABZA.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Void",
