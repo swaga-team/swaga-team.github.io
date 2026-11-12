@@ -17,15 +17,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#29GJQ0G9Q",
-        "name": "✨R_U_B_I_N✨",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#CVCJY2V0Y",
         "name": "martinillo99",
         "fame": 0,
@@ -82,15 +73,6 @@
       {
         "tag": "#8JRL80GY0",
         "name": "vickymaddy",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#2QQG2QPCY",
-        "name": "Clasher",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -163,15 +145,6 @@
       {
         "tag": "#Q8P0QGCGP",
         "name": "sentgva",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#222YY9YCC",
-        "name": "king abolfazl",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -431,6 +404,33 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#29GJQ0G9Q",
+        "name": "✨R_U_B_I_N✨",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#2QQG2QPCY",
+        "name": "Clasher",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#222YY9YCC",
+        "name": "king abolfazl",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#9282CQQ90",
         "name": "Чушпан",
         "fame": 200,
@@ -521,7 +521,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5525,
+    "periodPoints": 6125,
     "clanScore": 2175
   },
   "clans": [
@@ -571,15 +571,6 @@
         {
           "tag": "#8Y2PVY8",
           "name": "Good Like",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#PRQC0GRRU",
-          "name": "Brunhgilda",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -659,15 +650,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VCLLGG9QG",
-          "name": "Moriarty",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
           "fame": 200,
@@ -675,6 +657,24 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#VCLLGG9QG",
+          "name": "Moriarty",
+          "fame": 325,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
+          "tag": "#PRQC0GRRU",
+          "name": "Brunhgilda",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#200298GYRJ",
@@ -695,7 +695,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1300,
+      "periodPoints": 2025,
       "clanScore": 2164
     },
     {
@@ -708,15 +708,6 @@
         {
           "tag": "#C8YV202C",
           "name": "undertaker",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#29GJQ0G9Q",
-          "name": "✨R_U_B_I_N✨",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -780,15 +771,6 @@
         {
           "tag": "#8JRL80GY0",
           "name": "vickymaddy",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#2QQG2QPCY",
-          "name": "Clasher",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -861,15 +843,6 @@
         {
           "tag": "#Q8P0QGCGP",
           "name": "sentgva",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#222YY9YCC",
-          "name": "king abolfazl",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1129,6 +1102,33 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#29GJQ0G9Q",
+          "name": "✨R_U_B_I_N✨",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#2QQG2QPCY",
+          "name": "Clasher",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#222YY9YCC",
+          "name": "king abolfazl",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#9282CQQ90",
           "name": "Чушпан",
           "fame": 200,
@@ -1219,7 +1219,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5525,
+      "periodPoints": 6125,
       "clanScore": 2175
     },
     {
