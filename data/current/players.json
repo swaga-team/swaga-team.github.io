@@ -95,15 +95,15 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3731,
+    "wins": 3733,
     "losses": 2092,
-    "battleCount": 5823,
+    "battleCount": 5825,
     "threeCrownWins": 1079,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41387,
+    "totalDonations": 41413,
     "currentPathOfLegendSeasonResult": {
-      "leagueNumber": 2,
+      "leagueNumber": 3,
       "trophies": 0,
       "rank": null
     },
@@ -2374,10 +2374,10 @@
     "expLevel": 42,
     "trophies": 9228,
     "bestTrophies": 9228,
-    "wins": 2667,
+    "wins": 2670,
     "losses": 2815,
-    "battleCount": 5482,
-    "threeCrownWins": 1662,
+    "battleCount": 5485,
+    "threeCrownWins": 1664,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
     "totalDonations": 26206,
@@ -2455,11 +2455,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Firecracker",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Lumberjack",
+      "rarity": "legendary",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/c1rL3LO1U2D9-TkeFfAC18gP3AO8ztSwrcHMZplwL2Q.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
     }
   },
   "#LGQC0JPLU": {
@@ -3704,15 +3704,15 @@
   },
   "#PLUQRR22G": {
     "expLevel": 55,
-    "trophies": 10765,
+    "trophies": 10732,
     "bestTrophies": 10856,
-    "wins": 2937,
-    "losses": 3489,
-    "battleCount": 6426,
+    "wins": 2938,
+    "losses": 3491,
+    "battleCount": 6429,
     "threeCrownWins": 1451,
     "warDayWins": 3,
     "clanCardsCollected": 4080,
-    "totalDonations": 18400,
+    "totalDonations": 18408,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3758,11 +3758,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
       },
       {
-        "name": "Rascals",
+        "name": "Fire Spirit",
         "rarity": "common",
-        "elixirCost": 5,
+        "elixirCost": 1,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/16-BqusVvynIgYI8_Jci3LDC-r8AI_xaIYLgXqtlmS8.png"
       },
       {
         "name": "Goblin Gang",
@@ -5161,13 +5161,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
       },
       {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
-      },
-      {
         "name": "Witch",
         "rarity": "epic",
         "elixirCost": 5,
@@ -5220,11 +5213,11 @@
   },
   "#VU2P0VJYC": {
     "expLevel": 1,
-    "trophies": 7533,
-    "bestTrophies": 7591,
-    "wins": 444,
-    "losses": 140,
-    "battleCount": 584,
+    "trophies": 7685,
+    "bestTrophies": 7685,
+    "wins": 451,
+    "losses": 142,
+    "battleCount": 593,
     "threeCrownWins": 129,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5251,20 +5244,6 @@
         "elixirCost": 6,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ho0nOG2y3Ch86elHHcocQs8Fv_QNe0cFJ2CijsxABZA.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Void",
