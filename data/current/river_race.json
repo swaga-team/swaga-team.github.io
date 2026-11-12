@@ -650,15 +650,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R00Q2G2LV",
-          "name": "Kozolkazya",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 400,
@@ -675,6 +666,15 @@
           "boatAttacks": 4,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#R00Q2G2LV",
+          "name": "Kozolkazya",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
         },
         {
           "tag": "#200298GYRJ",
@@ -695,7 +695,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2200,
+      "periodPoints": 2400,
       "clanScore": 2164
     },
     {
