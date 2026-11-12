@@ -25507,7 +25507,7 @@
       0
     ],
     "Battle Ram": [
-      4,
+      6,
       0
     ],
     "Goblins": [
@@ -25660,6 +25660,10 @@
     ],
     "Barbarian Barrel": [
       6,
+      0
+    ],
+    "Dart Goblin": [
+      7,
       0
     ]
   },
