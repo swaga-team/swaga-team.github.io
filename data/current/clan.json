@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115963,
+  "clanScore": 115960,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5174,
+  "donationsPerWeek": 5200,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 288,
-      "donationsReceived": 300,
+      "donationsReceived": 310,
       "clanChestPoints": 0
     },
     {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 16,
       "donations": 300,
-      "donationsReceived": 314,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -671,9 +671,9 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261112T144633.000Z",
+      "lastSeen": "20261113T022226.000Z",
       "expLevel": 0,
-      "trophies": 5030,
+      "trophies": 5000,
       "arena": {
         "id": 54000012,
         "name": "Miner's Mine",
@@ -682,7 +682,7 @@
       "clanRank": 37,
       "previousClanRank": 37,
       "donations": 22,
-      "donationsReceived": 280,
+      "donationsReceived": 290,
       "clanChestPoints": 0
     },
     {
@@ -707,7 +707,7 @@
       "tag": "#YYV2V82G0",
       "name": "•Harrison Ford•",
       "role": "member",
-      "lastSeen": "20261112T124738.000Z",
+      "lastSeen": "20261113T025133.000Z",
       "expLevel": 0,
       "trophies": 2978,
       "arena": {
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 28,
+      "donations": 54,
       "donationsReceived": 30,
       "clanChestPoints": 0
     },

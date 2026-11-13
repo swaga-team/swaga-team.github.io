@@ -641,15 +641,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YP8CUJV2Y",
-          "name": "DDshka",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
           "fame": 400,
@@ -657,6 +648,15 @@
           "boatAttacks": 4,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#YP8CUJV2Y",
+          "name": "DDshka",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#VCLLGG9QG",
@@ -695,7 +695,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2600,
+      "periodPoints": 2800,
       "clanScore": 2164
     },
     {

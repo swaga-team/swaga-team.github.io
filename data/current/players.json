@@ -4869,11 +4869,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 5030,
+    "trophies": 5000,
     "bestTrophies": 5030,
     "wins": 656,
-    "losses": 353,
-    "battleCount": 1009,
+    "losses": 354,
+    "battleCount": 1010,
     "threeCrownWins": 170,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4952,11 +4952,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dark Prince",
-      "rarity": "epic",
+      "name": "Goblin Hut",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
     }
   },
   "#2G2VYP9G": {
