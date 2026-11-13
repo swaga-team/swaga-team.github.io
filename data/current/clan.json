@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116012,
+  "clanScore": 116013,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5710,
+  "donationsPerWeek": 5740,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261113T094241.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 297,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 311,
       "donationsReceived": 320,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 80,
       "donationsReceived": 320,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 8,
       "donations": 8,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261113T050822.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 6,
-      "donations": 287,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -167,7 +167,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261113T065313.000Z",
+      "lastSeen": "20261113T092119.000Z",
       "expLevel": 0,
       "trophies": 13586,
       "arena": {
@@ -257,7 +257,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261113T065411.000Z",
+      "lastSeen": "20261113T092053.000Z",
       "expLevel": 0,
       "trophies": 12240,
       "arena": {
@@ -267,7 +267,7 @@
       },
       "clanRank": 14,
       "previousClanRank": 15,
-      "donations": 483,
+      "donations": 493,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -455,7 +455,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261113T072749.000Z",
+      "lastSeen": "20261113T092648.000Z",
       "expLevel": 0,
       "trophies": 9710,
       "arena": {
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 27,
-      "donations": 174,
+      "donations": 184,
       "donationsReceived": 280,
       "clanChestPoints": 0
     },
@@ -545,7 +545,7 @@
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
-      "lastSeen": "20261113T060357.000Z",
+      "lastSeen": "20261113T092154.000Z",
       "expLevel": 0,
       "trophies": 8294,
       "arena": {
@@ -563,7 +563,7 @@
       "tag": "#VU2P0VJYC",
       "name": "BigHandsomeMan",
       "role": "member",
-      "lastSeen": "20261113T043631.000Z",
+      "lastSeen": "20261113T095705.000Z",
       "expLevel": 0,
       "trophies": 7779,
       "arena": {
@@ -592,7 +592,7 @@
       "clanRank": 32,
       "previousClanRank": 32,
       "donations": 489,
-      "donationsReceived": 290,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -743,9 +743,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261113T051132.000Z",
+      "lastSeen": "20261113T100012.000Z",
       "expLevel": 0,
-      "trophies": 2759,
+      "trophies": 2788,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
