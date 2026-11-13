@@ -206,15 +206,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#QP0PPC0QU",
-        "name": "pshkzzz",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#R992J02JG",
         "name": "arman",
         "fame": 0,
@@ -422,6 +413,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#QP0PPC0QU",
+        "name": "pshkzzz",
+        "fame": 275,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#CJR008LV9",
         "name": "cook",
         "fame": 400,
@@ -521,7 +521,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 7575,
+    "periodPoints": 7850,
     "clanScore": 2175
   },
   "clans": [
@@ -904,15 +904,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QP0PPC0QU",
-          "name": "pshkzzz",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R992J02JG",
           "name": "arman",
           "fame": 0,
@@ -1120,6 +1111,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#QP0PPC0QU",
+          "name": "pshkzzz",
+          "fame": 275,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#CJR008LV9",
           "name": "cook",
           "fame": 400,
@@ -1219,7 +1219,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 7575,
+      "periodPoints": 7850,
       "clanScore": 2175
     },
     {

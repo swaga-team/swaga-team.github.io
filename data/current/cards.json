@@ -2185,7 +2185,7 @@
       0
     ],
     "Prince": [
-      12,
+      13,
       0
     ],
     "Electro Dragon": [
@@ -2365,7 +2365,7 @@
       0
     ],
     "Ice Wizard": [
-      12,
+      13,
       2
     ],
     "Goblin Demolisher": [
@@ -4451,7 +4451,7 @@
       0
     ],
     "Wall Breakers": [
-      14,
+      15,
       0
     ],
     "Baby Dragon": [
@@ -21135,7 +21135,7 @@
       0
     ],
     "Mini P.E.K.K.A": [
-      8,
+      9,
       0
     ],
     "Spear Goblins": [
@@ -21183,7 +21183,7 @@
       0
     ],
     "Mega Minion": [
-      6,
+      7,
       0
     ],
     "Inferno Tower": [
@@ -24953,6 +24953,10 @@
     "Clone": [
       8,
       0
+    ],
+    "Elixir Collector": [
+      7,
+      0
     ]
   },
   "#2G2VYP9G": {
@@ -25676,6 +25680,10 @@
     ],
     "Dart Goblin": [
       7,
+      0
+    ],
+    "Berserker": [
+      1,
       0
     ]
   },
