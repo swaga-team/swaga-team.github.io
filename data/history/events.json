@@ -5717,5 +5717,37 @@
     "tag": "#YGQU2GCJR",
     "name": "Fen1ks",
     "at": "2026-11-13T13:13:44+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Prince",
+        "level": 12
+      },
+      {
+        "name": "X-Bow",
+        "level": 11
+      },
+      {
+        "name": "Ronin",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-13T14:23:36+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Fisherman",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-13T14:23:36+00:00"
   }
 ]
