@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117361,
+  "clanScore": 117373,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6494,
+  "donationsPerWeek": 6500,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -257,7 +257,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261113T162304.000Z",
+      "lastSeen": "20261113T222853.000Z",
       "expLevel": 0,
       "trophies": 12175,
       "arena": {
@@ -267,7 +267,7 @@
       },
       "clanRank": 14,
       "previousClanRank": 0,
-      "donations": 8,
+      "donations": 14,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -614,6 +614,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#QU8082PC2",
+      "name": "yrikkiller",
+      "role": "member",
+      "lastSeen": "20261113T222759.000Z",
+      "expLevel": 0,
+      "trophies": 6873,
+      "arena": {
+        "id": 54000015,
+        "name": "Silent Sanctuary",
+        "rawName": "Arena_L4"
+      },
+      "clanRank": 34,
+      "previousClanRank": 34,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
@@ -625,28 +643,10 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 33,
       "donations": 134,
       "donationsReceived": 240,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#QU8082PC2",
-      "name": "yrikkiller",
-      "role": "member",
-      "lastSeen": "20261113T203640.000Z",
-      "expLevel": 0,
-      "trophies": 6785,
-      "arena": {
-        "id": 54000015,
-        "name": "Silent Sanctuary",
-        "rawName": "Arena_L4"
-      },
-      "clanRank": 35,
-      "previousClanRank": 34,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -671,9 +671,9 @@
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261112T094133.000Z",
+      "lastSeen": "20261113T221156.000Z",
       "expLevel": 0,
-      "trophies": 5963,
+      "trophies": 5991,
       "arena": {
         "id": 54000013,
         "name": "Executioner's Kitchen",
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 39,
       "donations": 66,
-      "donationsReceived": 54,
+      "donationsReceived": 60,
       "clanChestPoints": 0
     },
     {
