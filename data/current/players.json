@@ -1290,7 +1290,7 @@
     "threeCrownWins": 636,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25460,
+    "totalDonations": 25472,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2637,8 +2637,8 @@
     "trophies": 8294,
     "bestTrophies": 8385,
     "wins": 950,
-    "losses": 709,
-    "battleCount": 1659,
+    "losses": 710,
+    "battleCount": 1660,
     "threeCrownWins": 303,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2912,13 +2912,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2618,
+    "wins": 2619,
     "losses": 2730,
-    "battleCount": 5348,
-    "threeCrownWins": 1879,
+    "battleCount": 5349,
+    "threeCrownWins": 1880,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37499,
+    "totalDonations": 37505,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4218,12 +4218,12 @@
   },
   "#QU8082PC2": {
     "expLevel": 1,
-    "trophies": 6745,
-    "bestTrophies": 6773,
-    "wins": 452,
-    "losses": 259,
-    "battleCount": 711,
-    "threeCrownWins": 169,
+    "trophies": 6785,
+    "bestTrophies": 6785,
+    "wins": 461,
+    "losses": 267,
+    "battleCount": 728,
+    "threeCrownWins": 174,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -4244,32 +4244,32 @@
     },
     "currentDeck": [
       {
-        "name": "Firecracker",
-        "rarity": "common",
+        "name": "Princess",
+        "rarity": "legendary",
         "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/c1rL3LO1U2D9-TkeFfAC18gP3AO8ztSwrcHMZplwL2Q.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
       },
       {
-        "name": "Graveyard",
-        "rarity": "legendary",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
-      },
-      {
-        "name": "Valkyrie",
+        "name": "Wizard",
         "rarity": "rare",
+        "elixirCost": 5,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      },
+      {
+        "name": "Baby Dragon",
+        "rarity": "epic",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
       },
       {
-        "name": "Giant",
-        "rarity": "rare",
-        "elixirCost": 5,
+        "name": "Sparky",
+        "rarity": "legendary",
+        "elixirCost": 6,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
       },
       {
         "name": "Bats",
@@ -4279,25 +4279,25 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
       },
       {
-        "name": "Arrows",
-        "rarity": "common",
+        "name": "Miner",
+        "rarity": "legendary",
         "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
       },
       {
-        "name": "Zap",
-        "rarity": "common",
-        "elixirCost": 2,
+        "name": "Witch",
+        "rarity": "epic",
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
       },
       {
-        "name": "Sparky",
-        "rarity": "legendary",
-        "elixirCost": 6,
+        "name": "Battle Ram",
+        "rarity": "rare",
+        "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
       }
     ],
     "currentFavouriteCard": {

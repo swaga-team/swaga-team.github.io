@@ -2368,15 +2368,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#202Q0YVP8V",
           "name": "Wiseman71",
           "fame": 800,
@@ -2404,6 +2395,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 1325,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#V2YYJY890",
           "name": "Player456",
           "fame": 1600,
@@ -2413,7 +2413,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2675,
+      "periodPoints": 3400,
       "clanScore": 2163
     }
   ],
