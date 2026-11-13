@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5164,
+  "donationsPerWeek": 5174,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
       "role": "coLeader",
-      "lastSeen": "20261112T220658.000Z",
+      "lastSeen": "20261113T001757.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 4,
-      "donations": 278,
+      "donations": 288,
       "donationsReceived": 300,
       "clanChestPoints": 0
     },
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 106,
-      "donationsReceived": 240,
+      "donationsReceived": 250,
       "clanChestPoints": 0
     },
     {
