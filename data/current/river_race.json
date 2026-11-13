@@ -350,15 +350,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#29GJQ0G9Q",
-        "name": "✨R_U_B_I_N✨",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#2QQG2QPCY",
         "name": "Clasher",
         "fame": 200,
@@ -393,6 +384,15 @@
         "boatAttacks": 1,
         "decksUsed": 3,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#29GJQ0G9Q",
+        "name": "✨R_U_B_I_N✨",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 1
       },
       {
         "tag": "#J0VGQP9PY",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4875,
+    "periodPoints": 4975,
     "clanScore": 2175
   },
   "clans": [
@@ -1066,15 +1066,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#29GJQ0G9Q",
-          "name": "✨R_U_B_I_N✨",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2QQG2QPCY",
           "name": "Clasher",
           "fame": 200,
@@ -1109,6 +1100,15 @@
           "boatAttacks": 1,
           "decksUsed": 3,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#29GJQ0G9Q",
+          "name": "✨R_U_B_I_N✨",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 1
         },
         {
           "tag": "#J0VGQP9PY",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4875,
+      "periodPoints": 4975,
       "clanScore": 2175
     },
     {

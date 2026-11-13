@@ -1382,7 +1382,7 @@
     "threeCrownWins": 2722,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72895,
+    "totalDonations": 72921,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1737,9 +1737,9 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2569,
-    "losses": 2239,
-    "battleCount": 4808,
+    "wins": 2570,
+    "losses": 2240,
+    "battleCount": 4810,
     "threeCrownWins": 918,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -2919,10 +2919,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2615,
+    "wins": 2618,
     "losses": 2730,
-    "battleCount": 5345,
-    "threeCrownWins": 1878,
+    "battleCount": 5348,
+    "threeCrownWins": 1879,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37499,
@@ -3000,11 +3000,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Giant",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#GQP92GLC8": {
