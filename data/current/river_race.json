@@ -107,15 +107,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#YQ2VLPJ0L",
-        "name": "arch1tector",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 0,
@@ -422,6 +413,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#YQ2VLPJ0L",
+        "name": "arch1tector",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#228RGGVQV2",
         "name": "Infamous",
         "fame": 400,
@@ -505,11 +505,11 @@
       {
         "tag": "#VJJUCQLVY",
         "name": "Картошка Боб",
-        "fame": 1000,
+        "fame": 1300,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 6,
-        "decksUsedToday": 2
+        "decksUsed": 8,
+        "decksUsedToday": 4
       },
       {
         "tag": "#CGPUY8P2",
@@ -521,7 +521,7 @@
         "decksUsedToday": 3
       }
     ],
-    "periodPoints": 1100,
+    "periodPoints": 1800,
     "clanScore": 2175
   },
   "clans": [
@@ -641,15 +641,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#PRQC0GRRU",
-          "name": "Brunhgilda",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YP8CUJV2Y",
           "name": "DDshka",
           "fame": 400,
@@ -686,6 +677,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#PRQC0GRRU",
+          "name": "Brunhgilda",
+          "fame": 850,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#QQYVQG22G",
           "name": "ecko",
           "fame": 1200,
@@ -695,7 +695,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 700,
+      "periodPoints": 1150,
       "clanScore": 2164
     },
     {
@@ -798,15 +798,6 @@
         {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#YQ2VLPJ0L",
-          "name": "arch1tector",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1120,6 +1111,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YQ2VLPJ0L",
+          "name": "arch1tector",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#228RGGVQV2",
           "name": "Infamous",
           "fame": 400,
@@ -1203,11 +1203,11 @@
         {
           "tag": "#VJJUCQLVY",
           "name": "Картошка Боб",
-          "fame": 1000,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 2
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#CGPUY8P2",
@@ -1219,7 +1219,7 @@
           "decksUsedToday": 3
         }
       ],
-      "periodPoints": 1100,
+      "periodPoints": 1800,
       "clanScore": 2175
     },
     {
@@ -1563,15 +1563,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9LUL08PLJ",
-          "name": "Ghis",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#ULCYG0VGV",
           "name": "TheMrPoop",
           "fame": 400,
@@ -1579,6 +1570,15 @@
           "boatAttacks": 2,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#9LUL08PLJ",
+          "name": "Ghis",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#CYYPJQP9R",
@@ -1608,7 +1608,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1100,
+      "periodPoints": 1400,
       "clanScore": 2120
     },
     {
@@ -1970,15 +1970,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2LRQVPP0V",
-          "name": "Nikatnyte_2",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 600,
@@ -1995,9 +1986,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2LRQVPP0V",
+          "name": "Nikatnyte_2",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 600,
       "clanScore": 2135
     },
     {
@@ -2305,15 +2305,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#202Q0YVP8V",
           "name": "Wiseman71",
           "fame": 400,
@@ -2357,9 +2348,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 1075,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 675,
       "clanScore": 2163
     }
   ],

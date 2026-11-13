@@ -5674,5 +5674,42 @@
       }
     ],
     "at": "2026-11-13T11:05:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      {
+        "name": "Royal Ghost",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-13T11:59:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      "Royal Hogs"
+    ],
+    "at": "2026-11-13T11:59:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Lightning",
+        "level": 9
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-13T11:59:55+00:00"
   }
 ]
