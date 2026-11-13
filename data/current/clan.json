@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116002,
+  "clanScore": 116012,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5693,
+  "donationsPerWeek": 5710,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -32,7 +32,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 6,
+      "previousClanRank": 5,
       "donations": 311,
       "donationsReceived": 320,
       "clanChestPoints": 0
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 1,
       "donations": 80,
-      "donationsReceived": 313,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 2,
+      "previousClanRank": 6,
       "donations": 287,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -104,7 +104,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 5,
-      "previousClanRank": 3,
+      "previousClanRank": 2,
       "donations": 302,
       "donationsReceived": 240,
       "clanChestPoints": 0
@@ -122,7 +122,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 6,
-      "previousClanRank": 4,
+      "previousClanRank": 3,
       "donations": 288,
       "donationsReceived": 320,
       "clanChestPoints": 0
@@ -140,7 +140,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 7,
-      "previousClanRank": 5,
+      "previousClanRank": 4,
       "donations": 106,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -212,7 +212,7 @@
         "rawName": "Arena_L17"
       },
       "clanRank": 11,
-      "previousClanRank": 12,
+      "previousClanRank": 11,
       "donations": 46,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -230,7 +230,7 @@
         "rawName": "Arena_L17"
       },
       "clanRank": 12,
-      "previousClanRank": 11,
+      "previousClanRank": 12,
       "donations": 228,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -434,18 +434,36 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#CJR008LV9",
-      "name": "cook",
+      "tag": "#JU2L2U8LG",
+      "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261113T071602.000Z",
+      "lastSeen": "20261113T084127.000Z",
       "expLevel": 0,
-      "trophies": 9739,
+      "trophies": 9738,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
       "clanRank": 24,
+      "previousClanRank": 26,
+      "donations": 288,
+      "donationsReceived": 200,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CJR008LV9",
+      "name": "cook",
+      "role": "member",
+      "lastSeen": "20261113T072749.000Z",
+      "expLevel": 0,
+      "trophies": 9710,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
       "previousClanRank": 27,
       "donations": 174,
       "donationsReceived": 280,
@@ -463,28 +481,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 24,
       "donations": 205,
       "donationsReceived": 240,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#JU2L2U8LG",
-      "name": "адцкий гей",
-      "role": "member",
-      "lastSeen": "20261113T064305.000Z",
-      "expLevel": 0,
-      "trophies": 9679,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 26,
-      "previousClanRank": 25,
-      "donations": 278,
-      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -500,7 +500,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 27,
-      "previousClanRank": 26,
+      "previousClanRank": 25,
       "donations": 77,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -581,9 +581,9 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261112T203810.000Z",
+      "lastSeen": "20261113T082602.000Z",
       "expLevel": 0,
-      "trophies": 7242,
+      "trophies": 7277,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -591,8 +591,8 @@
       },
       "clanRank": 32,
       "previousClanRank": 32,
-      "donations": 482,
-      "donationsReceived": 280,
+      "donations": 489,
+      "donationsReceived": 290,
       "clanChestPoints": 0
     },
     {
@@ -671,9 +671,9 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261113T064345.000Z",
+      "lastSeen": "20261113T073945.000Z",
       "expLevel": 0,
-      "trophies": 5000,
+      "trophies": 5030,
       "arena": {
         "id": 54000012,
         "name": "Miner's Mine",

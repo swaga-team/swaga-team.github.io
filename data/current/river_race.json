@@ -668,18 +668,18 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#R00Q2G2LV",
-          "name": "Kozolkazya",
-          "fame": 500,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#200298GYRJ",
           "name": "DraganaMamica",
           "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#R00Q2G2LV",
+          "name": "Kozolkazya",
+          "fame": 600,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
@@ -695,7 +695,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2800,
+      "periodPoints": 2900,
       "clanScore": 2164
     },
     {
@@ -1356,15 +1356,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#ULCYG0VGV",
-          "name": "TheMrPoop",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2YQG8YQV",
           "name": "BADGAME",
           "fame": 0,
@@ -1581,6 +1572,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#ULCYG0VGV",
+          "name": "TheMrPoop",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 500,
@@ -1608,7 +1608,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1850,
+      "periodPoints": 2250,
       "clanScore": 2120
     },
     {
@@ -1817,15 +1817,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V2U2R8J28",
-          "name": "gy",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9G02GVVQV",
           "name": "kiko",
           "fame": 0,
@@ -1952,6 +1943,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#V2U2R8J28",
+          "name": "gy",
+          "fame": 350,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
           "fame": 400,
@@ -1997,7 +1997,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2900,
+      "periodPoints": 3250,
       "clanScore": 2135
     },
     {
