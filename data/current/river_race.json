@@ -116,15 +116,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#22JLP29RV",
-        "name": "Kale",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#P08LLGYLQ",
         "name": "Luka13",
         "fame": 0,
@@ -181,15 +172,6 @@
       {
         "tag": "#U00CVC89C",
         "name": "Zenitsu",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#28G90Y9JL",
-        "name": "GamerPro",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -368,6 +350,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#28G90Y9JL",
+        "name": "GamerPro",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#9282CQQ90",
         "name": "Чушпан",
         "fame": 200,
@@ -375,6 +366,15 @@
         "boatAttacks": 0,
         "decksUsed": 1,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#22JLP29RV",
+        "name": "Kale",
+        "fame": 250,
+        "repairPoints": 0,
+        "boatAttacks": 2,
+        "decksUsed": 2,
+        "decksUsedToday": 2
       },
       {
         "tag": "#QP0PPC0QU",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4975,
+    "periodPoints": 5425,
     "clanScore": 2175
   },
   "clans": [
@@ -832,15 +832,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#22JLP29RV",
-          "name": "Kale",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#P08LLGYLQ",
           "name": "Luka13",
           "fame": 0,
@@ -897,15 +888,6 @@
         {
           "tag": "#U00CVC89C",
           "name": "Zenitsu",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#28G90Y9JL",
-          "name": "GamerPro",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1084,6 +1066,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#28G90Y9JL",
+          "name": "GamerPro",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#9282CQQ90",
           "name": "Чушпан",
           "fame": 200,
@@ -1091,6 +1082,15 @@
           "boatAttacks": 0,
           "decksUsed": 1,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#22JLP29RV",
+          "name": "Kale",
+          "fame": 250,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#QP0PPC0QU",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4975,
+      "periodPoints": 5425,
       "clanScore": 2175
     },
     {
@@ -2359,15 +2359,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#202Q0YVP8V",
-          "name": "Wiseman71",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 400,
@@ -2384,6 +2375,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#202Q0YVP8V",
+          "name": "Wiseman71",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#YVQ9LRGP9",
@@ -2413,7 +2413,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2275,
+      "periodPoints": 2675,
       "clanScore": 2163
     }
   ],

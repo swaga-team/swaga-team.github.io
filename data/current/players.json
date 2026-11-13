@@ -365,12 +365,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2951,
-    "losses": 2531,
-    "battleCount": 5482,
+    "losses": 2532,
+    "battleCount": 5483,
     "threeCrownWins": 1114,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15858,
+    "totalDonations": 15878,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -548,9 +548,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2841,
+    "wins": 2842,
     "losses": 1488,
-    "battleCount": 4329,
+    "battleCount": 4330,
     "threeCrownWins": 1024,
     "warDayWins": 13,
     "clanCardsCollected": 23160,
@@ -1377,8 +1377,8 @@
     "trophies": 11523,
     "bestTrophies": 11523,
     "wins": 3642,
-    "losses": 2824,
-    "battleCount": 6466,
+    "losses": 2825,
+    "battleCount": 6467,
     "threeCrownWins": 2722,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
@@ -1459,15 +1459,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12060,
+    "trophies": 12090,
     "bestTrophies": 12270,
-    "wins": 2374,
+    "wins": 2375,
     "losses": 2573,
-    "battleCount": 4947,
+    "battleCount": 4948,
     "threeCrownWins": 1097,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13486,
+    "totalDonations": 13512,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
+      "name": "Electro Wizard",
+      "rarity": "legendary",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#YR2GG8C2": {
@@ -2313,13 +2313,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       },
       {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
-      },
-      {
         "name": "Electro Wizard",
         "rarity": "legendary",
         "elixirCost": 4,
@@ -2643,9 +2636,9 @@
     "expLevel": 32,
     "trophies": 8294,
     "bestTrophies": 8385,
-    "wins": 949,
+    "wins": 950,
     "losses": 709,
-    "battleCount": 1658,
+    "battleCount": 1659,
     "threeCrownWins": 303,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4225,11 +4218,11 @@
   },
   "#QU8082PC2": {
     "expLevel": 1,
-    "trophies": 6773,
+    "trophies": 6745,
     "bestTrophies": 6773,
-    "wins": 450,
-    "losses": 256,
-    "battleCount": 706,
+    "wins": 452,
+    "losses": 259,
+    "battleCount": 711,
     "threeCrownWins": 169,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4688,12 +4681,12 @@
     "trophies": 7220,
     "bestTrophies": 7427,
     "wins": 1029,
-    "losses": 789,
-    "battleCount": 1818,
+    "losses": 790,
+    "battleCount": 1819,
     "threeCrownWins": 320,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2097,
+    "totalDonations": 2125,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4768,11 +4761,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Giant",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Mini P.E.K.K.A",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#90QGJUUG": {
@@ -5384,7 +5377,7 @@
     "threeCrownWins": 53,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 870,
+    "totalDonations": 882,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
