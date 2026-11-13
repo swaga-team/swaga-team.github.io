@@ -8,6 +8,15 @@
     "repairPoints": 0,
     "participants": [
       {
+        "tag": "#2LYU8UQ8G",
+        "name": "Tiomchikk",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#C8YV202C",
         "name": "undertaker",
         "fame": 0,
@@ -127,15 +136,6 @@
       {
         "tag": "#Q8P0QGCGP",
         "name": "sentgva",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#YGQU2GCJR",
-        "name": "Fen1ks",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -449,6 +449,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#YGQU2GCJR",
+        "name": "Fen1ks",
+        "fame": 525,
+        "repairPoints": 0,
+        "boatAttacks": 3,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#U0QJL29PY",
         "name": "egor",
         "fame": 600,
@@ -530,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2850,
+    "periodPoints": 3375,
     "clanScore": 2175
   },
   "clans": [
@@ -715,6 +724,15 @@
       "repairPoints": 0,
       "participants": [
         {
+          "tag": "#2LYU8UQ8G",
+          "name": "Tiomchikk",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#C8YV202C",
           "name": "undertaker",
           "fame": 0,
@@ -834,15 +852,6 @@
         {
           "tag": "#Q8P0QGCGP",
           "name": "sentgva",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#YGQU2GCJR",
-          "name": "Fen1ks",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1156,6 +1165,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YGQU2GCJR",
+          "name": "Fen1ks",
+          "fame": 525,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#U0QJL29PY",
           "name": "egor",
           "fame": 600,
@@ -1237,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2850,
+      "periodPoints": 3375,
       "clanScore": 2175
     },
     {
@@ -2262,6 +2280,15 @@
         {
           "tag": "#20QPJV929Y",
           "name": "RON",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#88LVGQPUU",
+          "name": "Kero",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
