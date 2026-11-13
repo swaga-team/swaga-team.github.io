@@ -186,7 +186,7 @@
     "threeCrownWins": 1073,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35242,
+    "totalDonations": 35286,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1284,13 +1284,13 @@
     "expLevel": 56,
     "trophies": 11759,
     "bestTrophies": 11759,
-    "wins": 1111,
-    "losses": 1041,
-    "battleCount": 2152,
+    "wins": 1113,
+    "losses": 1043,
+    "battleCount": 2156,
     "threeCrownWins": 636,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25426,
+    "totalDonations": 25460,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1365,11 +1365,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Dragons",
-      "rarity": "common",
-      "elixirCost": 4,
+      "name": "Giant",
+      "rarity": "rare",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
     }
   },
   "#29GJQ0G9Q": {
@@ -1737,9 +1737,9 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2565,
-    "losses": 2237,
-    "battleCount": 4802,
+    "wins": 2569,
+    "losses": 2239,
+    "battleCount": 4808,
     "threeCrownWins": 918,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -1818,11 +1818,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
-      "rarity": "rare",
+      "name": "Executioner",
+      "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -4963,10 +4963,10 @@
     "expLevel": 40,
     "trophies": 13187,
     "bestTrophies": 13216,
-    "wins": 3425,
-    "losses": 2840,
-    "battleCount": 6265,
-    "threeCrownWins": 1645,
+    "wins": 3426,
+    "losses": 2845,
+    "battleCount": 6271,
+    "threeCrownWins": 1646,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 35322,
@@ -5044,21 +5044,21 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Giant",
+      "rarity": "rare",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
     }
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2730,
+    "trophies": 2761,
     "bestTrophies": 2822,
-    "wins": 240,
+    "wins": 241,
     "losses": 165,
-    "battleCount": 405,
-    "threeCrownWins": 98,
+    "battleCount": 406,
+    "threeCrownWins": 99,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 112,

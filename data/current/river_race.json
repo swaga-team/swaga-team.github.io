@@ -449,15 +449,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 600,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#2G2VYP9G",
         "name": "THE BOSS G.",
         "fame": 650,
@@ -503,6 +494,15 @@
         "decksUsedToday": 4
       },
       {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 1200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#VJJUCQLVY",
         "name": "Картошка Боб",
         "fame": 1300,
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4275,
+    "periodPoints": 4875,
     "clanScore": 2175
   },
   "clans": [
@@ -1165,15 +1165,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2G2VYP9G",
           "name": "THE BOSS G.",
           "fame": 650,
@@ -1219,6 +1210,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#VJJUCQLVY",
           "name": "Картошка Боб",
           "fame": 1300,
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4275,
+      "periodPoints": 4875,
       "clanScore": 2175
     },
     {
@@ -1916,15 +1916,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GGGYLVJQ",
-          "name": "Горни Дъбник 79",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#LLYQRGQ80",
           "name": "stoqn kolev 69",
           "fame": 0,
@@ -1997,6 +1988,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#GGGYLVJQ",
+          "name": "Горни Дъбник 79",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
           "fame": 400,
@@ -2042,7 +2042,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 600,
+      "periodPoints": 1000,
       "clanScore": 2135
     },
     {
@@ -2386,15 +2386,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V2YYJY890",
-          "name": "Player456",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YVQ9LRGP9",
           "name": "core",
           "fame": 1000,
@@ -2411,9 +2402,18 @@
           "boatAttacks": 3,
           "decksUsed": 8,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V2YYJY890",
+          "name": "Player456",
+          "fame": 1600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1475,
+      "periodPoints": 2275,
       "clanScore": 2163
     }
   ],
