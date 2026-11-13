@@ -170,15 +170,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9JQ8PCJ",
-        "name": "lastiq",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YYV2V82G0",
         "name": "•Harrison Ford•",
         "fame": 0,
@@ -314,15 +305,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQGRL028",
-        "name": "govnoed",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#RYRY0V89G",
         "name": "Клэшер",
         "fame": 0,
@@ -368,15 +350,6 @@
         "decksUsedToday": 1
       },
       {
-        "tag": "#J0VGQP9PY",
-        "name": "алиса спийс❤️",
-        "fame": 150,
-        "repairPoints": 0,
-        "boatAttacks": 2,
-        "decksUsed": 2,
-        "decksUsedToday": 2
-      },
-      {
         "tag": "#29GJQ0G9Q",
         "name": "✨R_U_B_I_N✨",
         "fame": 200,
@@ -420,6 +393,15 @@
         "boatAttacks": 1,
         "decksUsed": 3,
         "decksUsedToday": 3
+      },
+      {
+        "tag": "#J0VGQP9PY",
+        "name": "алиса спийс❤️",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#CJR008LV9",
@@ -494,6 +476,15 @@
         "decksUsedToday": 4
       },
       {
+        "tag": "#PQQGRL028",
+        "name": "govnoed",
+        "fame": 700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
         "fame": 800,
@@ -519,9 +510,18 @@
         "boatAttacks": 0,
         "decksUsed": 4,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#9JQ8PCJ",
+        "name": "lastiq",
+        "fame": 900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 7850,
+    "periodPoints": 9600,
     "clanScore": 2175
   },
   "clans": [
@@ -868,15 +868,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9JQ8PCJ",
-          "name": "lastiq",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YYV2V82G0",
           "name": "•Harrison Ford•",
           "fame": 0,
@@ -1012,15 +1003,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQGRL028",
-          "name": "govnoed",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#RYRY0V89G",
           "name": "Клэшер",
           "fame": 0,
@@ -1066,15 +1048,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#J0VGQP9PY",
-          "name": "алиса спийс❤️",
-          "fame": 150,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#29GJQ0G9Q",
           "name": "✨R_U_B_I_N✨",
           "fame": 200,
@@ -1118,6 +1091,15 @@
           "boatAttacks": 1,
           "decksUsed": 3,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#J0VGQP9PY",
+          "name": "алиса спийс❤️",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#CJR008LV9",
@@ -1192,6 +1174,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#PQQGRL028",
+          "name": "govnoed",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#LV0GVYYL8",
           "name": "kkyo",
           "fame": 800,
@@ -1217,9 +1208,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#9JQ8PCJ",
+          "name": "lastiq",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 7850,
+      "periodPoints": 9600,
       "clanScore": 2175
     },
     {
