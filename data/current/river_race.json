@@ -224,15 +224,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#J0VGQP9PY",
-        "name": "алиса спийс❤️",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#8P8JU9LLJ",
         "name": "Bussystar",
         "fame": 0,
@@ -253,15 +244,6 @@
       {
         "tag": "#20Y8QQ9GY8",
         "name": "自由牢湿",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#U0QJL29PY",
-        "name": "egor",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -395,6 +377,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#J0VGQP9PY",
+        "name": "алиса спийс❤️",
+        "fame": 150,
+        "repairPoints": 0,
+        "boatAttacks": 2,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#29GJQ0G9Q",
         "name": "✨R_U_B_I_N✨",
         "fame": 200,
@@ -476,6 +467,15 @@
         "decksUsedToday": 4
       },
       {
+        "tag": "#U0QJL29PY",
+        "name": "egor",
+        "fame": 600,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 600,
@@ -521,7 +521,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6825,
+    "periodPoints": 7575,
     "clanScore": 2175
   },
   "clans": [
@@ -922,15 +922,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#J0VGQP9PY",
-          "name": "алиса спийс❤️",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8P8JU9LLJ",
           "name": "Bussystar",
           "fame": 0,
@@ -951,15 +942,6 @@
         {
           "tag": "#20Y8QQ9GY8",
           "name": "自由牢湿",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#U0QJL29PY",
-          "name": "egor",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1093,6 +1075,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#J0VGQP9PY",
+          "name": "алиса спийс❤️",
+          "fame": 150,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#29GJQ0G9Q",
           "name": "✨R_U_B_I_N✨",
           "fame": 200,
@@ -1174,6 +1165,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#U0QJL29PY",
+          "name": "egor",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 600,
@@ -1219,7 +1219,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6825,
+      "periodPoints": 7575,
       "clanScore": 2175
     },
     {
@@ -1581,20 +1581,20 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#CQVCRUC89",
-          "name": "Dek jie",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 500,
           "repairPoints": 0,
           "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#CQVCRUC89",
+          "name": "Dek jie",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 4
         },
@@ -1608,7 +1608,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1550,
+      "periodPoints": 1850,
       "clanScore": 2120
     },
     {
