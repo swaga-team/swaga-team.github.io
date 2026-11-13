@@ -1410,15 +1410,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CQVCRUC89",
-          "name": "Dek jie",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9R0V89LLR",
           "name": "Ig : frhn.",
           "fame": 0,
@@ -1590,6 +1581,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#CQVCRUC89",
+          "name": "Dek jie",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 500,
@@ -1608,7 +1608,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1250,
+      "periodPoints": 1550,
       "clanScore": 2120
     },
     {
