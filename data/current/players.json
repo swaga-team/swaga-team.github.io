@@ -95,10 +95,10 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3742,
-    "losses": 2099,
-    "battleCount": 5841,
-    "threeCrownWins": 1079,
+    "wins": 3743,
+    "losses": 2100,
+    "battleCount": 5843,
+    "threeCrownWins": 1080,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
     "totalDonations": 41674,
@@ -278,7 +278,7 @@
     "threeCrownWins": 5612,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138739,
+    "totalDonations": 138747,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -456,13 +456,13 @@
     "expLevel": 67,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3959,
-    "losses": 3022,
-    "battleCount": 6981,
-    "threeCrownWins": 1192,
+    "wins": 3960,
+    "losses": 3023,
+    "battleCount": 6983,
+    "threeCrownWins": 1193,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29365,
+    "totalDonations": 29373,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -1382,7 +1382,7 @@
     "threeCrownWins": 2722,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72933,
+    "totalDonations": 72941,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2111,7 +2111,7 @@
     "threeCrownWins": 509,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3194,
+    "totalDonations": 3202,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2926,10 +2926,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2619,
-    "losses": 2730,
-    "battleCount": 5349,
-    "threeCrownWins": 1880,
+    "wins": 2620,
+    "losses": 2731,
+    "battleCount": 5351,
+    "threeCrownWins": 1881,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37505,
@@ -3626,10 +3626,10 @@
     "expLevel": 1,
     "trophies": 2879,
     "bestTrophies": 2879,
-    "wins": 119,
-    "losses": 29,
-    "battleCount": 148,
-    "threeCrownWins": 69,
+    "wins": 121,
+    "losses": 31,
+    "battleCount": 152,
+    "threeCrownWins": 70,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 182,
@@ -3695,11 +3695,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Lightning",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
     }
   },
   "#PLUQRR22G": {
@@ -4326,13 +4326,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1853,
-    "losses": 1194,
-    "battleCount": 3047,
+    "wins": 1854,
+    "losses": 1195,
+    "battleCount": 3049,
     "threeCrownWins": 823,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28257,
+    "totalDonations": 28283,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4407,11 +4407,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Tesla",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#8RYCGVUV0": {
@@ -4600,11 +4600,11 @@
   },
   "#U00CVC89C": {
     "expLevel": 25,
-    "trophies": 6024,
-    "bestTrophies": 6054,
-    "wins": 518,
-    "losses": 171,
-    "battleCount": 689,
+    "trophies": 6060,
+    "bestTrophies": 6060,
+    "wins": 520,
+    "losses": 172,
+    "battleCount": 692,
     "threeCrownWins": 358,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4683,11 +4683,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#VJJUCQLVY": {
@@ -4968,15 +4968,15 @@
   },
   "#2G2VYP9G": {
     "expLevel": 40,
-    "trophies": 13187,
-    "bestTrophies": 13216,
-    "wins": 3426,
-    "losses": 2845,
-    "battleCount": 6271,
+    "trophies": 13218,
+    "bestTrophies": 13218,
+    "wins": 3427,
+    "losses": 2846,
+    "battleCount": 6273,
     "threeCrownWins": 1646,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35322,
+    "totalDonations": 35330,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5051,11 +5051,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant",
+      "name": "Hog Rider",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#VC298L8UV": {
@@ -5233,7 +5233,7 @@
     "threeCrownWins": 135,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1306,
+    "totalDonations": 1320,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

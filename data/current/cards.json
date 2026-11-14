@@ -18799,7 +18799,7 @@
       0
     ],
     "Barbarian Hut": [
-      6,
+      7,
       0
     ],
     "Poison": [
@@ -18811,7 +18811,7 @@
       0
     ],
     "Battle Healer": [
-      8,
+      9,
       0
     ],
     "Dart Goblin": [
@@ -18835,6 +18835,10 @@
       0
     ],
     "Prince": [
+      7,
+      0
+    ],
+    "Barbarian Barrel": [
       7,
       0
     ]
@@ -23621,6 +23625,10 @@
       0
     ],
     "Goblin Machine": [
+      9,
+      0
+    ],
+    "Graveyard": [
       9,
       0
     ]

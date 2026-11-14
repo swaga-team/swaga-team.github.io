@@ -6084,5 +6084,21 @@
     "arena": "Royal Crypt",
     "raw": "Arena_L3",
     "at": "2026-11-14T10:48:48+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Battle Healer",
+        "level": 9
+      },
+      {
+        "name": "Barbarian Hut",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-14T11:46:00+00:00"
   }
 ]
