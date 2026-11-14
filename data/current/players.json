@@ -272,13 +272,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11087,
+    "wins": 11089,
     "losses": 10730,
-    "battleCount": 21817,
-    "threeCrownWins": 5611,
+    "battleCount": 21819,
+    "threeCrownWins": 5612,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138695,
+    "totalDonations": 138711,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1738,8 +1738,8 @@
     "trophies": 10126,
     "bestTrophies": 10219,
     "wins": 2570,
-    "losses": 2240,
-    "battleCount": 4810,
+    "losses": 2243,
+    "battleCount": 4813,
     "threeCrownWins": 918,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -2282,13 +2282,13 @@
     "expLevel": 39,
     "trophies": 9710,
     "bestTrophies": 9739,
-    "wins": 1234,
+    "wins": 1237,
     "losses": 1090,
-    "battleCount": 2324,
-    "threeCrownWins": 690,
+    "battleCount": 2327,
+    "threeCrownWins": 691,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4654,
+    "totalDonations": 4688,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2549,11 +2549,11 @@
   },
   "#UY2UPL2GV": {
     "expLevel": 32,
-    "trophies": 8309,
+    "trophies": 8340,
     "bestTrophies": 8372,
-    "wins": 920,
-    "losses": 640,
-    "battleCount": 1560,
+    "wins": 922,
+    "losses": 641,
+    "battleCount": 1563,
     "threeCrownWins": 412,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2580,6 +2580,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      },
+      {
+        "name": "Little Prince",
+        "rarity": "champion",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
       },
       {
         "name": "Mega Knight",
@@ -4864,13 +4871,13 @@
     "expLevel": 1,
     "trophies": 5030,
     "bestTrophies": 5030,
-    "wins": 682,
-    "losses": 373,
-    "battleCount": 1055,
+    "wins": 686,
+    "losses": 375,
+    "battleCount": 1061,
     "threeCrownWins": 174,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 151,
+    "totalDonations": 153,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4923,18 +4930,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
       },
       {
-        "name": "Goblin Hut",
-        "rarity": "rare",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
-      },
-      {
         "name": "Berserker",
         "rarity": "common",
         "elixirCost": 2,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png"
+      },
+      {
+        "name": "Goblin Hut",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
       },
       {
         "name": "Electro Spirit",
@@ -4945,11 +4952,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lightning",
+      "name": "Tornado",
       "rarity": "epic",
-      "elixirCost": 6,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
     }
   },
   "#2G2VYP9G": {

@@ -5875,5 +5875,29 @@
       "Royal Recruits"
     ],
     "at": "2026-11-14T02:08:43+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "cards": [
+      {
+        "name": "Elite Barbarians",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-14T04:57:58+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Berserker",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-14T04:57:58+00:00"
   }
 ]

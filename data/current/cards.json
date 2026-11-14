@@ -1539,7 +1539,7 @@
       0
     ],
     "Elite Barbarians": [
-      15,
+      16,
       1
     ],
     "Cannon": [
@@ -24835,7 +24835,7 @@
       0
     ],
     "Berserker": [
-      9,
+      10,
       0
     ],
     "Balloon": [
@@ -24984,6 +24984,10 @@
     ],
     "Elixir Collector": [
       7,
+      0
+    ],
+    "Tornado": [
+      8,
       0
     ]
   },

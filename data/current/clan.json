@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117381,
+  "clanScore": 117384,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6536,
+  "donationsPerWeek": 6588,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261114T044700.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 2,
+      "donations": 114,
+      "donationsReceived": 360,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 332,
-      "donationsReceived": 380,
+      "donationsReceived": 390,
       "clanChestPoints": 0
     },
     {
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 8,
       "donations": 0,
       "donationsReceived": 0,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 317,
       "donationsReceived": 40,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 5,
       "donations": 382,
       "donationsReceived": 280,
@@ -103,27 +121,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 1,
       "donations": 379,
-      "donationsReceived": 360,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261113T134434.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 2,
-      "donations": 98,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261113T181905.000Z",
+      "lastSeen": "20261114T045518.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 280,
+      "donationsReceived": 288,
       "clanChestPoints": 0
     },
     {
@@ -473,7 +473,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261114T035447.000Z",
+      "lastSeen": "20261114T045425.000Z",
       "expLevel": 0,
       "trophies": 9710,
       "arena": {
@@ -483,8 +483,8 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 194,
-      "donationsReceived": 280,
+      "donations": 228,
+      "donationsReceived": 282,
       "clanChestPoints": 0
     },
     {
@@ -538,16 +538,16 @@
       "clanRank": 29,
       "previousClanRank": 28,
       "donations": 22,
-      "donationsReceived": 248,
+      "donationsReceived": 256,
       "clanChestPoints": 0
     },
     {
       "tag": "#UY2UPL2GV",
       "name": "\"Erick\"",
       "role": "member",
-      "lastSeen": "20261109T044403.000Z",
+      "lastSeen": "20261114T044433.000Z",
       "expLevel": 0,
-      "trophies": 8309,
+      "trophies": 8340,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261114T035019.000Z",
+      "lastSeen": "20261114T042803.000Z",
       "expLevel": 0,
       "trophies": 5030,
       "arena": {
@@ -699,8 +699,8 @@
       },
       "clanRank": 38,
       "previousClanRank": 37,
-      "donations": 22,
-      "donationsReceived": 368,
+      "donations": 24,
+      "donationsReceived": 384,
       "clanChestPoints": 0
     },
     {
@@ -718,7 +718,7 @@
       "clanRank": 39,
       "previousClanRank": 38,
       "donations": 414,
-      "donationsReceived": 360,
+      "donationsReceived": 368,
       "clanChestPoints": 0
     },
     {
@@ -743,7 +743,7 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261113T170330.000Z",
+      "lastSeen": "20261114T042233.000Z",
       "expLevel": 0,
       "trophies": 2879,
       "arena": {
