@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117411,
+  "clanScore": 117431,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7944,
+  "donationsPerWeek": 8066,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -196,7 +196,7 @@
       "clanRank": 10,
       "previousClanRank": 10,
       "donations": 166,
-      "donationsReceived": 230,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -257,9 +257,9 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261114T184248.000Z",
+      "lastSeen": "20261114T210517.000Z",
       "expLevel": 0,
-      "trophies": 12175,
+      "trophies": 12267,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -267,8 +267,8 @@
       },
       "clanRank": 14,
       "previousClanRank": 14,
-      "donations": 64,
-      "donationsReceived": 110,
+      "donations": 92,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -329,7 +329,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261114T110406.000Z",
+      "lastSeen": "20261114T211006.000Z",
       "expLevel": 0,
       "trophies": 11523,
       "arena": {
@@ -339,8 +339,8 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 82,
-      "donationsReceived": 200,
+      "donations": 120,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261114T204325.000Z",
+      "lastSeen": "20261114T210644.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -484,14 +484,14 @@
       "clanRank": 26,
       "previousClanRank": 25,
       "donations": 328,
-      "donationsReceived": 204,
+      "donationsReceived": 236,
       "clanChestPoints": 0
     },
     {
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261114T120928.000Z",
+      "lastSeen": "20261114T213422.000Z",
       "expLevel": 0,
       "trophies": 9697,
       "arena": {
@@ -501,7 +501,7 @@
       },
       "clanRank": 27,
       "previousClanRank": 26,
-      "donations": 231,
+      "donations": 259,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -599,7 +599,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261114T170006.000Z",
+      "lastSeen": "20261114T213341.000Z",
       "expLevel": 0,
       "trophies": 7221,
       "arena": {
@@ -609,33 +609,15 @@
       },
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 686,
+      "donations": 714,
       "donationsReceived": 440,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#QU8082PC2",
-      "name": "yrikkiller",
-      "role": "member",
-      "lastSeen": "20261114T200938.000Z",
-      "expLevel": 0,
-      "trophies": 6875,
-      "arena": {
-        "id": 54000015,
-        "name": "Silent Sanctuary",
-        "rawName": "Arena_L4"
-      },
-      "clanRank": 34,
-      "previousClanRank": 34,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261114T184229.000Z",
+      "lastSeen": "20261114T213240.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -643,10 +625,28 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 35,
+      "clanRank": 34,
       "previousClanRank": 35,
       "donations": 142,
-      "donationsReceived": 240,
+      "donationsReceived": 260,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#QU8082PC2",
+      "name": "yrikkiller",
+      "role": "member",
+      "lastSeen": "20261114T210308.000Z",
+      "expLevel": 0,
+      "trophies": 6844,
+      "arena": {
+        "id": 54000015,
+        "name": "Silent Sanctuary",
+        "rawName": "Arena_L4"
+      },
+      "clanRank": 35,
+      "previousClanRank": 34,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -808,7 +808,7 @@
       "clanRank": 44,
       "previousClanRank": 44,
       "donations": 118,
-      "donationsReceived": 80,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     }
   ]

@@ -2377,15 +2377,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VLJ9YJ0JR",
-          "name": "Dany",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#28PQPC0VL",
           "name": "coxy",
           "fame": 400,
@@ -2393,6 +2384,15 @@
           "boatAttacks": 0,
           "decksUsed": 3,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#VLJ9YJ0JR",
+          "name": "Dany",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2VLGJUPP",
@@ -2458,7 +2458,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3600,
+      "periodPoints": 4000,
       "clanScore": 2163
     }
   ],
