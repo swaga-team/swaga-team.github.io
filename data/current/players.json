@@ -181,8 +181,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2218,
-    "losses": 1489,
-    "battleCount": 3707,
+    "losses": 1490,
+    "battleCount": 3708,
     "threeCrownWins": 1073,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -914,15 +914,15 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13145,
+    "trophies": 13118,
     "bestTrophies": 13289,
     "wins": 2400,
-    "losses": 2096,
-    "battleCount": 4496,
+    "losses": 2097,
+    "battleCount": 4497,
     "threeCrownWins": 1194,
     "warDayWins": 0,
     "clanCardsCollected": 460,
-    "totalDonations": 15607,
+    "totalDonations": 15617,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -997,11 +997,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Drill",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#P08LLGYLQ": {
@@ -3286,7 +3286,7 @@
     "threeCrownWins": 2607,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21038,
+    "totalDonations": 21048,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,

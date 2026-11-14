@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117372,
+  "clanScore": 117365,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6500,
+  "donationsPerWeek": 6520,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261114T012437.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 332,
+      "donationsReceived": 380,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#28G90Y9JL",
       "name": "GamerPro",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 8,
       "donations": 0,
       "donationsReceived": 0,
@@ -49,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 4,
       "donations": 317,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261113T183625.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 6,
-      "donations": 332,
-      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -221,9 +221,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261113T235740.000Z",
+      "lastSeen": "20261114T020337.000Z",
       "expLevel": 0,
-      "trophies": 13145,
+      "trophies": 13118,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -231,7 +231,7 @@
       },
       "clanRank": 12,
       "previousClanRank": 12,
-      "donations": 228,
+      "donations": 238,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -707,7 +707,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261113T155256.000Z",
+      "lastSeen": "20261114T015059.000Z",
       "expLevel": 0,
       "trophies": 3231,
       "arena": {
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 38,
-      "donations": 388,
+      "donations": 398,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
