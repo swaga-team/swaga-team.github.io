@@ -512,18 +512,18 @@
         "decksUsedToday": 3
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 1400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 3
-      },
-      {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
         "fame": 1450,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 1500,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 7200,
+    "periodPoints": 7300,
     "clanScore": 2175
   },
   "clans": [
@@ -1228,18 +1228,18 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 1400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
           "fame": 1450,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 1500,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 7200,
+      "periodPoints": 7300,
       "clanScore": 2175
     },
     {
@@ -2006,15 +2006,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 600,
@@ -2042,6 +2033,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 1200,
@@ -2051,7 +2051,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1100,
+      "periodPoints": 1500,
       "clanScore": 2135
     },
     {
