@@ -1368,7 +1368,7 @@
     "threeCrownWins": 2722,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72979,
+    "totalDonations": 72999,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2549,15 +2549,15 @@
   },
   "#UY2UPL2GV": {
     "expLevel": 32,
-    "trophies": 8245,
+    "trophies": 8299,
     "bestTrophies": 8372,
-    "wins": 922,
-    "losses": 644,
-    "battleCount": 1566,
-    "threeCrownWins": 412,
+    "wins": 926,
+    "losses": 646,
+    "battleCount": 1572,
+    "threeCrownWins": 413,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 596,
+    "totalDonations": 616,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2580,6 +2580,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      },
+      {
+        "name": "Little Prince",
+        "rarity": "champion",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
       },
       {
         "name": "Mega Knight",
@@ -2913,8 +2920,8 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2633,
-    "losses": 2741,
-    "battleCount": 5374,
+    "losses": 2742,
+    "battleCount": 5375,
     "threeCrownWins": 1888,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -2993,11 +3000,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Rascals",
+      "rarity": "common",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
     }
   },
   "#GQP92GLC8": {
@@ -5046,12 +5053,12 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2822,
-    "bestTrophies": 2852,
-    "wins": 245,
-    "losses": 167,
-    "battleCount": 412,
-    "threeCrownWins": 100,
+    "trophies": 2856,
+    "bestTrophies": 2885,
+    "wins": 249,
+    "losses": 170,
+    "battleCount": 419,
+    "threeCrownWins": 101,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 134,
@@ -5117,11 +5124,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5157,13 +5164,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",

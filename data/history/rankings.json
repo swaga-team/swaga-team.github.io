@@ -484,7 +484,7 @@
   {
     "date": "2026-11-14",
     "score": {
-      "trophies": 117431,
+      "trophies": 117437,
       "war": 2175
     },
     "global": {
@@ -498,13 +498,9 @@
       }
     },
     "local": {
-      "trophies": {
-        "rank": null,
-        "cutoff": 133624
-      },
       "war": {
         "rank": null,
-        "cutoff": 2661
+        "cutoff": 2662
       }
     }
   }

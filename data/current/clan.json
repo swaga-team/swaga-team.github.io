@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117431,
+  "clanScore": 117437,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8066,
+  "donationsPerWeek": 8106,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -329,7 +329,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261114T211006.000Z",
+      "lastSeen": "20261114T220058.000Z",
       "expLevel": 0,
       "trophies": 11523,
       "arena": {
@@ -339,7 +339,7 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 120,
+      "donations": 140,
       "donationsReceived": 230,
       "clanChestPoints": 0
     },
@@ -502,7 +502,7 @@
       "clanRank": 27,
       "previousClanRank": 26,
       "donations": 259,
-      "donationsReceived": 320,
+      "donationsReceived": 340,
       "clanChestPoints": 0
     },
     {
@@ -542,6 +542,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#UY2UPL2GV",
+      "name": "\"Erick\"",
+      "role": "member",
+      "lastSeen": "20261114T224008.000Z",
+      "expLevel": 0,
+      "trophies": 8299,
+      "arena": {
+        "id": 54000018,
+        "name": "Clash Fest",
+        "rawName": "Arena_L7"
+      },
+      "clanRank": 30,
+      "previousClanRank": 31,
+      "donations": 36,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
@@ -553,28 +571,10 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 30,
       "donations": 82,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#UY2UPL2GV",
-      "name": "\"Erick\"",
-      "role": "member",
-      "lastSeen": "20261114T044433.000Z",
-      "expLevel": 0,
-      "trophies": 8245,
-      "arena": {
-        "id": 54000018,
-        "name": "Clash Fest",
-        "rawName": "Arena_L7"
-      },
-      "clanRank": 31,
-      "previousClanRank": 31,
-      "donations": 16,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -617,7 +617,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261114T213240.000Z",
+      "lastSeen": "20261114T224306.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -628,7 +628,7 @@
       "clanRank": 34,
       "previousClanRank": 35,
       "donations": 142,
-      "donationsReceived": 260,
+      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -761,9 +761,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261114T103441.000Z",
+      "lastSeen": "20261114T222343.000Z",
       "expLevel": 0,
-      "trophies": 2822,
+      "trophies": 2856,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
