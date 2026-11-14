@@ -6235,5 +6235,38 @@
       "Electro Wizard"
     ],
     "at": "2026-11-14T18:49:28+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Firecracker",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-14T20:44:56+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      "Royal Recruits"
+    ],
+    "at": "2026-11-14T20:44:56+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J0VGQP9PY",
+    "name": "алиса спийс❤️",
+    "cards": [
+      {
+        "name": "Baby Dragon",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-14T20:44:56+00:00"
   }
 ]
