@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117378,
+  "clanScore": 117381,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6520,
+  "donationsPerWeek": 6536,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -473,7 +473,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261113T102946.000Z",
+      "lastSeen": "20261114T035447.000Z",
       "expLevel": 0,
       "trophies": 9710,
       "arena": {
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 28,
       "donations": 22,
-      "donationsReceived": 240,
+      "donationsReceived": 248,
       "clanChestPoints": 0
     },
     {
@@ -581,7 +581,7 @@
       "tag": "#VU2P0VJYC",
       "name": "BigHandsomeMan",
       "role": "member",
-      "lastSeen": "20261113T172840.000Z",
+      "lastSeen": "20261114T032212.000Z",
       "expLevel": 0,
       "trophies": 7683,
       "arena": {
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261114T025558.000Z",
+      "lastSeen": "20261114T035019.000Z",
       "expLevel": 0,
       "trophies": 5030,
       "arena": {
@@ -700,14 +700,14 @@
       "clanRank": 38,
       "previousClanRank": 37,
       "donations": 22,
-      "donationsReceived": 360,
+      "donationsReceived": 368,
       "clanChestPoints": 0
     },
     {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261114T021251.000Z",
+      "lastSeen": "20261114T033221.000Z",
       "expLevel": 0,
       "trophies": 3321,
       "arena": {
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 38,
-      "donations": 398,
+      "donations": 414,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
@@ -725,13 +725,13 @@
       "tag": "#YYV2V82G0",
       "name": "•Harrison Ford•",
       "role": "member",
-      "lastSeen": "20261113T201712.000Z",
+      "lastSeen": "20261114T031245.000Z",
       "expLevel": 0,
-      "trophies": 2978,
+      "trophies": 3009,
       "arena": {
-        "id": 54000010,
-        "name": "Jungle Arena",
-        "rawName": "Arena9"
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
       },
       "clanRank": 40,
       "previousClanRank": 39,

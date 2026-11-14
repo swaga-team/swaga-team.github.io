@@ -422,15 +422,6 @@
         "decksUsedToday": 3
       },
       {
-        "tag": "#228RGGVQV2",
-        "name": "Infamous",
-        "fame": 400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YGQU2GCJR",
         "name": "Fen1ks",
         "fame": 525,
@@ -474,6 +465,15 @@
         "boatAttacks": 0,
         "decksUsed": 6,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#228RGGVQV2",
+        "name": "Infamous",
+        "fame": 900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
       },
       {
         "tag": "#VJQQLCJP8",
@@ -532,14 +532,14 @@
       {
         "tag": "#V0RCP20LR",
         "name": "подписични черв",
-        "fame": 1500,
+        "fame": 1600,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 3
+        "decksUsed": 8,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6225,
+    "periodPoints": 6825,
     "clanScore": 2175
   },
   "clans": [
@@ -1138,15 +1138,6 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#228RGGVQV2",
-          "name": "Infamous",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YGQU2GCJR",
           "name": "Fen1ks",
           "fame": 525,
@@ -1190,6 +1181,15 @@
           "boatAttacks": 0,
           "decksUsed": 6,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#228RGGVQV2",
+          "name": "Infamous",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJQQLCJP8",
@@ -1248,14 +1248,14 @@
         {
           "tag": "#V0RCP20LR",
           "name": "подписични черв",
-          "fame": 1500,
+          "fame": 1600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6225,
+      "periodPoints": 6825,
       "clanScore": 2175
     },
     {
@@ -1491,15 +1491,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GLYG982R",
-          "name": "Angga",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#209Y0PJY8J",
           "name": "chiisa~",
           "fame": 0,
@@ -1599,6 +1590,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#GLYG982R",
+          "name": "Angga",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#20UU009LQQ",
           "name": "zammmmmm",
           "fame": 475,
@@ -1653,7 +1653,7 @@
           "decksUsedToday": 3
         }
       ],
-      "periodPoints": 2725,
+      "periodPoints": 2925,
       "clanScore": 2120
     },
     {
