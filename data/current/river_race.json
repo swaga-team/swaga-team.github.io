@@ -2006,15 +2006,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJGYGPPL9",
-          "name": "pacs",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
           "fame": 600,
@@ -2033,6 +2024,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#VJGYGPPL9",
+          "name": "pacs",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 1200,
@@ -2042,7 +2042,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1000,
+      "periodPoints": 1100,
       "clanScore": 2135
     },
     {
@@ -2215,15 +2215,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2VLGJUPP",
-          "name": "Hub",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#80QG20JCU",
           "name": "Santian 20",
           "fame": 0,
@@ -2368,6 +2359,15 @@
           "decksUsedToday": 2
         },
         {
+          "tag": "#2VLGJUPP",
+          "name": "Hub",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 400,
@@ -2422,7 +2422,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3400,
+      "periodPoints": 3800,
       "clanScore": 2163
     }
   ],
