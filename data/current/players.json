@@ -456,13 +456,13 @@
     "expLevel": 67,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3961,
-    "losses": 3023,
-    "battleCount": 6984,
-    "threeCrownWins": 1194,
+    "wins": 3962,
+    "losses": 3025,
+    "battleCount": 6987,
+    "threeCrownWins": 1195,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29383,
+    "totalDonations": 29405,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 2,
       "trophies": 0,
@@ -537,11 +537,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Night Witch",
+      "name": "Spirit Empress",
       "rarity": "legendary",
-      "elixirCost": 4,
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/MWWBZqiQeRBXSqEITVMj46nO_uCIUsqBidvUw9K2twY.png"
     }
   },
   "#28G90Y9JL": {
@@ -4333,13 +4333,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1854,
+    "wins": 1855,
     "losses": 1198,
-    "battleCount": 3052,
+    "battleCount": 3053,
     "threeCrownWins": 823,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28283,
+    "totalDonations": 28309,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4607,12 +4607,12 @@
   },
   "#U00CVC89C": {
     "expLevel": 25,
-    "trophies": 6060,
-    "bestTrophies": 6060,
-    "wins": 520,
-    "losses": 172,
-    "battleCount": 692,
-    "threeCrownWins": 358,
+    "trophies": 6177,
+    "bestTrophies": 6177,
+    "wins": 526,
+    "losses": 174,
+    "battleCount": 700,
+    "threeCrownWins": 362,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 861,
@@ -4647,13 +4647,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
       },
       {
-        "name": "Mega Knight",
-        "rarity": "legendary",
-        "elixirCost": 7,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
         "name": "Arrows",
         "rarity": "common",
         "elixirCost": 3,
@@ -4661,18 +4654,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
       },
       {
-        "name": "Sparky",
-        "rarity": "legendary",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
-      },
-      {
         "name": "Skeleton Army",
         "rarity": "epic",
         "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+      },
+      {
+        "name": "Mega Knight",
+        "rarity": "legendary",
+        "elixirCost": 7,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       },
       {
         "name": "Witch",
@@ -4690,11 +4683,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Boss Bandit",
+      "rarity": "champion",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
     }
   },
   "#VJJUCQLVY": {
