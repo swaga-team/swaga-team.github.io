@@ -440,15 +440,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQGRL028",
-        "name": "govnoed",
-        "fame": 700,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
         "fame": 800,
@@ -492,6 +483,15 @@
         "boatAttacks": 0,
         "decksUsed": 8,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#PQQGRL028",
+        "name": "govnoed",
+        "fame": 1200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
+        "decksUsedToday": 4
       },
       {
         "tag": "#VJJUCQLVY",
@@ -539,7 +539,7 @@
         "decksUsedToday": 0
       }
     ],
-    "periodPoints": 600,
+    "periodPoints": 1100,
     "clanScore": 2175
   },
   "clans": [
@@ -1156,15 +1156,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQGRL028",
-          "name": "govnoed",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
           "fame": 800,
@@ -1208,6 +1199,15 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#PQQGRL028",
+          "name": "govnoed",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJJUCQLVY",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 600,
+      "periodPoints": 1100,
       "clanScore": 2175
     },
     {
@@ -1644,15 +1644,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8PVGVG90Q",
-          "name": "FH solow",
-          "fame": 1000,
-          "repairPoints": 0,
-          "boatAttacks": 8,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
           "fame": 1300,
@@ -1660,9 +1651,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#8PVGVG90Q",
+          "name": "FH solow",
+          "fame": 1500,
+          "repairPoints": 0,
+          "boatAttacks": 12,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 500,
       "clanScore": 2120
     },
     {
@@ -2395,15 +2395,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 1075,
-          "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 1200,
@@ -2429,9 +2420,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 1750,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 675,
       "clanScore": 2163
     }
   ],

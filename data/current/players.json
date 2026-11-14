@@ -272,13 +272,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11089,
-    "losses": 10733,
-    "battleCount": 21822,
+    "wins": 11094,
+    "losses": 10738,
+    "battleCount": 21832,
     "threeCrownWins": 5612,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138731,
+    "totalDonations": 138739,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -353,11 +353,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
+      "name": "Baby Dragon",
       "rarity": "epic",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
     }
   },
   "#R98U8U290": {
@@ -1100,10 +1100,10 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3634,
+    "wins": 3638,
     "losses": 3081,
-    "battleCount": 6715,
-    "threeCrownWins": 2429,
+    "battleCount": 6719,
+    "threeCrownWins": 2431,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 22463,
@@ -1181,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Flying Machine",
-      "rarity": "rare",
+      "name": "Hunter",
+      "rarity": "epic",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/hzKNE3QwFcrSrDDRuVW3QY_OnrDPijSiIp-PsWgFevE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -2280,11 +2280,11 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9773,
-    "bestTrophies": 9773,
-    "wins": 1243,
-    "losses": 1094,
-    "battleCount": 2337,
+    "trophies": 9802,
+    "bestTrophies": 9802,
+    "wins": 1245,
+    "losses": 1095,
+    "battleCount": 2340,
     "threeCrownWins": 694,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2363,11 +2363,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#22JLP29RV": {
@@ -4326,13 +4326,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1850,
-    "losses": 1190,
-    "battleCount": 3040,
+    "wins": 1853,
+    "losses": 1194,
+    "battleCount": 3047,
     "threeCrownWins": 823,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28249,
+    "totalDonations": 28257,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4600,12 +4600,12 @@
   },
   "#U00CVC89C": {
     "expLevel": 25,
-    "trophies": 5991,
-    "bestTrophies": 5991,
-    "wins": 516,
-    "losses": 170,
-    "battleCount": 686,
-    "threeCrownWins": 357,
+    "trophies": 6024,
+    "bestTrophies": 6054,
+    "wins": 518,
+    "losses": 171,
+    "battleCount": 689,
+    "threeCrownWins": 358,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 837,
@@ -4683,11 +4683,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hunter",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#VJJUCQLVY": {
@@ -4876,11 +4876,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 5030,
-    "bestTrophies": 5030,
-    "wins": 695,
+    "trophies": 5060,
+    "bestTrophies": 5060,
+    "wins": 696,
     "losses": 377,
-    "battleCount": 1072,
+    "battleCount": 1073,
     "threeCrownWins": 175,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5061,10 +5061,10 @@
   "#VC298L8UV": {
     "expLevel": 1,
     "trophies": 2822,
-    "bestTrophies": 2822,
-    "wins": 244,
-    "losses": 166,
-    "battleCount": 410,
+    "bestTrophies": 2852,
+    "wins": 245,
+    "losses": 167,
+    "battleCount": 412,
     "threeCrownWins": 100,
     "warDayWins": 0,
     "clanCardsCollected": 0,

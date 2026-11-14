@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117387,
+  "clanScore": 117397,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7146,
+  "donationsPerWeek": 7162,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
       "role": "elder",
-      "lastSeen": "20261114T091604.000Z",
+      "lastSeen": "20261114T102811.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 4,
-      "donations": 134,
+      "donations": 142,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -41,7 +41,7 @@
       "tag": "#PQQGRL028",
       "name": "govnoed",
       "role": "member",
-      "lastSeen": "20261114T071930.000Z",
+      "lastSeen": "20261114T101004.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -51,7 +51,7 @@
       },
       "clanRank": 2,
       "previousClanRank": 3,
-      "donations": 446,
+      "donations": 454,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -275,7 +275,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261114T061522.000Z",
+      "lastSeen": "20261114T102523.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -416,6 +416,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CJR008LV9",
+      "name": "cook",
+      "role": "member",
+      "lastSeen": "20261114T095157.000Z",
+      "expLevel": 0,
+      "trophies": 9802,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 23,
+      "previousClanRank": 26,
+      "donations": 318,
+      "donationsReceived": 320,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
@@ -427,7 +445,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 24,
       "previousClanRank": 23,
       "donations": 240,
       "donationsReceived": 0,
@@ -445,28 +463,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 24,
+      "clanRank": 25,
       "previousClanRank": 24,
       "donations": 0,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CJR008LV9",
-      "name": "cook",
-      "role": "member",
-      "lastSeen": "20261114T092228.000Z",
-      "expLevel": 0,
-      "trophies": 9773,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 25,
-      "previousClanRank": 26,
-      "donations": 318,
-      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -671,13 +671,13 @@
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261114T093249.000Z",
+      "lastSeen": "20261114T102943.000Z",
       "expLevel": 0,
-      "trophies": 5991,
+      "trophies": 6024,
       "arena": {
-        "id": 54000013,
-        "name": "Executioner's Kitchen",
-        "rawName": "Arena_L2"
+        "id": 54000014,
+        "name": "Royal Crypt",
+        "rawName": "Arena_L3"
       },
       "clanRank": 37,
       "previousClanRank": 37,
@@ -689,9 +689,9 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261114T054003.000Z",
+      "lastSeen": "20261114T103343.000Z",
       "expLevel": 0,
-      "trophies": 5030,
+      "trophies": 5060,
       "arena": {
         "id": 54000012,
         "name": "Miner's Mine",
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 40,
       "donations": 76,
-      "donationsReceived": 76,
+      "donationsReceived": 92,
       "clanChestPoints": 0
     },
     {
@@ -761,7 +761,7 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261114T055958.000Z",
+      "lastSeen": "20261114T103441.000Z",
       "expLevel": 0,
       "trophies": 2822,
       "arena": {
