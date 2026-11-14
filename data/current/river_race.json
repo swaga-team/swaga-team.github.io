@@ -260,15 +260,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#R98U8U290",
-        "name": "tenkuu.☁️",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#90QGJUUG",
         "name": "Narek",
         "fame": 0,
@@ -368,6 +359,15 @@
         "decksUsedToday": 2
       },
       {
+        "tag": "#R98U8U290",
+        "name": "tenkuu.☁️",
+        "fame": 250,
+        "repairPoints": 0,
+        "boatAttacks": 2,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#QP0PPC0QU",
         "name": "pshkzzz",
         "fame": 275,
@@ -375,15 +375,6 @@
         "boatAttacks": 1,
         "decksUsed": 3,
         "decksUsedToday": 0
-      },
-      {
-        "tag": "#29GJQ0G9Q",
-        "name": "✨R_U_B_I_N✨",
-        "fame": 300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 2,
-        "decksUsedToday": 1
       },
       {
         "tag": "#J0VGQP9PY",
@@ -395,13 +386,13 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CJR008LV9",
-        "name": "cook",
+        "tag": "#29GJQ0G9Q",
+        "name": "✨R_U_B_I_N✨",
         "fame": 400,
         "repairPoints": 0,
-        "boatAttacks": 4,
-        "decksUsed": 4,
-        "decksUsedToday": 0
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 2
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -411,6 +402,15 @@
         "boatAttacks": 0,
         "decksUsed": 3,
         "decksUsedToday": 3
+      },
+      {
+        "tag": "#CJR008LV9",
+        "name": "cook",
+        "fame": 475,
+        "repairPoints": 0,
+        "boatAttacks": 5,
+        "decksUsed": 5,
+        "decksUsedToday": 1
       },
       {
         "tag": "#222YY9YCC",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 7300,
+    "periodPoints": 7725,
     "clanScore": 2175
   },
   "clans": [
@@ -976,15 +976,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R98U8U290",
-          "name": "tenkuu.☁️",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#90QGJUUG",
           "name": "Narek",
           "fame": 0,
@@ -1084,6 +1075,15 @@
           "decksUsedToday": 2
         },
         {
+          "tag": "#R98U8U290",
+          "name": "tenkuu.☁️",
+          "fame": 250,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#QP0PPC0QU",
           "name": "pshkzzz",
           "fame": 275,
@@ -1091,15 +1091,6 @@
           "boatAttacks": 1,
           "decksUsed": 3,
           "decksUsedToday": 0
-        },
-        {
-          "tag": "#29GJQ0G9Q",
-          "name": "✨R_U_B_I_N✨",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 1
         },
         {
           "tag": "#J0VGQP9PY",
@@ -1111,13 +1102,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CJR008LV9",
-          "name": "cook",
+          "tag": "#29GJQ0G9Q",
+          "name": "✨R_U_B_I_N✨",
           "fame": 400,
           "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 2
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -1127,6 +1118,15 @@
           "boatAttacks": 0,
           "decksUsed": 3,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#CJR008LV9",
+          "name": "cook",
+          "fame": 475,
+          "repairPoints": 0,
+          "boatAttacks": 5,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#222YY9YCC",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 7300,
+      "periodPoints": 7725,
       "clanScore": 2175
     },
     {
@@ -1599,15 +1599,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
           "tag": "#20UU009LQQ",
           "name": "zammmmmm",
           "fame": 475,
@@ -1620,6 +1611,15 @@
           "tag": "#9LUL08PLJ",
           "name": "Ghis",
           "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 600,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
@@ -1662,7 +1662,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3525,
+      "periodPoints": 3725,
       "clanScore": 2120
     },
     {

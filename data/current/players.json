@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2951,
-    "losses": 2532,
-    "battleCount": 5483,
-    "threeCrownWins": 1114,
+    "wins": 2954,
+    "losses": 2533,
+    "battleCount": 5487,
+    "threeCrownWins": 1115,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15878,
+    "totalDonations": 15946,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -445,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
+      "name": "Mega Knight",
       "rarity": "legendary",
-      "elixirCost": 6,
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#8UCG80RYR": {
@@ -1377,12 +1377,12 @@
     "trophies": 11523,
     "bestTrophies": 11523,
     "wins": 3642,
-    "losses": 2825,
-    "battleCount": 6467,
+    "losses": 2826,
+    "battleCount": 6468,
     "threeCrownWins": 2722,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 72921,
+    "totalDonations": 72933,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1412,6 +1412,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "The Log",
@@ -2280,11 +2287,11 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9680,
+    "trophies": 9652,
     "bestTrophies": 9740,
     "wins": 1239,
-    "losses": 1093,
-    "battleCount": 2332,
+    "losses": 1094,
+    "battleCount": 2333,
     "threeCrownWins": 691,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4319,13 +4326,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1848,
+    "wins": 1850,
     "losses": 1190,
-    "battleCount": 3038,
-    "threeCrownWins": 822,
+    "battleCount": 3040,
+    "threeCrownWins": 823,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28205,
+    "totalDonations": 28249,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4400,11 +4407,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#8RYCGVUV0": {
@@ -5218,15 +5225,15 @@
   },
   "#VU2P0VJYC": {
     "expLevel": 1,
-    "trophies": 7656,
+    "trophies": 7684,
     "bestTrophies": 7779,
-    "wins": 472,
+    "wins": 473,
     "losses": 164,
-    "battleCount": 636,
+    "battleCount": 637,
     "threeCrownWins": 135,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1278,
+    "totalDonations": 1306,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
