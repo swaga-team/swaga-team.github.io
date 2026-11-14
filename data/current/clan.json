@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117373,
+  "clanScore": 117387,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7100,
+  "donationsPerWeek": 7146,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
       "role": "elder",
-      "lastSeen": "20261114T085218.000Z",
+      "lastSeen": "20261114T091604.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -268,7 +268,7 @@
       "clanRank": 14,
       "previousClanRank": 14,
       "donations": 44,
-      "donationsReceived": 60,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261114T064719.000Z",
+      "lastSeen": "20261114T090424.000Z",
       "expLevel": 0,
-      "trophies": 12064,
+      "trophies": 12094,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 643,
+      "donations": 663,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -452,6 +452,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CJR008LV9",
+      "name": "cook",
+      "role": "member",
+      "lastSeen": "20261114T092228.000Z",
+      "expLevel": 0,
+      "trophies": 9773,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 26,
+      "donations": 318,
+      "donationsReceived": 320,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
@@ -463,28 +481,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 25,
       "donations": 298,
       "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CJR008LV9",
-      "name": "cook",
-      "role": "member",
-      "lastSeen": "20261114T083226.000Z",
-      "expLevel": 0,
-      "trophies": 9712,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 26,
-      "previousClanRank": 26,
-      "donations": 310,
-      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -610,7 +610,7 @@
       "clanRank": 33,
       "previousClanRank": 33,
       "donations": 622,
-      "donationsReceived": 390,
+      "donationsReceived": 400,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261113T221156.000Z",
+      "lastSeen": "20261114T093249.000Z",
       "expLevel": 0,
       "trophies": 5991,
       "arena": {
@@ -681,7 +681,7 @@
       },
       "clanRank": 37,
       "previousClanRank": 37,
-      "donations": 0,
+      "donations": 8,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -725,9 +725,9 @@
       "tag": "#YYV2V82G0",
       "name": "•Harrison Ford•",
       "role": "member",
-      "lastSeen": "20261114T031245.000Z",
+      "lastSeen": "20261114T092950.000Z",
       "expLevel": 0,
-      "trophies": 3009,
+      "trophies": 3000,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 40,
-      "donations": 66,
-      "donationsReceived": 60,
+      "donations": 76,
+      "donationsReceived": 76,
       "clanChestPoints": 0
     },
     {

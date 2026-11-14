@@ -4,7 +4,7 @@
     "tag": "#QVQUPC8Q",
     "name": "Swaga team",
     "badgeId": 16000072,
-    "fame": 3376,
+    "fame": 6471,
     "repairPoints": 0,
     "participants": [
       {
@@ -161,15 +161,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#U00CVC89C",
-        "name": "Zenitsu",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#R992J02JG",
         "name": "arman",
         "fame": 0,
@@ -302,7 +293,7 @@
         "repairPoints": 0,
         "boatAttacks": 1,
         "decksUsed": 1,
-        "decksUsedToday": 1
+        "decksUsedToday": 0
       },
       {
         "tag": "#JU2L2U8LG",
@@ -338,7 +329,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 1,
-        "decksUsedToday": 1
+        "decksUsedToday": 0
       },
       {
         "tag": "#9282CQQ90",
@@ -356,7 +347,7 @@
         "repairPoints": 0,
         "boatAttacks": 2,
         "decksUsed": 2,
-        "decksUsedToday": 2
+        "decksUsedToday": 0
       },
       {
         "tag": "#R98U8U290",
@@ -365,7 +356,7 @@
         "repairPoints": 0,
         "boatAttacks": 2,
         "decksUsed": 2,
-        "decksUsedToday": 2
+        "decksUsedToday": 0
       },
       {
         "tag": "#QP0PPC0QU",
@@ -392,7 +383,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 3,
-        "decksUsedToday": 2
+        "decksUsedToday": 0
       },
       {
         "tag": "#YQ2VLPJ0L",
@@ -401,7 +392,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 3,
-        "decksUsedToday": 3
+        "decksUsedToday": 0
       },
       {
         "tag": "#CJR008LV9",
@@ -410,7 +401,7 @@
         "repairPoints": 0,
         "boatAttacks": 5,
         "decksUsed": 5,
-        "decksUsedToday": 1
+        "decksUsedToday": 0
       },
       {
         "tag": "#222YY9YCC",
@@ -419,7 +410,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 4,
-        "decksUsedToday": 3
+        "decksUsedToday": 0
       },
       {
         "tag": "#YGQU2GCJR",
@@ -428,7 +419,7 @@
         "repairPoints": 0,
         "boatAttacks": 3,
         "decksUsed": 4,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#U0QJL29PY",
@@ -464,7 +455,16 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 6,
-        "decksUsedToday": 2
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#U00CVC89C",
+        "name": "Zenitsu",
+        "fame": 800,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 6,
+        "decksUsedToday": 0
       },
       {
         "tag": "#228RGGVQV2",
@@ -473,7 +473,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#VJQQLCJP8",
@@ -482,7 +482,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#PL82RPJUJ",
@@ -491,7 +491,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#VJJUCQLVY",
@@ -500,7 +500,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#LV0GVYYL8",
@@ -509,7 +509,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 7,
-        "decksUsedToday": 3
+        "decksUsedToday": 0
       },
       {
         "tag": "#9JQ8PCJ",
@@ -518,7 +518,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#CGPUY8P2",
@@ -527,7 +527,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       },
       {
         "tag": "#V0RCP20LR",
@@ -536,10 +536,10 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 4
+        "decksUsedToday": 0
       }
     ],
-    "periodPoints": 7725,
+    "periodPoints": 600,
     "clanScore": 2175
   },
   "clans": [
@@ -547,7 +547,7 @@
       "tag": "#QLQLLP92",
       "name": "RELAX",
       "badgeId": 16000002,
-      "fame": 963,
+      "fame": 1867,
       "repairPoints": 0,
       "participants": [
         {
@@ -638,7 +638,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 1,
-          "decksUsedToday": 1
+          "decksUsedToday": 0
         },
         {
           "tag": "#YP8CUJV2Y",
@@ -665,7 +665,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#R00Q2G2LV",
@@ -683,7 +683,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#PRQC0GRRU",
@@ -692,7 +692,7 @@
           "repairPoints": 0,
           "boatAttacks": 8,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#VCLLGG9QG",
@@ -701,7 +701,7 @@
           "repairPoints": 0,
           "boatAttacks": 7,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#QQYVQG22G",
@@ -710,17 +710,17 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         }
       ],
-      "periodPoints": 2925,
+      "periodPoints": 0,
       "clanScore": 2164
     },
     {
       "tag": "#QVQUPC8Q",
       "name": "Swaga team",
       "badgeId": 16000072,
-      "fame": 3376,
+      "fame": 6471,
       "repairPoints": 0,
       "participants": [
         {
@@ -877,15 +877,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#U00CVC89C",
-          "name": "Zenitsu",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R992J02JG",
           "name": "arman",
           "fame": 0,
@@ -1018,7 +1009,7 @@
           "repairPoints": 0,
           "boatAttacks": 1,
           "decksUsed": 1,
-          "decksUsedToday": 1
+          "decksUsedToday": 0
         },
         {
           "tag": "#JU2L2U8LG",
@@ -1054,7 +1045,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 1,
-          "decksUsedToday": 1
+          "decksUsedToday": 0
         },
         {
           "tag": "#9282CQQ90",
@@ -1072,7 +1063,7 @@
           "repairPoints": 0,
           "boatAttacks": 2,
           "decksUsed": 2,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#R98U8U290",
@@ -1081,7 +1072,7 @@
           "repairPoints": 0,
           "boatAttacks": 2,
           "decksUsed": 2,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#QP0PPC0QU",
@@ -1108,7 +1099,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 3,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#YQ2VLPJ0L",
@@ -1117,7 +1108,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 3,
-          "decksUsedToday": 3
+          "decksUsedToday": 0
         },
         {
           "tag": "#CJR008LV9",
@@ -1126,7 +1117,7 @@
           "repairPoints": 0,
           "boatAttacks": 5,
           "decksUsed": 5,
-          "decksUsedToday": 1
+          "decksUsedToday": 0
         },
         {
           "tag": "#222YY9YCC",
@@ -1135,7 +1126,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
-          "decksUsedToday": 3
+          "decksUsedToday": 0
         },
         {
           "tag": "#YGQU2GCJR",
@@ -1144,7 +1135,7 @@
           "repairPoints": 0,
           "boatAttacks": 3,
           "decksUsed": 4,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#U0QJL29PY",
@@ -1180,7 +1171,16 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 6,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#U00CVC89C",
+          "name": "Zenitsu",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 6,
+          "decksUsedToday": 0
         },
         {
           "tag": "#228RGGVQV2",
@@ -1189,7 +1189,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#VJQQLCJP8",
@@ -1198,7 +1198,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#PL82RPJUJ",
@@ -1207,7 +1207,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#VJJUCQLVY",
@@ -1216,7 +1216,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#LV0GVYYL8",
@@ -1225,7 +1225,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsedToday": 0
         },
         {
           "tag": "#9JQ8PCJ",
@@ -1234,7 +1234,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#CGPUY8P2",
@@ -1243,7 +1243,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#V0RCP20LR",
@@ -1252,17 +1252,17 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         }
       ],
-      "periodPoints": 7725,
+      "periodPoints": 600,
       "clanScore": 2175
     },
     {
       "tag": "#QG00LU2G",
       "name": "Indonesia",
       "badgeId": 16000173,
-      "fame": 675,
+      "fame": 1950,
       "repairPoints": 0,
       "participants": [
         {
@@ -1596,7 +1596,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 2,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#20UU009LQQ",
@@ -1605,7 +1605,7 @@
           "repairPoints": 0,
           "boatAttacks": 1,
           "decksUsed": 4,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#9LUL08PLJ",
@@ -1614,7 +1614,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#V8V0RL2Y9",
@@ -1623,7 +1623,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 4,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#ULCYG0VGV",
@@ -1632,7 +1632,7 @@
           "repairPoints": 0,
           "boatAttacks": 6,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#CQVCRUC89",
@@ -1641,7 +1641,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#8PVGVG90Q",
@@ -1650,7 +1650,7 @@
           "repairPoints": 0,
           "boatAttacks": 8,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#CYYPJQP9R",
@@ -1659,17 +1659,17 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         }
       ],
-      "periodPoints": 3725,
+      "periodPoints": 0,
       "clanScore": 2120
     },
     {
       "tag": "#QURP92JR",
       "name": "BG BG BG BG PRO",
       "badgeId": 16000077,
-      "fame": 1800,
+      "fame": 2200,
       "repairPoints": 0,
       "participants": [
         {
@@ -2003,7 +2003,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 2,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#YCPL99V8Y",
@@ -2030,7 +2030,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 5,
-          "decksUsedToday": 1
+          "decksUsedToday": 0
         },
         {
           "tag": "#CV2U2P9UU",
@@ -2039,7 +2039,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#2LRQVPP0V",
@@ -2048,17 +2048,17 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         }
       ],
-      "periodPoints": 1500,
+      "periodPoints": 0,
       "clanScore": 2135
     },
     {
       "tag": "#Q8PJLPCJ",
       "name": "Clash UK",
       "badgeId": 16000005,
-      "fame": 1271,
+      "fame": 3183,
       "repairPoints": 0,
       "participants": [
         {
@@ -2365,7 +2365,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 3,
-          "decksUsedToday": 2
+          "decksUsedToday": 0
         },
         {
           "tag": "#2VLGJUPP",
@@ -2374,15 +2374,6 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 3,
-          "decksUsedToday": 3
-        },
-        {
-          "tag": "#20CL00UJ",
-          "name": "King Bernie",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
           "decksUsedToday": 0
         },
         {
@@ -2392,7 +2383,7 @@
           "repairPoints": 0,
           "boatAttacks": 8,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#YVQ9LRGP9",
@@ -2401,7 +2392,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#200RRJRLYR",
@@ -2410,7 +2401,16 @@
           "repairPoints": 0,
           "boatAttacks": 3,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#20CL00UJ",
+          "name": "King Bernie",
+          "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 0
         },
         {
           "tag": "#R2P9C29",
@@ -2419,7 +2419,7 @@
           "repairPoints": 0,
           "boatAttacks": 1,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         },
         {
           "tag": "#V2YYJY890",
@@ -2428,15 +2428,15 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 4
+          "decksUsedToday": 0
         }
       ],
-      "periodPoints": 3800,
+      "periodPoints": 0,
       "clanScore": 2163
     }
   ],
   "sectionIndex": 1,
-  "periodIndex": 11,
+  "periodIndex": 12,
   "periodType": "warDay",
   "periodLogs": [
     {
@@ -2761,6 +2761,71 @@
           "progressEarned": 400,
           "numOfDefensesRemaining": 9,
           "progressEarnedFromDefenses": 275
+        }
+      ]
+    },
+    {
+      "periodIndex": 11,
+      "items": [
+        {
+          "clan": {
+            "tag": "#QVQUPC8Q"
+          },
+          "pointsEarned": 7925,
+          "progressStartOfDay": 3376,
+          "progressEndOfDay": 6471,
+          "endOfDayRank": 0,
+          "progressEarned": 3000,
+          "numOfDefensesRemaining": 7,
+          "progressEarnedFromDefenses": 95
+        },
+        {
+          "clan": {
+            "tag": "#Q8PJLPCJ"
+          },
+          "pointsEarned": 4600,
+          "progressStartOfDay": 1271,
+          "progressEndOfDay": 3183,
+          "endOfDayRank": 1,
+          "progressEarned": 1800,
+          "numOfDefensesRemaining": 4,
+          "progressEarnedFromDefenses": 112
+        },
+        {
+          "clan": {
+            "tag": "#QG00LU2G"
+          },
+          "pointsEarned": 3725,
+          "progressStartOfDay": 675,
+          "progressEndOfDay": 1950,
+          "endOfDayRank": 2,
+          "progressEarned": 1000,
+          "numOfDefensesRemaining": 9,
+          "progressEarnedFromDefenses": 275
+        },
+        {
+          "clan": {
+            "tag": "#QLQLLP92"
+          },
+          "pointsEarned": 2925,
+          "progressStartOfDay": 963,
+          "progressEndOfDay": 1867,
+          "endOfDayRank": 3,
+          "progressEarned": 600,
+          "numOfDefensesRemaining": 8,
+          "progressEarnedFromDefenses": 304
+        },
+        {
+          "clan": {
+            "tag": "#QURP92JR"
+          },
+          "pointsEarned": 1500,
+          "progressStartOfDay": 1800,
+          "progressEndOfDay": 2200,
+          "endOfDayRank": 4,
+          "progressEarned": 400,
+          "numOfDefensesRemaining": 0,
+          "progressEarnedFromDefenses": 0
         }
       ]
     }
