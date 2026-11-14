@@ -732,9 +732,9 @@
     "expLevel": 57,
     "trophies": 13463,
     "bestTrophies": 13489,
-    "wins": 3504,
+    "wins": 3505,
     "losses": 3598,
-    "battleCount": 7102,
+    "battleCount": 7103,
     "threeCrownWins": 1466,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -770,6 +770,13 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       },
       {
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
+      },
+      {
         "name": "The Log",
         "rarity": "legendary",
         "elixirCost": 2,
@@ -780,8 +787,8 @@
         "name": "Royal Hogs",
         "rarity": "rare",
         "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
         "name": "Earthquake",
