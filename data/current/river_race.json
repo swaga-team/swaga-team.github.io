@@ -440,15 +440,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQ2JYL2G",
-        "name": "MFbren",
-        "fame": 800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 6,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#U00CVC89C",
         "name": "Zenitsu",
         "fame": 800,
@@ -473,6 +464,15 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#PQQ2JYL2G",
+        "name": "MFbren",
+        "fame": 1300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 10,
         "decksUsedToday": 4
       },
       {
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5325,
+    "periodPoints": 5825,
     "clanScore": 2175
   },
   "clans": [
@@ -679,11 +679,11 @@
         {
           "tag": "#PRQC0GRRU",
           "name": "Brunhgilda",
-          "fame": 850,
+          "fame": 950,
           "repairPoints": 0,
           "boatAttacks": 8,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#2L8LR0QGU",
@@ -713,7 +713,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2225,
+      "periodPoints": 2325,
       "clanScore": 2164
     },
     {
@@ -1156,15 +1156,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQ2JYL2G",
-          "name": "MFbren",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#U00CVC89C",
           "name": "Zenitsu",
           "fame": 800,
@@ -1189,6 +1180,15 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#PQQ2JYL2G",
+          "name": "MFbren",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
           "decksUsedToday": 4
         },
         {
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5325,
+      "periodPoints": 5825,
       "clanScore": 2175
     },
     {
@@ -1313,6 +1313,15 @@
         {
           "tag": "#2CLC2UCYY",
           "name": "ADZKAN",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#8L0PPUCPP",
+          "name": "Nettbettle",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
