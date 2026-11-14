@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117437,
+  "clanScore": 117436,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8106,
+  "donationsPerWeek": 8135,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261114T231212.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 379,
+      "donationsReceived": 440,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 576,
       "donationsReceived": 440,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 3,
       "donations": 494,
       "donationsReceived": 360,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 7,
       "donations": 202,
       "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261114T153511.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 5,
-      "donations": 350,
-      "donationsReceived": 440,
       "clanChestPoints": 0
     },
     {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 140,
-      "donationsReceived": 230,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 25,
       "donations": 328,
-      "donationsReceived": 236,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -502,7 +502,7 @@
       "clanRank": 27,
       "previousClanRank": 26,
       "donations": 259,
-      "donationsReceived": 340,
+      "donationsReceived": 350,
       "clanChestPoints": 0
     },
     {
@@ -545,9 +545,9 @@
       "tag": "#UY2UPL2GV",
       "name": "\"Erick\"",
       "role": "member",
-      "lastSeen": "20261114T224008.000Z",
+      "lastSeen": "20261114T224455.000Z",
       "expLevel": 0,
-      "trophies": 8299,
+      "trophies": 8298,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -556,7 +556,7 @@
       "clanRank": 30,
       "previousClanRank": 31,
       "donations": 36,
-      "donationsReceived": 0,
+      "donationsReceived": 5,
       "clanChestPoints": 0
     },
     {
@@ -763,7 +763,7 @@
       "role": "member",
       "lastSeen": "20261114T222343.000Z",
       "expLevel": 0,
-      "trophies": 2856,
+      "trophies": 2827,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
