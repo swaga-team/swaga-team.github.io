@@ -6213,5 +6213,27 @@
       }
     ],
     "at": "2026-11-14T16:46:52+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#U0QJL29PY",
+    "name": "egor",
+    "cards": [
+      {
+        "name": "Royal Delivery",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-14T18:49:28+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#U0QJL29PY",
+    "name": "egor",
+    "cards": [
+      "Royal Hogs",
+      "Electro Wizard"
+    ],
+    "at": "2026-11-14T18:49:28+00:00"
   }
 ]

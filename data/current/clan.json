@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117418,
+  "clanScore": 117411,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7840,
+  "donationsPerWeek": 7880,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -185,7 +185,7 @@
       "tag": "#U0QJL29PY",
       "name": "egor",
       "role": "elder",
-      "lastSeen": "20261113T044224.000Z",
+      "lastSeen": "20261114T184729.000Z",
       "expLevel": 0,
       "trophies": 13463,
       "arena": {
@@ -195,8 +195,8 @@
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 146,
-      "donationsReceived": 200,
+      "donations": 166,
+      "donationsReceived": 210,
       "clanChestPoints": 0
     },
     {
@@ -239,9 +239,9 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261114T171959.000Z",
+      "lastSeen": "20261114T184633.000Z",
       "expLevel": 0,
-      "trophies": 13029,
+      "trophies": 13000,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -250,14 +250,14 @@
       "clanRank": 13,
       "previousClanRank": 13,
       "donations": 10,
-      "donationsReceived": 0,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261114T085257.000Z",
+      "lastSeen": "20261114T184248.000Z",
       "expLevel": 0,
       "trophies": 12175,
       "arena": {
@@ -267,8 +267,8 @@
       },
       "clanRank": 14,
       "previousClanRank": 14,
-      "donations": 44,
-      "donationsReceived": 80,
+      "donations": 64,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -509,7 +509,7 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261114T120644.000Z",
+      "lastSeen": "20261114T181420.000Z",
       "expLevel": 0,
       "trophies": 9672,
       "arena": {
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261114T172922.000Z",
+      "lastSeen": "20261114T184229.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
