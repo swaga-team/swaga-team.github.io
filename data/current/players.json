@@ -126,13 +126,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
         "name": "Cannon",
         "rarity": "common",
         "elixirCost": 3,
@@ -193,7 +186,7 @@
     "threeCrownWins": 1073,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35286,
+    "totalDonations": 35304,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -831,13 +824,13 @@
     "expLevel": 58,
     "trophies": 13643,
     "bestTrophies": 13675,
-    "wins": 2395,
-    "losses": 1703,
-    "battleCount": 4098,
+    "wins": 2397,
+    "losses": 1705,
+    "battleCount": 4102,
     "threeCrownWins": 610,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30883,
+    "totalDonations": 30927,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -912,11 +905,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Knight",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -2019,7 +2012,7 @@
     "threeCrownWins": 787,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18271,
+    "totalDonations": 18313,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2042,13 +2035,6 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2926,10 +2912,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2626,
+    "wins": 2627,
     "losses": 2736,
-    "battleCount": 5362,
-    "threeCrownWins": 1883,
+    "battleCount": 5363,
+    "threeCrownWins": 1884,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37513,
@@ -3292,12 +3278,12 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3292,
+    "trophies": 3233,
     "bestTrophies": 3397,
-    "wins": 3257,
-    "losses": 2844,
-    "battleCount": 6101,
-    "threeCrownWins": 2611,
+    "wins": 3266,
+    "losses": 2846,
+    "battleCount": 6112,
+    "threeCrownWins": 2612,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 21114,
@@ -4326,13 +4312,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1855,
-    "losses": 1201,
-    "battleCount": 3056,
+    "wins": 1857,
+    "losses": 1202,
+    "battleCount": 3059,
     "threeCrownWins": 823,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28309,
+    "totalDonations": 28359,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4869,11 +4855,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 5060,
-    "bestTrophies": 5060,
-    "wins": 696,
+    "trophies": 5177,
+    "bestTrophies": 5177,
+    "wins": 700,
     "losses": 377,
-    "battleCount": 1073,
+    "battleCount": 1077,
     "threeCrownWins": 175,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4952,11 +4938,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Dark Prince",
+      "rarity": "epic",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#2G2VYP9G": {

@@ -2269,6 +2269,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#C2GYQVYU9",
+          "name": "BOSS",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#GYL9R8RCU",
           "name": "flash",
           "fame": 0,
@@ -2368,15 +2377,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2VLGJUPP",
-          "name": "Hub",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#202Q0YVP8V",
           "name": "Wiseman71",
           "fame": 800,
@@ -2386,6 +2386,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#2VLGJUPP",
+          "name": "Hub",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 1200,
@@ -2393,15 +2402,6 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
-        },
-        {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 10,
-          "decksUsedToday": 2
         },
         {
           "tag": "#R2P9C29",
@@ -2422,6 +2422,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 1600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 1750,
@@ -2431,7 +2440,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1075,
+      "periodPoints": 1875,
       "clanScore": 2163
     }
   ],

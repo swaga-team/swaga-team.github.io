@@ -6181,5 +6181,25 @@
       }
     ],
     "at": "2026-11-14T14:49:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Royal Hogs",
+        "level": 11
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 10
+      },
+      {
+        "name": "Bomber",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-14T15:45:29+00:00"
   }
 ]
