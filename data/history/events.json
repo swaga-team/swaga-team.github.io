@@ -6100,5 +6100,62 @@
       }
     ],
     "at": "2026-11-14T11:46:00+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Knight",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-14T12:55:57+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Valkyrie",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-14T12:55:57+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VU2P0VJYC",
+    "name": "BigHandsomeMan",
+    "cards": [
+      {
+        "name": "Skeletons",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-14T12:55:57+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Minions",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-14T12:55:57+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#U00CVC89C",
+    "name": "Zenitsu",
+    "cards": [
+      "Skeleton Army"
+    ],
+    "at": "2026-11-14T12:55:57+00:00"
   }
 ]
