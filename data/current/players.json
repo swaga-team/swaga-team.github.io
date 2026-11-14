@@ -278,7 +278,7 @@
     "threeCrownWins": 5612,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138711,
+    "totalDonations": 138731,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1414,13 +1414,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "The Log",
         "rarity": "legendary",
         "elixirCost": 2,
@@ -2287,15 +2280,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9652,
+    "trophies": 9712,
     "bestTrophies": 9740,
-    "wins": 1239,
+    "wins": 1241,
     "losses": 1094,
-    "battleCount": 2333,
-    "threeCrownWins": 691,
+    "battleCount": 2335,
+    "threeCrownWins": 692,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4740,
+    "totalDonations": 4770,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2318,6 +2311,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -4692,15 +4692,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 7220,
+    "trophies": 7249,
     "bestTrophies": 7427,
-    "wins": 1029,
-    "losses": 790,
-    "battleCount": 1819,
-    "threeCrownWins": 320,
+    "wins": 1036,
+    "losses": 793,
+    "battleCount": 1829,
+    "threeCrownWins": 322,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2125,
+    "totalDonations": 2165,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4775,11 +4775,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Sparky",
+      "rarity": "legendary",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
     }
   },
   "#90QGJUUG": {
@@ -5551,12 +5551,12 @@
     "trophies": 12175,
     "bestTrophies": 12176,
     "wins": 1206,
-    "losses": 671,
-    "battleCount": 1877,
+    "losses": 672,
+    "battleCount": 1878,
     "threeCrownWins": 429,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 15952,
+    "totalDonations": 15982,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

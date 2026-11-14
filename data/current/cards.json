@@ -23735,7 +23735,7 @@
       0
     ],
     "Witch": [
-      12,
+      13,
       0
     ],
     "Baby Dragon": [
@@ -23815,7 +23815,7 @@
       0
     ],
     "Battle Healer": [
-      7,
+      10,
       0
     ],
     "Barbarian Hut": [
@@ -24087,6 +24087,10 @@
       0
     ],
     "Archer Queen": [
+      11,
+      0
+    ],
+    "Mighty Miner": [
       11,
       0
     ]
