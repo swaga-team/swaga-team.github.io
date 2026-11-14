@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117414,
+  "clanScore": 117418,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7820,
+  "donationsPerWeek": 7840,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 5,
       "donations": 202,
-      "donationsReceived": 100,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -239,7 +239,7 @@
       "tag": "#9GVPRJQLL",
       "name": "NovaZonday",
       "role": "member",
-      "lastSeen": "20261108T173604.000Z",
+      "lastSeen": "20261114T171959.000Z",
       "expLevel": 0,
       "trophies": 13029,
       "arena": {
@@ -249,7 +249,7 @@
       },
       "clanRank": 13,
       "previousClanRank": 13,
-      "donations": 0,
+      "donations": 10,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261114T151620.000Z",
+      "lastSeen": "20261114T170321.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -599,9 +599,9 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261114T155115.000Z",
+      "lastSeen": "20261114T170006.000Z",
       "expLevel": 0,
-      "trophies": 7248,
+      "trophies": 7221,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -609,7 +609,7 @@
       },
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 676,
+      "donations": 686,
       "donationsReceived": 440,
       "clanChestPoints": 0
     },
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261114T154830.000Z",
+      "lastSeen": "20261114T172922.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -671,9 +671,9 @@
       "tag": "#U00CVC89C",
       "name": "Zenitsu",
       "role": "member",
-      "lastSeen": "20261114T154032.000Z",
+      "lastSeen": "20261114T164909.000Z",
       "expLevel": 0,
-      "trophies": 6177,
+      "trophies": 6234,
       "arena": {
         "id": 54000014,
         "name": "Royal Crypt",

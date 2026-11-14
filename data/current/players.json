@@ -2913,8 +2913,8 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2628,
-    "losses": 2737,
-    "battleCount": 5365,
+    "losses": 2739,
+    "battleCount": 5367,
     "threeCrownWins": 1885,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -2993,11 +2993,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Electro Wizard",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#GQP92GLC8": {
@@ -3784,13 +3784,13 @@
     "expLevel": 60,
     "trophies": 13029,
     "bestTrophies": 13061,
-    "wins": 2024,
-    "losses": 1673,
-    "battleCount": 3697,
+    "wins": 2025,
+    "losses": 1674,
+    "battleCount": 3699,
     "threeCrownWins": 648,
     "warDayWins": 2,
     "clanCardsCollected": 10990,
-    "totalDonations": 32788,
+    "totalDonations": 32798,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4586,12 +4586,12 @@
   },
   "#U00CVC89C": {
     "expLevel": 25,
-    "trophies": 6177,
-    "bestTrophies": 6177,
-    "wins": 526,
+    "trophies": 6234,
+    "bestTrophies": 6234,
+    "wins": 528,
     "losses": 174,
-    "battleCount": 700,
-    "threeCrownWins": 362,
+    "battleCount": 702,
+    "threeCrownWins": 364,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 861,
@@ -4624,6 +4624,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Arrows",
@@ -4671,15 +4678,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 7248,
+    "trophies": 7221,
     "bestTrophies": 7427,
-    "wins": 1040,
-    "losses": 801,
-    "battleCount": 1841,
-    "threeCrownWins": 323,
+    "wins": 1042,
+    "losses": 804,
+    "battleCount": 1846,
+    "threeCrownWins": 325,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2219,
+    "totalDonations": 2229,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4754,11 +4761,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
-      "rarity": "legendary",
-      "elixirCost": 6,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#90QGJUUG": {
