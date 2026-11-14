@@ -916,9 +916,9 @@
     "expLevel": 43,
     "trophies": 13118,
     "bestTrophies": 13289,
-    "wins": 2400,
+    "wins": 2401,
     "losses": 2097,
-    "battleCount": 4497,
+    "battleCount": 4498,
     "threeCrownWins": 1194,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -2365,12 +2365,12 @@
   },
   "#22JLP29RV": {
     "expLevel": 42,
-    "trophies": 9228,
-    "bestTrophies": 9228,
-    "wins": 2672,
+    "trophies": 9261,
+    "bestTrophies": 9261,
+    "wins": 2673,
     "losses": 2819,
-    "battleCount": 5491,
-    "threeCrownWins": 1665,
+    "battleCount": 5492,
+    "threeCrownWins": 1666,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
     "totalDonations": 26216,
@@ -2448,11 +2448,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lumberjack",
+      "name": "Mega Knight",
       "rarity": "legendary",
-      "elixirCost": 4,
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#LGQC0JPLU": {
@@ -3278,12 +3278,12 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3231,
+    "trophies": 3321,
     "bestTrophies": 3397,
-    "wins": 3250,
+    "wins": 3255,
     "losses": 2841,
-    "battleCount": 6091,
-    "threeCrownWins": 2607,
+    "battleCount": 6096,
+    "threeCrownWins": 2610,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 21048,

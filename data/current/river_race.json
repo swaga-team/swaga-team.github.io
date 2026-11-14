@@ -476,15 +476,6 @@
         "decksUsedToday": 2
       },
       {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 1000,
@@ -537,9 +528,18 @@
         "boatAttacks": 0,
         "decksUsed": 8,
         "decksUsedToday": 4
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 1500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 7,
+        "decksUsedToday": 3
       }
     ],
-    "periodPoints": 5525,
+    "periodPoints": 6225,
     "clanScore": 2175
   },
   "clans": [
@@ -1192,15 +1192,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 1000,
@@ -1253,9 +1244,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 1500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 3
         }
       ],
-      "periodPoints": 5525,
+      "periodPoints": 6225,
       "clanScore": 2175
     },
     {
