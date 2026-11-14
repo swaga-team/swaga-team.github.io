@@ -1509,8 +1509,8 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
+          "tag": "#VL829CPCJ",
+          "name": "KingKaisan",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1599,6 +1599,15 @@
           "decksUsedToday": 2
         },
         {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#20UU009LQQ",
           "name": "zammmmmm",
           "fame": 475,
@@ -1646,14 +1655,14 @@
         {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
-          "fame": 1100,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2925,
+      "periodPoints": 3525,
       "clanScore": 2120
     },
     {

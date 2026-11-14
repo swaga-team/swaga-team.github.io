@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117384,
+  "clanScore": 117371,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6588,
+  "donationsPerWeek": 6604,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 2,
       "donations": 114,
-      "donationsReceived": 360,
+      "donationsReceived": 368,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261113T122554.000Z",
+      "lastSeen": "20261114T055251.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261114T045518.000Z",
+      "lastSeen": "20261114T052420.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 288,
+      "donationsReceived": 296,
       "clanChestPoints": 0
     },
     {
@@ -473,7 +473,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261114T045425.000Z",
+      "lastSeen": "20261114T055442.000Z",
       "expLevel": 0,
       "trophies": 9710,
       "arena": {
@@ -483,7 +483,7 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 228,
+      "donations": 244,
       "donationsReceived": 282,
       "clanChestPoints": 0
     },
@@ -542,24 +542,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#UY2UPL2GV",
-      "name": "\"Erick\"",
-      "role": "member",
-      "lastSeen": "20261114T044433.000Z",
-      "expLevel": 0,
-      "trophies": 8340,
-      "arena": {
-        "id": 54000018,
-        "name": "Clash Fest",
-        "rawName": "Arena_L7"
-      },
-      "clanRank": 30,
-      "previousClanRank": 29,
-      "donations": 16,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
@@ -571,19 +553,37 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 31,
+      "clanRank": 30,
       "previousClanRank": 30,
       "donations": 82,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
+      "tag": "#UY2UPL2GV",
+      "name": "\"Erick\"",
+      "role": "member",
+      "lastSeen": "20261114T044433.000Z",
+      "expLevel": 0,
+      "trophies": 8245,
+      "arena": {
+        "id": 54000018,
+        "name": "Clash Fest",
+        "rawName": "Arena_L7"
+      },
+      "clanRank": 31,
+      "previousClanRank": 29,
+      "donations": 16,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VU2P0VJYC",
       "name": "BigHandsomeMan",
       "role": "member",
-      "lastSeen": "20261114T032212.000Z",
+      "lastSeen": "20261114T051951.000Z",
       "expLevel": 0,
-      "trophies": 7683,
+      "trophies": 7656,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261114T042803.000Z",
+      "lastSeen": "20261114T054003.000Z",
       "expLevel": 0,
       "trophies": 5030,
       "arena": {
