@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117421,
+  "clanScore": 117404,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7412,
+  "donationsPerWeek": 7552,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#8UCG80RYR",
+      "name": "Daisy Sprout",
+      "role": "leader",
+      "lastSeen": "20261114T142628.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 174,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261114T142342.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 2,
+      "donations": 494,
+      "donationsReceived": 336,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
@@ -31,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 3,
       "donations": 506,
       "donationsReceived": 400,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#8UCG80RYR",
-      "name": "Daisy Sprout",
-      "role": "leader",
-      "lastSeen": "20261114T125553.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 5,
-      "donations": 174,
-      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 156,
       "donationsReceived": 440,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261114T114535.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 2,
-      "donations": 462,
-      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261114T123819.000Z",
+      "lastSeen": "20261114T143101.000Z",
       "expLevel": 0,
-      "trophies": 12061,
+      "trophies": 12032,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -303,17 +303,17 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 663,
-      "donationsReceived": 400,
+      "donations": 695,
+      "donationsReceived": 416,
       "clanChestPoints": 0
     },
     {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261114T123350.000Z",
+      "lastSeen": "20261114T140509.000Z",
       "expLevel": 0,
-      "trophies": 11759,
+      "trophies": 11730,
       "arena": {
         "id": 54000132,
         "name": "Summit of Heroes",
@@ -321,8 +321,8 @@
       },
       "clanRank": 17,
       "previousClanRank": 17,
-      "donations": 362,
-      "donationsReceived": 404,
+      "donations": 372,
+      "donationsReceived": 420,
       "clanChestPoints": 0
     },
     {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 328,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261114T121027.000Z",
+      "lastSeen": "20261114T140502.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -645,7 +645,7 @@
       },
       "clanRank": 35,
       "previousClanRank": 34,
-      "donations": 134,
+      "donations": 142,
       "donationsReceived": 240,
       "clanChestPoints": 0
     },
@@ -682,14 +682,14 @@
       "clanRank": 37,
       "previousClanRank": 37,
       "donations": 32,
-      "donationsReceived": 20,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261114T103343.000Z",
+      "lastSeen": "20261114T144846.000Z",
       "expLevel": 0,
       "trophies": 5060,
       "arena": {
@@ -699,17 +699,17 @@
       },
       "clanRank": 38,
       "previousClanRank": 38,
-      "donations": 24,
-      "donationsReceived": 400,
+      "donations": 32,
+      "donationsReceived": 416,
       "clanChestPoints": 0
     },
     {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261114T033221.000Z",
+      "lastSeen": "20261114T142328.000Z",
       "expLevel": 0,
-      "trophies": 3321,
+      "trophies": 3292,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -717,8 +717,8 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 414,
-      "donationsReceived": 400,
+      "donations": 464,
+      "donationsReceived": 424,
       "clanChestPoints": 0
     },
     {

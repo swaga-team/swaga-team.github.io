@@ -6169,5 +6169,17 @@
       }
     ],
     "at": "2026-11-14T13:56:21+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      {
+        "name": "Electro Giant",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-14T14:49:27+00:00"
   }
 ]
