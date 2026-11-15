@@ -485,15 +485,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#PL82RPJUJ",
-        "name": ")))",
-        "fame": 1800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
         "fame": 1850,
@@ -503,6 +494,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#PL82RPJUJ",
+        "name": ")))",
+        "fame": 2200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 16,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
         "fame": 2250,
@@ -510,15 +510,6 @@
         "boatAttacks": 0,
         "decksUsed": 16,
         "decksUsedToday": 4
-      },
-      {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 2400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
       },
       {
         "tag": "#VJJUCQLVY",
@@ -537,9 +528,18 @@
         "boatAttacks": 0,
         "decksUsed": 15,
         "decksUsedToday": 3
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 2950,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 16,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2250,
+    "periodPoints": 3200,
     "clanScore": 2175
   },
   "clans": [
@@ -1201,15 +1201,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#PL82RPJUJ",
-          "name": ")))",
-          "fame": 1800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
           "fame": 1850,
@@ -1219,6 +1210,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#PL82RPJUJ",
+          "name": ")))",
+          "fame": 2200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
           "fame": 2250,
@@ -1226,15 +1226,6 @@
           "boatAttacks": 0,
           "decksUsed": 16,
           "decksUsedToday": 4
-        },
-        {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 2400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
         },
         {
           "tag": "#VJJUCQLVY",
@@ -1253,9 +1244,18 @@
           "boatAttacks": 0,
           "decksUsed": 15,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 2950,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2250,
+      "periodPoints": 3200,
       "clanScore": 2175
     },
     {
@@ -1608,15 +1608,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#RCYR8JYYV",
-          "name": "hafid_oi",
-          "fame": 350,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PRJYV2CP",
           "name": "vabrinoza",
           "fame": 450,
@@ -1624,6 +1615,15 @@
           "boatAttacks": 4,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#RCYR8JYYV",
+          "name": "hafid_oi",
+          "fame": 750,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#20UU009LQQ",
@@ -1689,7 +1689,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2025,
+      "periodPoints": 2425,
       "clanScore": 2120
     },
     {
