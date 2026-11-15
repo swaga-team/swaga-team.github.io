@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117448,
+  "clanScore": 117452,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8163,
+  "donationsPerWeek": 8201,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 5,
       "donations": 379,
-      "donationsReceived": 450,
+      "donationsReceived": 460,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 400,
-      "donationsReceived": 420,
+      "donationsReceived": 430,
       "clanChestPoints": 0
     },
     {
@@ -556,7 +556,7 @@
       "clanRank": 30,
       "previousClanRank": 31,
       "donations": 36,
-      "donationsReceived": 13,
+      "donationsReceived": 21,
       "clanChestPoints": 0
     },
     {
@@ -619,15 +619,15 @@
       "role": "member",
       "lastSeen": "20261115T005142.000Z",
       "expLevel": 0,
-      "trophies": 6962,
+      "trophies": 7002,
       "arena": {
-        "id": 54000015,
-        "name": "Silent Sanctuary",
-        "rawName": "Arena_L4"
+        "id": 54000016,
+        "name": "Dragon Spa",
+        "rawName": "Arena_L5"
       },
       "clanRank": 34,
       "previousClanRank": 34,
-      "donations": 0,
+      "donations": 38,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 32,
-      "donationsReceived": 440,
+      "donationsReceived": 450,
       "clanChestPoints": 0
     },
     {

@@ -6324,5 +6324,65 @@
       }
     ],
     "at": "2026-11-15T01:11:34+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "arena": "Dragon Spa",
+    "raw": "Arena_L5",
+    "at": "2026-11-15T02:10:58+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#QU8082PC2",
+    "name": "yrikkiller",
+    "cards": [
+      {
+        "name": "Golden Knight",
+        "level": 12
+      },
+      {
+        "name": "Knight",
+        "level": 10
+      },
+      {
+        "name": "Arrows",
+        "level": 10
+      },
+      {
+        "name": "Barbarians",
+        "level": 10
+      },
+      {
+        "name": "Skeleton Dragons",
+        "level": 10
+      },
+      {
+        "name": "Inferno Dragon",
+        "level": 10
+      },
+      {
+        "name": "Giant",
+        "level": 9
+      },
+      {
+        "name": "Valkyrie",
+        "level": 9
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 9
+      },
+      {
+        "name": "Void",
+        "level": 8
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-15T02:10:58+00:00"
   }
 ]

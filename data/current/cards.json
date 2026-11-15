@@ -21269,7 +21269,7 @@
   },
   "#QU8082PC2": {
     "Knight": [
-      8,
+      10,
       0
     ],
     "Archers": [
@@ -21281,7 +21281,7 @@
       0
     ],
     "Arrows": [
-      9,
+      10,
       0
     ],
     "Fireball": [
@@ -21289,7 +21289,7 @@
       0
     ],
     "Giant": [
-      8,
+      9,
       0
     ],
     "Musketeer": [
@@ -21317,7 +21317,7 @@
       0
     ],
     "Valkyrie": [
-      8,
+      9,
       0
     ],
     "Bomber": [
@@ -21345,7 +21345,7 @@
       0
     ],
     "Barbarians": [
-      9,
+      10,
       1
     ],
     "Wizard": [
@@ -21361,7 +21361,7 @@
       0
     ],
     "Skeleton Dragons": [
-      8,
+      10,
       0
     ],
     "Electro Spirit": [
@@ -21585,7 +21585,7 @@
       0
     ],
     "Inferno Dragon": [
-      9,
+      10,
       0
     ],
     "Bowler": [
@@ -21637,7 +21637,7 @@
       0
     ],
     "Elixir Collector": [
-      7,
+      9,
       0
     ],
     "Royal Ghost": [
@@ -21649,7 +21649,7 @@
       0
     ],
     "Golden Knight": [
-      11,
+      12,
       0
     ],
     "Heal Spirit": [
@@ -21705,7 +21705,7 @@
       0
     ],
     "Void": [
-      6,
+      8,
       0
     ],
     "Magic Archer": [
@@ -21713,7 +21713,7 @@
       0
     ],
     "Goblin Drill": [
-      6,
+      8,
       0
     ]
   },
