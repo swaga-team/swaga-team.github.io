@@ -1461,13 +1461,13 @@
     "expLevel": 48,
     "trophies": 12064,
     "bestTrophies": 12270,
-    "wins": 2378,
-    "losses": 2579,
-    "battleCount": 4957,
-    "threeCrownWins": 1099,
+    "wins": 2379,
+    "losses": 2582,
+    "battleCount": 4961,
+    "threeCrownWins": 1100,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13612,
+    "totalDonations": 13632,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Ice Wizard",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
     }
   },
   "#YR2GG8C2": {
@@ -4685,15 +4685,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 7227,
+    "trophies": 7352,
     "bestTrophies": 7427,
-    "wins": 1051,
-    "losses": 812,
-    "battleCount": 1863,
-    "threeCrownWins": 330,
+    "wins": 1059,
+    "losses": 816,
+    "battleCount": 1875,
+    "threeCrownWins": 331,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2275,
+    "totalDonations": 2285,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

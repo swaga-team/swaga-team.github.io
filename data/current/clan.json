@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117515,
+  "clanScore": 117528,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8930,
+  "donationsPerWeek": 8960,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -293,7 +293,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261114T155030.000Z",
+      "lastSeen": "20261115T113124.000Z",
       "expLevel": 0,
       "trophies": 12064,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 705,
-      "donationsReceived": 440,
+      "donations": 725,
+      "donationsReceived": 450,
       "clanChestPoints": 0
     },
     {
@@ -601,7 +601,7 @@
       "role": "member",
       "lastSeen": "20261115T092832.000Z",
       "expLevel": 0,
-      "trophies": 7227,
+      "trophies": 7352,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -609,8 +609,8 @@
       },
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 732,
-      "donationsReceived": 470,
+      "donations": 742,
+      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 38,
-      "donationsReceived": 130,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
