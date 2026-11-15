@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3747,
-    "losses": 2100,
-    "battleCount": 5847,
+    "wins": 3748,
+    "losses": 2101,
+    "battleCount": 5849,
     "threeCrownWins": 1081,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41734,
+    "totalDonations": 41744,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -3285,11 +3285,11 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3323,
+    "trophies": 3233,
     "bestTrophies": 3397,
-    "wins": 3279,
-    "losses": 2849,
-    "battleCount": 6128,
+    "wins": 3281,
+    "losses": 2852,
+    "battleCount": 6133,
     "threeCrownWins": 2616,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3617,12 +3617,12 @@
   },
   "#VJQQLCJP8": {
     "expLevel": 1,
-    "trophies": 2879,
-    "bestTrophies": 2879,
-    "wins": 121,
-    "losses": 31,
-    "battleCount": 152,
-    "threeCrownWins": 70,
+    "trophies": 2940,
+    "bestTrophies": 2940,
+    "wins": 124,
+    "losses": 32,
+    "battleCount": 156,
+    "threeCrownWins": 72,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 182,
@@ -3688,11 +3688,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lightning",
-      "rarity": "epic",
+      "name": "Elite Barbarians",
+      "rarity": "common",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#PLUQRR22G": {
@@ -4685,15 +4685,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 7221,
+    "trophies": 7227,
     "bestTrophies": 7427,
-    "wins": 1044,
-    "losses": 805,
-    "battleCount": 1849,
-    "threeCrownWins": 326,
+    "wins": 1051,
+    "losses": 812,
+    "battleCount": 1863,
+    "threeCrownWins": 330,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2265,
+    "totalDonations": 2275,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4768,11 +4768,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
+      "name": "Cannon Cart",
       "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
     }
   },
   "#90QGJUUG": {
@@ -4869,11 +4869,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 5365,
-    "bestTrophies": 5365,
-    "wins": 715,
-    "losses": 383,
-    "battleCount": 1098,
+    "trophies": 5453,
+    "bestTrophies": 5453,
+    "wins": 719,
+    "losses": 384,
+    "battleCount": 1103,
     "threeCrownWins": 175,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4916,20 +4916,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Lightning",
-        "rarity": "epic",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
-      },
-      {
-        "name": "Royal Delivery",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png"
-      },
-      {
         "name": "Berserker",
         "rarity": "common",
         "elixirCost": 2,
@@ -4942,6 +4928,20 @@
         "elixirCost": 4,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      },
+      {
+        "name": "Lightning",
+        "rarity": "epic",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+      },
+      {
+        "name": "Royal Delivery",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png"
       },
       {
         "name": "Electro Spirit",
@@ -5053,11 +5053,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2824,
+    "trophies": 2854,
     "bestTrophies": 2885,
-    "wins": 252,
-    "losses": 174,
-    "battleCount": 426,
+    "wins": 254,
+    "losses": 175,
+    "battleCount": 429,
     "threeCrownWins": 102,
     "warDayWins": 0,
     "clanCardsCollected": 0,

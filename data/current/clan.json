@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117512,
+  "clanScore": 117515,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8910,
+  "donationsPerWeek": 8930,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261115T091826.000Z",
+      "lastSeen": "20261115T095232.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 2,
-      "donations": 504,
+      "donations": 514,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -601,7 +601,7 @@
       "role": "member",
       "lastSeen": "20261115T092832.000Z",
       "expLevel": 0,
-      "trophies": 7221,
+      "trophies": 7227,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -609,8 +609,8 @@
       },
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 722,
-      "donationsReceived": 460,
+      "donations": 732,
+      "donationsReceived": 470,
       "clanChestPoints": 0
     },
     {
@@ -689,9 +689,9 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261115T084501.000Z",
+      "lastSeen": "20261115T095429.000Z",
       "expLevel": 0,
-      "trophies": 5365,
+      "trophies": 5453,
       "arena": {
         "id": 54000012,
         "name": "Miner's Mine",
@@ -701,24 +701,6 @@
       "previousClanRank": 38,
       "donations": 32,
       "donationsReceived": 520,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#V0RCP20LR",
-      "name": "подписични черв",
-      "role": "elder",
-      "lastSeen": "20261115T091112.000Z",
-      "expLevel": 0,
-      "trophies": 3323,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 39,
-      "previousClanRank": 39,
-      "donations": 600,
-      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
@@ -733,19 +715,37 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 40,
+      "clanRank": 39,
       "previousClanRank": 40,
       "donations": 106,
       "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
+      "tag": "#V0RCP20LR",
+      "name": "подписични черв",
+      "role": "elder",
+      "lastSeen": "20261115T100655.000Z",
+      "expLevel": 0,
+      "trophies": 3233,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 40,
+      "previousClanRank": 39,
+      "donations": 600,
+      "donationsReceived": 480,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261114T161852.000Z",
+      "lastSeen": "20261115T100349.000Z",
       "expLevel": 0,
-      "trophies": 2879,
+      "trophies": 2940,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
@@ -754,16 +754,16 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 38,
-      "donationsReceived": 120,
+      "donationsReceived": 130,
       "clanChestPoints": 0
     },
     {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261115T062826.000Z",
+      "lastSeen": "20261115T095250.000Z",
       "expLevel": 0,
-      "trophies": 2824,
+      "trophies": 2854,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",

@@ -476,15 +476,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJQQLCJP8",
-        "name": "Генри lll",
-        "fame": 1600,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#228RGGVQV2",
         "name": "Infamous",
         "fame": 1700,
@@ -512,22 +503,13 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJJUCQLVY",
-        "name": "Картошка Боб",
-        "fame": 2000,
+        "tag": "#VJQQLCJP8",
+        "name": "Генри lll",
+        "fame": 2250,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 2200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 12,
-        "decksUsedToday": 0
+        "decksUsed": 16,
+        "decksUsedToday": 4
       },
       {
         "tag": "#V0RCP20LR",
@@ -537,9 +519,27 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#VJJUCQLVY",
+        "name": "Картошка Боб",
+        "fame": 2500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 16,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 2800,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 15,
+        "decksUsedToday": 3
       }
     ],
-    "periodPoints": 0,
+    "periodPoints": 1750,
     "clanScore": 2175
   },
   "clans": [
@@ -1192,15 +1192,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJQQLCJP8",
-          "name": "Генри lll",
-          "fame": 1600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#228RGGVQV2",
           "name": "Infamous",
           "fame": 1700,
@@ -1228,22 +1219,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJJUCQLVY",
-          "name": "Картошка Боб",
-          "fame": 2000,
+          "tag": "#VJQQLCJP8",
+          "name": "Генри lll",
+          "fame": 2250,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 2200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#V0RCP20LR",
@@ -1253,9 +1235,27 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#VJJUCQLVY",
+          "name": "Картошка Боб",
+          "fame": 2500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 2800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 15,
+          "decksUsedToday": 3
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 1750,
       "clanScore": 2175
     },
     {
@@ -1628,11 +1628,11 @@
         {
           "tag": "#20UU009LQQ",
           "name": "zammmmmm",
-          "fame": 475,
+          "fame": 950,
           "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "boatAttacks": 2,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#CQVCRUC89",
@@ -1671,25 +1671,25 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8PVGVG90Q",
-          "name": "FH solow",
-          "fame": 1500,
-          "repairPoints": 0,
-          "boatAttacks": 12,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9LUL08PLJ",
           "name": "Ghis",
-          "fame": 1650,
+          "fame": 1750,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 11,
-          "decksUsedToday": 3
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#8PVGVG90Q",
+          "name": "FH solow",
+          "fame": 1950,
+          "repairPoints": 0,
+          "boatAttacks": 16,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 600,
+      "periodPoints": 1625,
       "clanScore": 2120
     },
     {
@@ -2033,15 +2033,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V2U2R8J28",
           "name": "gy",
           "fame": 850,
@@ -2069,6 +2060,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 1600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 1900,
@@ -2078,7 +2078,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 800,
       "clanScore": 2135
     },
     {
@@ -2458,15 +2458,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
-          "fame": 2050,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V2YYJY890",
           "name": "Player456",
           "fame": 2200,
@@ -2474,9 +2465,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 2250,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 14,
+          "decksUsedToday": 2
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 200,
       "clanScore": 2163
     }
   ],

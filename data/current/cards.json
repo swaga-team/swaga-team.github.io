@@ -18603,7 +18603,7 @@
       0
     ],
     "Giant": [
-      8,
+      9,
       0
     ],
     "Mini P.E.K.K.A": [
@@ -18643,11 +18643,11 @@
       0
     ],
     "Cannon": [
-      7,
+      8,
       1
     ],
     "Berserker": [
-      9,
+      10,
       2
     ],
     "Battle Ram": [
@@ -18659,11 +18659,11 @@
       1
     ],
     "Bomber": [
-      7,
+      8,
       0
     ],
     "Barbarians": [
-      9,
+      10,
       0
     ],
     "Goblin Hut": [
@@ -18807,7 +18807,7 @@
       0
     ],
     "Giant Skeleton": [
-      8,
+      9,
       0
     ],
     "Battle Healer": [
@@ -18835,11 +18835,15 @@
       0
     ],
     "Prince": [
-      7,
+      8,
       0
     ],
     "Barbarian Barrel": [
       7,
+      0
+    ],
+    "Mirror": [
+      8,
       0
     ]
   },
@@ -23911,7 +23915,7 @@
       0
     ],
     "Elite Barbarians": [
-      9,
+      10,
       0
     ],
     "Goblin Gang": [
@@ -24095,7 +24099,7 @@
       0
     ],
     "Lumberjack": [
-      10,
+      11,
       0
     ],
     "Lava Hound": [
@@ -24111,6 +24115,10 @@
       0
     ],
     "Mighty Miner": [
+      11,
+      0
+    ],
+    "Boss Bandit": [
       11,
       0
     ]
@@ -24915,7 +24923,7 @@
       0
     ],
     "Earthquake": [
-      7,
+      8,
       0
     ],
     "Royal Ghost": [
@@ -24999,7 +25007,7 @@
       0
     ],
     "Cannon Cart": [
-      8,
+      9,
       0
     ],
     "Clone": [
@@ -25012,6 +25020,10 @@
     ],
     "Tornado": [
       8,
+      0
+    ],
+    "Void": [
+      6,
       0
     ]
   },
@@ -25531,11 +25543,11 @@
       0
     ],
     "Giant": [
-      6,
+      7,
       0
     ],
     "Musketeer": [
-      6,
+      7,
       0
     ],
     "Mini P.E.K.K.A": [
@@ -25563,7 +25575,7 @@
       0
     ],
     "Valkyrie": [
-      7,
+      8,
       0
     ],
     "Mega Minion": [

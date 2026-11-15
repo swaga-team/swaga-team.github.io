@@ -6563,5 +6563,93 @@
       }
     ],
     "at": "2026-11-15T09:52:30+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Lumberjack",
+        "level": 11
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-15T10:50:39+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Cannon Cart",
+        "level": 9
+      },
+      {
+        "name": "Earthquake",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-15T10:50:39+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Berserker",
+        "level": 10
+      },
+      {
+        "name": "Barbarians",
+        "level": 10
+      },
+      {
+        "name": "Giant",
+        "level": 9
+      },
+      {
+        "name": "Giant Skeleton",
+        "level": 9
+      },
+      {
+        "name": "Cannon",
+        "level": 8
+      },
+      {
+        "name": "Bomber",
+        "level": 8
+      },
+      {
+        "name": "Prince",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-15T10:50:39+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VC298L8UV",
+    "name": "ink",
+    "cards": [
+      {
+        "name": "Valkyrie",
+        "level": 8
+      },
+      {
+        "name": "Giant",
+        "level": 7
+      },
+      {
+        "name": "Musketeer",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-15T10:50:39+00:00"
   }
 ]
