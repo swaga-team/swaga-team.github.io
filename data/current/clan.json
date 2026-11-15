@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116295,
+  "clanScore": 116093,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,11 +13,11 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 9546,
+  "donationsPerWeek": 9584,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 42,
+  "members": 41,
   "memberList": [
     {
       "tag": "#R98U8U290",
@@ -268,7 +268,7 @@
       "clanRank": 14,
       "previousClanRank": 14,
       "donations": 122,
-      "donationsReceived": 190,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 454,
-      "donationsReceived": 524,
+      "donationsReceived": 540,
       "clanChestPoints": 0
     },
     {
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 25,
       "donations": 386,
-      "donationsReceived": 392,
+      "donationsReceived": 394,
       "clanChestPoints": 0
     },
     {
@@ -473,7 +473,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261114T213422.000Z",
+      "lastSeen": "20261115T215414.000Z",
       "expLevel": 0,
       "trophies": 9697,
       "arena": {
@@ -483,8 +483,8 @@
       },
       "clanRank": 26,
       "previousClanRank": 27,
-      "donations": 259,
-      "donationsReceived": 360,
+      "donations": 279,
+      "donationsReceived": 370,
       "clanChestPoints": 0
     },
     {
@@ -686,36 +686,18 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#YYV2V82G0",
-      "name": "•Harrison Ford•",
-      "role": "member",
-      "lastSeen": "20261115T064712.000Z",
-      "expLevel": 0,
-      "trophies": 3301,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 38,
-      "previousClanRank": 40,
-      "donations": 106,
-      "donationsReceived": 140,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261115T203744.000Z",
+      "lastSeen": "20261115T215928.000Z",
       "expLevel": 0,
-      "trophies": 2949,
+      "trophies": 2944,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 39,
+      "clanRank": 38,
       "previousClanRank": 42,
       "donations": 160,
       "donationsReceived": 420,
@@ -733,7 +715,7 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 40,
+      "clanRank": 39,
       "previousClanRank": 41,
       "donations": 38,
       "donationsReceived": 150,
@@ -751,7 +733,7 @@
         "name": "P.E.K.K.A's Playhouse",
         "rawName": "Arena6"
       },
-      "clanRank": 41,
+      "clanRank": 40,
       "previousClanRank": 43,
       "donations": 0,
       "donationsReceived": 0,
@@ -769,7 +751,7 @@
         "name": "P.E.K.K.A's Playhouse",
         "rawName": "Arena6"
       },
-      "clanRank": 42,
+      "clanRank": 41,
       "previousClanRank": 44,
       "donations": 118,
       "donationsReceived": 100,

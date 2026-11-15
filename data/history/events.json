@@ -6724,5 +6724,23 @@
       "Skeleton Army"
     ],
     "at": "2026-11-15T20:45:21+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Boss Bandit",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-15T22:45:11+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#YYV2V82G0",
+    "name": "•Harrison Ford•",
+    "at": "2026-11-15T22:45:11+00:00"
   }
 ]

@@ -4956,9 +4956,9 @@
     "expLevel": 40,
     "trophies": 13218,
     "bestTrophies": 13218,
-    "wins": 3429,
-    "losses": 2850,
-    "battleCount": 6279,
+    "wins": 3431,
+    "losses": 2852,
+    "battleCount": 6283,
     "threeCrownWins": 1647,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5037,20 +5037,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ice Wizard",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Mortar",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
     }
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2949,
-    "bestTrophies": 2949,
-    "wins": 261,
-    "losses": 179,
-    "battleCount": 440,
+    "trophies": 2944,
+    "bestTrophies": 2978,
+    "wins": 265,
+    "losses": 183,
+    "battleCount": 448,
     "threeCrownWins": 105,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5117,24 +5117,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Valkyrie",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2283,
+    "wins": 2286,
     "losses": 1089,
-    "battleCount": 3372,
+    "battleCount": 3375,
     "threeCrownWins": 1106,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26591,
+    "totalDonations": 26611,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5202,11 +5202,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Princess",
-      "rarity": "legendary",
+      "name": "Skeleton Barrel",
+      "rarity": "common",
       "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png"
     }
   },
   "#VU2P0VJYC": {
