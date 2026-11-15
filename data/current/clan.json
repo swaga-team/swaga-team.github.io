@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116221,
+  "clanScore": 116254,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 9282,
+  "donationsPerWeek": 9390,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 460,
-      "donationsReceived": 500,
+      "donationsReceived": 520,
       "clanChestPoints": 0
     },
     {
@@ -196,7 +196,7 @@
       "clanRank": 10,
       "previousClanRank": 10,
       "donations": 264,
-      "donationsReceived": 300,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -293,9 +293,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261115T164008.000Z",
+      "lastSeen": "20261115T173538.000Z",
       "expLevel": 0,
-      "trophies": 12046,
+      "trophies": 12015,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -303,7 +303,7 @@
       },
       "clanRank": 16,
       "previousClanRank": 16,
-      "donations": 769,
+      "donations": 789,
       "donationsReceived": 480,
       "clanChestPoints": 0
     },
@@ -437,7 +437,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261115T041401.000Z",
+      "lastSeen": "20261115T174216.000Z",
       "expLevel": 0,
       "trophies": 9769,
       "arena": {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 23,
-      "donations": 366,
+      "donations": 386,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
@@ -560,6 +560,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#VJJUCQLVY",
+      "name": "Картошка Боб",
+      "role": "member",
+      "lastSeen": "20261115T173733.000Z",
+      "expLevel": 0,
+      "trophies": 7787,
+      "arena": {
+        "id": 54000017,
+        "name": "Boot Camp",
+        "rawName": "Arena_L6"
+      },
+      "clanRank": 31,
+      "previousClanRank": 33,
+      "donations": 814,
+      "donationsReceived": 520,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VU2P0VJYC",
       "name": "BigHandsomeMan",
       "role": "member",
@@ -571,28 +589,10 @@
         "name": "Boot Camp",
         "rawName": "Arena_L6"
       },
-      "clanRank": 31,
+      "clanRank": 32,
       "previousClanRank": 32,
       "donations": 265,
       "donationsReceived": 160,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#VJJUCQLVY",
-      "name": "Картошка Боб",
-      "role": "member",
-      "lastSeen": "20261115T140808.000Z",
-      "expLevel": 0,
-      "trophies": 7642,
-      "arena": {
-        "id": 54000017,
-        "name": "Boot Camp",
-        "rawName": "Arena_L6"
-      },
-      "clanRank": 32,
-      "previousClanRank": 33,
-      "donations": 814,
-      "donationsReceived": 490,
       "clanChestPoints": 0
     },
     {
@@ -653,18 +653,36 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261115T164323.000Z",
+      "lastSeen": "20261115T171812.000Z",
       "expLevel": 0,
-      "trophies": 5424,
+      "trophies": 5544,
       "arena": {
-        "id": 54000012,
-        "name": "Miner's Mine",
-        "rawName": "Arena_L1"
+        "id": 54000013,
+        "name": "Executioner's Kitchen",
+        "rawName": "Arena_L2"
       },
       "clanRank": 36,
       "previousClanRank": 38,
       "donations": 32,
-      "donationsReceived": 552,
+      "donationsReceived": 560,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#V0RCP20LR",
+      "name": "подписични черв",
+      "role": "elder",
+      "lastSeen": "20261115T173253.000Z",
+      "expLevel": 0,
+      "trophies": 3324,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 37,
+      "previousClanRank": 39,
+      "donations": 668,
+      "donationsReceived": 520,
       "clanChestPoints": 0
     },
     {
@@ -679,28 +697,10 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 40,
       "donations": 106,
       "donationsReceived": 140,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#V0RCP20LR",
-      "name": "подписични черв",
-      "role": "elder",
-      "lastSeen": "20261115T133611.000Z",
-      "expLevel": 0,
-      "trophies": 3233,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 38,
-      "previousClanRank": 39,
-      "donations": 626,
-      "donationsReceived": 520,
       "clanChestPoints": 0
     },
     {
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261115T120452.000Z",
+      "lastSeen": "20261115T165055.000Z",
       "expLevel": 0,
-      "trophies": 2858,
+      "trophies": 2919,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 42,
-      "donations": 128,
-      "donationsReceived": 390,
+      "donations": 154,
+      "donationsReceived": 420,
       "clanChestPoints": 0
     },
     {

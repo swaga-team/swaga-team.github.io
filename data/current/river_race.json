@@ -2026,11 +2026,11 @@
         {
           "tag": "#YCPL99V8Y",
           "name": "koki",
-          "fame": 600,
+          "fame": 1200,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#V2U2R8J28",
@@ -2078,7 +2078,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 1700,
+      "periodPoints": 2300,
       "clanScore": 2135
     },
     {
@@ -2091,6 +2091,15 @@
         {
           "tag": "#QCVJPQ0PY",
           "name": "2.6Hograta",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#9L8YUU8J",
+          "name": "RG013",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2440,15 +2449,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V2YYJY890",
-          "name": "Player456",
-          "fame": 2200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YVQ9LRGP9",
           "name": "core",
           "fame": 2200,
@@ -2474,9 +2474,18 @@
           "boatAttacks": 6,
           "decksUsed": 16,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#V2YYJY890",
+          "name": "Player456",
+          "fame": 2900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1750,
+      "periodPoints": 2450,
       "clanScore": 2163
     }
   ],
