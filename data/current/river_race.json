@@ -422,15 +422,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#U0QJL29PY",
-        "name": "egor",
-        "fame": 800,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 5,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#YGQU2GCJR",
         "name": "Fen1ks",
         "fame": 925,
@@ -464,6 +455,15 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 10,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#U0QJL29PY",
+        "name": "egor",
+        "fame": 1300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 8,
         "decksUsedToday": 4
       },
       {
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 8400,
+    "periodPoints": 8900,
     "clanScore": 2175
   },
   "clans": [
@@ -1138,15 +1138,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#U0QJL29PY",
-          "name": "egor",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#YGQU2GCJR",
           "name": "Fen1ks",
           "fame": 925,
@@ -1180,6 +1171,15 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 10,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#U0QJL29PY",
+          "name": "egor",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
           "decksUsedToday": 4
         },
         {
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 8400,
+      "periodPoints": 8900,
       "clanScore": 2175
     },
     {
@@ -2053,11 +2053,11 @@
         {
           "tag": "#2YCR89URU",
           "name": "Ivan_PrO_XD",
-          "fame": 900,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 2
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJGYGPPL9",
@@ -2078,7 +2078,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2000,
+      "periodPoints": 2400,
       "clanScore": 2135
     },
     {
