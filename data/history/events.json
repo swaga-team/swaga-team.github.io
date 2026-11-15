@@ -6539,5 +6539,17 @@
       }
     ],
     "at": "2026-11-15T07:08:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Royal Delivery",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-15T08:57:02+00:00"
   }
 ]

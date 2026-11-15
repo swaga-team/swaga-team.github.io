@@ -101,7 +101,7 @@
     "threeCrownWins": 1080,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41724,
+    "totalDonations": 41734,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -272,10 +272,10 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11097,
-    "losses": 10743,
-    "battleCount": 21840,
-    "threeCrownWins": 5612,
+    "wins": 11100,
+    "losses": 10745,
+    "battleCount": 21845,
+    "threeCrownWins": 5613,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
     "totalDonations": 138763,
@@ -2007,8 +2007,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2322,
-    "losses": 2158,
-    "battleCount": 4480,
+    "losses": 2159,
+    "battleCount": 4481,
     "threeCrownWins": 788,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3280,13 +3280,13 @@
     "expLevel": 58,
     "trophies": 3323,
     "bestTrophies": 3397,
-    "wins": 3272,
+    "wins": 3274,
     "losses": 2847,
-    "battleCount": 6119,
+    "battleCount": 6121,
     "threeCrownWins": 2616,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21212,
+    "totalDonations": 21230,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4312,13 +4312,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1863,
-    "losses": 1211,
-    "battleCount": 3074,
-    "threeCrownWins": 826,
+    "wins": 1866,
+    "losses": 1218,
+    "battleCount": 3084,
+    "threeCrownWins": 827,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28469,
+    "totalDonations": 28497,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4393,11 +4393,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lumberjack",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#8RYCGVUV0": {
@@ -4862,11 +4862,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 5246,
-    "bestTrophies": 5246,
-    "wins": 710,
-    "losses": 380,
-    "battleCount": 1090,
+    "trophies": 5363,
+    "bestTrophies": 5363,
+    "wins": 714,
+    "losses": 382,
+    "battleCount": 1096,
     "threeCrownWins": 175,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4916,11 +4916,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
       },
       {
-        "name": "Barbarian Barrel",
-        "rarity": "epic",
-        "elixirCost": 2,
+        "name": "Royal Delivery",
+        "rarity": "common",
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png"
       },
       {
         "name": "Berserker",
@@ -4945,11 +4945,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Dark Prince",
+      "rarity": "epic",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#2G2VYP9G": {
@@ -5550,13 +5550,13 @@
     "expLevel": 42,
     "trophies": 12267,
     "bestTrophies": 12267,
-    "wins": 1210,
-    "losses": 673,
-    "battleCount": 1883,
+    "wins": 1211,
+    "losses": 674,
+    "battleCount": 1885,
     "threeCrownWins": 431,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16030,
+    "totalDonations": 16050,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5631,11 +5631,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   }
 }
