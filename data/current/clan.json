@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116264,
+  "clanScore": 116295,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 9464,
+  "donationsPerWeek": 9546,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
       "role": "member",
-      "lastSeen": "20261115T192819.000Z",
+      "lastSeen": "20261115T205806.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -178,7 +178,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 354,
-      "donationsReceived": 340,
+      "donationsReceived": 350,
       "clanChestPoints": 0
     },
     {
@@ -203,7 +203,7 @@
       "tag": "#2G2VYP9G",
       "name": "THE BOSS G.",
       "role": "elder",
-      "lastSeen": "20261114T113120.000Z",
+      "lastSeen": "20261115T211117.000Z",
       "expLevel": 0,
       "trophies": 13218,
       "arena": {
@@ -257,7 +257,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261115T081916.000Z",
+      "lastSeen": "20261115T212854.000Z",
       "expLevel": 0,
       "trophies": 12267,
       "arena": {
@@ -267,8 +267,26 @@
       },
       "clanRank": 14,
       "previousClanRank": 14,
-      "donations": 112,
-      "donationsReceived": 160,
+      "donations": 122,
+      "donationsReceived": 190,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#PQQ2JYL2G",
+      "name": "MFbren",
+      "role": "elder",
+      "lastSeen": "20261115T210341.000Z",
+      "expLevel": 0,
+      "trophies": 12163,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 15,
+      "previousClanRank": 16,
+      "donations": 825,
+      "donationsReceived": 520,
       "clanChestPoints": 0
     },
     {
@@ -283,35 +301,17 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 15,
+      "clanRank": 16,
       "previousClanRank": 15,
       "donations": 16,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQ2JYL2G",
-      "name": "MFbren",
-      "role": "elder",
-      "lastSeen": "20261115T204236.000Z",
-      "expLevel": 0,
-      "trophies": 12073,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 16,
-      "previousClanRank": 16,
-      "donations": 807,
-      "donationsReceived": 510,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261115T133712.000Z",
+      "lastSeen": "20261115T210140.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -321,8 +321,8 @@
       },
       "clanRank": 17,
       "previousClanRank": 17,
-      "donations": 418,
-      "donationsReceived": 500,
+      "donations": 454,
+      "donationsReceived": 524,
       "clanChestPoints": 0
     },
     {
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 25,
       "donations": 386,
-      "donationsReceived": 384,
+      "donationsReceived": 392,
       "clanChestPoints": 0
     },
     {
@@ -527,9 +527,9 @@
       "tag": "#UY2UPL2GV",
       "name": "\"Erick\"",
       "role": "member",
-      "lastSeen": "20261115T193319.000Z",
+      "lastSeen": "20261115T204602.000Z",
       "expLevel": 0,
-      "trophies": 8355,
+      "trophies": 8358,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -581,9 +581,9 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261115T203752.000Z",
+      "lastSeen": "20261115T205213.000Z",
       "expLevel": 0,
-      "trophies": 7668,
+      "trophies": 7721,
       "arena": {
         "id": 54000017,
         "name": "Boot Camp",
@@ -591,7 +591,7 @@
       },
       "clanRank": 32,
       "previousClanRank": 33,
-      "donations": 822,
+      "donations": 840,
       "donationsReceived": 520,
       "clanChestPoints": 0
     },
@@ -599,7 +599,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261115T184050.000Z",
+      "lastSeen": "20261115T212535.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -704,6 +704,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#VC298L8UV",
+      "name": "ink",
+      "role": "member",
+      "lastSeen": "20261115T203744.000Z",
+      "expLevel": 0,
+      "trophies": 2949,
+      "arena": {
+        "id": 54000010,
+        "name": "Jungle Arena",
+        "rawName": "Arena9"
+      },
+      "clanRank": 39,
+      "previousClanRank": 42,
+      "donations": 160,
+      "donationsReceived": 420,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
@@ -715,28 +733,10 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 41,
       "donations": 38,
       "donationsReceived": 150,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#VC298L8UV",
-      "name": "ink",
-      "role": "member",
-      "lastSeen": "20261115T203744.000Z",
-      "expLevel": 0,
-      "trophies": 2919,
-      "arena": {
-        "id": 54000010,
-        "name": "Jungle Arena",
-        "rawName": "Arena9"
-      },
-      "clanRank": 40,
-      "previousClanRank": 42,
-      "donations": 160,
-      "donationsReceived": 420,
       "clanChestPoints": 0
     },
     {

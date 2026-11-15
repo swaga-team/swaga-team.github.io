@@ -395,15 +395,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#2G2VYP9G",
-        "name": "THE BOSS G.",
-        "fame": 650,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YQ2VLPJ0L",
         "name": "arch1tector",
         "fame": 800,
@@ -438,6 +429,15 @@
         "boatAttacks": 1,
         "decksUsed": 7,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#2G2VYP9G",
+        "name": "THE BOSS G.",
+        "fame": 1100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 7,
+        "decksUsedToday": 3
       },
       {
         "tag": "#PQQGRL028",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4975,
+    "periodPoints": 5425,
     "clanScore": 2175
   },
   "clans": [
@@ -1111,15 +1111,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#2G2VYP9G",
-          "name": "THE BOSS G.",
-          "fame": 650,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YQ2VLPJ0L",
           "name": "arch1tector",
           "fame": 800,
@@ -1154,6 +1145,15 @@
           "boatAttacks": 1,
           "decksUsed": 7,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2G2VYP9G",
+          "name": "THE BOSS G.",
+          "fame": 1100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 3
         },
         {
           "tag": "#PQQGRL028",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4975,
+      "periodPoints": 5425,
       "clanScore": 2175
     },
     {
