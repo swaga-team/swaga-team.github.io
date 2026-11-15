@@ -456,15 +456,15 @@
     "expLevel": 67,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3965,
-    "losses": 3025,
-    "battleCount": 6990,
-    "threeCrownWins": 1196,
+    "wins": 3969,
+    "losses": 3027,
+    "battleCount": 6996,
+    "threeCrownWins": 1197,
     "warDayWins": 0,
     "clanCardsCollected": 1220,
-    "totalDonations": 29433,
+    "totalDonations": 29483,
     "currentPathOfLegendSeasonResult": {
-      "leagueNumber": 2,
+      "leagueNumber": 3,
       "trophies": 0,
       "rank": null
     },
@@ -537,11 +537,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Night Witch",
-      "rarity": "legendary",
-      "elixirCost": 4,
+      "name": "X-Bow",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
     }
   },
   "#28G90Y9JL": {
@@ -738,7 +738,7 @@
     "threeCrownWins": 1466,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 19753,
+    "totalDonations": 19823,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2306,13 +2306,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       },
       {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
-      },
-      {
         "name": "Electro Wizard",
         "rarity": "legendary",
         "elixirCost": 4,
@@ -3286,7 +3279,7 @@
     "threeCrownWins": 2612,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21122,
+    "totalDonations": 21152,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4313,12 +4306,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 1862,
-    "losses": 1206,
-    "battleCount": 3068,
+    "losses": 1207,
+    "battleCount": 3069,
     "threeCrownWins": 825,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28379,
+    "totalDonations": 28449,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4393,11 +4386,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#8RYCGVUV0": {
@@ -4862,11 +4855,11 @@
   },
   "#228RGGVQV2": {
     "expLevel": 1,
-    "trophies": 5177,
-    "bestTrophies": 5177,
-    "wins": 705,
-    "losses": 378,
-    "battleCount": 1083,
+    "trophies": 5246,
+    "bestTrophies": 5246,
+    "wins": 709,
+    "losses": 380,
+    "battleCount": 1089,
     "threeCrownWins": 175,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4945,11 +4938,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dark Prince",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Royal Hogs",
+      "rarity": "rare",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
     }
   },
   "#2G2VYP9G": {
@@ -5383,15 +5376,15 @@
   },
   "#YYV2V82G0": {
     "expLevel": 22,
-    "trophies": 3062,
-    "bestTrophies": 3062,
-    "wins": 122,
+    "trophies": 3301,
+    "bestTrophies": 3301,
+    "wins": 130,
     "losses": 28,
-    "battleCount": 150,
-    "threeCrownWins": 53,
+    "battleCount": 158,
+    "threeCrownWins": 56,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 892,
+    "totalDonations": 922,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,

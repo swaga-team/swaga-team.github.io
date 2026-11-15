@@ -6424,5 +6424,120 @@
       }
     ],
     "at": "2026-11-15T04:59:30+00:00"
+  },
+  {
+    "type": "league",
+    "tag": "#8UCG80RYR",
+    "name": "Daisy Sprout",
+    "league": 3,
+    "at": "2026-11-15T07:08:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8UCG80RYR",
+    "name": "Daisy Sprout",
+    "cards": [
+      {
+        "name": "Ice Wizard",
+        "level": 16
+      },
+      {
+        "name": "Tesla",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-15T07:08:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Mirror",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-15T07:08:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YYV2V82G0",
+    "name": "•Harrison Ford•",
+    "cards": [
+      {
+        "name": "Goblin Barrel",
+        "level": 11
+      },
+      {
+        "name": "Zap",
+        "level": 11
+      },
+      {
+        "name": "Spear Goblins",
+        "level": 10
+      },
+      {
+        "name": "Tombstone",
+        "level": 7
+      },
+      {
+        "name": "Tornado",
+        "level": 7
+      },
+      {
+        "name": "Barbarian Hut",
+        "level": 7
+      },
+      {
+        "name": "Inferno Tower",
+        "level": 7
+      },
+      {
+        "name": "Wizard",
+        "level": 7
+      },
+      {
+        "name": "Furnace",
+        "level": 7
+      },
+      {
+        "name": "Rocket",
+        "level": 7
+      },
+      {
+        "name": "Lightning",
+        "level": 7
+      },
+      {
+        "name": "Flying Machine",
+        "level": 7
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 7
+      },
+      {
+        "name": "Royal Hogs",
+        "level": 7
+      },
+      {
+        "name": "Freeze",
+        "level": 7
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 7
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 6
+      },
+      {
+        "name": "Royal Giant",
+        "level": 6
+      }
+    ],
+    "at": "2026-11-15T07:08:33+00:00"
   }
 ]

@@ -2879,7 +2879,7 @@
       0
     ],
     "Ice Wizard": [
-      15,
+      16,
       0
     ],
     "Tornado": [
@@ -2887,7 +2887,7 @@
       0
     ],
     "Tesla": [
-      15,
+      16,
       1
     ],
     "The Log": [
@@ -24983,7 +24983,7 @@
       0
     ],
     "Mirror": [
-      9,
+      10,
       0
     ],
     "Lumberjack": [
@@ -25744,6 +25744,10 @@
     ],
     "Skeleton Barrel": [
       1,
+      0
+    ],
+    "Goblin Giant": [
+      6,
       0
     ]
   },
@@ -26911,15 +26915,15 @@
       0
     ],
     "Goblin Hut": [
-      5,
+      6,
       0
     ],
     "Spear Goblins": [
-      9,
+      10,
       0
     ],
     "Tombstone": [
-      6,
+      7,
       0
     ],
     "Giant Skeleton": [
@@ -26927,7 +26931,7 @@
       0
     ],
     "Tornado": [
-      6,
+      7,
       0
     ],
     "Skeleton Army": [
@@ -26943,7 +26947,7 @@
       0
     ],
     "Goblin Barrel": [
-      10,
+      11,
       1
     ],
     "Giant": [
@@ -26959,7 +26963,7 @@
       0
     ],
     "Barbarian Hut": [
-      6,
+      7,
       0
     ],
     "Barbarians": [
@@ -26987,7 +26991,7 @@
       0
     ],
     "Inferno Tower": [
-      6,
+      7,
       0
     ],
     "P.E.K.K.A": [
@@ -26995,7 +26999,7 @@
       0
     ],
     "Wizard": [
-      6,
+      7,
       0
     ],
     "Baby Dragon": [
@@ -27007,7 +27011,7 @@
       0
     ],
     "Furnace": [
-      6,
+      7,
       0
     ],
     "Valkyrie": [
@@ -27027,11 +27031,11 @@
       0
     ],
     "Rocket": [
-      6,
+      7,
       0
     ],
     "Lightning": [
-      6,
+      7,
       0
     ],
     "Bats": [
@@ -27043,7 +27047,7 @@
       0
     ],
     "Flying Machine": [
-      5,
+      7,
       0
     ],
     "Royal Recruits": [
@@ -27051,15 +27055,15 @@
       0
     ],
     "Royal Giant": [
-      5,
+      6,
       0
     ],
     "Three Musketeers": [
-      6,
+      7,
       0
     ],
     "Royal Hogs": [
-      6,
+      7,
       0
     ],
     "Poison": [
@@ -27111,7 +27115,7 @@
       0
     ],
     "Zap": [
-      10,
+      11,
       0
     ],
     "Archers": [
@@ -27143,7 +27147,7 @@
       0
     ],
     "Freeze": [
-      6,
+      7,
       0
     ],
     "Giant Snowball": [
@@ -27155,7 +27159,7 @@
       0
     ],
     "Goblin Giant": [
-      6,
+      7,
       0
     ],
     "Dart Goblin": [
@@ -27175,6 +27179,14 @@
       0
     ],
     "Tesla": [
+      1,
+      0
+    ],
+    "Rune Giant": [
+      7,
+      0
+    ],
+    "Berserker": [
       1,
       0
     ]
