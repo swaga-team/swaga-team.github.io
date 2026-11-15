@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8201,
+  "donationsPerWeek": 8239,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#QP0PPC0QU",
+      "name": "pshkzzz",
+      "role": "elder",
+      "lastSeen": "20261115T031855.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 8,
+      "donations": 46,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 379,
-      "donationsReceived": 460,
+      "donationsReceived": 470,
       "clanChestPoints": 0
     },
     {
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 576,
       "donationsReceived": 440,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 494,
       "donationsReceived": 360,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 7,
       "donations": 202,
       "donationsReceived": 120,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 4,
       "donations": 156,
       "donationsReceived": 440,
@@ -121,7 +139,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 2,
       "donations": 385,
       "donationsReceived": 80,
@@ -139,27 +157,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 7,
+      "clanRank": 8,
       "previousClanRank": 6,
       "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#QP0PPC0QU",
-      "name": "pshkzzz",
-      "role": "elder",
-      "lastSeen": "20261113T054831.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 8,
-      "previousClanRank": 8,
-      "donations": 8,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261114T134621.000Z",
+      "lastSeen": "20261115T032905.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 360,
+      "donationsReceived": 370,
       "clanChestPoints": 0
     },
     {
@@ -556,7 +556,7 @@
       "clanRank": 30,
       "previousClanRank": 31,
       "donations": 36,
-      "donationsReceived": 21,
+      "donationsReceived": 29,
       "clanChestPoints": 0
     },
     {
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261115T002055.000Z",
+      "lastSeen": "20261115T031553.000Z",
       "expLevel": 0,
       "trophies": 5177,
       "arena": {
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 32,
-      "donationsReceived": 450,
+      "donationsReceived": 460,
       "clanChestPoints": 0
     },
     {

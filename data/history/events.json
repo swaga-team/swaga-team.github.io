@@ -6384,5 +6384,21 @@
       }
     ],
     "at": "2026-11-15T02:10:58+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Lumberjack",
+        "level": 10
+      },
+      {
+        "name": "Arrows",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-15T03:57:00+00:00"
   }
 ]
