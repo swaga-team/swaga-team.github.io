@@ -341,15 +341,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9RJPRQLL2",
-        "name": "Morj",
-        "fame": 300,
-        "repairPoints": 0,
-        "boatAttacks": 4,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#J0VGQP9PY",
         "name": "алиса спийс❤️",
         "fame": 300,
@@ -404,6 +395,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#9RJPRQLL2",
+        "name": "Morj",
+        "fame": 650,
+        "repairPoints": 0,
+        "boatAttacks": 8,
+        "decksUsed": 8,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#2G2VYP9G",
         "name": "THE BOSS G.",
         "fame": 650,
@@ -451,20 +451,11 @@
       {
         "tag": "#U0QJL29PY",
         "name": "egor",
-        "fame": 1300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#LV0GVYYL8",
-        "name": "kkyo",
         "fame": 1400,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 0
+        "decksUsed": 9,
+        "decksUsedToday": 1
       },
       {
         "tag": "#228RGGVQV2",
@@ -492,6 +483,15 @@
         "boatAttacks": 0,
         "decksUsed": 12,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#LV0GVYYL8",
+        "name": "kkyo",
+        "fame": 1900,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 9,
+        "decksUsedToday": 2
       },
       {
         "tag": "#PL82RPJUJ",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 3200,
+    "periodPoints": 4150,
     "clanScore": 2175
   },
   "clans": [
@@ -1057,15 +1057,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9RJPRQLL2",
-          "name": "Morj",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#J0VGQP9PY",
           "name": "алиса спийс❤️",
           "fame": 300,
@@ -1120,6 +1111,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#9RJPRQLL2",
+          "name": "Morj",
+          "fame": 650,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#2G2VYP9G",
           "name": "THE BOSS G.",
           "fame": 650,
@@ -1167,20 +1167,11 @@
         {
           "tag": "#U0QJL29PY",
           "name": "egor",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#LV0GVYYL8",
-          "name": "kkyo",
           "fame": 1400,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 0
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#228RGGVQV2",
@@ -1208,6 +1199,15 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#LV0GVYYL8",
+          "name": "kkyo",
+          "fame": 1900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 2
         },
         {
           "tag": "#PL82RPJUJ",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3200,
+      "periodPoints": 4150,
       "clanScore": 2175
     },
     {
@@ -2042,15 +2042,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#2YCR89URU",
-          "name": "Ivan_PrO_XD",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VJGYGPPL9",
           "name": "pacs",
           "fame": 1300,
@@ -2069,6 +2060,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#2YCR89URU",
+          "name": "Ivan_PrO_XD",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
           "fame": 1900,
@@ -2078,7 +2078,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 1200,
+      "periodPoints": 1700,
       "clanScore": 2135
     },
     {
