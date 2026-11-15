@@ -824,13 +824,13 @@
     "expLevel": 58,
     "trophies": 13643,
     "bestTrophies": 13675,
-    "wins": 2404,
-    "losses": 1705,
-    "battleCount": 4109,
+    "wins": 2407,
+    "losses": 1709,
+    "battleCount": 4116,
     "threeCrownWins": 611,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 30947,
+    "totalDonations": 30955,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -905,11 +905,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dart Goblin",
+      "name": "Musketeer",
       "rarity": "rare",
-      "elixirCost": 3,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12015,
+    "trophies": 12073,
     "bestTrophies": 12270,
-    "wins": 2383,
+    "wins": 2385,
     "losses": 2588,
-    "battleCount": 4971,
+    "battleCount": 4973,
     "threeCrownWins": 1102,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13696,
+    "totalDonations": 13714,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2006,9 +2006,9 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2322,
+    "wins": 2323,
     "losses": 2159,
-    "battleCount": 4481,
+    "battleCount": 4482,
     "threeCrownWins": 788,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2275,13 +2275,13 @@
     "expLevel": 39,
     "trophies": 9769,
     "bestTrophies": 9802,
-    "wins": 1248,
-    "losses": 1099,
-    "battleCount": 2347,
-    "threeCrownWins": 696,
+    "wins": 1249,
+    "losses": 1100,
+    "battleCount": 2349,
+    "threeCrownWins": 697,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4826,
+    "totalDonations": 4846,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2349,11 +2349,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#22JLP29RV": {
@@ -2905,13 +2905,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2640,
+    "wins": 2642,
     "losses": 2747,
-    "battleCount": 5387,
+    "battleCount": 5389,
     "threeCrownWins": 1893,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37544,
+    "totalDonations": 37554,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4671,11 +4671,11 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 7787,
+    "trophies": 7695,
     "bestTrophies": 7787,
-    "wins": 1097,
-    "losses": 839,
-    "battleCount": 1936,
+    "wins": 1099,
+    "losses": 844,
+    "battleCount": 1943,
     "threeCrownWins": 347,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4754,11 +4754,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
+      "name": "Cannon Cart",
       "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
     }
   },
   "#90QGJUUG": {

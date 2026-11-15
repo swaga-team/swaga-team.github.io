@@ -314,15 +314,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9282CQQ90",
-        "name": "Чушпан",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9GVPRJQLL",
         "name": "NovaZonday",
         "fame": 200,
@@ -359,15 +350,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#YQ2VLPJ0L",
-        "name": "arch1tector",
-        "fame": 400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 450,
@@ -395,6 +377,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#9282CQQ90",
+        "name": "Чушпан",
+        "fame": 525,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 3,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#9RJPRQLL2",
         "name": "Morj",
         "fame": 650,
@@ -411,6 +402,15 @@
         "boatAttacks": 0,
         "decksUsed": 4,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#YQ2VLPJ0L",
+        "name": "arch1tector",
+        "fame": 800,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 7,
+        "decksUsedToday": 4
       },
       {
         "tag": "#U00CVC89C",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4150,
+    "periodPoints": 4875,
     "clanScore": 2175
   },
   "clans": [
@@ -1030,15 +1030,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9282CQQ90",
-          "name": "Чушпан",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9GVPRJQLL",
           "name": "NovaZonday",
           "fame": 200,
@@ -1075,15 +1066,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YQ2VLPJ0L",
-          "name": "arch1tector",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#22JLP29RV",
           "name": "Kale",
           "fame": 450,
@@ -1111,6 +1093,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#9282CQQ90",
+          "name": "Чушпан",
+          "fame": 525,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 3,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#9RJPRQLL2",
           "name": "Morj",
           "fame": 650,
@@ -1127,6 +1118,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#YQ2VLPJ0L",
+          "name": "arch1tector",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 7,
+          "decksUsedToday": 4
         },
         {
           "tag": "#U00CVC89C",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4150,
+      "periodPoints": 4875,
       "clanScore": 2175
     },
     {
@@ -2433,11 +2433,11 @@
         {
           "tag": "#202Q0YVP8V",
           "name": "Wiseman71",
-          "fame": 1200,
+          "fame": 1600,
           "repairPoints": 0,
-          "boatAttacks": 12,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "boatAttacks": 16,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#20CL00UJ",
@@ -2485,7 +2485,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2450,
+      "periodPoints": 2850,
       "clanScore": 2163
     }
   ],
