@@ -487,11 +487,11 @@
       {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
-        "fame": 1900,
+        "fame": 2100,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 9,
-        "decksUsedToday": 2
+        "decksUsed": 10,
+        "decksUsedToday": 3
       },
       {
         "tag": "#PL82RPJUJ",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5425,
+    "periodPoints": 5625,
     "clanScore": 2175
   },
   "clans": [
@@ -1203,11 +1203,11 @@
         {
           "tag": "#LV0GVYYL8",
           "name": "kkyo",
-          "fame": 1900,
+          "fame": 2100,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 2
+          "decksUsed": 10,
+          "decksUsedToday": 3
         },
         {
           "tag": "#PL82RPJUJ",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5425,
+      "periodPoints": 5625,
       "clanScore": 2175
     },
     {
