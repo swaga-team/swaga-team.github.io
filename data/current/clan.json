@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116260,
+  "clanScore": 116271,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -20,6 +20,24 @@
   "members": 42,
   "memberList": [
     {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261115T192819.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 385,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
       "role": "coLeader",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 4,
       "donations": 460,
       "donationsReceived": 520,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 548,
       "donationsReceived": 400,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 1,
       "donations": 717,
       "donationsReceived": 520,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 3,
       "donations": 280,
       "donationsReceived": 160,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 5,
       "donations": 166,
       "donationsReceived": 480,
@@ -121,28 +139,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 8,
       "donations": 46,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261114T070610.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 7,
-      "previousClanRank": 6,
-      "donations": 385,
-      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -293,7 +293,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261115T183935.000Z",
+      "lastSeen": "20261115T194731.000Z",
       "expLevel": 0,
       "trophies": 12073,
       "arena": {
@@ -401,7 +401,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261115T182423.000Z",
+      "lastSeen": "20261115T194716.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -527,9 +527,9 @@
       "tag": "#UY2UPL2GV",
       "name": "\"Erick\"",
       "role": "member",
-      "lastSeen": "20261114T224455.000Z",
+      "lastSeen": "20261115T193319.000Z",
       "expLevel": 0,
-      "trophies": 8298,
+      "trophies": 8384,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
