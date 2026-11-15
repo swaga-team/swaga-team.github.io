@@ -1283,7 +1283,7 @@
     "threeCrownWins": 636,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25498,
+    "totalDonations": 25526,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4218,12 +4218,12 @@
   },
   "#QU8082PC2": {
     "expLevel": 1,
-    "trophies": 6844,
-    "bestTrophies": 6935,
-    "wins": 476,
-    "losses": 280,
-    "battleCount": 756,
-    "threeCrownWins": 181,
+    "trophies": 6962,
+    "bestTrophies": 6962,
+    "wins": 481,
+    "losses": 281,
+    "battleCount": 762,
+    "threeCrownWins": 184,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -5046,12 +5046,12 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 2827,
+    "trophies": 2824,
     "bestTrophies": 2885,
-    "wins": 249,
-    "losses": 171,
-    "battleCount": 420,
-    "threeCrownWins": 101,
+    "wins": 252,
+    "losses": 174,
+    "battleCount": 426,
+    "threeCrownWins": 102,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 134,
@@ -5117,11 +5117,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Mini P.E.K.K.A",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#2QQG2QPCY": {
