@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117452,
+  "clanScore": 117448,
   "clanWarTrophies": 2175,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8239,
+  "donationsPerWeek": 8327,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261115T041315.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 419,
+      "donationsReceived": 480,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#QP0PPC0QU",
       "name": "pshkzzz",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 8,
       "donations": 46,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261115T003729.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 5,
-      "donations": 379,
-      "donationsReceived": 470,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 400,
-      "donationsReceived": 430,
+      "donationsReceived": 450,
       "clanChestPoints": 0
     },
     {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 370,
+      "donationsReceived": 390,
       "clanChestPoints": 0
     },
     {
@@ -416,24 +416,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#CJR008LV9",
-      "name": "cook",
-      "role": "member",
-      "lastSeen": "20261114T095157.000Z",
-      "expLevel": 0,
-      "trophies": 9802,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 23,
-      "previousClanRank": 27,
-      "donations": 318,
-      "donationsReceived": 320,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
@@ -445,7 +427,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 24,
+      "clanRank": 23,
       "previousClanRank": 23,
       "donations": 282,
       "donationsReceived": 0,
@@ -463,10 +445,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 24,
       "previousClanRank": 24,
       "donations": 0,
       "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CJR008LV9",
+      "name": "cook",
+      "role": "member",
+      "lastSeen": "20261115T041401.000Z",
+      "expLevel": 0,
+      "trophies": 9769,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 25,
+      "previousClanRank": 27,
+      "donations": 366,
+      "donationsReceived": 330,
       "clanChestPoints": 0
     },
     {
@@ -556,7 +556,7 @@
       "clanRank": 30,
       "previousClanRank": 31,
       "donations": 36,
-      "donationsReceived": 29,
+      "donationsReceived": 37,
       "clanChestPoints": 0
     },
     {
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 32,
-      "donationsReceived": 460,
+      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
@@ -725,7 +725,7 @@
       "tag": "#YYV2V82G0",
       "name": "•Harrison Ford•",
       "role": "member",
-      "lastSeen": "20261114T092950.000Z",
+      "lastSeen": "20261115T042954.000Z",
       "expLevel": 0,
       "trophies": 3000,
       "arena": {

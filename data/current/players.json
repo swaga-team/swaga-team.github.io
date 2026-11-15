@@ -180,13 +180,13 @@
     "expLevel": 63,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2220,
-    "losses": 1491,
-    "battleCount": 3711,
+    "wins": 2222,
+    "losses": 1493,
+    "battleCount": 3715,
     "threeCrownWins": 1073,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35333,
+    "totalDonations": 35373,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -261,11 +261,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Princess",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Rocket",
+      "rarity": "rare",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
     }
   },
   "#9JQ8PCJ": {
@@ -2273,15 +2273,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9802,
+    "trophies": 9769,
     "bestTrophies": 9802,
-    "wins": 1245,
-    "losses": 1095,
-    "battleCount": 2340,
-    "threeCrownWins": 694,
+    "wins": 1248,
+    "losses": 1099,
+    "battleCount": 2347,
+    "threeCrownWins": 696,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4778,
+    "totalDonations": 4826,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2356,11 +2356,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {
@@ -4864,9 +4864,9 @@
     "expLevel": 1,
     "trophies": 5177,
     "bestTrophies": 5177,
-    "wins": 703,
+    "wins": 705,
     "losses": 378,
-    "battleCount": 1081,
+    "battleCount": 1083,
     "threeCrownWins": 175,
     "warDayWins": 0,
     "clanCardsCollected": 0,
