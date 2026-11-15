@@ -677,15 +677,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2L8LR0QGU",
-          "name": "mr.tvister",
-          "fame": 1450,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
           "fame": 1650,
@@ -711,9 +702,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2L8LR0QGU",
+          "name": "mr.tvister",
+          "fame": 2100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 1150,
       "clanScore": 2164
     },
     {
@@ -1653,15 +1653,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CYYPJQP9R",
-          "name": "adev3",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#ULCYG0VGV",
           "name": "TheMrPoop",
           "fame": 1375,
@@ -1669,6 +1660,15 @@
           "boatAttacks": 7,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#CYYPJQP9R",
+          "name": "adev3",
+          "fame": 1700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#9LUL08PLJ",
@@ -1689,7 +1689,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1625,
+      "periodPoints": 2025,
       "clanScore": 2120
     },
     {
@@ -2431,24 +2431,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 1600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 1750,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 2000,
@@ -2467,6 +2449,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 2200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
           "fame": 2250,
@@ -2474,9 +2465,18 @@
           "boatAttacks": 2,
           "decksUsed": 14,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 2400,
+          "repairPoints": 0,
+          "boatAttacks": 6,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 200,
+      "periodPoints": 1450,
       "clanScore": 2163
     }
   ],
