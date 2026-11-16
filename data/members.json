@@ -2,8 +2,8 @@
   "#LV0GVYYL8": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 818,
-      "current": 470,
+      "closed": 1288,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -12,12 +12,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 376
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 470
         }
       ]
     },
     "donations_received": {
-      "closed": 950,
-      "current": 530,
+      "closed": 1480,
+      "current": 10,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -26,21 +30,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 470
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 530
         }
       ]
     },
     "name": "kkyo",
     "role": "coLeader",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
   "#8UCG80RYR": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 318,
-      "current": 280,
+      "closed": 598,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -49,12 +57,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 166
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 280
         }
       ]
     },
     "donations_received": {
-      "closed": 80,
-      "current": 160,
+      "closed": 240,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -63,21 +75,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 40
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 160
         }
       ]
     },
     "name": "Daisy Sprout",
     "role": "leader",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
   "#QP0PPC0QU": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 319,
-      "current": 46,
+      "closed": 365,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -86,6 +102,10 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 125
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 46
         }
       ]
     },
@@ -106,15 +126,15 @@
     "name": "pshkzzz",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-31",
     "joined_precision": "approx"
   },
   "#R98U8U290": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 433,
-      "current": 385,
+      "closed": 818,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -123,25 +143,35 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 245
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 385
         }
       ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 80
+      "closed": 80,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 80
+        }
+      ]
     },
     "name": "tenkuu.☁️",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
   "#9JQ8PCJ": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 206,
-      "current": 166,
+      "closed": 372,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -150,12 +180,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 92
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 166
         }
       ]
     },
     "donations_received": {
-      "closed": 760,
-      "current": 480,
+      "closed": 1240,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -164,13 +198,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 280
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 480
         }
       ]
     },
     "name": "lastiq",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-05",
     "joined_precision": "approx"
   },
@@ -207,15 +245,15 @@
     "name": "GamerPro",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-12",
     "joined_precision": "approx"
   },
   "#CGPUY8P2": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 750,
-      "current": 548,
+      "closed": 1298,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -224,12 +262,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 368
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 548
         }
       ]
     },
     "donations_received": {
-      "closed": 720,
-      "current": 400,
+      "closed": 1120,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -238,13 +280,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 360
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 400
         }
       ]
     },
     "name": "BIG BOY",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
@@ -268,8 +314,8 @@
   "#U0QJL29PY": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 230,
-      "current": 264,
+      "closed": 494,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -278,12 +324,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 72
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 264
         }
       ]
     },
     "donations_received": {
-      "closed": 400,
-      "current": 320,
+      "closed": 720,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -292,21 +342,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 160
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 320
         }
       ]
     },
     "name": "egor",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
   "#YQ2VLPJ0L": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 648,
-      "current": 354,
+      "closed": 1002,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -315,12 +369,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 210
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 354
         }
       ]
     },
     "donations_received": {
-      "closed": 560,
-      "current": 350,
+      "closed": 910,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -329,21 +387,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 200
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 350
         }
       ]
     },
     "name": "arch1tector",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-31",
     "joined_precision": "approx"
   },
   "#8LRPG2VPQ": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 920,
-      "current": 238,
+      "closed": 1158,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -352,6 +414,10 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 334
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 238
         }
       ]
     },
@@ -368,7 +434,7 @@
     "name": "CHLE N EGRA",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
@@ -392,8 +458,8 @@
   "#Q2RJCVYUQ": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 122,
-      "current": 16,
+      "closed": 138,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -402,6 +468,10 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 94
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 16
         }
       ]
     },
@@ -412,7 +482,7 @@
     "name": "NEVIDIMKA YT",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-05",
     "joined_precision": "approx"
   },
@@ -452,8 +522,8 @@
   "#PL82RPJUJ": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 600,
-      "current": 454,
+      "closed": 1054,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -462,12 +532,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 512
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 454
         }
       ]
     },
     "donations_received": {
-      "closed": 570,
-      "current": 540,
+      "closed": 1110,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -476,21 +550,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 480
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 540
         }
       ]
     },
     "name": ")))",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-05",
     "joined_precision": "approx"
   },
   "#29GJQ0G9Q": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 242,
-      "current": 178,
+      "closed": 420,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -499,12 +577,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 124
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 178
         }
       ]
     },
     "donations_received": {
-      "closed": 560,
-      "current": 280,
+      "closed": 840,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -513,21 +595,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 280
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 280
         }
       ]
     },
     "name": "✨R_U_B_I_N✨",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
   "#PQQ2JYL2G": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 1220,
-      "current": 825,
+      "closed": 2045,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -536,12 +622,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 634
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 825
         }
       ]
     },
     "donations_received": {
-      "closed": 1000,
-      "current": 520,
+      "closed": 1520,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -550,13 +640,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 480
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 520
         }
       ]
     },
     "name": "MFbren",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-31",
     "joined_precision": "approx"
   },
@@ -624,8 +718,8 @@
       "current": 0
     },
     "donations_received": {
-      "closed": 680,
-      "current": 440,
+      "closed": 1120,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -634,13 +728,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 320
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 440
         }
       ]
     },
     "name": "king abolfazl",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-12",
     "joined_precision": "approx"
   },
@@ -690,15 +788,15 @@
     "name": "Michael",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-05",
     "joined_precision": "approx"
   },
   "#GQQL9YLYQ": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 817,
-      "current": 310,
+      "closed": 1127,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -707,6 +805,10 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 364
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 310
         }
       ]
     },
@@ -717,15 +819,15 @@
     "name": "Ter",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
   "#9RJPRQLL2": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 762,
-      "current": 143,
+      "closed": 905,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -734,12 +836,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 172
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 143
         }
       ]
     },
     "donations_received": {
-      "closed": 880,
-      "current": 200,
+      "closed": 1080,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -748,21 +854,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 280
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 200
         }
       ]
     },
     "name": "Morj",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "approx"
   },
   "#JU2L2U8LG": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 284,
-      "current": 328,
+      "closed": 612,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -771,31 +881,39 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 182
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 328
         }
       ]
     },
     "donations_received": {
-      "closed": 120,
-      "current": 240,
+      "closed": 360,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 120
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 240
         }
       ]
     },
     "name": "адцкий гей",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-09-21",
     "joined_precision": "approx"
   },
   "#CJR008LV9": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 778,
-      "current": 386,
+      "closed": 1164,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -804,12 +922,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 184
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 386
         }
       ]
     },
     "donations_received": {
-      "closed": 720,
-      "current": 394,
+      "closed": 1114,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -818,21 +940,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 320
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 394
         }
       ]
     },
     "name": "cook",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-19",
     "joined_precision": "approx"
   },
   "#22JLP29RV": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 45,
-      "current": 22,
+      "closed": 67,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -841,12 +967,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 35
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 22
         }
       ]
     },
     "donations_received": {
-      "closed": 552,
-      "current": 320,
+      "closed": 872,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -855,13 +985,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 160
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 320
         }
       ]
     },
     "name": "Kale",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-09-21",
     "joined_precision": "approx"
   },
@@ -885,37 +1019,45 @@
   "#UY2UPL2GV": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 83,
-      "current": 36,
+      "closed": 119,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
           "value": 83
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 36
         }
       ]
     },
     "donations_received": {
-      "closed": 80,
-      "current": 40,
+      "closed": 120,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
           "value": 80
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 40
         }
       ]
     },
     "name": "\"Erick\"",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-05",
     "joined_precision": "approx"
   },
   "#9JPPYRL90": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 134,
-      "current": 98,
+      "closed": 232,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -924,12 +1066,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 92
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 98
         }
       ]
     },
     "donations_received": {
-      "closed": 160,
-      "current": 40,
+      "closed": 200,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -938,13 +1084,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 80
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 40
         }
       ]
     },
     "name": "disruption",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-31",
     "joined_precision": "approx"
   },
@@ -997,8 +1147,8 @@
   "#9282CQQ90": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 342,
-      "current": 183,
+      "closed": 525,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1007,12 +1157,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 212
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 183
         }
       ]
     },
     "donations_received": {
-      "closed": 400,
-      "current": 280,
+      "closed": 680,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1021,21 +1175,25 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 320
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 280
         }
       ]
     },
     "name": "Чушпан",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-12",
     "joined_precision": "approx"
   },
   "#GQP92GLC8": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 96,
-      "current": 10,
+      "closed": 106,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1044,6 +1202,10 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 28
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 10
         }
       ]
     },
@@ -1064,7 +1226,7 @@
     "name": "Adawell",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-10-05",
     "joined_precision": "approx"
   },
@@ -1105,8 +1267,8 @@
   "#V0RCP20LR": {
     "first_seen": "2026-10-27T06:08:26+00:00",
     "donations": {
-      "closed": 862,
-      "current": 668,
+      "closed": 1530,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1115,12 +1277,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 412
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 668
         }
       ]
     },
     "donations_received": {
-      "closed": 920,
-      "current": 520,
+      "closed": 1440,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1129,13 +1295,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 480
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 520
         }
       ]
     },
     "name": "подписични черв",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00",
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00",
     "joined": "2026-08-24",
     "joined_precision": "before"
   },
@@ -1196,8 +1366,8 @@
   "#VJQQLCJP8": {
     "first_seen": "2026-10-29T20:50:15+00:00",
     "donations": {
-      "closed": 134,
-      "current": 38,
+      "closed": 172,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1206,12 +1376,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 32
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 38
         }
       ]
     },
     "donations_received": {
-      "closed": 330,
-      "current": 150,
+      "closed": 480,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1220,19 +1394,23 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 200
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 150
         }
       ]
     },
     "name": "Генри lll",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#PLUQRR22G": {
     "first_seen": "2026-10-30T04:52:35+00:00",
     "donations": {
-      "closed": 190,
-      "current": 139,
+      "closed": 329,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1241,6 +1419,10 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 159
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 139
         }
       ]
     },
@@ -1251,13 +1433,13 @@
     "name": "ветмо",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#9GVPRJQLL": {
     "first_seen": "2026-10-30T10:52:09+00:00",
     "donations": {
-      "closed": 196,
-      "current": 10,
+      "closed": 206,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1266,12 +1448,16 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 70
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 10
         }
       ]
     },
     "donations_received": {
-      "closed": 400,
-      "current": 40,
+      "closed": 440,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-02T01:09:11+00:00",
@@ -1280,13 +1466,17 @@
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 200
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 40
         }
       ]
     },
     "name": "NovaZonday",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#RYRY0V89G": {
     "first_seen": "2026-10-31T02:52:05+00:00",
@@ -1364,29 +1554,37 @@
   "#J0VGQP9PY": {
     "first_seen": "2026-11-05T20:55:06+00:00",
     "donations": {
-      "closed": 8,
-      "current": 118,
+      "closed": 126,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 8
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 118
         }
       ]
     },
     "donations_received": {
-      "closed": 40,
-      "current": 100,
+      "closed": 140,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 40
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 100
         }
       ]
     },
     "name": "алиса спийс❤️",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#QU8082PC2": {
     "first_seen": "2026-11-05T23:48:59+00:00",
@@ -1406,29 +1604,37 @@
   "#PQQGRL028": {
     "first_seen": "2026-11-06T07:20:39+00:00",
     "donations": {
-      "closed": 272,
-      "current": 717,
+      "closed": 989,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 272
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 717
         }
       ]
     },
     "donations_received": {
-      "closed": 160,
-      "current": 520,
+      "closed": 680,
+      "current": 0,
       "weeks": [
         {
           "closed_at": "2026-11-09T01:12:28+00:00",
           "value": 160
+        },
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 520
         }
       ]
     },
     "name": "govnoed",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#8RYCGVUV0": {
     "first_seen": "2026-11-06T11:08:01+00:00",
@@ -1475,32 +1681,56 @@
   "#U00CVC89C": {
     "first_seen": "2026-11-08T10:49:27+00:00",
     "donations": {
-      "closed": 0,
-      "current": 72
+      "closed": 72,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 72
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 80
+      "closed": 80,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 80
+        }
+      ]
     },
     "name": "Zenitsu",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#VJJUCQLVY": {
     "first_seen": "2026-11-09T11:02:29+00:00",
     "donations": {
-      "closed": 0,
-      "current": 840
+      "closed": 840,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 840
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 520
+      "closed": 520,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 520
+        }
+      ]
     },
     "name": "Картошка Боб",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#90QGJUUG": {
     "first_seen": "2026-11-09T15:00:08+00:00",
@@ -1515,82 +1745,142 @@
     "name": "Narek",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#228RGGVQV2": {
     "first_seen": "2026-11-09T15:00:08+00:00",
     "donations": {
-      "closed": 0,
-      "current": 32
+      "closed": 32,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 32
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 560
+      "closed": 560,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 560
+        }
+      ]
     },
     "name": "Infamous",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#2G2VYP9G": {
     "first_seen": "2026-11-09T17:15:24+00:00",
     "donations": {
-      "closed": 0,
-      "current": 54
+      "closed": 54,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 54
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 120
+      "closed": 120,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 120
+        }
+      ]
     },
     "name": "THE BOSS G.",
     "role": "elder",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#VC298L8UV": {
     "first_seen": "2026-11-09T19:59:11+00:00",
     "donations": {
-      "closed": 0,
-      "current": 160
+      "closed": 160,
+      "current": 10,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 160
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 420
+      "closed": 420,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 420
+        }
+      ]
     },
     "name": "ink",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#2QQG2QPCY": {
     "first_seen": "2026-11-09T22:51:48+00:00",
     "donations": {
-      "closed": 0,
-      "current": 289
+      "closed": 289,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 289
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 380
+      "closed": 380,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 380
+        }
+      ]
     },
     "name": "Clasher",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#VU2P0VJYC": {
     "first_seen": "2026-11-11T17:58:49+00:00",
     "donations": {
-      "closed": 0,
-      "current": 265
+      "closed": 265,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 265
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 160
+      "closed": 160,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 160
+        }
+      ]
     },
     "name": "BigHandsomeMan",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#8P8JU9LLJ": {
     "first_seen": "2026-11-11T20:04:42+00:00",
@@ -1605,7 +1895,7 @@
     "name": "Bussystar",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   },
   "#YYV2V82G0": {
     "first_seen": "2026-11-12T07:25:34+00:00",
@@ -1640,16 +1930,28 @@
   "#YGQU2GCJR": {
     "first_seen": "2026-11-13T13:13:44+00:00",
     "donations": {
-      "closed": 0,
-      "current": 122
+      "closed": 122,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 122
+        }
+      ]
     },
     "donations_received": {
-      "closed": 0,
-      "current": 200
+      "closed": 200,
+      "current": 0,
+      "weeks": [
+        {
+          "closed_at": "2026-11-16T01:29:59+00:00",
+          "value": 200
+        }
+      ]
     },
     "name": "Fen1ks",
     "role": "member",
     "in_clan": true,
-    "last_seen_in_clan": "2026-11-15T23:52:02+00:00"
+    "last_seen_in_clan": "2026-11-16T01:29:59+00:00"
   }
 }

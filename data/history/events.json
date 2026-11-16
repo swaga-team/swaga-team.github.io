@@ -6754,5 +6754,21 @@
       }
     ],
     "at": "2026-11-15T23:52:02+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Executioner",
+        "level": 13
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-16T01:29:59+00:00"
   }
 ]
