@@ -341,15 +341,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#29GJQ0G9Q",
-        "name": "✨R_U_B_I_N✨",
-        "fame": 400,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 450,
@@ -384,6 +375,15 @@
         "boatAttacks": 1,
         "decksUsed": 3,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#29GJQ0G9Q",
+        "name": "✨R_U_B_I_N✨",
+        "fame": 600,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 1
       },
       {
         "tag": "#9RJPRQLL2",
@@ -440,15 +440,6 @@
         "decksUsedToday": 3
       },
       {
-        "tag": "#PQQGRL028",
-        "name": "govnoed",
-        "fame": 1200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#U0QJL29PY",
         "name": "egor",
         "fame": 1400,
@@ -456,6 +447,15 @@
         "boatAttacks": 0,
         "decksUsed": 9,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#PQQGRL028",
+        "name": "govnoed",
+        "fame": 1500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 10,
+        "decksUsedToday": 2
       },
       {
         "tag": "#228RGGVQV2",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5625,
+    "periodPoints": 6125,
     "clanScore": 2175
   },
   "clans": [
@@ -1057,15 +1057,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#29GJQ0G9Q",
-          "name": "✨R_U_B_I_N✨",
-          "fame": 400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#22JLP29RV",
           "name": "Kale",
           "fame": 450,
@@ -1100,6 +1091,15 @@
           "boatAttacks": 1,
           "decksUsed": 3,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#29GJQ0G9Q",
+          "name": "✨R_U_B_I_N✨",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 1
         },
         {
           "tag": "#9RJPRQLL2",
@@ -1156,15 +1156,6 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#PQQGRL028",
-          "name": "govnoed",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#U0QJL29PY",
           "name": "egor",
           "fame": 1400,
@@ -1172,6 +1163,15 @@
           "boatAttacks": 0,
           "decksUsed": 9,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#PQQGRL028",
+          "name": "govnoed",
+          "fame": 1500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#228RGGVQV2",
@@ -1255,7 +1255,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5625,
+      "periodPoints": 6125,
       "clanScore": 2175
     },
     {

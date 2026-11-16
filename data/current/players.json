@@ -95,9 +95,9 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3750,
+    "wins": 3752,
     "losses": 2102,
-    "battleCount": 5852,
+    "battleCount": 5854,
     "threeCrownWins": 1081,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -1367,12 +1367,12 @@
   },
   "#29GJQ0G9Q": {
     "expLevel": 63,
-    "trophies": 11523,
-    "bestTrophies": 11523,
-    "wins": 3646,
-    "losses": 2830,
-    "battleCount": 6476,
-    "threeCrownWins": 2723,
+    "trophies": 11555,
+    "bestTrophies": 11555,
+    "wins": 3650,
+    "losses": 2832,
+    "battleCount": 6482,
+    "threeCrownWins": 2724,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
     "totalDonations": 73067,
@@ -1405,13 +1405,6 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "The Log",
@@ -1450,11 +1443,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Minion Horde",
-      "rarity": "common",
-      "elixirCost": 5,
+      "name": "Electro Wizard",
+      "rarity": "legendary",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#PQQ2JYL2G": {
@@ -2280,15 +2273,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9769,
+    "trophies": 9797,
     "bestTrophies": 9802,
-    "wins": 1249,
-    "losses": 1100,
-    "battleCount": 2349,
-    "threeCrownWins": 697,
+    "wins": 1251,
+    "losses": 1101,
+    "battleCount": 2352,
+    "threeCrownWins": 698,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4846,
+    "totalDonations": 4876,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2311,6 +2304,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2356,20 +2356,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {
     "expLevel": 42,
-    "trophies": 9261,
+    "trophies": 9230,
     "bestTrophies": 9261,
     "wins": 2673,
-    "losses": 2819,
-    "battleCount": 5492,
+    "losses": 2820,
+    "battleCount": 5493,
     "threeCrownWins": 1666,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
@@ -4319,13 +4319,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1872,
-    "losses": 1218,
-    "battleCount": 3090,
-    "threeCrownWins": 827,
+    "wins": 1873,
+    "losses": 1219,
+    "battleCount": 3092,
+    "threeCrownWins": 828,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28550,
+    "totalDonations": 28560,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
