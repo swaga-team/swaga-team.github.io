@@ -487,11 +487,11 @@
       {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
-        "fame": 2100,
+        "fame": 2200,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 10,
-        "decksUsedToday": 3
+        "decksUsed": 11,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PL82RPJUJ",
@@ -539,7 +539,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6125,
+    "periodPoints": 6225,
     "clanScore": 2175
   },
   "clans": [
@@ -632,6 +632,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YYJUQPGPU",
+          "name": "GARCIA",
+          "fame": 75,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#YVCPRVC88",
           "name": "Thunder ⚡",
           "fame": 100,
@@ -713,7 +722,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2575,
+      "periodPoints": 2650,
       "clanScore": 2164
     },
     {
@@ -1203,11 +1212,11 @@
         {
           "tag": "#LV0GVYYL8",
           "name": "kkyo",
-          "fame": 2100,
+          "fame": 2200,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 10,
-          "decksUsedToday": 3
+          "decksUsed": 11,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PL82RPJUJ",
@@ -1255,7 +1264,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6125,
+      "periodPoints": 6225,
       "clanScore": 2175
     },
     {
@@ -1635,15 +1644,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CQVCRUC89",
           "name": "Dek jie",
           "fame": 1600,
@@ -1680,6 +1680,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 1850,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1950,
@@ -1689,7 +1698,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3425,
+      "periodPoints": 4075,
       "clanScore": 2120
     },
     {
@@ -1837,6 +1846,15 @@
         {
           "tag": "#U09028GUY",
           "name": "gosho 1",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#20GRUCUL8",
+          "name": "KOKI",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

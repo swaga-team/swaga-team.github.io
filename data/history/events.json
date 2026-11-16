@@ -6803,5 +6803,41 @@
       }
     ],
     "at": "2026-11-16T04:19:58+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#LV0GVYYL8",
+    "name": "kkyo",
+    "cards": [
+      {
+        "name": "Wall Breakers",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-16T06:21:05+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Skeleton Army",
+        "level": 10
+      },
+      {
+        "name": "Hunter",
+        "level": 10
+      },
+      {
+        "name": "Mortar",
+        "level": 9
+      },
+      {
+        "name": "Musketeer",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-16T06:21:05+00:00"
   }
 ]
