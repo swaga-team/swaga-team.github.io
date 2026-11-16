@@ -6839,5 +6839,87 @@
       }
     ],
     "at": "2026-11-16T06:21:05+00:00"
+  },
+  {
+    "type": "war_week",
+    "at": "2026-11-16T09:40:06+00:00",
+    "season": 138,
+    "week": 2,
+    "rank": 1,
+    "fame": 10000,
+    "trophy_change": 20,
+    "best": {
+      "tag": "#V0RCP20LR",
+      "name": "подписични черв",
+      "fame": 2950
+    }
+  },
+  {
+    "type": "cards",
+    "tag": "#R98U8U290",
+    "name": "tenkuu.☁️",
+    "cards": [
+      {
+        "name": "Royal Recruits",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-16T09:45:24+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "cards": [
+      {
+        "name": "Royal Giant",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-16T09:45:24+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PL82RPJUJ",
+    "name": ")))",
+    "cards": [
+      {
+        "name": "Cannon",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-16T09:45:24+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CJR008LV9",
+    "name": "cook",
+    "cards": [
+      {
+        "name": "The Log",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-16T09:45:24+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J0VGQP9PY",
+    "name": "алиса спийс❤️",
+    "cards": [
+      {
+        "name": "Cannon",
+        "level": 9
+      },
+      {
+        "name": "Minions",
+        "level": 8
+      },
+      {
+        "name": "Skeleton Army",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-16T09:45:24+00:00"
   }
 ]
