@@ -7106,5 +7106,47 @@
       }
     ],
     "at": "2026-11-16T16:45:11+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YGQU2GCJR",
+    "name": "Fen1ks",
+    "cards": [
+      {
+        "name": "Wizard",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-16T18:06:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Tornado",
+        "level": 11
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 11
+      },
+      {
+        "name": "Electro Dragon",
+        "level": 11
+      },
+      {
+        "name": "Executioner",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-16T18:06:33+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#90QGJUUG",
+    "name": "Narek",
+    "at": "2026-11-16T18:06:33+00:00"
   }
 ]

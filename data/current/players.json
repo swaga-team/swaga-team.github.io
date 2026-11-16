@@ -101,7 +101,7 @@
     "threeCrownWins": 1081,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41802,
+    "totalDonations": 41812,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -1452,11 +1452,11 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12155,
+    "trophies": 12125,
     "bestTrophies": 12270,
     "wins": 2401,
-    "losses": 2601,
-    "battleCount": 5002,
+    "losses": 2602,
+    "battleCount": 5003,
     "threeCrownWins": 1105,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2006,13 +2006,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2325,
+    "wins": 2326,
     "losses": 2159,
-    "battleCount": 4484,
-    "threeCrownWins": 788,
+    "battleCount": 4485,
+    "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18341,
+    "totalDonations": 18351,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2087,24 +2087,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant",
+      "name": "Battle Ram",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
     }
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
     "trophies": 9672,
     "bestTrophies": 9672,
-    "wins": 1039,
+    "wins": 1041,
     "losses": 696,
-    "battleCount": 1735,
-    "threeCrownWins": 509,
+    "battleCount": 1737,
+    "threeCrownWins": 510,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3256,
+    "totalDonations": 3266,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2179,11 +2179,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Boss Bandit",
-      "rarity": "champion",
-      "elixirCost": 6,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#JU2L2U8LG": {
@@ -2927,12 +2927,12 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2660,
-    "losses": 2760,
-    "battleCount": 5420,
+    "losses": 2761,
+    "battleCount": 5421,
     "threeCrownWins": 1899,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37554,
+    "totalDonations": 37564,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3300,7 +3300,7 @@
     "threeCrownWins": 2635,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21408,
+    "totalDonations": 21418,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4694,13 +4694,13 @@
     "expLevel": 1,
     "trophies": 8008,
     "bestTrophies": 8156,
-    "wins": 1138,
-    "losses": 874,
-    "battleCount": 2012,
-    "threeCrownWins": 363,
+    "wins": 1141,
+    "losses": 875,
+    "battleCount": 2016,
+    "threeCrownWins": 364,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2529,
+    "totalDonations": 2549,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5060,11 +5060,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3003,
-    "bestTrophies": 3030,
-    "wins": 271,
-    "losses": 188,
-    "battleCount": 459,
+    "trophies": 3036,
+    "bestTrophies": 3036,
+    "wins": 273,
+    "losses": 189,
+    "battleCount": 462,
     "threeCrownWins": 106,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5131,11 +5131,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5550,13 +5550,13 @@
     "expLevel": 42,
     "trophies": 12267,
     "bestTrophies": 12267,
-    "wins": 1212,
+    "wins": 1214,
     "losses": 676,
-    "battleCount": 1888,
-    "threeCrownWins": 431,
+    "battleCount": 1890,
+    "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16088,
+    "totalDonations": 16098,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
