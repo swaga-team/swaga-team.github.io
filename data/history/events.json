@@ -7222,5 +7222,29 @@
       }
     ],
     "at": "2026-11-16T21:54:24+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VQJPUULJV",
+    "name": "триппи",
+    "cards": [
+      {
+        "name": "Minions",
+        "level": 12
+      },
+      {
+        "name": "Freeze",
+        "level": 12
+      },
+      {
+        "name": "Ice Golem",
+        "level": 12
+      },
+      {
+        "name": "Lumberjack",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-16T23:49:09+00:00"
   }
 ]
