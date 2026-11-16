@@ -180,13 +180,13 @@
     "expLevel": 63,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2226,
-    "losses": 1495,
-    "battleCount": 3721,
+    "wins": 2229,
+    "losses": 1500,
+    "battleCount": 3729,
     "threeCrownWins": 1074,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35476,
+    "totalDonations": 35500,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -261,11 +261,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
-      "rarity": "common",
+      "name": "Princess",
+      "rarity": "legendary",
       "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
     }
   },
   "#9JQ8PCJ": {
@@ -822,15 +822,15 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13584,
+    "trophies": 13675,
     "bestTrophies": 13675,
-    "wins": 2408,
-    "losses": 1712,
-    "battleCount": 4120,
+    "wins": 2415,
+    "losses": 1717,
+    "battleCount": 4132,
     "threeCrownWins": 611,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31001,
+    "totalDonations": 31043,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -905,11 +905,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Poison",
-      "rarity": "epic",
+      "name": "Hog Rider",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -1290,7 +1290,7 @@
     "threeCrownWins": 636,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25580,
+    "totalDonations": 25596,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12249,
+    "trophies": 12248,
     "bestTrophies": 12279,
-    "wins": 2406,
-    "losses": 2603,
-    "battleCount": 5009,
+    "wins": 2407,
+    "losses": 2604,
+    "battleCount": 5011,
     "threeCrownWins": 1106,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13868,
+    "totalDonations": 13880,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2098,13 +2098,13 @@
     "expLevel": 20,
     "trophies": 9641,
     "bestTrophies": 9672,
-    "wins": 1041,
+    "wins": 1042,
     "losses": 697,
-    "battleCount": 1738,
+    "battleCount": 1739,
     "threeCrownWins": 510,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3266,
+    "totalDonations": 3283,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2188,15 +2188,15 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9738,
-    "bestTrophies": 9738,
-    "wins": 1080,
+    "trophies": 9768,
+    "bestTrophies": 9768,
+    "wins": 1083,
     "losses": 847,
-    "battleCount": 1927,
-    "threeCrownWins": 548,
+    "battleCount": 1930,
+    "threeCrownWins": 551,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3817,
+    "totalDonations": 3841,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2271,11 +2271,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Barrel",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Mini P.E.K.K.A",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#CJR008LV9": {
@@ -2926,9 +2926,9 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2666,
-    "losses": 2764,
-    "battleCount": 5430,
+    "wins": 2670,
+    "losses": 2769,
+    "battleCount": 5439,
     "threeCrownWins": 1902,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3007,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Minions",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "X-Bow",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
     }
   },
   "#GQP92GLC8": {
@@ -5550,13 +5550,13 @@
     "expLevel": 42,
     "trophies": 12267,
     "bestTrophies": 12267,
-    "wins": 1214,
-    "losses": 676,
-    "battleCount": 1890,
+    "wins": 1215,
+    "losses": 679,
+    "battleCount": 1894,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16098,
+    "totalDonations": 16118,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
