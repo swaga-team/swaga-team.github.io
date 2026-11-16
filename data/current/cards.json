@@ -17633,7 +17633,7 @@
       0
     ],
     "Musketeer": [
-      14,
+      15,
       1
     ],
     "Spear Goblins": [
@@ -17693,7 +17693,7 @@
       0
     ],
     "Bomb Tower": [
-      12,
+      13,
       0
     ],
     "Wizard": [
@@ -17741,7 +17741,7 @@
       0
     ],
     "Skeleton Army": [
-      12,
+      13,
       1
     ],
     "Goblin Barrel": [
@@ -17749,7 +17749,7 @@
       0
     ],
     "Baby Dragon": [
-      12,
+      13,
       0
     ],
     "P.E.K.K.A": [
@@ -17785,7 +17785,7 @@
       0
     ],
     "Dark Prince": [
-      12,
+      13,
       0
     ],
     "Ice Golem": [
@@ -17805,11 +17805,11 @@
       0
     ],
     "Poison": [
-      12,
+      13,
       0
     ],
     "Skeleton Barrel": [
-      13,
+      14,
       1
     ],
     "Prince": [
@@ -17837,7 +17837,7 @@
       0
     ],
     "Dart Goblin": [
-      13,
+      14,
       1
     ],
     "Rune Giant": [
@@ -17849,11 +17849,11 @@
       0
     ],
     "Lumberjack": [
-      12,
+      13,
       1
     ],
     "Hunter": [
-      12,
+      13,
       1
     ],
     "Tesla": [
@@ -17905,7 +17905,7 @@
       1
     ],
     "Furnace": [
-      12,
+      13,
       1
     ],
     "Goblin Demolisher": [
@@ -17955,6 +17955,10 @@
     "Firecracker": [
       7,
       0
+    ],
+    "Mirror": [
+      8,
+      1
     ]
   },
   "#VGVQG0CVG": {
@@ -18592,7 +18596,7 @@
     ],
     "Archers": [
       8,
-      0
+      1
     ],
     "Minions": [
       9,
@@ -18603,7 +18607,7 @@
       0
     ],
     "Fireball": [
-      7,
+      8,
       0
     ],
     "Giant": [
@@ -18631,7 +18635,7 @@
       0
     ],
     "Skeletons": [
-      10,
+      11,
       1
     ],
     "Spear Goblins": [
@@ -18683,7 +18687,7 @@
       0
     ],
     "Wizard": [
-      9,
+      10,
       1
     ],
     "Skeleton Dragons": [
@@ -18771,7 +18775,7 @@
       0
     ],
     "Ice Spirit": [
-      7,
+      8,
       0
     ],
     "Freeze": [
@@ -21171,7 +21175,7 @@
       0
     ],
     "Goblins": [
-      8,
+      9,
       0
     ],
     "Valkyrie": [
@@ -21215,7 +21219,7 @@
       0
     ],
     "Wizard": [
-      8,
+      9,
       0
     ],
     "Skeleton Dragons": [
@@ -21267,11 +21271,19 @@
       0
     ],
     "Guards": [
-      7,
+      9,
       0
     ],
     "Witch": [
       8,
+      0
+    ],
+    "P.E.K.K.A": [
+      6,
+      0
+    ],
+    "Goblin Barrel": [
+      9,
       0
     ]
   },
@@ -23699,7 +23711,7 @@
       0
     ],
     "Goblin Cage": [
-      9,
+      10,
       1
     ],
     "Bomber": [
@@ -23735,7 +23747,7 @@
       0
     ],
     "Skeleton Dragons": [
-      10,
+      11,
       0
     ],
     "Fire Spirit": [
@@ -24079,7 +24091,7 @@
       0
     ],
     "Rage": [
-      8,
+      9,
       0
     ],
     "Goblin Machine": [
@@ -24755,7 +24767,7 @@
       0
     ],
     "Prince": [
-      9,
+      10,
       0
     ],
     "Goblin Demolisher": [
@@ -24823,7 +24835,7 @@
       0
     ],
     "Three Musketeers": [
-      8,
+      9,
       0
     ],
     "Royal Recruits": [
@@ -24931,7 +24943,7 @@
       0
     ],
     "Earthquake": [
-      8,
+      9,
       0
     ],
     "Royal Ghost": [
@@ -24951,7 +24963,7 @@
       1
     ],
     "Suspicious Bush": [
-      7,
+      8,
       0
     ],
     "Magic Archer": [
@@ -25007,7 +25019,7 @@
       0
     ],
     "Phoenix": [
-      9,
+      10,
       0
     ],
     "Spirit Empress": [

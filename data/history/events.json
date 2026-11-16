@@ -6933,5 +6933,166 @@
       }
     ],
     "at": "2026-11-16T11:29:13+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "arena": "Clash Fest",
+    "raw": "Arena_L7",
+    "at": "2026-11-16T15:11:22+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Skeleton Dragons",
+        "level": 11
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 10
+      },
+      {
+        "name": "Rage",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-16T15:11:22+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Prince",
+        "level": 10
+      },
+      {
+        "name": "Phoenix",
+        "level": 10
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 9
+      },
+      {
+        "name": "Earthquake",
+        "level": 9
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-16T15:11:22+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#V0RCP20LR",
+    "name": "подписични черв",
+    "cards": [
+      {
+        "name": "Musketeer",
+        "level": 15
+      },
+      {
+        "name": "Skeleton Barrel",
+        "level": 14
+      },
+      {
+        "name": "Dart Goblin",
+        "level": 14
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 13
+      },
+      {
+        "name": "Skeleton Army",
+        "level": 13
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 13
+      },
+      {
+        "name": "Dark Prince",
+        "level": 13
+      },
+      {
+        "name": "Poison",
+        "level": 13
+      },
+      {
+        "name": "Lumberjack",
+        "level": 13
+      },
+      {
+        "name": "Hunter",
+        "level": 13
+      },
+      {
+        "name": "Furnace",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-16T15:11:22+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Skeletons",
+        "level": 11
+      },
+      {
+        "name": "Wizard",
+        "level": 10
+      },
+      {
+        "name": "Fireball",
+        "level": 8
+      },
+      {
+        "name": "Ice Spirit",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-16T15:11:22+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      "Archers"
+    ],
+    "at": "2026-11-16T15:11:22+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J0VGQP9PY",
+    "name": "алиса спийс❤️",
+    "cards": [
+      {
+        "name": "Goblins",
+        "level": 9
+      },
+      {
+        "name": "Wizard",
+        "level": 9
+      },
+      {
+        "name": "Guards",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-16T15:11:22+00:00"
   }
 ]
