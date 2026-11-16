@@ -1369,13 +1369,13 @@
     "expLevel": 63,
     "trophies": 11523,
     "bestTrophies": 11523,
-    "wins": 3642,
-    "losses": 2827,
-    "battleCount": 6469,
-    "threeCrownWins": 2722,
+    "wins": 3646,
+    "losses": 2830,
+    "battleCount": 6476,
+    "threeCrownWins": 2723,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73037,
+    "totalDonations": 73067,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1405,6 +1405,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "The Log",
@@ -4318,7 +4325,7 @@
     "threeCrownWins": 827,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28520,
+    "totalDonations": 28550,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5157,13 +5164,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",

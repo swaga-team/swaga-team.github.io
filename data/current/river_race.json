@@ -1644,15 +1644,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#ULCYG0VGV",
-          "name": "TheMrPoop",
-          "fame": 1375,
-          "repairPoints": 0,
-          "boatAttacks": 7,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CQVCRUC89",
           "name": "Dek jie",
           "fame": 1600,
@@ -1680,6 +1671,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#ULCYG0VGV",
+          "name": "TheMrPoop",
+          "fame": 1775,
+          "repairPoints": 0,
+          "boatAttacks": 9,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1950,
@@ -1689,7 +1689,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3025,
+      "periodPoints": 3425,
       "clanScore": 2120
     },
     {
