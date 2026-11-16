@@ -101,7 +101,7 @@
     "threeCrownWins": 1081,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41794,
+    "totalDonations": 41802,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -272,10 +272,10 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11104,
-    "losses": 10752,
-    "battleCount": 21856,
-    "threeCrownWins": 5613,
+    "wins": 11106,
+    "losses": 10753,
+    "battleCount": 21859,
+    "threeCrownWins": 5614,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
     "totalDonations": 138773,
@@ -353,11 +353,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
+      "name": "Royal Hogs",
+      "rarity": "rare",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
     }
   },
   "#R98U8U290": {
@@ -731,14 +731,14 @@
   "#U0QJL29PY": {
     "expLevel": 57,
     "trophies": 13463,
-    "bestTrophies": 13489,
-    "wins": 3507,
-    "losses": 3601,
-    "battleCount": 7108,
+    "bestTrophies": 13495,
+    "wins": 3511,
+    "losses": 3606,
+    "battleCount": 7117,
     "threeCrownWins": 1467,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 19851,
+    "totalDonations": 19883,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1100,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3650,
-    "losses": 3093,
-    "battleCount": 6743,
+    "wins": 3651,
+    "losses": 3096,
+    "battleCount": 6747,
     "threeCrownWins": 2435,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1181,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hunter",
-      "rarity": "epic",
+      "name": "Golden Knight",
+      "rarity": "champion",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12183,
+    "trophies": 12155,
     "bestTrophies": 12270,
     "wins": 2401,
-    "losses": 2600,
-    "battleCount": 5001,
+    "losses": 2601,
+    "battleCount": 5002,
     "threeCrownWins": 1105,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13806,
+    "totalDonations": 13814,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2926,10 +2926,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2656,
-    "losses": 2757,
-    "battleCount": 5413,
-    "threeCrownWins": 1897,
+    "wins": 2660,
+    "losses": 2760,
+    "battleCount": 5420,
+    "threeCrownWins": 1899,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37554,
@@ -3007,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Giant",
+      "name": "Golem",
       "rarity": "epic",
-      "elixirCost": 6,
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#GQP92GLC8": {
@@ -3292,15 +3292,15 @@
   },
   "#V0RCP20LR": {
     "expLevel": 58,
-    "trophies": 3208,
+    "trophies": 3179,
     "bestTrophies": 3397,
     "wins": 3311,
-    "losses": 2872,
-    "battleCount": 6183,
+    "losses": 2873,
+    "battleCount": 6184,
     "threeCrownWins": 2635,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21396,
+    "totalDonations": 21408,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4154,9 +4154,9 @@
     "expLevel": 1,
     "trophies": 1692,
     "bestTrophies": 1692,
-    "wins": 89,
+    "wins": 90,
     "losses": 21,
-    "battleCount": 110,
+    "battleCount": 111,
     "threeCrownWins": 47,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4332,7 +4332,7 @@
     "threeCrownWins": 828,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28630,
+    "totalDonations": 28646,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4692,15 +4692,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 8126,
+    "trophies": 8008,
     "bestTrophies": 8156,
-    "wins": 1135,
-    "losses": 866,
-    "battleCount": 2001,
-    "threeCrownWins": 361,
+    "wins": 1138,
+    "losses": 874,
+    "battleCount": 2012,
+    "threeCrownWins": 363,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2521,
+    "totalDonations": 2529,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4775,11 +4775,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
-      "rarity": "legendary",
-      "elixirCost": 6,
+      "name": "Cannon Cart",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
     }
   },
   "#90QGJUUG": {
