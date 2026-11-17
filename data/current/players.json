@@ -822,15 +822,15 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13764,
-    "bestTrophies": 13791,
-    "wins": 2419,
-    "losses": 1718,
-    "battleCount": 4137,
+    "trophies": 13828,
+    "bestTrophies": 13857,
+    "wins": 2424,
+    "losses": 1724,
+    "battleCount": 4148,
     "threeCrownWins": 611,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31043,
+    "totalDonations": 31091,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2299,13 +2299,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
       },
       {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
-      },
-      {
         "name": "Electro Wizard",
         "rarity": "legendary",
         "elixirCost": 4,
@@ -2636,9 +2629,9 @@
     "expLevel": 32,
     "trophies": 8351,
     "bestTrophies": 8408,
-    "wins": 958,
-    "losses": 715,
-    "battleCount": 1673,
+    "wins": 963,
+    "losses": 717,
+    "battleCount": 1680,
     "threeCrownWins": 304,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2717,11 +2710,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Dragons",
-      "rarity": "common",
-      "elixirCost": 4,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#VJPQ089PL": {
@@ -2912,10 +2905,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2676,
-    "losses": 2778,
-    "battleCount": 5454,
-    "threeCrownWins": 1903,
+    "wins": 2680,
+    "losses": 2782,
+    "battleCount": 5462,
+    "threeCrownWins": 1907,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37594,
@@ -2993,11 +2986,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "X-Bow",
+      "name": "Golem",
       "rarity": "epic",
-      "elixirCost": 6,
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#GQP92GLC8": {
@@ -4686,7 +4679,7 @@
     "threeCrownWins": 370,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2748,
+    "totalDonations": 2768,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5128,9 +5121,9 @@
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2304,
+    "wins": 2306,
     "losses": 1101,
-    "battleCount": 3405,
+    "battleCount": 3407,
     "threeCrownWins": 1111,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
@@ -5157,13 +5150,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5544,12 +5530,12 @@
     "trophies": 12267,
     "bestTrophies": 12267,
     "wins": 1216,
-    "losses": 680,
-    "battleCount": 1896,
+    "losses": 681,
+    "battleCount": 1897,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16126,
+    "totalDonations": 16136,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
