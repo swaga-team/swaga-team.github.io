@@ -1452,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12248,
+    "trophies": 12273,
     "bestTrophies": 12279,
-    "wins": 2407,
-    "losses": 2604,
-    "battleCount": 5011,
+    "wins": 2410,
+    "losses": 2606,
+    "battleCount": 5016,
     "threeCrownWins": 1106,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13880,
+    "totalDonations": 13898,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1478,11 +1478,11 @@
     },
     "currentDeck": [
       {
-        "name": "Mega Knight",
-        "rarity": "legendary",
-        "elixirCost": 7,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+        "name": "Royal Giant",
+        "rarity": "common",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
       },
       {
         "name": "Electro Wizard",
@@ -2641,15 +2641,15 @@
   },
   "#9JPPYRL90": {
     "expLevel": 32,
-    "trophies": 8377,
-    "bestTrophies": 8406,
-    "wins": 954,
-    "losses": 712,
-    "battleCount": 1666,
-    "threeCrownWins": 303,
+    "trophies": 8351,
+    "bestTrophies": 8408,
+    "wins": 958,
+    "losses": 715,
+    "battleCount": 1673,
+    "threeCrownWins": 304,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 1321,
+    "totalDonations": 1337,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2724,11 +2724,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
+      "name": "Skeleton Dragons",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
     }
   },
   "#VJPQ089PL": {
@@ -3287,13 +3287,13 @@
     "expLevel": 58,
     "trophies": 3179,
     "bestTrophies": 3397,
-    "wins": 3312,
+    "wins": 3314,
     "losses": 2873,
-    "battleCount": 6185,
+    "battleCount": 6187,
     "threeCrownWins": 2635,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21468,
+    "totalDonations": 21476,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4319,13 +4319,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1885,
-    "losses": 1232,
-    "battleCount": 3117,
+    "wins": 1890,
+    "losses": 1237,
+    "battleCount": 3127,
     "threeCrownWins": 829,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28706,
+    "totalDonations": 28724,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4400,11 +4400,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Archers",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
     }
   },
   "#8RYCGVUV0": {
@@ -4687,13 +4687,13 @@
     "expLevel": 1,
     "trophies": 8008,
     "bestTrophies": 8156,
-    "wins": 1147,
-    "losses": 877,
-    "battleCount": 2024,
-    "threeCrownWins": 366,
+    "wins": 1151,
+    "losses": 879,
+    "battleCount": 2030,
+    "threeCrownWins": 368,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2640,
+    "totalDonations": 2656,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5543,13 +5543,13 @@
     "expLevel": 42,
     "trophies": 12267,
     "bestTrophies": 12267,
-    "wins": 1215,
-    "losses": 679,
-    "battleCount": 1894,
+    "wins": 1216,
+    "losses": 680,
+    "battleCount": 1896,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16118,
+    "totalDonations": 16126,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5624,11 +5624,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "P.E.K.K.A",
+      "rarity": "epic",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
     }
   },
   "#GU0VGJCJC": {

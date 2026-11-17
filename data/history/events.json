@@ -7317,5 +7317,49 @@
       }
     ],
     "at": "2026-11-17T07:25:46+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YGQU2GCJR",
+    "name": "Fen1ks",
+    "cards": [
+      {
+        "name": "Spirit Empress",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-17T09:08:42+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9JPPYRL90",
+    "name": "disruption",
+    "cards": [
+      {
+        "name": "Goblin Drill",
+        "level": 13
+      },
+      {
+        "name": "Bandit",
+        "level": 12
+      },
+      {
+        "name": "Minion Horde",
+        "level": 11
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 11
+      },
+      {
+        "name": "Zappies",
+        "level": 10
+      },
+      {
+        "name": "Minion Giant",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-17T09:08:42+00:00"
   }
 ]
