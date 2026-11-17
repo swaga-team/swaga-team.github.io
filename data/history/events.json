@@ -7403,5 +7403,26 @@
       }
     ],
     "at": "2026-11-17T13:14:23+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "cards": [
+      {
+        "name": "Firecracker",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-17T14:27:02+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "cards": [
+      "Skeleton Army"
+    ],
+    "at": "2026-11-17T14:27:02+00:00"
   }
 ]
