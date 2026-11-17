@@ -822,11 +822,11 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13828,
+    "trophies": 13801,
     "bestTrophies": 13857,
     "wins": 2424,
-    "losses": 1724,
-    "battleCount": 4148,
+    "losses": 1725,
+    "battleCount": 4149,
     "threeCrownWins": 611,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2905,13 +2905,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2680,
-    "losses": 2782,
-    "battleCount": 5462,
-    "threeCrownWins": 1907,
+    "wins": 2682,
+    "losses": 2784,
+    "battleCount": 5466,
+    "threeCrownWins": 1908,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37594,
+    "totalDonations": 37624,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2986,11 +2986,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Golem",
-      "rarity": "epic",
-      "elixirCost": 8,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#GQP92GLC8": {
