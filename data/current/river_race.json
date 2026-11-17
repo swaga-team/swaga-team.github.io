@@ -1518,6 +1518,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#RGV8VLLLR",
+          "name": "Voin Xoda",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#QU02RQUC",
           "name": "rc144",
           "fame": 0,
@@ -1771,6 +1780,15 @@
       "fame": 0,
       "repairPoints": 0,
       "participants": [
+        {
+          "tag": "#Y9PYYLVU",
+          "name": "kungfunky",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
         {
           "tag": "#2RVPVP8RU",
           "name": "KRISkata",
