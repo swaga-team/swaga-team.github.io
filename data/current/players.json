@@ -101,7 +101,7 @@
     "threeCrownWins": 1082,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41850,
+    "totalDonations": 41860,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -124,13 +124,6 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -193,7 +186,7 @@
     "threeCrownWins": 1074,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35510,
+    "totalDonations": 35552,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2273,15 +2266,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9797,
-    "bestTrophies": 9802,
-    "wins": 1270,
-    "losses": 1118,
-    "battleCount": 2388,
-    "threeCrownWins": 705,
+    "trophies": 9833,
+    "bestTrophies": 9833,
+    "wins": 1275,
+    "losses": 1120,
+    "battleCount": 2395,
+    "threeCrownWins": 708,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4970,
+    "totalDonations": 4990,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2356,11 +2349,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Furnace",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#22JLP29RV": {
@@ -2925,7 +2918,7 @@
     "threeCrownWins": 1903,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37584,
+    "totalDonations": 37594,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5135,13 +5128,13 @@
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2294,
-    "losses": 1094,
-    "battleCount": 3388,
-    "threeCrownWins": 1109,
+    "wins": 2304,
+    "losses": 1101,
+    "battleCount": 3405,
+    "threeCrownWins": 1111,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26703,
+    "totalDonations": 26713,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5164,6 +5157,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5209,11 +5209,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Three Musketeers",
-      "rarity": "rare",
-      "elixirCost": 9,
+      "name": "Ram Rider",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#VU2P0VJYC": {

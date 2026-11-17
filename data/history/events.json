@@ -7500,5 +7500,23 @@
       }
     ],
     "at": "2026-11-17T17:10:35+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-17T19:07:11+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#CJR008LV9",
+    "name": "cook",
+    "cards": [
+      "Mirror"
+    ],
+    "at": "2026-11-17T19:07:11+00:00"
   }
 ]
