@@ -1101,8 +1101,8 @@
     "trophies": 12150,
     "bestTrophies": 12267,
     "wins": 3669,
-    "losses": 3105,
-    "battleCount": 6774,
+    "losses": 3106,
+    "battleCount": 6775,
     "threeCrownWins": 2443,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -1290,7 +1290,7 @@
     "threeCrownWins": 636,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25612,
+    "totalDonations": 25622,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5046,11 +5046,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3092,
-    "bestTrophies": 3097,
-    "wins": 278,
-    "losses": 193,
-    "battleCount": 471,
+    "trophies": 3089,
+    "bestTrophies": 3150,
+    "wins": 281,
+    "losses": 196,
+    "battleCount": 477,
     "threeCrownWins": 106,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5117,11 +5117,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Wizard",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5129,8 +5129,8 @@
     "trophies": 9697,
     "bestTrophies": 9697,
     "wins": 2310,
-    "losses": 1104,
-    "battleCount": 3414,
+    "losses": 1107,
+    "battleCount": 3417,
     "threeCrownWins": 1112,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
