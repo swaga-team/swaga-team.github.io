@@ -7518,5 +7518,17 @@
       "Mirror"
     ],
     "at": "2026-11-17T19:07:11+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YGQU2GCJR",
+    "name": "Fen1ks",
+    "cards": [
+      {
+        "name": "Hog Rider",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-17T21:58:18+00:00"
   }
 ]
