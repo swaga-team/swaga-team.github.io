@@ -2006,13 +2006,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2331,
+    "wins": 2333,
     "losses": 2164,
-    "battleCount": 4495,
+    "battleCount": 4497,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18421,
+    "totalDonations": 18451,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2087,11 +2087,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Demolisher",
-      "rarity": "rare",
+      "name": "Electro Wizard",
+      "rarity": "legendary",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KVVOgdn40xasFLYuQv8Go_U_LCV7wSG9q9eE1H7f3Qk.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#9RJPRQLL2": {
@@ -5128,13 +5128,13 @@
     "expLevel": 57,
     "trophies": 9697,
     "bestTrophies": 9697,
-    "wins": 2306,
-    "losses": 1101,
-    "battleCount": 3407,
-    "threeCrownWins": 1111,
+    "wins": 2310,
+    "losses": 1104,
+    "battleCount": 3414,
+    "threeCrownWins": 1112,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26713,
+    "totalDonations": 26743,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5157,6 +5157,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5202,11 +5209,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
+      "name": "Monk",
+      "rarity": "champion",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
     }
   },
   "#VU2P0VJYC": {
@@ -5721,8 +5728,8 @@
     "trophies": 8533,
     "bestTrophies": 8818,
     "wins": 1580,
-    "losses": 1383,
-    "battleCount": 2963,
+    "losses": 1384,
+    "battleCount": 2964,
     "threeCrownWins": 460,
     "warDayWins": 0,
     "clanCardsCollected": 0,
