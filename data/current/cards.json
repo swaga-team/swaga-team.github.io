@@ -11129,7 +11129,7 @@
       3
     ],
     "Ice Wizard": [
-      11,
+      12,
       2
     ],
     "Minions": [
@@ -11193,7 +11193,7 @@
       0
     ],
     "Battle Healer": [
-      11,
+      12,
       0
     ],
     "Vines": [
@@ -11277,7 +11277,7 @@
       0
     ],
     "Cannon Cart": [
-      11,
+      12,
       0
     ],
     "Void": [
@@ -12387,7 +12387,7 @@
       1
     ],
     "Goblin Cage": [
-      11,
+      12,
       1
     ],
     "Barbarian Barrel": [
@@ -18647,11 +18647,11 @@
       1
     ],
     "Goblin Curse": [
-      8,
+      9,
       0
     ],
     "Cannon": [
-      8,
+      9,
       1
     ],
     "Berserker": [
@@ -18675,7 +18675,7 @@
       0
     ],
     "Goblin Hut": [
-      6,
+      7,
       0
     ],
     "Mega Minion": [
@@ -18767,7 +18767,7 @@
       0
     ],
     "Three Musketeers": [
-      6,
+      7,
       0
     ],
     "Royal Hogs": [
@@ -18847,11 +18847,11 @@
       0
     ],
     "Barbarian Barrel": [
-      7,
+      8,
       0
     ],
     "Mirror": [
-      8,
+      9,
       0
     ]
   },
