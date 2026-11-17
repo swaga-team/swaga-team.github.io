@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 117957,
+  "clanScore": 117955,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1648,
+  "donationsPerWeek": 1704,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 4,
       "donations": 86,
-      "donationsReceived": 100,
+      "donationsReceived": 110,
       "clanChestPoints": 0
     },
     {
@@ -394,14 +394,14 @@
       "clanRank": 21,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 48,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261116T102805.000Z",
+      "lastSeen": "20261117T052530.000Z",
       "expLevel": 0,
       "trophies": 9797,
       "arena": {
@@ -437,7 +437,7 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261117T035358.000Z",
+      "lastSeen": "20261117T060223.000Z",
       "expLevel": 0,
       "trophies": 9768,
       "arena": {
@@ -447,8 +447,8 @@
       },
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 114,
-      "donationsReceived": 60,
+      "donations": 142,
+      "donationsReceived": 68,
       "clanChestPoints": 0
     },
     {
@@ -581,7 +581,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261117T044646.000Z",
+      "lastSeen": "20261117T053811.000Z",
       "expLevel": 0,
       "trophies": 8008,
       "arena": {
@@ -591,8 +591,8 @@
       },
       "clanRank": 32,
       "previousClanRank": 31,
-      "donations": 239,
-      "donationsReceived": 120,
+      "donations": 249,
+      "donationsReceived": 130,
       "clanChestPoints": 0
     },
     {
@@ -707,9 +707,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261116T225924.000Z",
+      "lastSeen": "20261117T051303.000Z",
       "expLevel": 0,
-      "trophies": 3039,
+      "trophies": 3011,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -717,8 +717,8 @@
       },
       "clanRank": 39,
       "previousClanRank": 38,
-      "donations": 10,
-      "donationsReceived": 120,
+      "donations": 28,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
