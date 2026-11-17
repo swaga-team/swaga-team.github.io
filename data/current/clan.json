@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 115924,
+  "clanScore": 115922,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2186,
+  "donationsPerWeek": 2380,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261117T112701.000Z",
+      "lastSeen": "20261117T131326.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 1,
-      "donations": 38,
+      "previousClanRank": 4,
+      "donations": 62,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261117T104332.000Z",
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261117T124755.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,16 +50,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 4,
-      "donations": 62,
-      "donationsReceived": 64,
+      "previousClanRank": 3,
+      "donations": 224,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261117T085408.000Z",
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261117T121922.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -68,9 +68,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 3,
-      "donations": 204,
-      "donationsReceived": 120,
+      "previousClanRank": 1,
+      "donations": 38,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -275,9 +275,9 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261117T095237.000Z",
+      "lastSeen": "20261117T125437.000Z",
       "expLevel": 0,
-      "trophies": 12242,
+      "trophies": 12214,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 16,
-      "donations": 166,
+      "donations": 232,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },
@@ -293,7 +293,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261117T112803.000Z",
+      "lastSeen": "20261117T115711.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 17,
       "donations": 0,
-      "donationsReceived": 32,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261116T194728.000Z",
+      "lastSeen": "20261117T124405.000Z",
       "expLevel": 0,
       "trophies": 9697,
       "arena": {
@@ -447,8 +447,8 @@
       },
       "clanRank": 24,
       "previousClanRank": 26,
-      "donations": 52,
-      "donationsReceived": 60,
+      "donations": 82,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     },
     {
@@ -466,7 +466,7 @@
       "clanRank": 25,
       "previousClanRank": 27,
       "donations": 63,
-      "donationsReceived": 40,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -509,9 +509,9 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261117T095810.000Z",
+      "lastSeen": "20261117T130206.000Z",
       "expLevel": 0,
-      "trophies": 8560,
+      "trophies": 8563,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261117T111942.000Z",
+      "lastSeen": "20261117T131143.000Z",
       "expLevel": 0,
       "trophies": 8040,
       "arena": {
@@ -573,8 +573,8 @@
       },
       "clanRank": 31,
       "previousClanRank": 33,
-      "donations": 335,
-      "donationsReceived": 160,
+      "donations": 365,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261117T114604.000Z",
+      "lastSeen": "20261117T120134.000Z",
       "expLevel": 0,
       "trophies": 3179,
       "arena": {
@@ -681,7 +681,7 @@
       },
       "clanRank": 37,
       "previousClanRank": 39,
-      "donations": 174,
+      "donations": 204,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -689,9 +689,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261117T051303.000Z",
+      "lastSeen": "20261117T121612.000Z",
       "expLevel": 0,
-      "trophies": 3011,
+      "trophies": 3062,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -699,8 +699,8 @@
       },
       "clanRank": 38,
       "previousClanRank": 40,
-      "donations": 28,
-      "donationsReceived": 160,
+      "donations": 46,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
