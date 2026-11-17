@@ -7264,5 +7264,21 @@
     "tag": "#CC9J8Y902",
     "name": "Michael",
     "at": "2026-11-17T03:58:39+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Giant",
+        "level": 10
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-17T05:03:50+00:00"
   }
 ]

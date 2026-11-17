@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1540,
+  "donationsPerWeek": 1648,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261117T042019.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 2,
+      "donations": 72,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 4,
       "donations": 86,
-      "donationsReceived": 70,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     },
     {
@@ -49,10 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 136,
-      "donationsReceived": 90,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 10,
       "donationsReceived": 40,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -103,26 +121,8 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
-      "previousClanRank": 7,
-      "donations": 34,
-      "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261116T065821.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
       "clanRank": 6,
-      "previousClanRank": 2,
+      "previousClanRank": 7,
       "donations": 34,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -383,7 +383,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261116T194345.000Z",
+      "lastSeen": "20261117T042953.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 40,
+      "donationsReceived": 48,
       "clanChestPoints": 0
     },
     {
@@ -447,8 +447,8 @@
       },
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 94,
-      "donationsReceived": 40,
+      "donations": 114,
+      "donationsReceived": 60,
       "clanChestPoints": 0
     },
     {
@@ -581,7 +581,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261116T201502.000Z",
+      "lastSeen": "20261117T044646.000Z",
       "expLevel": 0,
       "trophies": 8008,
       "arena": {
@@ -591,7 +591,7 @@
       },
       "clanRank": 32,
       "previousClanRank": 31,
-      "donations": 203,
+      "donations": 239,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -761,7 +761,7 @@
       "tag": "#J0VGQP9PY",
       "name": "алиса спийс❤️",
       "role": "member",
-      "lastSeen": "20261117T034520.000Z",
+      "lastSeen": "20261117T043943.000Z",
       "expLevel": 0,
       "trophies": 1719,
       "arena": {
@@ -771,8 +771,8 @@
       },
       "clanRank": 42,
       "previousClanRank": 41,
-      "donations": 8,
-      "donationsReceived": 40,
+      "donations": 22,
+      "donationsReceived": 60,
       "clanChestPoints": 0
     }
   ]
