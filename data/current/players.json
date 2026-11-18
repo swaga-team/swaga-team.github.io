@@ -1730,10 +1730,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2587,
-    "losses": 2264,
-    "battleCount": 4851,
-    "threeCrownWins": 927,
+    "wins": 2593,
+    "losses": 2271,
+    "battleCount": 4864,
+    "threeCrownWins": 928,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -1811,11 +1811,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Minion Horde",
-      "rarity": "common",
+      "name": "Executioner",
+      "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -5105,15 +5105,15 @@
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
-    "trophies": 9756,
-    "bestTrophies": 9756,
-    "wins": 2316,
+    "trophies": 9966,
+    "bestTrophies": 9966,
+    "wins": 2323,
     "losses": 1107,
-    "battleCount": 3423,
-    "threeCrownWins": 1115,
+    "battleCount": 3430,
+    "threeCrownWins": 1118,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26780,
+    "totalDonations": 26794,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5136,6 +5136,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5181,11 +5188,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Boss Bandit",
-      "rarity": "champion",
-      "elixirCost": 6,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#VU2P0VJYC": {
@@ -5607,15 +5614,15 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4020,
-    "losses": 3442,
-    "battleCount": 7462,
+    "wins": 4023,
+    "losses": 3445,
+    "battleCount": 7468,
     "threeCrownWins": 1777,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 8056,
     "currentPathOfLegendSeasonResult": {
-      "leagueNumber": 1,
+      "leagueNumber": 2,
       "trophies": 0,
       "rank": null
     },
