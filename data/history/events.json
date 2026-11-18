@@ -7718,5 +7718,33 @@
       }
     ],
     "at": "2026-11-18T15:02:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      {
+        "name": "Dark Prince",
+        "level": 14
+      },
+      {
+        "name": "Lightning",
+        "level": 14
+      },
+      {
+        "name": "Mega Minion",
+        "level": 13
+      },
+      {
+        "name": "Rascals",
+        "level": 13
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-18T18:00:11+00:00"
   }
 ]

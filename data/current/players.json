@@ -126,13 +126,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
         "name": "Cannon",
         "rarity": "common",
         "elixirCost": 3,
@@ -1461,13 +1454,13 @@
     "expLevel": 48,
     "trophies": 12121,
     "bestTrophies": 12279,
-    "wins": 2422,
+    "wins": 2423,
     "losses": 2618,
-    "battleCount": 5040,
-    "threeCrownWins": 1108,
+    "battleCount": 5041,
+    "threeCrownWins": 1109,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14030,
+    "totalDonations": 14038,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3273,9 +3266,9 @@
     "expLevel": 58,
     "trophies": 3179,
     "bestTrophies": 3397,
-    "wins": 3347,
-    "losses": 2877,
-    "battleCount": 6224,
+    "wins": 3350,
+    "losses": 2879,
+    "battleCount": 6229,
     "threeCrownWins": 2637,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5614,10 +5607,10 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4016,
-    "losses": 3438,
-    "battleCount": 7454,
-    "threeCrownWins": 1776,
+    "wins": 4020,
+    "losses": 3442,
+    "battleCount": 7462,
+    "threeCrownWins": 1777,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 8056,
@@ -5695,11 +5688,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dark Prince",
+      "name": "Baby Dragon",
       "rarity": "epic",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
     }
   },
   "#VQJPUULJV": {
