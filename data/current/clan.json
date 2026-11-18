@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 КВ подряд - кик. Неделя офлайна - кик. Наш тг - swagateamcr",
   "badgeId": 16000072,
-  "clanScore": 116570,
+  "clanScore": 116656,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3478,
+  "donationsPerWeek": 3494,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261118T115648.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 68,
+      "donationsReceived": 120,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#YQ2VLPJ0L",
+      "name": "arch1tector",
+      "role": "member",
+      "lastSeen": "20261118T113605.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 9,
+      "donations": 176,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
@@ -31,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 5,
       "donations": 178,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261118T103848.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 4,
-      "donations": 68,
-      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 66,
       "donationsReceived": 0,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 1,
       "donations": 130,
       "donationsReceived": 160,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 6,
       "donations": 290,
       "donationsReceived": 200,
@@ -121,7 +139,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 2,
       "donations": 128,
       "donationsReceived": 150,
@@ -139,7 +157,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 7,
+      "clanRank": 8,
       "previousClanRank": 7,
       "donations": 34,
       "donationsReceived": 0,
@@ -157,28 +175,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 8,
+      "clanRank": 9,
       "previousClanRank": 8,
       "donations": 0,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#YQ2VLPJ0L",
-      "name": "arch1tector",
-      "role": "member",
-      "lastSeen": "20261118T110010.000Z",
-      "expLevel": 0,
-      "trophies": 13834,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 9,
-      "previousClanRank": 9,
-      "donations": 176,
-      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261118T105122.000Z",
+      "lastSeen": "20261118T115424.000Z",
       "expLevel": 0,
       "trophies": 12153,
       "arena": {
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 16,
-      "donations": 264,
+      "donations": 272,
       "donationsReceived": 232,
       "clanChestPoints": 0
     },
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 58,
-      "donationsReceived": 176,
+      "donationsReceived": 192,
       "clanChestPoints": 0
     },
     {
@@ -383,7 +383,7 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261118T092725.000Z",
+      "lastSeen": "20261118T114252.000Z",
       "expLevel": 0,
       "trophies": 9888,
       "arena": {
@@ -473,7 +473,7 @@
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261118T032505.000Z",
+      "lastSeen": "20261118T111555.000Z",
       "expLevel": 0,
       "trophies": 9257,
       "arena": {
@@ -617,7 +617,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261118T020040.000Z",
+      "lastSeen": "20261118T115838.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -671,7 +671,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261118T091435.000Z",
+      "lastSeen": "20261118T114602.000Z",
       "expLevel": 0,
       "trophies": 5544,
       "arena": {
@@ -699,7 +699,7 @@
       },
       "clanRank": 38,
       "previousClanRank": 37,
-      "donations": 272,
+      "donations": 280,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },
@@ -709,7 +709,7 @@
       "role": "member",
       "lastSeen": "20261118T110527.000Z",
       "expLevel": 0,
-      "trophies": 3119,
+      "trophies": 3149,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",

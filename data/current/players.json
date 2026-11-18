@@ -279,9 +279,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11125,
+    "wins": 11126,
     "losses": 10772,
-    "battleCount": 21897,
+    "battleCount": 21898,
     "threeCrownWins": 5621,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
+      "name": "Baby Dragon",
       "rarity": "epic",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
     }
   },
   "#R98U8U290": {
@@ -829,12 +829,12 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13862,
-    "bestTrophies": 13862,
-    "wins": 2428,
-    "losses": 1725,
-    "battleCount": 4153,
-    "threeCrownWins": 611,
+    "trophies": 14000,
+    "bestTrophies": 14000,
+    "wins": 2434,
+    "losses": 1726,
+    "battleCount": 4160,
+    "threeCrownWins": 612,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 31131,
@@ -1467,7 +1467,7 @@
     "threeCrownWins": 1108,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13996,
+    "totalDonations": 14004,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2368,8 +2368,8 @@
     "trophies": 9257,
     "bestTrophies": 9261,
     "wins": 2676,
-    "losses": 2820,
-    "battleCount": 5496,
+    "losses": 2821,
+    "battleCount": 5497,
     "threeCrownWins": 1666,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
@@ -2912,9 +2912,9 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2682,
+    "wins": 2683,
     "losses": 2786,
-    "battleCount": 5468,
+    "battleCount": 5469,
     "threeCrownWins": 1908,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3280,13 +3280,13 @@
     "expLevel": 58,
     "trophies": 3179,
     "bestTrophies": 3397,
-    "wins": 3337,
+    "wins": 3339,
     "losses": 2876,
-    "battleCount": 6213,
+    "battleCount": 6215,
     "threeCrownWins": 2637,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21590,
+    "totalDonations": 21598,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4864,10 +4864,10 @@
     "expLevel": 1,
     "trophies": 5544,
     "bestTrophies": 5544,
-    "wins": 730,
-    "losses": 390,
-    "battleCount": 1120,
-    "threeCrownWins": 175,
+    "wins": 732,
+    "losses": 391,
+    "battleCount": 1123,
+    "threeCrownWins": 176,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 161,
@@ -4945,11 +4945,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Dark Prince",
+      "rarity": "epic",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#2G2VYP9G": {
@@ -5046,11 +5046,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3119,
-    "bestTrophies": 3150,
-    "wins": 284,
-    "losses": 198,
-    "battleCount": 482,
+    "trophies": 3149,
+    "bestTrophies": 3179,
+    "wins": 286,
+    "losses": 199,
+    "battleCount": 485,
     "threeCrownWins": 107,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5117,11 +5117,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
+      "name": "Hog Rider",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#2QQG2QPCY": {
