@@ -273,12 +273,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 11133,
-    "losses": 10779,
-    "battleCount": 21912,
+    "losses": 10781,
+    "battleCount": 21914,
     "threeCrownWins": 5622,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138831,
+    "totalDonations": 138841,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -365,8 +365,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2962,
-    "losses": 2545,
-    "battleCount": 5507,
+    "losses": 2546,
+    "battleCount": 5508,
     "threeCrownWins": 1119,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -824,13 +824,13 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2434,
-    "losses": 1726,
-    "battleCount": 4160,
-    "threeCrownWins": 612,
+    "wins": 2437,
+    "losses": 1728,
+    "battleCount": 4165,
+    "threeCrownWins": 613,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31131,
+    "totalDonations": 31159,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -862,25 +862,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
       },
       {
-        "name": "Musketeer",
-        "rarity": "rare",
-        "elixirCost": 4,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
-      },
-      {
-        "name": "Hog Rider",
-        "rarity": "rare",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
-      },
-      {
-        "name": "Skeletons",
+        "name": "Berserker",
         "rarity": "common",
-        "elixirCost": 1,
+        "elixirCost": 2,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cards/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png"
+      },
+      {
+        "name": "Goblin Drill",
+        "rarity": "epic",
+        "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
       },
       {
         "name": "Fireball",
@@ -890,18 +883,25 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
       },
       {
-        "name": "The Log",
-        "rarity": "legendary",
+        "name": "Giant Snowball",
+        "rarity": "common",
         "elixirCost": 2,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/7MaJLa6hK9WN2_VIshuh5DIDfGwm0wEv98gXtAxLDPs.png"
       },
       {
-        "name": "Ice Spirit",
+        "name": "Furnace",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      },
+      {
+        "name": "Skeletons",
         "rarity": "common",
         "elixirCost": 1,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       }
     ],
     "currentFavouriteCard": {
@@ -1730,10 +1730,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2593,
-    "losses": 2271,
-    "battleCount": 4864,
-    "threeCrownWins": 928,
+    "wins": 2596,
+    "losses": 2276,
+    "battleCount": 4872,
+    "threeCrownWins": 929,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -1811,11 +1811,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
-      "rarity": "epic",
+      "name": "Ram Rider",
+      "rarity": "legendary",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -2098,13 +2098,13 @@
     "expLevel": 20,
     "trophies": 9641,
     "bestTrophies": 9672,
-    "wins": 1044,
-    "losses": 702,
-    "battleCount": 1746,
+    "wins": 1045,
+    "losses": 703,
+    "battleCount": 1748,
     "threeCrownWins": 512,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3319,
+    "totalDonations": 3327,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2898,13 +2898,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2686,
+    "wins": 2687,
     "losses": 2787,
-    "battleCount": 5473,
+    "battleCount": 5474,
     "threeCrownWins": 1908,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37624,
+    "totalDonations": 37654,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5105,15 +5105,15 @@
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
-    "trophies": 9966,
-    "bestTrophies": 9966,
-    "wins": 2323,
+    "trophies": 9996,
+    "bestTrophies": 9996,
+    "wins": 2324,
     "losses": 1107,
-    "battleCount": 3430,
+    "battleCount": 3431,
     "threeCrownWins": 1118,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26794,
+    "totalDonations": 26796,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5528,7 +5528,7 @@
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16170,
+    "totalDonations": 16186,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

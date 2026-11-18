@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118640,
+  "clanScore": 118644,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,66 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3820,
+  "donationsPerWeek": 3914,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261118T195723.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 186,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#YQ2VLPJ0L",
+      "name": "arch1tector",
+      "role": "member",
+      "lastSeen": "20261118T193655.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 9,
+      "donations": 204,
+      "donationsReceived": 170,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261118T192031.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 3,
+      "previousClanRank": 4,
+      "donations": 78,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#GU0VGJCJC",
       "name": "тайный хомячёк",
@@ -31,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 4,
       "previousClanRank": 0,
       "donations": 0,
       "donationsReceived": 40,
@@ -49,28 +103,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 5,
       "previousClanRank": 1,
       "donations": 163,
       "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261118T170005.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 4,
-      "donations": 68,
-      "donationsReceived": 154,
       "clanChestPoints": 0
     },
     {
@@ -85,46 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 6,
       "previousClanRank": 6,
       "donations": 333,
       "donationsReceived": 240,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261118T142134.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 5,
-      "previousClanRank": 5,
-      "donations": 186,
-      "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#YQ2VLPJ0L",
-      "name": "arch1tector",
-      "role": "member",
-      "lastSeen": "20261118T113605.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 9,
-      "donations": 176,
-      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261118T070435.000Z",
+      "lastSeen": "20261118T191458.000Z",
       "expLevel": 0,
       "trophies": 12293,
       "arena": {
@@ -285,8 +285,8 @@
       },
       "clanRank": 15,
       "previousClanRank": 14,
-      "donations": 110,
-      "donationsReceived": 200,
+      "donations": 126,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
@@ -311,7 +311,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261118T171828.000Z",
+      "lastSeen": "20261118T194747.000Z",
       "expLevel": 0,
       "trophies": 12121,
       "arena": {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 86,
+      "donationsReceived": 104,
       "clanChestPoints": 0
     },
     {
@@ -403,7 +403,7 @@
       "role": "member",
       "lastSeen": "20261118T183636.000Z",
       "expLevel": 0,
-      "trophies": 9966,
+      "trophies": 9996,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 24,
-      "donations": 173,
+      "donations": 175,
       "donationsReceived": 180,
       "clanChestPoints": 0
     },
@@ -473,7 +473,7 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261118T014627.000Z",
+      "lastSeen": "20261118T191754.000Z",
       "expLevel": 0,
       "trophies": 9641,
       "arena": {
@@ -483,8 +483,8 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 83,
-      "donationsReceived": 120,
+      "donations": 91,
+      "donationsReceived": 150,
       "clanChestPoints": 0
     },
     {
@@ -617,7 +617,7 @@
       "tag": "#J28RP9LPV",
       "name": "Не_елочник",
       "role": "member",
-      "lastSeen": "20261118T065328.000Z",
+      "lastSeen": "20261118T191442.000Z",
       "expLevel": 0,
       "trophies": 7200,
       "arena": {
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261118T184750.000Z",
+      "lastSeen": "20261118T194833.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -645,7 +645,7 @@
       },
       "clanRank": 35,
       "previousClanRank": 33,
-      "donations": 70,
+      "donations": 100,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
