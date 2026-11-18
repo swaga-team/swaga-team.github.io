@@ -7648,5 +7648,41 @@
       }
     ],
     "at": "2026-11-18T12:05:19+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQGRL028",
+    "name": "govnoed",
+    "cards": [
+      {
+        "name": "Minion Horde",
+        "level": 15
+      },
+      {
+        "name": "Archers",
+        "level": 15
+      },
+      {
+        "name": "Cannon",
+        "level": 13
+      },
+      {
+        "name": "Goblin Barrel",
+        "level": 13
+      },
+      {
+        "name": "Ronin",
+        "level": 13
+      },
+      {
+        "name": "Bowler",
+        "level": 12
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-18T13:20:25+00:00"
   }
 ]
