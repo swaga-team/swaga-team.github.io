@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2790,
+  "donationsPerWeek": 2810,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -448,14 +448,14 @@
       "clanRank": 24,
       "previousClanRank": 25,
       "donations": 122,
-      "donationsReceived": 120,
+      "donationsReceived": 130,
       "clanChestPoints": 0
     },
     {
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261117T115102.000Z",
+      "lastSeen": "20261118T005445.000Z",
       "expLevel": 0,
       "trophies": 9641,
       "arena": {
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 26,
-      "donations": 63,
+      "donations": 83,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 39,
       "donations": 46,
-      "donationsReceived": 200,
+      "donationsReceived": 210,
       "clanChestPoints": 0
     },
     {
