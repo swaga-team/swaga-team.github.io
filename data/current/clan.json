@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2810,
+  "donationsPerWeek": 2876,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261117T184948.000Z",
+      "lastSeen": "20261118T031045.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 6,
-      "donations": 82,
+      "donations": 120,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 25,
       "donations": 122,
-      "donationsReceived": 130,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
@@ -466,14 +466,14 @@
       "clanRank": 25,
       "previousClanRank": 26,
       "donations": 83,
-      "donationsReceived": 80,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     },
     {
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
-      "lastSeen": "20261118T020347.000Z",
+      "lastSeen": "20261118T032505.000Z",
       "expLevel": 0,
       "trophies": 9257,
       "arena": {
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 27,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 16,
       "clanChestPoints": 0
     },
     {
@@ -527,9 +527,9 @@
       "tag": "#UY2UPL2GV",
       "name": "\"Erick\"",
       "role": "member",
-      "lastSeen": "20261115T204602.000Z",
+      "lastSeen": "20261118T033629.000Z",
       "expLevel": 0,
-      "trophies": 8358,
+      "trophies": 8357,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 30,
-      "donations": 0,
+      "donations": 28,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 39,
       "donations": 46,
-      "donationsReceived": 210,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {

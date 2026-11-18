@@ -350,6 +350,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#UCUVJ0820",
+        "name": "david",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#R992J02JG",
         "name": "arman",
         "fame": 0,
@@ -1095,6 +1104,15 @@
         {
           "tag": "#QP0PPC0QU",
           "name": "pshkzzz",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#UCUVJ0820",
+          "name": "david",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

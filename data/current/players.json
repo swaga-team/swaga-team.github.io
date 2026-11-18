@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3757,
-    "losses": 2103,
-    "battleCount": 5860,
+    "wins": 3758,
+    "losses": 2104,
+    "battleCount": 5862,
     "threeCrownWins": 1082,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41860,
+    "totalDonations": 41898,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -124,6 +124,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      },
+      {
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Cannon",
@@ -2129,13 +2136,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -2367,9 +2367,9 @@
     "expLevel": 42,
     "trophies": 9257,
     "bestTrophies": 9261,
-    "wins": 2675,
+    "wins": 2676,
     "losses": 2820,
-    "battleCount": 5495,
+    "battleCount": 5496,
     "threeCrownWins": 1666,
     "warDayWins": 6,
     "clanCardsCollected": 5920,
@@ -2549,15 +2549,15 @@
   },
   "#UY2UPL2GV": {
     "expLevel": 32,
-    "trophies": 8358,
-    "bestTrophies": 8384,
-    "wins": 931,
-    "losses": 651,
-    "battleCount": 1582,
+    "trophies": 8357,
+    "bestTrophies": 8387,
+    "wins": 932,
+    "losses": 652,
+    "battleCount": 1584,
     "threeCrownWins": 413,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 616,
+    "totalDonations": 644,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
