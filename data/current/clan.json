@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118612,
+  "clanScore": 118611,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3750,
+  "donationsPerWeek": 3766,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261118T150133.000Z",
+      "lastSeen": "20261118T154932.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 4,
-      "donations": 68,
-      "donationsReceived": 120,
+      "previousClanRank": 1,
+      "donations": 163,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
       "role": "elder",
-      "lastSeen": "20261118T145925.000Z",
+      "lastSeen": "20261118T151057.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 147,
-      "donationsReceived": 200,
+      "previousClanRank": 4,
+      "donations": 68,
+      "donationsReceived": 128,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261118T134700.000Z",
+      "lastSeen": "20261118T152420.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261118T141006.000Z",
+      "lastSeen": "20261118T160452.000Z",
       "expLevel": 0,
       "trophies": 5599,
       "arena": {
@@ -743,9 +743,9 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261117T163711.000Z",
+      "lastSeen": "20261118T152157.000Z",
       "expLevel": 0,
-      "trophies": 2970,
+      "trophies": 2965,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
@@ -754,7 +754,7 @@
       "clanRank": 41,
       "previousClanRank": 39,
       "donations": 6,
-      "donationsReceived": 0,
+      "donationsReceived": 8,
       "clanChestPoints": 0
     },
     {

@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3763,
-    "losses": 2104,
-    "battleCount": 5867,
+    "wins": 3767,
+    "losses": 2105,
+    "battleCount": 5872,
     "threeCrownWins": 1082,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41925,
+    "totalDonations": 41941,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -272,9 +272,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11129,
-    "losses": 10775,
-    "battleCount": 21904,
+    "wins": 11131,
+    "losses": 10779,
+    "battleCount": 21910,
     "threeCrownWins": 5621,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -353,11 +353,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Three Musketeers",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 9,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
     }
   },
   "#R98U8U290": {
@@ -2007,8 +2007,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2334,
-    "losses": 2166,
-    "battleCount": 4500,
+    "losses": 2167,
+    "battleCount": 4501,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2035,6 +2035,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -3589,12 +3596,12 @@
   },
   "#VJQQLCJP8": {
     "expLevel": 1,
-    "trophies": 2970,
-    "bestTrophies": 2970,
-    "wins": 126,
-    "losses": 32,
-    "battleCount": 158,
-    "threeCrownWins": 73,
+    "trophies": 2965,
+    "bestTrophies": 2991,
+    "wins": 128,
+    "losses": 34,
+    "battleCount": 162,
+    "threeCrownWins": 74,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 188,
