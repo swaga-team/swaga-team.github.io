@@ -7596,5 +7596,45 @@
       }
     ],
     "at": "2026-11-18T09:10:42+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      {
+        "name": "Bandit",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-18T10:10:52+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "X-Bow",
+        "level": 10
+      },
+      {
+        "name": "Sparky",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-18T10:10:52+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Goblin Giant",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-18T10:10:52+00:00"
   }
 ]
