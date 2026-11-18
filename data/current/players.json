@@ -126,13 +126,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
-      },
-      {
         "name": "Cannon",
         "rarity": "common",
         "elixirCost": 3,
@@ -372,12 +365,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2959,
-    "losses": 2541,
-    "battleCount": 5500,
+    "losses": 2542,
+    "battleCount": 5501,
     "threeCrownWins": 1118,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16054,
+    "totalDonations": 16106,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -452,11 +445,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tesla",
+      "name": "Knight",
       "rarity": "common",
-      "elixirCost": 4,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#8UCG80RYR": {
@@ -1107,9 +1100,9 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3669,
+    "wins": 3670,
     "losses": 3106,
-    "battleCount": 6775,
+    "battleCount": 6776,
     "threeCrownWins": 2443,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2582,13 +2575,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
       },
       {
-        "name": "Little Prince",
-        "rarity": "champion",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
-      },
-      {
         "name": "Mega Knight",
         "rarity": "legendary",
         "elixirCost": 7,
@@ -3287,13 +3273,13 @@
     "expLevel": 58,
     "trophies": 3179,
     "bestTrophies": 3397,
-    "wins": 3332,
+    "wins": 3334,
     "losses": 2875,
-    "battleCount": 6207,
+    "battleCount": 6209,
     "threeCrownWins": 2637,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21522,
+    "totalDonations": 21566,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4145,12 +4131,12 @@
   },
   "#J0VGQP9PY": {
     "expLevel": 1,
-    "trophies": 1719,
-    "bestTrophies": 1719,
-    "wins": 95,
-    "losses": 23,
-    "battleCount": 118,
-    "threeCrownWins": 49,
+    "trophies": 1779,
+    "bestTrophies": 1779,
+    "wins": 99,
+    "losses": 24,
+    "battleCount": 123,
+    "threeCrownWins": 50,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 166,
@@ -4325,7 +4311,7 @@
     "threeCrownWins": 829,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28744,
+    "totalDonations": 28776,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
