@@ -279,10 +279,10 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11123,
-    "losses": 10771,
-    "battleCount": 21894,
-    "threeCrownWins": 5620,
+    "wins": 11125,
+    "losses": 10772,
+    "battleCount": 21897,
+    "threeCrownWins": 5621,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
     "totalDonations": 138831,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Baby Dragon",
+      "name": "Witch",
       "rarity": "epic",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#R98U8U290": {
@@ -377,7 +377,7 @@
     "threeCrownWins": 1119,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16116,
+    "totalDonations": 16124,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -829,15 +829,15 @@
   },
   "#YQ2VLPJ0L": {
     "expLevel": 58,
-    "trophies": 13801,
-    "bestTrophies": 13857,
-    "wins": 2424,
+    "trophies": 13862,
+    "bestTrophies": 13862,
+    "wins": 2428,
     "losses": 1725,
-    "battleCount": 4149,
+    "battleCount": 4153,
     "threeCrownWins": 611,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31091,
+    "totalDonations": 31131,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1297,7 +1297,7 @@
     "threeCrownWins": 636,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25622,
+    "totalDonations": 25638,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1459,15 +1459,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12123,
+    "trophies": 12153,
     "bestTrophies": 12279,
-    "wins": 2415,
+    "wins": 2416,
     "losses": 2616,
-    "battleCount": 5031,
+    "battleCount": 5032,
     "threeCrownWins": 1108,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 13988,
+    "totalDonations": 13996,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3280,13 +3280,13 @@
     "expLevel": 58,
     "trophies": 3179,
     "bestTrophies": 3397,
-    "wins": 3334,
-    "losses": 2875,
-    "battleCount": 6209,
+    "wins": 3337,
+    "losses": 2876,
+    "battleCount": 6213,
     "threeCrownWins": 2637,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21566,
+    "totalDonations": 21590,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -4678,15 +4678,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 8040,
+    "trophies": 8092,
     "bestTrophies": 8156,
-    "wins": 1159,
-    "losses": 890,
-    "battleCount": 2049,
-    "threeCrownWins": 371,
+    "wins": 1165,
+    "losses": 894,
+    "battleCount": 2059,
+    "threeCrownWins": 373,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2804,
+    "totalDonations": 2836,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5046,11 +5046,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3149,
+    "trophies": 3119,
     "bestTrophies": 3150,
     "wins": 284,
-    "losses": 197,
-    "battleCount": 481,
+    "losses": 198,
+    "battleCount": 482,
     "threeCrownWins": 107,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5117,11 +5117,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Mini P.E.K.K.A",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#2QQG2QPCY": {
