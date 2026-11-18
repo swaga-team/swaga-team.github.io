@@ -7684,5 +7684,39 @@
       }
     ],
     "at": "2026-11-18T13:20:25+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#GU0VGJCJC",
+    "name": "тайный хомячёк",
+    "at": "2026-11-18T15:02:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQQL9YLYQ",
+    "name": "Ter",
+    "cards": [
+      {
+        "name": "Bomb Tower",
+        "level": 12
+      },
+      {
+        "name": "Suspicious Bush",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-18T15:02:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Sparky",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-18T15:02:27+00:00"
   }
 ]
