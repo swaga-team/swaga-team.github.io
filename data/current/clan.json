@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118644,
+  "clanScore": 118643,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4024,
+  "donationsPerWeek": 4048,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 5,
       "donations": 189,
-      "donationsReceived": 220,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 18,
       "donations": 134,
-      "donationsReceived": 144,
+      "donationsReceived": 158,
       "clanChestPoints": 0
     },
     {
@@ -401,17 +401,17 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261118T183636.000Z",
+      "lastSeen": "20261118T225447.000Z",
       "expLevel": 0,
-      "trophies": 9996,
+      "trophies": 10057,
       "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
+        "id": 54000117,
+        "name": "Lumberlove Cabin",
+        "rawName": "Arena_L11"
       },
       "clanRank": 22,
       "previousClanRank": 24,
-      "donations": 175,
+      "donations": 191,
       "donationsReceived": 180,
       "clanChestPoints": 0
     },
@@ -455,7 +455,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261118T212327.000Z",
+      "lastSeen": "20261118T220653.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261118T215656.000Z",
+      "lastSeen": "20261118T215914.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261118T110527.000Z",
+      "lastSeen": "20261118T221929.000Z",
       "expLevel": 0,
-      "trophies": 3149,
+      "trophies": 3060,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,7 +735,7 @@
       },
       "clanRank": 40,
       "previousClanRank": 39,
-      "donations": 80,
+      "donations": 88,
       "donationsReceived": 280,
       "clanChestPoints": 0
     },

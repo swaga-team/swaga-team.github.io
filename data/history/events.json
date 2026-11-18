@@ -7753,5 +7753,13 @@
     "name": "тайный хомячёк",
     "league": 2,
     "at": "2026-11-18T19:01:27+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "arena": "Lumberlove Cabin",
+    "raw": "Arena_L11",
+    "at": "2026-11-18T22:57:49+00:00"
   }
 ]

@@ -2007,8 +2007,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2335,
-    "losses": 2167,
-    "battleCount": 4502,
+    "losses": 2168,
+    "battleCount": 4503,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2087,11 +2087,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Demolisher",
+      "name": "Wizard",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KVVOgdn40xasFLYuQv8Go_U_LCV7wSG9q9eE1H7f3Qk.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2899,8 +2899,8 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2688,
-    "losses": 2789,
-    "battleCount": 5477,
+    "losses": 2790,
+    "battleCount": 5478,
     "threeCrownWins": 1909,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -5025,15 +5025,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3149,
+    "trophies": 3060,
     "bestTrophies": 3179,
     "wins": 286,
-    "losses": 199,
-    "battleCount": 485,
+    "losses": 202,
+    "battleCount": 488,
     "threeCrownWins": 107,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 246,
+    "totalDonations": 254,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5105,15 +5105,15 @@
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
-    "trophies": 9996,
-    "bestTrophies": 9996,
-    "wins": 2324,
+    "trophies": 10057,
+    "bestTrophies": 10057,
+    "wins": 2326,
     "losses": 1107,
-    "battleCount": 3431,
-    "threeCrownWins": 1118,
+    "battleCount": 3433,
+    "threeCrownWins": 1119,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26796,
+    "totalDonations": 26812,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5188,11 +5188,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Boss Bandit",
+      "rarity": "champion",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
     }
   },
   "#VU2P0VJYC": {
