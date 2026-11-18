@@ -273,8 +273,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 11123,
-    "losses": 10770,
-    "battleCount": 21893,
+    "losses": 10771,
+    "battleCount": 21894,
     "threeCrownWins": 5620,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -1100,10 +1100,10 @@
     "expLevel": 60,
     "trophies": 12150,
     "bestTrophies": 12267,
-    "wins": 3670,
-    "losses": 3106,
-    "battleCount": 6776,
-    "threeCrownWins": 2443,
+    "wins": 3671,
+    "losses": 3107,
+    "battleCount": 6778,
+    "threeCrownWins": 2444,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 22463,
@@ -1181,11 +1181,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Balloon",
-      "rarity": "epic",
+      "name": "Rascals",
+      "rarity": "common",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
     }
   },
   "#J9Y9Y9YRG": {
@@ -2181,15 +2181,15 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9803,
-    "bestTrophies": 9803,
-    "wins": 1086,
+    "trophies": 9829,
+    "bestTrophies": 9829,
+    "wins": 1087,
     "losses": 849,
-    "battleCount": 1935,
-    "threeCrownWins": 553,
+    "battleCount": 1936,
+    "threeCrownWins": 554,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3951,
+    "totalDonations": 3987,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2273,15 +2273,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9833,
-    "bestTrophies": 9833,
-    "wins": 1275,
+    "trophies": 9863,
+    "bestTrophies": 9863,
+    "wins": 1276,
     "losses": 1120,
-    "battleCount": 2395,
+    "battleCount": 2396,
     "threeCrownWins": 708,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4990,
+    "totalDonations": 5044,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2349,11 +2349,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#22JLP29RV": {
@@ -4306,12 +4306,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 1892,
-    "losses": 1243,
-    "battleCount": 3135,
+    "losses": 1245,
+    "battleCount": 3137,
     "threeCrownWins": 831,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28776,
+    "totalDonations": 28802,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4386,11 +4386,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Bowler",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#8RYCGVUV0": {
@@ -4673,13 +4673,13 @@
     "expLevel": 1,
     "trophies": 8040,
     "bestTrophies": 8156,
-    "wins": 1154,
-    "losses": 886,
-    "battleCount": 2040,
-    "threeCrownWins": 370,
+    "wins": 1158,
+    "losses": 890,
+    "battleCount": 2048,
+    "threeCrownWins": 371,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2768,
+    "totalDonations": 2804,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
