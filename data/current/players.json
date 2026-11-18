@@ -2098,13 +2098,13 @@
     "expLevel": 20,
     "trophies": 9641,
     "bestTrophies": 9672,
-    "wins": 1045,
-    "losses": 703,
-    "battleCount": 1748,
-    "threeCrownWins": 512,
+    "wins": 1049,
+    "losses": 705,
+    "battleCount": 1754,
+    "threeCrownWins": 513,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3327,
+    "totalDonations": 3359,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2127,6 +2127,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2172,11 +2179,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Golem",
-      "rarity": "epic",
-      "elixirCost": 8,
+      "name": "Graveyard",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
     }
   },
   "#JU2L2U8LG": {
@@ -5136,13 +5143,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",

@@ -7761,5 +7761,17 @@
     "arena": "Lumberlove Cabin",
     "raw": "Arena_L11",
     "at": "2026-11-18T22:57:49+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Battle Ram",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-18T23:55:45+00:00"
   }
 ]
