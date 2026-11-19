@@ -116,15 +116,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#2QQG2QPCY",
-        "name": "Clasher",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#V09GR9GG0",
         "name": "Infirmity",
         "fame": 0,
@@ -298,15 +289,6 @@
       {
         "tag": "#GU0VGJCJC",
         "name": "тайный хомячёк",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#9JQ8PCJ",
-        "name": "lastiq",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -591,9 +573,27 @@
         "boatAttacks": 0,
         "decksUsed": 0,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#2QQG2QPCY",
+        "name": "Clasher",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#9JQ8PCJ",
+        "name": "lastiq",
+        "fame": 800,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 0,
+    "periodPoints": 1000,
     "clanScore": 2195
   },
   "clans": [
@@ -895,15 +895,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2QQG2QPCY",
-          "name": "Clasher",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V09GR9GG0",
           "name": "Infirmity",
           "fame": 0,
@@ -1077,15 +1068,6 @@
         {
           "tag": "#GU0VGJCJC",
           "name": "тайный хомячёк",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#9JQ8PCJ",
-          "name": "lastiq",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1370,9 +1352,27 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2QQG2QPCY",
+          "name": "Clasher",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#9JQ8PCJ",
+          "name": "lastiq",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 1000,
       "clanScore": 2195
     },
     {
@@ -2177,26 +2177,8 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2LRQVPP0V",
-          "name": "Nikatnyte_2",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YCPL99V8Y",
           "name": "koki",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2238,9 +2220,27 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#2LRQVPP0V",
+          "name": "Nikatnyte_2",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 1000,
       "clanScore": 2115
     },
     {
@@ -2250,15 +2250,6 @@
       "fame": 0,
       "repairPoints": 0,
       "participants": [
-        {
-          "tag": "#28PQPC0VL",
-          "name": "coxy",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
         {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
@@ -2656,6 +2647,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#28PQPC0VL",
+          "name": "coxy",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 350,
@@ -2665,7 +2665,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 350,
+      "periodPoints": 450,
       "clanScore": 2173
     }
   ],
