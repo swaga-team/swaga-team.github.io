@@ -364,13 +364,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2963,
-    "losses": 2547,
-    "battleCount": 5510,
-    "threeCrownWins": 1119,
+    "wins": 2966,
+    "losses": 2549,
+    "battleCount": 5515,
+    "threeCrownWins": 1121,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16132,
+    "totalDonations": 16160,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1454,13 +1454,13 @@
     "expLevel": 48,
     "trophies": 12121,
     "bestTrophies": 12279,
-    "wins": 2423,
+    "wins": 2424,
     "losses": 2618,
-    "battleCount": 5041,
+    "battleCount": 5042,
     "threeCrownWins": 1109,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14038,
+    "totalDonations": 14048,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2098,13 +2098,13 @@
     "expLevel": 20,
     "trophies": 9641,
     "bestTrophies": 9672,
-    "wins": 1049,
-    "losses": 705,
-    "battleCount": 1754,
+    "wins": 1050,
+    "losses": 706,
+    "battleCount": 1756,
     "threeCrownWins": 513,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3359,
+    "totalDonations": 3377,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2127,13 +2127,6 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2179,11 +2172,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Graveyard",
+      "name": "Mega Knight",
       "rarity": "legendary",
-      "elixirCost": 5,
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#JU2L2U8LG": {
@@ -4305,13 +4298,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1896,
-    "losses": 1253,
-    "battleCount": 3149,
+    "wins": 1898,
+    "losses": 1254,
+    "battleCount": 3152,
     "threeCrownWins": 833,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28863,
+    "totalDonations": 28871,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4386,11 +4379,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Tombstone",
-      "rarity": "rare",
-      "elixirCost": 3,
+      "name": "Baby Dragon",
+      "rarity": "epic",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
     }
   },
   "#8RYCGVUV0": {
