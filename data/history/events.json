@@ -7811,5 +7811,38 @@
       }
     ],
     "at": "2026-11-19T05:12:35+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "cards": [
+      {
+        "name": "Mighty Miner",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-19T07:24:11+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#9JQ8PCJ",
+    "name": "lastiq",
+    "cards": [
+      "Valkyrie"
+    ],
+    "at": "2026-11-19T07:24:11+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQGRL028",
+    "name": "govnoed",
+    "cards": [
+      {
+        "name": "Skeleton Army",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-19T07:24:11+00:00"
   }
 ]
