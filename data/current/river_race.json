@@ -1788,15 +1788,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20UU009LQQ",
-          "name": "zammmmmm",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 450,
@@ -1822,9 +1813,18 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#20UU009LQQ",
+          "name": "zammmmmm",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1600,
+      "periodPoints": 1900,
       "clanScore": 2115
     },
     {
@@ -2658,14 +2658,14 @@
         {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
-          "fame": 200,
+          "fame": 350,
           "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
+          "boatAttacks": 2,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 200,
+      "periodPoints": 350,
       "clanScore": 2173
     }
   ],

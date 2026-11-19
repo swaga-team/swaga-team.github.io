@@ -1731,8 +1731,8 @@
     "trophies": 10126,
     "bestTrophies": 10219,
     "wins": 2596,
-    "losses": 2276,
-    "battleCount": 4872,
+    "losses": 2277,
+    "battleCount": 4873,
     "threeCrownWins": 929,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -1811,11 +1811,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
+      "name": "Executioner",
+      "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -2898,10 +2898,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2688,
-    "losses": 2792,
-    "battleCount": 5480,
-    "threeCrownWins": 1909,
+    "wins": 2689,
+    "losses": 2793,
+    "battleCount": 5482,
+    "threeCrownWins": 1910,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37662,
@@ -2979,11 +2979,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Prince",
-      "rarity": "epic",
+      "name": "Rascals",
+      "rarity": "common",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
     }
   },
   "#GQP92GLC8": {

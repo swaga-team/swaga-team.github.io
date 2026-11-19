@@ -20,6 +20,24 @@
   "members": 42,
   "memberList": [
     {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261119T120105.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 132,
+      "donationsReceived": 200,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
       "role": "member",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 2,
       "donations": 214,
       "donationsReceived": 40,
@@ -49,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 8,
       "donations": 180,
       "donationsReceived": 190,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261119T093048.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 4,
-      "donations": 132,
-      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -293,7 +293,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261118T143829.000Z",
+      "lastSeen": "20261119T114218.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261118T183147.000Z",
+      "lastSeen": "20261119T113700.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -617,7 +617,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261119T105704.000Z",
+      "lastSeen": "20261119T112108.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {

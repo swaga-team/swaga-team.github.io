@@ -625,7 +625,7 @@
     "global": {
       "trophies": {
         "rank": null,
-        "cutoff": 139881
+        "cutoff": 139883
       },
       "war": {
         "rank": null,
@@ -635,7 +635,7 @@
     "local": {
       "trophies": {
         "rank": null,
-        "cutoff": 133905
+        "cutoff": 133871
       },
       "war": {
         "rank": null,
