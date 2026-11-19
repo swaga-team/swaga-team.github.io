@@ -2273,15 +2273,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9863,
-    "bestTrophies": 9863,
-    "wins": 1276,
+    "trophies": 9921,
+    "bestTrophies": 9921,
+    "wins": 1278,
     "losses": 1120,
-    "battleCount": 2396,
-    "threeCrownWins": 708,
+    "battleCount": 2398,
+    "threeCrownWins": 709,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 5044,
+    "totalDonations": 5072,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2304,6 +2304,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2349,11 +2356,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#22JLP29RV": {
@@ -4298,13 +4305,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1898,
-    "losses": 1254,
-    "battleCount": 3152,
+    "wins": 1899,
+    "losses": 1256,
+    "battleCount": 3155,
     "threeCrownWins": 833,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28871,
+    "totalDonations": 28881,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4379,11 +4386,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Baby Dragon",
+      "name": "Goblin Drill",
       "rarity": "epic",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
     }
   },
   "#8RYCGVUV0": {
@@ -5881,11 +5888,11 @@
   },
   "#J28RP9LPV": {
     "expLevel": 34,
-    "trophies": 7200,
-    "bestTrophies": 7200,
-    "wins": 592,
+    "trophies": 7227,
+    "bestTrophies": 7227,
+    "wins": 593,
     "losses": 408,
-    "battleCount": 1000,
+    "battleCount": 1001,
     "threeCrownWins": 152,
     "warDayWins": 0,
     "clanCardsCollected": 0,

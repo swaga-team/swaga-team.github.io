@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118588,
+  "clanScore": 118597,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4204,
+  "donationsPerWeek": 4242,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261119T052152.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 2,
+      "donations": 361,
+      "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#R98U8U290",
       "name": "tenkuu.☁️",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 4,
       "donations": 214,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261119T035813.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 2,
-      "donations": 351,
-      "donationsReceived": 270,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 316,
-      "donationsReceived": 264,
+      "donationsReceived": 272,
       "clanChestPoints": 0
     },
     {
@@ -416,6 +416,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CJR008LV9",
+      "name": "cook",
+      "role": "member",
+      "lastSeen": "20261119T060017.000Z",
+      "expLevel": 0,
+      "trophies": 9921,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 23,
+      "previousClanRank": 22,
+      "donations": 226,
+      "donationsReceived": 120,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
@@ -427,27 +445,9 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 24,
       "previousClanRank": 21,
       "donations": 258,
-      "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CJR008LV9",
-      "name": "cook",
-      "role": "member",
-      "lastSeen": "20261118T083219.000Z",
-      "expLevel": 0,
-      "trophies": 9863,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 24,
-      "previousClanRank": 22,
-      "donations": 198,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 25,
       "donations": 141,
-      "donationsReceived": 170,
+      "donationsReceived": 190,
       "clanChestPoints": 0
     },
     {
@@ -617,9 +617,9 @@
       "tag": "#J28RP9LPV",
       "name": "Не_елочник",
       "role": "member",
-      "lastSeen": "20261118T191442.000Z",
+      "lastSeen": "20261119T060715.000Z",
       "expLevel": 0,
-      "trophies": 7200,
+      "trophies": 7227,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
