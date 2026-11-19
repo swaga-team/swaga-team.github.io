@@ -503,6 +503,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#QRVGGGLJU",
+        "name": "Sanguchito",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#RYRY0V89G",
         "name": "Клэшер",
         "fame": 0,
@@ -1284,6 +1293,15 @@
         {
           "tag": "#90QGJUUG",
           "name": "Narek",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#QRVGGGLJU",
+          "name": "Sanguchito",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2150,15 +2168,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GGGYLVJQ",
-          "name": "Горни Дъбник 79",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#LLYQRGQ80",
           "name": "stoqn kolev 69",
           "fame": 0,
@@ -2231,13 +2240,22 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJGYGPPL9",
-          "name": "pacs",
-          "fame": 300,
+          "tag": "#GGGYLVJQ",
+          "name": "Горни Дъбник 79",
+          "fame": 400,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#VJGYGPPL9",
+          "name": "pacs",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2LRQVPP0V",
@@ -2258,7 +2276,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1700,
+      "periodPoints": 2500,
       "clanScore": 2115
     },
     {

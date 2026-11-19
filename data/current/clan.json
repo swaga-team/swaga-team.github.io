@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4884,
+  "donationsPerWeek": 4910,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261119T171146.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 217,
+      "donationsReceived": 240,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261119T161545.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 5,
+      "donations": 71,
+      "donationsReceived": 96,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
@@ -31,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 6,
       "donations": 393,
-      "donationsReceived": 290,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261119T155043.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 5,
-      "donations": 71,
-      "donationsReceived": 80,
+      "donationsReceived": 300,
       "clanChestPoints": 0
     },
     {
@@ -67,27 +85,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 166,
-      "donationsReceived": 240,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261119T144558.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 1,
-      "donations": 209,
       "donationsReceived": 240,
       "clanChestPoints": 0
     },
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 406,
+      "donations": 424,
       "donationsReceived": 240,
       "clanChestPoints": 0
     },
