@@ -1737,9 +1737,9 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2596,
-    "losses": 2277,
-    "battleCount": 4873,
+    "wins": 2603,
+    "losses": 2278,
+    "battleCount": 4881,
     "threeCrownWins": 929,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -1818,11 +1818,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
-      "rarity": "epic",
+      "name": "Barbarians",
+      "rarity": "common",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -2013,9 +2013,9 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2337,
+    "wins": 2338,
     "losses": 2169,
-    "battleCount": 4506,
+    "battleCount": 4507,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2905,13 +2905,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2690,
-    "losses": 2795,
-    "battleCount": 5485,
-    "threeCrownWins": 1911,
+    "wins": 2691,
+    "losses": 2798,
+    "battleCount": 5489,
+    "threeCrownWins": 1912,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37686,
+    "totalDonations": 37708,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5522,13 +5522,13 @@
     "expLevel": 42,
     "trophies": 12293,
     "bestTrophies": 12293,
-    "wins": 1222,
+    "wins": 1223,
     "losses": 682,
-    "battleCount": 1904,
+    "battleCount": 1905,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16262,
+    "totalDonations": 16288,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5603,11 +5603,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "P.E.K.K.A",
+      "rarity": "epic",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
     }
   },
   "#GU0VGJCJC": {
