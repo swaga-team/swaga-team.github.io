@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4918,
+  "donationsPerWeek": 5024,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261119T175647.000Z",
+      "tag": "#YQ2VLPJ0L",
+      "name": "arch1tector",
+      "role": "member",
+      "lastSeen": "20261119T185929.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,9 +32,45 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
+      "previousClanRank": 3,
+      "donations": 258,
+      "donationsReceived": 208,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261119T185731.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 217,
-      "donationsReceived": 248,
+      "donationsReceived": 264,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#LV0GVYYL8",
+      "name": "kkyo",
+      "role": "coLeader",
+      "lastSeen": "20261119T183410.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 3,
+      "previousClanRank": 8,
+      "donations": 232,
+      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -49,10 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 4,
       "previousClanRank": 5,
       "donations": 71,
-      "donationsReceived": 96,
+      "donationsReceived": 112,
       "clanChestPoints": 0
     },
     {
@@ -67,10 +103,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 5,
       "previousClanRank": 6,
       "donations": 393,
-      "donationsReceived": 300,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -85,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 6,
       "previousClanRank": 4,
       "donations": 166,
       "donationsReceived": 240,
@@ -103,46 +139,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 7,
       "previousClanRank": 2,
       "donations": 214,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#LV0GVYYL8",
-      "name": "kkyo",
-      "role": "coLeader",
-      "lastSeen": "20261119T102330.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 8,
-      "donations": 180,
-      "donationsReceived": 190,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#YQ2VLPJ0L",
-      "name": "arch1tector",
-      "role": "member",
-      "lastSeen": "20261118T193655.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 7,
-      "previousClanRank": 3,
-      "donations": 204,
-      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261119T101944.000Z",
+      "lastSeen": "20261119T182739.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
-      "donationsReceived": 104,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -725,7 +725,7 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261119T173743.000Z",
+      "lastSeen": "20261119T180133.000Z",
       "expLevel": 0,
       "trophies": 3122,
       "arena": {
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 40,
       "donations": 130,
-      "donationsReceived": 360,
+      "donationsReceived": 380,
       "clanChestPoints": 0
     },
     {
