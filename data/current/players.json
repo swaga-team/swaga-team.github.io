@@ -186,7 +186,7 @@
     "threeCrownWins": 1074,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35596,
+    "totalDonations": 35604,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -365,8 +365,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2966,
-    "losses": 2549,
-    "battleCount": 5515,
+    "losses": 2550,
+    "battleCount": 5516,
     "threeCrownWins": 1121,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2006,13 +2006,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2335,
+    "wins": 2336,
     "losses": 2168,
-    "battleCount": 4503,
+    "battleCount": 4504,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18469,
+    "totalDonations": 18477,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2087,11 +2087,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Mega Knight",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2899,12 +2899,12 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2688,
-    "losses": 2791,
-    "battleCount": 5479,
+    "losses": 2792,
+    "battleCount": 5480,
     "threeCrownWins": 1909,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37654,
+    "totalDonations": 37662,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5697,11 +5697,11 @@
   },
   "#VQJPUULJV": {
     "expLevel": 35,
-    "trophies": 8563,
+    "trophies": 8565,
     "bestTrophies": 8818,
-    "wins": 1584,
-    "losses": 1386,
-    "battleCount": 2970,
+    "wins": 1585,
+    "losses": 1387,
+    "battleCount": 2972,
     "threeCrownWins": 460,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5780,11 +5780,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ice Wizard",
-      "rarity": "legendary",
+      "name": "Cannon",
+      "rarity": "common",
       "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
     }
   },
   "#UQRQ0YRVL": {
