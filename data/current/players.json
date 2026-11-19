@@ -1461,13 +1461,13 @@
     "expLevel": 48,
     "trophies": 12121,
     "bestTrophies": 12279,
-    "wins": 2425,
+    "wins": 2426,
     "losses": 2620,
-    "battleCount": 5045,
+    "battleCount": 5046,
     "threeCrownWins": 1110,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14072,
+    "totalDonations": 14124,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2105,13 +2105,13 @@
     "expLevel": 20,
     "trophies": 9641,
     "bestTrophies": 9672,
-    "wins": 1050,
+    "wins": 1051,
     "losses": 706,
-    "battleCount": 1756,
+    "battleCount": 1757,
     "threeCrownWins": 513,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3377,
+    "totalDonations": 3403,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2134,6 +2134,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -5114,13 +5121,13 @@
     "expLevel": 57,
     "trophies": 10057,
     "bestTrophies": 10057,
-    "wins": 2332,
+    "wins": 2337,
     "losses": 1108,
-    "battleCount": 3440,
-    "threeCrownWins": 1122,
+    "battleCount": 3445,
+    "threeCrownWins": 1125,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26854,
+    "totalDonations": 26908,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5143,6 +5150,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5188,11 +5202,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Ghost",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Monk",
+      "rarity": "champion",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
     }
   },
   "#VU2P0VJYC": {
@@ -5520,11 +5534,11 @@
   },
   "#YGQU2GCJR": {
     "expLevel": 42,
-    "trophies": 12293,
+    "trophies": 12264,
     "bestTrophies": 12293,
     "wins": 1223,
-    "losses": 682,
-    "battleCount": 1905,
+    "losses": 684,
+    "battleCount": 1907,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5603,11 +5617,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
-      "rarity": "epic",
-      "elixirCost": 7,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#GU0VGJCJC": {
