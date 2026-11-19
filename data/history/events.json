@@ -7844,5 +7844,33 @@
       }
     ],
     "at": "2026-11-19T07:24:11+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VC298L8UV",
+    "name": "ink",
+    "cards": [
+      {
+        "name": "Fireball",
+        "level": 8
+      },
+      {
+        "name": "Musketeer",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-19T09:12:27+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#V09GR9GG0",
+    "name": "Infirmity",
+    "at": "2026-11-19T09:12:27+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#PLUQRR22G",
+    "name": "ветмо",
+    "at": "2026-11-19T09:12:27+00:00"
   }
 ]
