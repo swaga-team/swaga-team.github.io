@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 4910,
+  "donationsPerWeek": 4918,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261119T171146.000Z",
+      "lastSeen": "20261119T175647.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 217,
-      "donationsReceived": 240,
+      "donationsReceived": 248,
       "clanChestPoints": 0
     },
     {
@@ -311,7 +311,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261119T123618.000Z",
+      "lastSeen": "20261119T173738.000Z",
       "expLevel": 0,
       "trophies": 12121,
       "arena": {
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261119T083747.000Z",
+      "lastSeen": "20261119T173743.000Z",
       "expLevel": 0,
-      "trophies": 3121,
+      "trophies": 3122,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,7 +735,7 @@
       },
       "clanRank": 40,
       "previousClanRank": 40,
-      "donations": 122,
+      "donations": 130,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },

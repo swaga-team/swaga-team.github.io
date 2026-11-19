@@ -731,15 +731,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#QQYVQG22G",
-          "name": "ecko",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R00CLL2Q",
           "name": "TWIX",
           "fame": 0,
@@ -785,6 +776,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#QQYVQG22G",
+          "name": "ecko",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
           "fame": 350,
@@ -794,7 +794,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 350,
+      "periodPoints": 650,
       "clanScore": 2154
     },
     {
@@ -2242,11 +2242,11 @@
         {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
-          "fame": 400,
+          "fame": 600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJGYGPPL9",
@@ -2276,7 +2276,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2500,
+      "periodPoints": 2700,
       "clanScore": 2115
     },
     {
@@ -2557,15 +2557,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8J2GGGQY",
-          "name": "xAtlas GD",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#JR888YL2R",
           "name": "Calluzi",
           "fame": 0,
@@ -2699,9 +2690,18 @@
           "boatAttacks": 2,
           "decksUsed": 4,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#8J2GGGQY",
+          "name": "xAtlas GD",
+          "fame": 725,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 450,
+      "periodPoints": 1175,
       "clanScore": 2173
     }
   ],

@@ -95,9 +95,9 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3774,
+    "wins": 3775,
     "losses": 2108,
-    "battleCount": 5882,
+    "battleCount": 5883,
     "threeCrownWins": 1082,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -5025,15 +5025,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3121,
+    "trophies": 3122,
     "bestTrophies": 3179,
-    "wins": 289,
-    "losses": 203,
-    "battleCount": 492,
+    "wins": 291,
+    "losses": 205,
+    "battleCount": 496,
     "threeCrownWins": 108,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 288,
+    "totalDonations": 296,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5096,11 +5096,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Hog Rider",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#2QQG2QPCY": {
