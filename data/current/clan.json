@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118473,
+  "clanScore": 118477,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5204,
+  "donationsPerWeek": 5286,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 228,
-      "donationsReceived": 310,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 392,
-      "donationsReceived": 328,
+      "donationsReceived": 344,
       "clanChestPoints": 0
     },
     {
@@ -347,7 +347,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261119T073906.000Z",
+      "lastSeen": "20261119T231913.000Z",
       "expLevel": 0,
       "trophies": 11724,
       "arena": {
@@ -357,8 +357,8 @@
       },
       "clanRank": 19,
       "previousClanRank": 19,
-      "donations": 150,
-      "donationsReceived": 200,
+      "donations": 196,
+      "donationsReceived": 208,
       "clanChestPoints": 0
     },
     {
@@ -376,14 +376,14 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 176,
+      "donationsReceived": 184,
       "clanChestPoints": 0
     },
     {
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261119T223249.000Z",
+      "lastSeen": "20261119T234302.000Z",
       "expLevel": 0,
       "trophies": 10057,
       "arena": {
@@ -393,8 +393,8 @@
       },
       "clanRank": 21,
       "previousClanRank": 21,
-      "donations": 287,
-      "donationsReceived": 270,
+      "donations": 305,
+      "donationsReceived": 290,
       "clanChestPoints": 0
     },
     {
@@ -473,9 +473,9 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261119T224249.000Z",
+      "lastSeen": "20261119T230228.000Z",
       "expLevel": 0,
-      "trophies": 9641,
+      "trophies": 9672,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -483,8 +483,8 @@
       },
       "clanRank": 26,
       "previousClanRank": 25,
-      "donations": 167,
-      "donationsReceived": 210,
+      "donations": 175,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261119T191645.000Z",
+      "lastSeen": "20261119T234131.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261119T180133.000Z",
+      "lastSeen": "20261119T230118.000Z",
       "expLevel": 0,
-      "trophies": 3122,
+      "trophies": 3124,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,7 +735,7 @@
       },
       "clanRank": 40,
       "previousClanRank": 39,
-      "donations": 130,
+      "donations": 140,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },

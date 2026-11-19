@@ -26,15 +26,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#29GJQ0G9Q",
-        "name": "✨R_U_B_I_N✨",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#CJR008LV9",
         "name": "cook",
         "fame": 0,
@@ -64,15 +55,6 @@
       {
         "tag": "#QU8082PC2",
         "name": "yrikkiller",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#9RJPRQLL2",
-        "name": "Morj",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -548,6 +530,24 @@
         "decksUsedToday": 2
       },
       {
+        "tag": "#29GJQ0G9Q",
+        "name": "✨R_U_B_I_N✨",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
+        "tag": "#9RJPRQLL2",
+        "name": "Morj",
+        "fame": 350,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#YQ2VLPJ0L",
         "name": "arch1tector",
         "fame": 450,
@@ -611,7 +611,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4625,
+    "periodPoints": 5275,
     "clanScore": 2195
   },
   "clans": [
@@ -823,15 +823,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#29GJQ0G9Q",
-          "name": "✨R_U_B_I_N✨",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CJR008LV9",
           "name": "cook",
           "fame": 0,
@@ -861,15 +852,6 @@
         {
           "tag": "#QU8082PC2",
           "name": "yrikkiller",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#9RJPRQLL2",
-          "name": "Morj",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1345,6 +1327,24 @@
           "decksUsedToday": 2
         },
         {
+          "tag": "#29GJQ0G9Q",
+          "name": "✨R_U_B_I_N✨",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
+          "tag": "#9RJPRQLL2",
+          "name": "Morj",
+          "fame": 350,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#YQ2VLPJ0L",
           "name": "arch1tector",
           "fame": 450,
@@ -1408,7 +1408,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4625,
+      "periodPoints": 5275,
       "clanScore": 2195
     },
     {
@@ -2629,15 +2629,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20CL00UJ",
-          "name": "King Bernie",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#88JVQYYGL",
           "name": "StoneDFisherMan",
           "fame": 0,
@@ -2701,6 +2692,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#20CL00UJ",
+          "name": "King Bernie",
+          "fame": 650,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8J2GGGQY",
           "name": "xAtlas GD",
           "fame": 725,
@@ -2710,7 +2710,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1875,
+      "periodPoints": 2525,
       "clanScore": 2173
     }
   ],
