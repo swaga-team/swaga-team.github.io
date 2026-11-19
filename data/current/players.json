@@ -272,13 +272,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11138,
-    "losses": 10784,
-    "battleCount": 21922,
-    "threeCrownWins": 5623,
+    "wins": 11140,
+    "losses": 10785,
+    "battleCount": 21925,
+    "threeCrownWins": 5624,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138867,
+    "totalDonations": 138895,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3266,13 +3266,13 @@
     "expLevel": 58,
     "trophies": 3179,
     "bestTrophies": 3397,
-    "wins": 3350,
+    "wins": 3353,
     "losses": 2879,
-    "battleCount": 6229,
+    "battleCount": 6232,
     "threeCrownWins": 2637,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21650,
+    "totalDonations": 21660,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5607,9 +5607,9 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4023,
+    "wins": 4025,
     "losses": 3445,
-    "battleCount": 7468,
+    "battleCount": 7470,
     "threeCrownWins": 1777,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5688,20 +5688,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Baby Dragon",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Ice Wizard",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
     }
   },
   "#VQJPUULJV": {
     "expLevel": 35,
     "trophies": 8563,
     "bestTrophies": 8818,
-    "wins": 1582,
-    "losses": 1385,
-    "battleCount": 2967,
+    "wins": 1584,
+    "losses": 1386,
+    "battleCount": 2970,
     "threeCrownWins": 460,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5791,9 +5791,9 @@
     "expLevel": 3,
     "trophies": 8600,
     "bestTrophies": 8814,
-    "wins": 647,
-    "losses": 345,
-    "battleCount": 992,
+    "wins": 648,
+    "losses": 347,
+    "battleCount": 995,
     "threeCrownWins": 170,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5872,11 +5872,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Baby Dragon",
+      "name": "Executioner",
       "rarity": "epic",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#J28RP9LPV": {
@@ -5975,9 +5975,9 @@
     "expLevel": 20,
     "trophies": 2421,
     "bestTrophies": 2421,
-    "wins": 136,
-    "losses": 67,
-    "battleCount": 203,
+    "wins": 137,
+    "losses": 70,
+    "battleCount": 207,
     "threeCrownWins": 78,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6004,8 +6004,8 @@
         "name": "Skeletons",
         "rarity": "common",
         "elixirCost": 1,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       },
       {
         "name": "Fireball",
@@ -6044,11 +6044,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Dark Prince",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Wizard",
+      "rarity": "rare",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   }
 }

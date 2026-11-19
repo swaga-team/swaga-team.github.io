@@ -7872,5 +7872,17 @@
     "tag": "#PLUQRR22G",
     "name": "ветмо",
     "at": "2026-11-19T09:12:27+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQP92GLC8",
+    "name": "Adawell",
+    "cards": [
+      {
+        "name": "Giant Skeleton",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-19T10:14:38+00:00"
   }
 ]
