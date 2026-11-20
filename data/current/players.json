@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3778,
+    "wins": 3779,
     "losses": 2108,
-    "battleCount": 5886,
+    "battleCount": 5887,
     "threeCrownWins": 1082,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 41995,
+    "totalDonations": 42029,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -1414,13 +1414,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "The Log",
         "rarity": "legendary",
         "elixirCost": 2,
@@ -1744,10 +1737,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2606,
-    "losses": 2279,
-    "battleCount": 4885,
-    "threeCrownWins": 929,
+    "wins": 2610,
+    "losses": 2285,
+    "battleCount": 4895,
+    "threeCrownWins": 931,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -4312,13 +4305,13 @@
     "expLevel": 68,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 1901,
-    "losses": 1258,
-    "battleCount": 3159,
-    "threeCrownWins": 834,
+    "wins": 1902,
+    "losses": 1261,
+    "battleCount": 3163,
+    "threeCrownWins": 835,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 28913,
+    "totalDonations": 28973,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4393,11 +4386,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Archer Queen",
-      "rarity": "champion",
+      "name": "Witch",
+      "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#8RYCGVUV0": {
@@ -4857,10 +4850,10 @@
     "expLevel": 1,
     "trophies": 5629,
     "bestTrophies": 5629,
-    "wins": 744,
+    "wins": 747,
     "losses": 393,
-    "battleCount": 1137,
-    "threeCrownWins": 179,
+    "battleCount": 1140,
+    "threeCrownWins": 180,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 161,
@@ -4938,11 +4931,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Recruits",
-      "rarity": "common",
-      "elixirCost": 7,
+      "name": "Royal Ghost",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jcNyYGUiXXNz3kuz8NBkHNKNREQKraXlb_Ts7rhCIdM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
     }
   },
   "#2G2VYP9G": {
@@ -5150,13 +5143,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",

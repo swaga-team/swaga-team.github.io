@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5286,
+  "donationsPerWeek": 5380,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261120T033604.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 251,
+      "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261120T030633.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 4,
+      "donations": 453,
+      "donationsReceived": 330,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
@@ -31,28 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 7,
       "donations": 258,
       "donationsReceived": 240,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261119T185731.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 6,
-      "donations": 217,
-      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 232,
       "donationsReceived": 230,
@@ -85,28 +103,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 2,
       "donations": 71,
       "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261119T160111.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 5,
-      "previousClanRank": 4,
-      "donations": 393,
-      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 17,
       "donations": 392,
-      "donationsReceived": 344,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -358,14 +358,14 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 196,
-      "donationsReceived": 208,
+      "donationsReceived": 224,
       "clanChestPoints": 0
     },
     {
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261119T193714.000Z",
+      "lastSeen": "20261120T031018.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 184,
+      "donationsReceived": 208,
       "clanChestPoints": 0
     },
     {
@@ -394,7 +394,7 @@
       "clanRank": 21,
       "previousClanRank": 21,
       "donations": 305,
-      "donationsReceived": 290,
+      "donationsReceived": 300,
       "clanChestPoints": 0
     },
     {
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 25,
       "donations": 175,
-      "donationsReceived": 230,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261120T020022.000Z",
+      "lastSeen": "20261120T031044.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 37,
       "donations": 0,
-      "donationsReceived": 120,
+      "donationsReceived": 128,
       "clanChestPoints": 0
     },
     {
