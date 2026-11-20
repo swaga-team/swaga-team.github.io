@@ -279,13 +279,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11149,
-    "losses": 10791,
-    "battleCount": 21940,
-    "threeCrownWins": 5626,
+    "wins": 11151,
+    "losses": 10796,
+    "battleCount": 21947,
+    "threeCrownWins": 5627,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138947,
+    "totalDonations": 138955,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Royal Giant",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#R98U8U290": {
@@ -831,13 +831,13 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2439,
-    "losses": 1729,
-    "battleCount": 4168,
+    "wins": 2440,
+    "losses": 1731,
+    "battleCount": 4171,
     "threeCrownWins": 613,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31213,
+    "totalDonations": 31265,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1374,15 +1374,15 @@
   },
   "#29GJQ0G9Q": {
     "expLevel": 63,
-    "trophies": 11724,
+    "trophies": 11728,
     "bestTrophies": 11786,
-    "wins": 3662,
-    "losses": 2839,
-    "battleCount": 6501,
-    "threeCrownWins": 2731,
+    "wins": 3663,
+    "losses": 2840,
+    "battleCount": 6503,
+    "threeCrownWins": 2732,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73233,
+    "totalDonations": 73285,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1450,11 +1450,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
-      "rarity": "epic",
+      "name": "Mega Knight",
+      "rarity": "legendary",
       "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
     }
   },
   "#PQQ2JYL2G": {
@@ -2905,13 +2905,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2693,
+    "wins": 2694,
     "losses": 2798,
-    "battleCount": 5491,
+    "battleCount": 5492,
     "threeCrownWins": 1912,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37708,
+    "totalDonations": 37718,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2986,11 +2986,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rascals",
-      "rarity": "common",
+      "name": "Prince",
+      "rarity": "epic",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
     }
   },
   "#GQP92GLC8": {
@@ -5032,11 +5032,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3094,
+    "trophies": 3124,
     "bestTrophies": 3179,
-    "wins": 293,
-    "losses": 208,
-    "battleCount": 501,
+    "wins": 295,
+    "losses": 209,
+    "battleCount": 504,
     "threeCrownWins": 109,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5103,11 +5103,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5704,11 +5704,11 @@
   },
   "#VQJPUULJV": {
     "expLevel": 35,
-    "trophies": 8600,
+    "trophies": 8599,
     "bestTrophies": 8818,
-    "wins": 1588,
-    "losses": 1389,
-    "battleCount": 2977,
+    "wins": 1589,
+    "losses": 1390,
+    "battleCount": 2979,
     "threeCrownWins": 461,
     "warDayWins": 0,
     "clanCardsCollected": 0,
