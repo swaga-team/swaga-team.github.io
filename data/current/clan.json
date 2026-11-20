@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5710,
+  "donationsPerWeek": 5786,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261120T095533.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 267,
+      "donationsReceived": 320,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 7,
       "donations": 310,
-      "donationsReceived": 240,
+      "donationsReceived": 264,
       "clanChestPoints": 0
     },
     {
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 192,
       "donationsReceived": 280,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 485,
       "donationsReceived": 360,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261120T044111.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 6,
-      "donations": 251,
-      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 248,
-      "donationsReceived": 256,
+      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -401,7 +401,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261120T051158.000Z",
+      "lastSeen": "20261120T094212.000Z",
       "expLevel": 0,
       "trophies": 9922,
       "arena": {
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 22,
-      "donations": 268,
+      "donations": 302,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -527,7 +527,7 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261120T085515.000Z",
+      "lastSeen": "20261120T100530.000Z",
       "expLevel": 0,
       "trophies": 8599,
       "arena": {
@@ -707,7 +707,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261120T051856.000Z",
+      "lastSeen": "20261120T092710.000Z",
       "expLevel": 0,
       "trophies": 3179,
       "arena": {
@@ -717,8 +717,8 @@
       },
       "clanRank": 39,
       "previousClanRank": 38,
-      "donations": 474,
-      "donationsReceived": 272,
+      "donations": 500,
+      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 39,
       "donations": 172,
-      "donationsReceived": 420,
+      "donationsReceived": 440,
       "clanChestPoints": 0
     },
     {

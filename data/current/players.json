@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3779,
-    "losses": 2108,
-    "battleCount": 5887,
-    "threeCrownWins": 1082,
+    "wins": 3780,
+    "losses": 2109,
+    "battleCount": 5889,
+    "threeCrownWins": 1083,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 42029,
+    "totalDonations": 42045,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -2282,13 +2282,13 @@
     "expLevel": 39,
     "trophies": 9922,
     "bestTrophies": 9954,
-    "wins": 1281,
-    "losses": 1123,
-    "battleCount": 2404,
+    "wins": 1282,
+    "losses": 1124,
+    "battleCount": 2406,
     "threeCrownWins": 709,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 5114,
+    "totalDonations": 5148,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2311,6 +2311,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2356,11 +2363,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Balloon",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
     }
   },
   "#22JLP29RV": {
@@ -3279,7 +3286,7 @@
     "threeCrownWins": 2637,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21792,
+    "totalDonations": 21818,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
