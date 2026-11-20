@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118509,
+  "clanScore": 118507,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6052,
+  "donationsPerWeek": 6135,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261120T165138.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 537,
+      "donationsReceived": 400,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261120T160655.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 4,
+      "donations": 89,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
@@ -31,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 6,
       "donations": 217,
       "donationsReceived": 280,
@@ -49,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 4,
       "previousClanRank": 2,
       "donations": 267,
       "donationsReceived": 320,
@@ -67,28 +103,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 5,
       "previousClanRank": 8,
       "donations": 84,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
-      "role": "member",
-      "lastSeen": "20261120T125731.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 5,
-      "donations": 511,
-      "donationsReceived": 400,
       "clanChestPoints": 0
     },
     {
@@ -103,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 1,
       "donations": 346,
       "donationsReceived": 280,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261120T112253.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 4,
-      "donations": 89,
-      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -239,9 +239,9 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261117T110553.000Z",
+      "lastSeen": "20261120T163304.000Z",
       "expLevel": 0,
-      "trophies": 13118,
+      "trophies": 13088,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -249,7 +249,7 @@
       },
       "clanRank": 13,
       "previousClanRank": 13,
-      "donations": 0,
+      "donations": 18,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -329,7 +329,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261119T152056.000Z",
+      "lastSeen": "20261120T165005.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -339,8 +339,8 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 84,
-      "donationsReceived": 240,
+      "donations": 102,
+      "donationsReceived": 254,
       "clanChestPoints": 0
     },
     {
@@ -383,9 +383,9 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261120T120944.000Z",
+      "lastSeen": "20261120T162337.000Z",
       "expLevel": 0,
-      "trophies": 10057,
+      "trophies": 10116,
       "arena": {
         "id": 54000117,
         "name": "Lumberlove Cabin",
@@ -393,7 +393,7 @@
       },
       "clanRank": 21,
       "previousClanRank": 21,
-      "donations": 312,
+      "donations": 322,
       "donationsReceived": 340,
       "clanChestPoints": 0
     },
@@ -709,7 +709,7 @@
       "role": "elder",
       "lastSeen": "20261120T155630.000Z",
       "expLevel": 0,
-      "trophies": 3269,
+      "trophies": 3240,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -718,7 +718,7 @@
       "clanRank": 39,
       "previousClanRank": 39,
       "donations": 528,
-      "donationsReceived": 280,
+      "donationsReceived": 309,
       "clanChestPoints": 0
     },
     {
@@ -736,14 +736,14 @@
       "clanRank": 40,
       "previousClanRank": 40,
       "donations": 191,
-      "donationsReceived": 450,
+      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261119T145033.000Z",
+      "lastSeen": "20261120T164748.000Z",
       "expLevel": 0,
       "trophies": 2965,
       "arena": {
@@ -753,8 +753,8 @@
       },
       "clanRank": 41,
       "previousClanRank": 41,
-      "donations": 6,
-      "donationsReceived": 60,
+      "donations": 17,
+      "donationsReceived": 70,
       "clanChestPoints": 0
     },
     {
