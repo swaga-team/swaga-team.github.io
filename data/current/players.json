@@ -1284,13 +1284,13 @@
     "expLevel": 56,
     "trophies": 11730,
     "bestTrophies": 11759,
-    "wins": 1120,
-    "losses": 1051,
-    "battleCount": 2171,
-    "threeCrownWins": 638,
+    "wins": 1122,
+    "losses": 1052,
+    "battleCount": 2174,
+    "threeCrownWins": 639,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25682,
+    "totalDonations": 25690,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1365,11 +1365,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
+      "name": "Valkyrie",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#29GJQ0G9Q": {
@@ -1461,13 +1461,13 @@
     "expLevel": 48,
     "trophies": 12181,
     "bestTrophies": 12279,
-    "wins": 2428,
-    "losses": 2620,
-    "battleCount": 5048,
-    "threeCrownWins": 1111,
+    "wins": 2431,
+    "losses": 2621,
+    "battleCount": 5052,
+    "threeCrownWins": 1112,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14142,
+    "totalDonations": 14168,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Royal Giant",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#YR2GG8C2": {
@@ -5039,12 +5039,12 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3124,
-    "bestTrophies": 3179,
-    "wins": 299,
-    "losses": 213,
-    "battleCount": 512,
-    "threeCrownWins": 110,
+    "trophies": 3155,
+    "bestTrophies": 3184,
+    "wins": 301,
+    "losses": 214,
+    "battleCount": 515,
+    "threeCrownWins": 112,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 357,
@@ -5127,7 +5127,7 @@
     "threeCrownWins": 1125,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26943,
+    "totalDonations": 26950,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5150,13 +5150,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5718,11 +5711,11 @@
   },
   "#VQJPUULJV": {
     "expLevel": 35,
-    "trophies": 8536,
+    "trophies": 8540,
     "bestTrophies": 8818,
-    "wins": 1591,
-    "losses": 1393,
-    "battleCount": 2984,
+    "wins": 1594,
+    "losses": 1396,
+    "battleCount": 2990,
     "threeCrownWins": 461,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5765,11 +5758,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       },
       {
-        "name": "Hog Rider",
-        "rarity": "rare",
-        "elixirCost": 4,
+        "name": "Ram Rider",
+        "rarity": "legendary",
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
       },
       {
         "name": "Fireball",
@@ -5801,11 +5794,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rascals",
-      "rarity": "common",
-      "elixirCost": 5,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#UQRQ0YRVL": {

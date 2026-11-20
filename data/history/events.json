@@ -8137,5 +8137,21 @@
       }
     ],
     "at": "2026-11-20T17:03:46+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      {
+        "name": "Bomb Tower",
+        "level": 12
+      },
+      {
+        "name": "Minion Giant",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-20T19:05:24+00:00"
   }
 ]
