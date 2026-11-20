@@ -193,7 +193,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35683,
+    "totalDonations": 35699,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5121,13 +5121,13 @@
     "expLevel": 57,
     "trophies": 10116,
     "bestTrophies": 10116,
-    "wins": 2346,
-    "losses": 1114,
-    "battleCount": 3460,
-    "threeCrownWins": 1125,
+    "wins": 2350,
+    "losses": 1116,
+    "battleCount": 3466,
+    "threeCrownWins": 1128,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26950,
+    "totalDonations": 26968,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5202,11 +5202,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Ghost",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Monk",
+      "rarity": "champion",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
     }
   },
   "#VU2P0VJYC": {
@@ -5536,13 +5536,13 @@
     "expLevel": 42,
     "trophies": 12264,
     "bestTrophies": 12293,
-    "wins": 1224,
-    "losses": 685,
-    "battleCount": 1909,
+    "wins": 1225,
+    "losses": 686,
+    "battleCount": 1911,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16356,
+    "totalDonations": 16374,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5617,11 +5617,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#GU0VGJCJC": {
