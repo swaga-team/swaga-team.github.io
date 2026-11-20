@@ -1743,15 +1743,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#V8V0RL2Y9",
-          "name": "(c7) SARAH",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#22P0U0UQUR",
           "name": "2Yoll",
           "fame": 0,
@@ -1824,6 +1815,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#V8V0RL2Y9",
+          "name": "(c7) SARAH",
+          "fame": 225,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 450,
@@ -1860,7 +1860,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2125,
+      "periodPoints": 2350,
       "clanScore": 2115
     },
     {
