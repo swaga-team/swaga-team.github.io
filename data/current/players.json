@@ -2912,13 +2912,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2702,
+    "wins": 2703,
     "losses": 2803,
-    "battleCount": 5505,
-    "threeCrownWins": 1914,
+    "battleCount": 5506,
+    "threeCrownWins": 1915,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37718,
+    "totalDonations": 37736,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2993,11 +2993,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Gang",
+      "name": "Rascals",
       "rarity": "common",
-      "elixirCost": 3,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
     }
   },
   "#GQP92GLC8": {
@@ -5039,15 +5039,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3155,
-    "bestTrophies": 3184,
-    "wins": 301,
+    "trophies": 3215,
+    "bestTrophies": 3215,
+    "wins": 303,
     "losses": 214,
-    "battleCount": 515,
+    "battleCount": 517,
     "threeCrownWins": 112,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 357,
+    "totalDonations": 367,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 117274,
+  "clanScore": 117280,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6304,
+  "donationsPerWeek": 6332,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -32,9 +32,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 3,
+      "previousClanRank": 5,
       "donations": 259,
-      "donationsReceived": 270,
+      "donationsReceived": 290,
       "clanChestPoints": 0
     },
     {
@@ -50,7 +50,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 1,
+      "previousClanRank": 2,
       "donations": 375,
       "donationsReceived": 312,
       "clanChestPoints": 0
@@ -68,7 +68,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 2,
+      "previousClanRank": 1,
       "donations": 267,
       "donationsReceived": 320,
       "clanChestPoints": 0
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 5,
+      "previousClanRank": 4,
       "donations": 537,
       "donationsReceived": 400,
       "clanChestPoints": 0
@@ -104,7 +104,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 5,
-      "previousClanRank": 4,
+      "previousClanRank": 6,
       "donations": 89,
       "donationsReceived": 160,
       "clanChestPoints": 0
@@ -122,7 +122,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 6,
-      "previousClanRank": 6,
+      "previousClanRank": 3,
       "donations": 217,
       "donationsReceived": 280,
       "clanChestPoints": 0
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261120T203640.000Z",
+      "lastSeen": "20261120T223904.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -645,7 +645,7 @@
       },
       "clanRank": 35,
       "previousClanRank": 35,
-      "donations": 164,
+      "donations": 182,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261120T175455.000Z",
+      "lastSeen": "20261120T224038.000Z",
       "expLevel": 0,
-      "trophies": 3155,
+      "trophies": 3215,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 40,
-      "donations": 191,
-      "donationsReceived": 480,
+      "donations": 201,
+      "donationsReceived": 488,
       "clanChestPoints": 0
     },
     {
