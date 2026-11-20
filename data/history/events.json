@@ -8084,5 +8084,46 @@
       }
     ],
     "at": "2026-11-20T13:19:01+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8UCG80RYR",
+    "name": "Daisy Sprout",
+    "cards": [
+      {
+        "name": "Miner",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-20T15:00:39+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#8UCG80RYR",
+    "name": "Daisy Sprout",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-20T15:00:39+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VC298L8UV",
+    "name": "ink",
+    "cards": [
+      {
+        "name": "Wizard",
+        "level": 9
+      },
+      {
+        "name": "Hog Rider",
+        "level": 9
+      },
+      {
+        "name": "Giant",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-20T15:00:39+00:00"
   }
 ]

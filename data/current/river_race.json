@@ -767,15 +767,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VCLLGG9QG",
-          "name": "Moriarty",
-          "fame": 350,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2L8LR0QGU",
           "name": "mr.tvister",
           "fame": 550,
@@ -792,9 +783,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#VCLLGG9QG",
+          "name": "Moriarty",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 450,
       "clanScore": 2154
     },
     {
@@ -1590,15 +1590,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#RCYR8JYYV",
-          "name": "hafid_oi",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VR2JQQ2LG",
           "name": "fffff",
           "fame": 0,
@@ -1628,15 +1619,6 @@
         {
           "tag": "#20PRVJJPC9",
           "name": "PBM ga hshsh",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#9LUL08PLJ",
-          "name": "Ghis",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1806,6 +1788,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#RCYR8JYYV",
+          "name": "hafid_oi",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#ULCYG0VGV",
           "name": "TheMrPoop",
           "fame": 450,
@@ -1842,6 +1833,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#9LUL08PLJ",
+          "name": "Ghis",
+          "fame": 800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#20UU009LQQ",
           "name": "zammmmmm",
           "fame": 875,
@@ -1860,7 +1860,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1800,
+      "periodPoints": 3000,
       "clanScore": 2115
     },
     {
@@ -2665,15 +2665,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V2YYJY890",
           "name": "Player456",
           "fame": 600,
@@ -2701,6 +2692,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 6,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#200RRJRLYR",
           "name": "superSabre58066",
           "fame": 925,
@@ -2710,7 +2710,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 575,
+      "periodPoints": 875,
       "clanScore": 2173
     }
   ],
