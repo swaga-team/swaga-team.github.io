@@ -1536,26 +1536,8 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8Q9J928Q",
-          "name": "scottriyan",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#C2YCPLRPY",
           "name": "Kevin 3348",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#ULCYG0VGV",
-          "name": "TheMrPoop",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1797,15 +1779,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PRJYV2CP",
-          "name": "vabrinoza",
-          "fame": 125,
-          "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 1,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V8V0RL2Y9",
           "name": "(c7) SARAH",
           "fame": 225,
@@ -1815,13 +1788,31 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8PVGVG90Q",
-          "name": "FH solow",
+          "tag": "#PRJYV2CP",
+          "name": "vabrinoza",
+          "fame": 250,
+          "repairPoints": 0,
+          "boatAttacks": 2,
+          "decksUsed": 2,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#8Q9J928Q",
+          "name": "scottriyan",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#ULCYG0VGV",
+          "name": "TheMrPoop",
           "fame": 450,
           "repairPoints": 0,
-          "boatAttacks": 4,
+          "boatAttacks": 2,
           "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#20UJ9UGUQP",
@@ -1858,9 +1849,18 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#8PVGVG90Q",
+          "name": "FH solow",
+          "fame": 900,
+          "repairPoints": 0,
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 1425,
       "clanScore": 2115
     },
     {

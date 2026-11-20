@@ -95,10 +95,10 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3780,
-    "losses": 2109,
-    "battleCount": 5889,
-    "threeCrownWins": 1083,
+    "wins": 3781,
+    "losses": 2110,
+    "battleCount": 5891,
+    "threeCrownWins": 1084,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
     "totalDonations": 42045,
@@ -176,11 +176,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#LV0GVYYL8": {
@@ -193,7 +193,7 @@
     "threeCrownWins": 1074,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35656,
+    "totalDonations": 35664,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -279,13 +279,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11151,
+    "wins": 11152,
     "losses": 10796,
-    "battleCount": 21947,
+    "battleCount": 21948,
     "threeCrownWins": 5627,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138955,
+    "totalDonations": 138962,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Giant",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Furnace",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
     }
   },
   "#R98U8U290": {
@@ -831,13 +831,13 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2440,
+    "wins": 2441,
     "losses": 1731,
-    "battleCount": 4171,
+    "battleCount": 4172,
     "threeCrownWins": 613,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31265,
+    "totalDonations": 31283,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1459,15 +1459,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12121,
+    "trophies": 12181,
     "bestTrophies": 12279,
-    "wins": 2426,
+    "wins": 2428,
     "losses": 2620,
-    "battleCount": 5046,
-    "threeCrownWins": 1110,
+    "battleCount": 5048,
+    "threeCrownWins": 1111,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14124,
+    "totalDonations": 14142,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2044,13 +2044,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -2288,7 +2281,7 @@
     "threeCrownWins": 709,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 5148,
+    "totalDonations": 5166,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2311,13 +2304,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -5713,9 +5699,9 @@
     "expLevel": 35,
     "trophies": 8599,
     "bestTrophies": 8818,
-    "wins": 1589,
+    "wins": 1590,
     "losses": 1390,
-    "battleCount": 2979,
+    "battleCount": 2980,
     "threeCrownWins": 461,
     "warDayWins": 0,
     "clanCardsCollected": 0,
