@@ -215,15 +215,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#LV0GVYYL8",
-        "name": "kkyo",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#8UCG80RYR",
         "name": "Daisy Sprout",
         "fame": 0,
@@ -548,6 +539,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#LV0GVYYL8",
+        "name": "kkyo",
+        "fame": 450,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#PQQGRL028",
         "name": "govnoed",
         "fame": 600,
@@ -620,7 +620,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4775,
+    "periodPoints": 5225,
     "clanScore": 2195
   },
   "clans": [
@@ -1021,15 +1021,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#LV0GVYYL8",
-          "name": "kkyo",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8UCG80RYR",
           "name": "Daisy Sprout",
           "fame": 0,
@@ -1354,6 +1345,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#LV0GVYYL8",
+          "name": "kkyo",
+          "fame": 450,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#PQQGRL028",
           "name": "govnoed",
           "fame": 600,
@@ -1426,7 +1426,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4775,
+      "periodPoints": 5225,
       "clanScore": 2195
     },
     {
