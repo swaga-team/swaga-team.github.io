@@ -837,7 +837,7 @@
     "threeCrownWins": 613,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31301,
+    "totalDonations": 31330,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1315,13 +1315,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -1459,15 +1452,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12181,
+    "trophies": 12131,
     "bestTrophies": 12279,
-    "wins": 2431,
-    "losses": 2621,
-    "battleCount": 5052,
+    "wins": 2432,
+    "losses": 2624,
+    "battleCount": 5056,
     "threeCrownWins": 1112,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14168,
+    "totalDonations": 14178,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1535,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Giant",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#YR2GG8C2": {
@@ -2913,8 +2906,8 @@
     "trophies": 6845,
     "bestTrophies": 6878,
     "wins": 2700,
-    "losses": 2802,
-    "battleCount": 5502,
+    "losses": 2803,
+    "battleCount": 5503,
     "threeCrownWins": 1914,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -2993,11 +2986,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rascals",
+      "name": "Goblin Gang",
       "rarity": "common",
-      "elixirCost": 5,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
     }
   },
   "#GQP92GLC8": {
@@ -5121,9 +5114,9 @@
     "expLevel": 57,
     "trophies": 10116,
     "bestTrophies": 10116,
-    "wins": 2345,
+    "wins": 2346,
     "losses": 1114,
-    "battleCount": 3459,
+    "battleCount": 3460,
     "threeCrownWins": 1125,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
@@ -5150,6 +5143,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -5529,13 +5529,13 @@
     "expLevel": 42,
     "trophies": 12264,
     "bestTrophies": 12293,
-    "wins": 1223,
-    "losses": 684,
-    "battleCount": 1907,
+    "wins": 1224,
+    "losses": 685,
+    "battleCount": 1909,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16322,
+    "totalDonations": 16348,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5610,11 +5610,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Ram Rider",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#GU0VGJCJC": {
