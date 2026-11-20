@@ -1500,15 +1500,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PRJYV2CP",
-          "name": "vabrinoza",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2P0GV902Y",
           "name": "Cal_tj",
           "fame": 0,
@@ -1610,15 +1601,6 @@
         {
           "tag": "#QU02RQUC",
           "name": "rc144",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#QP8G29U9Y",
-          "name": "Oyen™",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1824,6 +1806,24 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#QP8G29U9Y",
+          "name": "Oyen™",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#PRJYV2CP",
+          "name": "vabrinoza",
+          "fame": 125,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 450,
@@ -1860,7 +1860,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1900,
+      "periodPoints": 2125,
       "clanScore": 2115
     },
     {
