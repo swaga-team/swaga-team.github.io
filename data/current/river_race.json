@@ -2656,15 +2656,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 350,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2VLGJUPP",
           "name": "Hub",
           "fame": 500,
@@ -2708,9 +2699,18 @@
           "boatAttacks": 1,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 925,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 575,
       "clanScore": 2173
     }
   ],
