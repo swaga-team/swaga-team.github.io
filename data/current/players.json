@@ -831,9 +831,9 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2442,
+    "wins": 2444,
     "losses": 1731,
-    "battleCount": 4173,
+    "battleCount": 4175,
     "threeCrownWins": 613,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -912,11 +912,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
+      "name": "Tesla",
+      "rarity": "common",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -2634,11 +2634,11 @@
   },
   "#9JPPYRL90": {
     "expLevel": 32,
-    "trophies": 8322,
+    "trophies": 8381,
     "bestTrophies": 8408,
-    "wins": 963,
+    "wins": 965,
     "losses": 718,
-    "battleCount": 1681,
+    "battleCount": 1683,
     "threeCrownWins": 304,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4313,12 +4313,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 1905,
-    "losses": 1263,
-    "battleCount": 3168,
+    "losses": 1264,
+    "battleCount": 3169,
     "threeCrownWins": 836,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 29005,
+    "totalDonations": 29031,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4393,11 +4393,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Musketeer",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#8RYCGVUV0": {
@@ -5039,11 +5039,11 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3124,
+    "trophies": 3064,
     "bestTrophies": 3179,
     "wins": 295,
-    "losses": 209,
-    "battleCount": 504,
+    "losses": 211,
+    "battleCount": 506,
     "threeCrownWins": 109,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5127,7 +5127,7 @@
     "threeCrownWins": 1125,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26926,
+    "totalDonations": 26933,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
