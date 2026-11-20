@@ -595,11 +595,11 @@
       {
         "tag": "#VJQQLCJP8",
         "name": "Генри lll",
-        "fame": 1300,
+        "fame": 1400,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 7,
-        "decksUsedToday": 3
+        "decksUsed": 8,
+        "decksUsedToday": 4
       },
       {
         "tag": "#9JQ8PCJ",
@@ -611,7 +611,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2500,
+    "periodPoints": 2600,
     "clanScore": 2195
   },
   "clans": [
@@ -740,15 +740,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVCPRVC88",
-          "name": "Thunder ⚡",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YYJUQPGPU",
           "name": "GARCIA",
           "fame": 0,
@@ -756,6 +747,15 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#YVCPRVC88",
+          "name": "Thunder ⚡",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
         },
         {
           "tag": "#QQYVQG22G",
@@ -794,7 +794,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1800,
+      "periodPoints": 1900,
       "clanScore": 2154
     },
     {
@@ -1392,11 +1392,11 @@
         {
           "tag": "#VJQQLCJP8",
           "name": "Генри lll",
-          "fame": 1300,
+          "fame": 1400,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#9JQ8PCJ",
@@ -1408,7 +1408,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2500,
+      "periodPoints": 2600,
       "clanScore": 2195
     },
     {
@@ -2431,15 +2431,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#UQGCLYR8",
           "name": "sonocu",
           "fame": 0,
@@ -2514,15 +2505,6 @@
         {
           "tag": "#2JL088R92",
           "name": "Ҝㄥ乇ᐯ|丂シ",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#202Q0YVP8V",
-          "name": "Wiseman71",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2656,13 +2638,13 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2VLGJUPP",
-          "name": "Hub",
-          "fame": 500,
+          "tag": "#202Q0YVP8V",
+          "name": "Wiseman71",
+          "fame": 450,
           "repairPoints": 0,
-          "boatAttacks": 0,
+          "boatAttacks": 4,
           "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#V2YYJY890",
@@ -2672,6 +2654,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#20CL00UJ",
@@ -2708,9 +2699,18 @@
           "boatAttacks": 3,
           "decksUsed": 8,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#2VLGJUPP",
+          "name": "Hub",
+          "fame": 1100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 875,
+      "periodPoints": 2525,
       "clanScore": 2173
     }
   ],

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118507,
+  "clanScore": 118497,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -20,6 +20,24 @@
   "members": 43,
   "memberList": [
     {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261120T173059.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 2,
+      "donations": 267,
+      "donationsReceived": 320,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#PQQGRL028",
       "name": "govnoed",
       "role": "member",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 537,
       "donationsReceived": 400,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 4,
       "donations": 89,
       "donationsReceived": 160,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 6,
       "donations": 217,
       "donationsReceived": 280,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261120T145416.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 2,
-      "donations": 267,
-      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -383,7 +383,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261120T162337.000Z",
+      "lastSeen": "20261120T173628.000Z",
       "expLevel": 0,
       "trophies": 10116,
       "arena": {
@@ -527,9 +527,9 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261120T113859.000Z",
+      "lastSeen": "20261120T174607.000Z",
       "expLevel": 0,
-      "trophies": 8599,
+      "trophies": 8536,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -635,7 +635,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261120T152518.000Z",
+      "lastSeen": "20261120T173651.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261120T134918.000Z",
+      "lastSeen": "20261120T175455.000Z",
       "expLevel": 0,
-      "trophies": 3154,
+      "trophies": 3124,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
