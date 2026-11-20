@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118477,
+  "clanScore": 118474,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5380,
+  "donationsPerWeek": 5422,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261120T033604.000Z",
+      "lastSeen": "20261120T044111.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 6,
       "donations": 251,
-      "donationsReceived": 280,
+      "donationsReceived": 288,
       "clanChestPoints": 0
     },
     {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 4,
       "donations": 453,
-      "donationsReceived": 330,
+      "donationsReceived": 340,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 19,
       "donations": 196,
-      "donationsReceived": 224,
+      "donationsReceived": 232,
       "clanChestPoints": 0
     },
     {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 208,
+      "donationsReceived": 216,
       "clanChestPoints": 0
     },
     {
@@ -401,9 +401,9 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261119T060017.000Z",
+      "lastSeen": "20261120T044958.000Z",
       "expLevel": 0,
-      "trophies": 9949,
+      "trophies": 9919,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -411,7 +411,7 @@
       },
       "clanRank": 22,
       "previousClanRank": 22,
-      "donations": 226,
+      "donations": 268,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },
@@ -700,7 +700,7 @@
       "clanRank": 38,
       "previousClanRank": 37,
       "donations": 0,
-      "donationsReceived": 128,
+      "donationsReceived": 136,
       "clanChestPoints": 0
     },
     {

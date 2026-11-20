@@ -2280,15 +2280,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9949,
+    "trophies": 9919,
     "bestTrophies": 9949,
     "wins": 1279,
-    "losses": 1120,
-    "battleCount": 2399,
+    "losses": 1121,
+    "battleCount": 2400,
     "threeCrownWins": 709,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 5072,
+    "totalDonations": 5114,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2311,6 +2311,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
