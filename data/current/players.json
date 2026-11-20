@@ -279,13 +279,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11148,
+    "wins": 11149,
     "losses": 10791,
-    "battleCount": 21939,
+    "battleCount": 21940,
     "threeCrownWins": 5626,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 138937,
+    "totalDonations": 138947,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4850,9 +4850,9 @@
     "expLevel": 1,
     "trophies": 5629,
     "bestTrophies": 5629,
-    "wins": 747,
+    "wins": 748,
     "losses": 393,
-    "battleCount": 1140,
+    "battleCount": 1141,
     "threeCrownWins": 180,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4931,11 +4931,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Ghost",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Giant Skeleton",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
     }
   },
   "#2G2VYP9G": {
@@ -5032,15 +5032,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3124,
+    "trophies": 3094,
     "bestTrophies": 3179,
     "wins": 293,
-    "losses": 207,
-    "battleCount": 500,
+    "losses": 208,
+    "battleCount": 501,
     "threeCrownWins": 109,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 306,
+    "totalDonations": 338,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5103,11 +5103,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
+      "name": "Mini P.E.K.K.A",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5528,7 +5528,7 @@
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16288,
+    "totalDonations": 16322,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 118479,
+  "clanScore": 118476,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5512,
+  "donationsPerWeek": 5588,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261120T071816.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 184,
+      "donationsReceived": 264,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#PQQGRL028",
       "name": "govnoed",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 4,
       "donations": 485,
-      "donationsReceived": 350,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261120T053516.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 174,
-      "donationsReceived": 248,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 6,
       "donations": 251,
-      "donationsReceived": 304,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261119T215038.000Z",
+      "lastSeen": "20261120T062918.000Z",
       "expLevel": 0,
       "trophies": 12264,
       "arena": {
@@ -285,8 +285,8 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 228,
-      "donationsReceived": 320,
+      "donations": 262,
+      "donationsReceived": 330,
       "clanChestPoints": 0
     },
     {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 224,
+      "donationsReceived": 232,
       "clanChestPoints": 0
     },
     {
@@ -412,7 +412,7 @@
       "clanRank": 22,
       "previousClanRank": 22,
       "donations": 268,
-      "donationsReceived": 184,
+      "donationsReceived": 192,
       "clanChestPoints": 0
     },
     {
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261120T031044.000Z",
+      "lastSeen": "20261120T061451.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -718,16 +718,16 @@
       "clanRank": 39,
       "previousClanRank": 38,
       "donations": 474,
-      "donationsReceived": 248,
+      "donationsReceived": 256,
       "clanChestPoints": 0
     },
     {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261119T230118.000Z",
+      "lastSeen": "20261120T064338.000Z",
       "expLevel": 0,
-      "trophies": 3124,
+      "trophies": 3094,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,7 +735,7 @@
       },
       "clanRank": 40,
       "previousClanRank": 39,
-      "donations": 140,
+      "donations": 172,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
