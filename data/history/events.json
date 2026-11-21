@@ -8470,5 +8470,25 @@
       }
     ],
     "at": "2026-11-21T20:49:00+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQQL9YLYQ",
+    "name": "Ter",
+    "cards": [
+      {
+        "name": "Rage",
+        "level": 12
+      },
+      {
+        "name": "Fisherman",
+        "level": 12
+      },
+      {
+        "name": "Night Witch",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-21T21:48:30+00:00"
   }
 ]

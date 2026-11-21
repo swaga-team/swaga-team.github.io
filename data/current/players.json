@@ -1297,7 +1297,7 @@
     "threeCrownWins": 639,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25796,
+    "totalDonations": 25814,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2013,13 +2013,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2342,
+    "wins": 2344,
     "losses": 2173,
-    "battleCount": 4515,
-    "threeCrownWins": 789,
+    "battleCount": 4517,
+    "threeCrownWins": 790,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18533,
+    "totalDonations": 18551,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2094,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
+      "name": "Poison",
       "rarity": "epic",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
     }
   },
   "#9RJPRQLL2": {
@@ -5529,13 +5529,13 @@
     "expLevel": 42,
     "trophies": 12264,
     "bestTrophies": 12293,
-    "wins": 1226,
+    "wins": 1227,
     "losses": 687,
-    "battleCount": 1913,
+    "battleCount": 1914,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16422,
+    "totalDonations": 16440,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6161,9 +6161,9 @@
     "expLevel": 43,
     "trophies": 9283,
     "bestTrophies": 9361,
-    "wins": 1447,
-    "losses": 1310,
-    "battleCount": 2757,
+    "wins": 1449,
+    "losses": 1318,
+    "battleCount": 2767,
     "threeCrownWins": 420,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6190,13 +6190,6 @@
         "elixirCost": 5,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Skeletons",
