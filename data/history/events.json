@@ -8282,5 +8282,17 @@
       "Musketeer"
     ],
     "at": "2026-11-21T11:51:01+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2G2VYP9G",
+    "name": "THE BOSS G.",
+    "cards": [
+      {
+        "name": "Golden Knight",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-21T13:01:33+00:00"
   }
 ]

@@ -107,15 +107,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#2G2VYP9G",
-        "name": "THE BOSS G.",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#9JPPYRL90",
         "name": "disruption",
         "fame": 0,
@@ -323,15 +314,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#J0VGQP9PY",
-        "name": "алиса спийс❤️",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#8P8JU9LLJ",
         "name": "Bussystar",
         "fame": 0,
@@ -512,6 +494,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#J0VGQP9PY",
+        "name": "алиса спийс❤️",
+        "fame": 225,
+        "repairPoints": 0,
+        "boatAttacks": 3,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
         "fame": 300,
@@ -546,6 +537,15 @@
         "boatAttacks": 0,
         "decksUsed": 3,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#2G2VYP9G",
+        "name": "THE BOSS G.",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#U0QJL29PY",
@@ -629,7 +629,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 700,
+    "periodPoints": 1425,
     "clanScore": 2195
   },
   "clans": [
@@ -922,15 +922,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2G2VYP9G",
-          "name": "THE BOSS G.",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9JPPYRL90",
           "name": "disruption",
           "fame": 0,
@@ -1138,15 +1129,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#J0VGQP9PY",
-          "name": "алиса спийс❤️",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8P8JU9LLJ",
           "name": "Bussystar",
           "fame": 0,
@@ -1327,6 +1309,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#J0VGQP9PY",
+          "name": "алиса спийс❤️",
+          "fame": 225,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
           "fame": 300,
@@ -1361,6 +1352,15 @@
           "boatAttacks": 0,
           "decksUsed": 3,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#2G2VYP9G",
+          "name": "THE BOSS G.",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#U0QJL29PY",
@@ -1444,7 +1444,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 700,
+      "periodPoints": 1425,
       "clanScore": 2195
     },
     {
@@ -1824,15 +1824,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#ULCYG0VGV",
-          "name": "TheMrPoop",
-          "fame": 450,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VRG2PYQGJ",
           "name": "toni",
           "fame": 500,
@@ -1896,6 +1887,15 @@
           "decksUsedToday": 4
         },
         {
+          "tag": "#ULCYG0VGV",
+          "name": "TheMrPoop",
+          "fame": 1175,
+          "repairPoints": 0,
+          "boatAttacks": 3,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1400,
@@ -1905,7 +1905,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1325,
+      "periodPoints": 2050,
       "clanScore": 2115
     },
     {
@@ -2294,15 +2294,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2YCR89URU",
-          "name": "Ivan_PrO_XD",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
           "fame": 1300,
@@ -2314,14 +2305,23 @@
         {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
-          "fame": 1500,
+          "fame": 1700,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 10,
-          "decksUsedToday": 2
+          "decksUsed": 11,
+          "decksUsedToday": 3
+        },
+        {
+          "tag": "#2YCR89URU",
+          "name": "Ivan_PrO_XD",
+          "fame": 1900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 300,
+      "periodPoints": 1100,
       "clanScore": 2115
     },
     {
@@ -2719,24 +2719,6 @@
           "decksUsedToday": 3
         },
         {
-          "tag": "#R2P9C29",
-          "name": "•○●chris●○•",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 6,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 925,
-          "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V2YYJY890",
           "name": "Player456",
           "fame": 1100,
@@ -2755,6 +2737,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#R2P9C29",
+          "name": "•○●chris●○•",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 9,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#8J2GGGQY",
           "name": "xAtlas GD",
           "fame": 1450,
@@ -2762,9 +2753,18 @@
           "boatAttacks": 2,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 1600,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 325,
+      "periodPoints": 1400,
       "clanScore": 2173
     }
   ],
