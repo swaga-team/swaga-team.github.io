@@ -8372,5 +8372,31 @@
     "tag": "#VU2P0VJYC",
     "name": "BigHandsomeMan",
     "at": "2026-11-21T16:53:15+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#U0QJL29PY",
+    "name": "egor",
+    "arena": "Spirit Square",
+    "raw": "Arena_L18",
+    "at": "2026-11-21T17:49:31+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#U0QJL29PY",
+    "name": "egor",
+    "cards": [
+      {
+        "name": "Bowler",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-21T17:49:31+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#JGYLPU9L2",
+    "name": "Котя",
+    "at": "2026-11-21T17:49:31+00:00"
   }
 ]

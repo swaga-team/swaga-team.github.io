@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 116749,
+  "clanScore": 117320,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,48 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7184,
+  "donationsPerWeek": 7248,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 42,
+  "members": 43,
   "memberList": [
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261121T174719.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 141,
+      "donationsReceived": 200,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261121T170909.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
+      "previousClanRank": 3,
+      "donations": 365,
+      "donationsReceived": 360,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,10 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 275,
-      "donationsReceived": 330,
+      "donationsReceived": 350,
       "clanChestPoints": 0
     },
     {
@@ -49,46 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 4,
       "previousClanRank": 2,
       "donations": 400,
-      "donationsReceived": 352,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261121T152243.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 3,
-      "donations": 329,
       "donationsReceived": 360,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261121T152216.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 5,
-      "donations": 141,
-      "donationsReceived": 200,
       "clanChestPoints": 0
     },
     {
@@ -185,18 +185,18 @@
       "tag": "#U0QJL29PY",
       "name": "egor",
       "role": "elder",
-      "lastSeen": "20261121T073954.000Z",
+      "lastSeen": "20261121T165751.000Z",
       "expLevel": 0,
-      "trophies": 13440,
+      "trophies": 13563,
       "arena": {
-        "id": 54000143,
-        "name": "Little Prince's Tavern",
-        "rawName": "Arena_L17"
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
       },
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 98,
-      "donationsReceived": 120,
+      "donations": 118,
+      "donationsReceived": 136,
       "clanChestPoints": 0
     },
     {
@@ -419,7 +419,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261121T164722.000Z",
+      "lastSeen": "20261121T174613.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -596,6 +596,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#JGYLPU9L2",
+      "name": "Котя",
+      "role": "member",
+      "lastSeen": "20261121T172500.000Z",
+      "expLevel": 0,
+      "trophies": 7222,
+      "arena": {
+        "id": 54000016,
+        "name": "Dragon Spa",
+        "rawName": "Arena_L5"
+      },
+      "clanRank": 33,
+      "previousClanRank": 0,
+      "donations": 8,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#J28RP9LPV",
       "name": "Не_елочник",
       "role": "member",
@@ -607,7 +625,7 @@
         "name": "Dragon Spa",
         "rawName": "Arena_L5"
       },
-      "clanRank": 33,
+      "clanRank": 34,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -625,7 +643,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 35,
       "donations": 182,
       "donationsReceived": 200,
@@ -643,7 +661,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 35,
+      "clanRank": 36,
       "previousClanRank": 36,
       "donations": 16,
       "donationsReceived": 0,
@@ -661,7 +679,7 @@
         "name": "Royal Crypt",
         "rawName": "Arena_L3"
       },
-      "clanRank": 36,
+      "clanRank": 37,
       "previousClanRank": 37,
       "donations": 0,
       "donationsReceived": 0,
@@ -679,7 +697,7 @@
         "name": "Executioner's Kitchen",
         "rawName": "Arena_L2"
       },
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 200,
@@ -697,7 +715,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 38,
+      "clanRank": 39,
       "previousClanRank": 39,
       "donations": 674,
       "donationsReceived": 400,
@@ -715,7 +733,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 40,
       "donations": 233,
       "donationsReceived": 560,
@@ -733,10 +751,10 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 41,
       "donations": 27,
-      "donationsReceived": 130,
+      "donationsReceived": 150,
       "clanChestPoints": 0
     },
     {
@@ -751,7 +769,7 @@
         "name": "Frozen Peak",
         "rawName": "Arena8"
       },
-      "clanRank": 41,
+      "clanRank": 42,
       "previousClanRank": 42,
       "donations": 32,
       "donationsReceived": 0,
@@ -769,7 +787,7 @@
         "name": "P.E.K.K.A's Playhouse",
         "rawName": "Arena6"
       },
-      "clanRank": 42,
+      "clanRank": 43,
       "previousClanRank": 43,
       "donations": 40,
       "donationsReceived": 100,

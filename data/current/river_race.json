@@ -26,6 +26,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#JGYLPU9L2",
+        "name": "Котя",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#CJR008LV9",
         "name": "cook",
         "fame": 0,
@@ -476,15 +485,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 200,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 2,
-        "decksUsedToday": 2
-      },
-      {
         "tag": "#228RGGVQV2",
         "name": "Infamous",
         "fame": 200,
@@ -541,6 +541,15 @@
       {
         "tag": "#2G2VYP9G",
         "name": "THE BOSS G.",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
         "fame": 500,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -629,7 +638,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 3700,
+    "periodPoints": 4000,
     "clanScore": 2195
   },
   "clans": [
@@ -834,6 +843,15 @@
         {
           "tag": "#C8YV202C",
           "name": "undertaker",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#JGYLPU9L2",
+          "name": "Котя",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1291,15 +1309,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 2,
-          "decksUsedToday": 2
-        },
-        {
           "tag": "#228RGGVQV2",
           "name": "Infamous",
           "fame": 200,
@@ -1356,6 +1365,15 @@
         {
           "tag": "#2G2VYP9G",
           "name": "THE BOSS G.",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
           "fame": 500,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1444,7 +1462,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3700,
+      "periodPoints": 4000,
       "clanScore": 2195
     },
     {
