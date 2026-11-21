@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 117319,
+  "clanScore": 117311,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6408,
+  "donationsPerWeek": 6416,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261121T045730.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 3,
+      "donations": 225,
+      "donationsReceived": 280,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 275,
       "donationsReceived": 310,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 375,
       "donationsReceived": 320,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 1,
       "donations": 267,
       "donationsReceived": 320,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 4,
       "donations": 537,
       "donationsReceived": 400,
@@ -103,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 6,
       "donations": 89,
       "donationsReceived": 160,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261120T154056.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 3,
-      "donations": 217,
-      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 21,
       "donations": 355,
-      "donationsReceived": 348,
+      "donationsReceived": 356,
       "clanChestPoints": 0
     },
     {
@@ -529,7 +529,7 @@
       "role": "member",
       "lastSeen": "20261121T033315.000Z",
       "expLevel": 0,
-      "trophies": 8573,
+      "trophies": 8500,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -761,7 +761,7 @@
       "tag": "#V09GR9GG0",
       "name": "Infirmity",
       "role": "member",
-      "lastSeen": "20261119T160544.000Z",
+      "lastSeen": "20261121T045813.000Z",
       "expLevel": 0,
       "trophies": 2421,
       "arena": {

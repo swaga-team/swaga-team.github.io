@@ -5152,13 +5152,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
       },
       {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
-      },
-      {
         "name": "Witch",
         "rarity": "epic",
         "elixirCost": 5,
@@ -5718,11 +5711,11 @@
   },
   "#VQJPUULJV": {
     "expLevel": 35,
-    "trophies": 8573,
+    "trophies": 8500,
     "bestTrophies": 8818,
-    "wins": 1599,
-    "losses": 1400,
-    "battleCount": 2999,
+    "wins": 1603,
+    "losses": 1408,
+    "battleCount": 3011,
     "threeCrownWins": 462,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5744,11 +5737,11 @@
     },
     "currentDeck": [
       {
-        "name": "Archers",
+        "name": "Royal Giant",
         "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
       },
       {
         "name": "Barbarian Barrel",
@@ -5758,54 +5751,54 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
       },
       {
-        "name": "Ice Wizard",
-        "rarity": "legendary",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
-      },
-      {
-        "name": "Royal Hogs",
+        "name": "Goblin Cage",
         "rarity": "rare",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+        "elixirCost": 4,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/vD24bBgK4rSq7wx5QEbuqChtPMRFviL_ep76GwQw1yA.png"
       },
       {
-        "name": "Lightning",
-        "rarity": "epic",
-        "elixirCost": 6,
+        "name": "Electro Wizard",
+        "rarity": "legendary",
+        "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/fpnESbYqe5GyZmaVVYe-SEu7tE0Kxh_HZyVigzvLjks.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
       },
       {
-        "name": "Goblin Hut",
+        "name": "Phoenix",
+        "rarity": "legendary",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/i0RoY1fs6ay7VAxyFEfZGIPnD002nAKcne9FtJsWBHM.png"
+      },
+      {
+        "name": "Lumberjack",
+        "rarity": "legendary",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+      },
+      {
+        "name": "Fireball",
         "rarity": "rare",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
       },
       {
-        "name": "Electro Spirit",
-        "rarity": "common",
+        "name": "Heal Spirit",
+        "rarity": "rare",
         "elixirCost": 1,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WKd4-IAFsgPpMo7dDi9sujmYjRhOMEWiE07OUJpvD9g.png"
-      },
-      {
-        "name": "Knight",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/GITl06sa2nGRLPvboyXbGEv5E3I-wAwn1Eqa5esggbc.png"
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Electro Wizard",
+      "rarity": "legendary",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#UQRQ0YRVL": {
