@@ -613,11 +613,11 @@
       {
         "tag": "#PL82RPJUJ",
         "name": ")))",
-        "fame": 1500,
+        "fame": 2000,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
+        "decksUsed": 12,
+        "decksUsedToday": 4
       },
       {
         "tag": "#9JQ8PCJ",
@@ -629,7 +629,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 1500,
+    "periodPoints": 2000,
     "clanScore": 2195
   },
   "clans": [
@@ -1428,11 +1428,11 @@
         {
           "tag": "#PL82RPJUJ",
           "name": ")))",
-          "fame": 1500,
+          "fame": 2000,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#9JQ8PCJ",
@@ -1444,7 +1444,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1500,
+      "periodPoints": 2000,
       "clanScore": 2195
     },
     {
@@ -2296,11 +2296,11 @@
         {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
-          "fame": 1400,
+          "fame": 1800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 1
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2YCR89URU",
@@ -2321,7 +2321,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1400,
+      "periodPoints": 1800,
       "clanScore": 2115
     },
     {
@@ -2683,15 +2683,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VL0PQJ8RG",
           "name": "kirito",
           "fame": 600,
@@ -2728,6 +2719,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 1100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
           "fame": 1300,
@@ -2735,15 +2735,6 @@
           "boatAttacks": 0,
           "decksUsed": 9,
           "decksUsedToday": 3
-        },
-        {
-          "tag": "#2VLGJUPP",
-          "name": "Hub",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 1
         },
         {
           "tag": "#8J2GGGQY",
@@ -2762,9 +2753,18 @@
           "boatAttacks": 4,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#2VLGJUPP",
+          "name": "Hub",
+          "fame": 1800,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1600,
+      "periodPoints": 2600,
       "clanScore": 2173
     }
   ],

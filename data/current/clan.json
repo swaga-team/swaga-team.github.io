@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 117318,
+  "clanScore": 117314,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6942,
+  "donationsPerWeek": 6996,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 5,
       "donations": 97,
-      "donationsReceived": 180,
+      "donationsReceived": 190,
       "clanChestPoints": 0
     },
     {
@@ -203,7 +203,7 @@
       "tag": "#2G2VYP9G",
       "name": "THE BOSS G.",
       "role": "elder",
-      "lastSeen": "20261121T131550.000Z",
+      "lastSeen": "20261121T145308.000Z",
       "expLevel": 0,
       "trophies": 13218,
       "arena": {
@@ -214,7 +214,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 10,
-      "donationsReceived": 10,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
@@ -329,7 +329,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261121T092659.000Z",
+      "lastSeen": "20261121T141015.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -339,7 +339,7 @@
       },
       "clanRank": 18,
       "previousClanRank": 17,
-      "donations": 152,
+      "donations": 198,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261121T074853.000Z",
+      "lastSeen": "20261121T142002.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 272,
+      "donationsReceived": 288,
       "clanChestPoints": 0
     },
     {
@@ -401,9 +401,9 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261120T081545.000Z",
+      "lastSeen": "20261121T142852.000Z",
       "expLevel": 0,
-      "trophies": 9888,
+      "trophies": 9858,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -717,8 +717,8 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 658,
-      "donationsReceived": 360,
+      "donations": 666,
+      "donationsReceived": 368,
       "clanChestPoints": 0
     },
     {
@@ -790,7 +790,7 @@
       "clanRank": 43,
       "previousClanRank": 43,
       "donations": 40,
-      "donationsReceived": 90,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     }
   ]
