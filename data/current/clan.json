@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 117311,
+  "clanScore": 117317,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6416,
+  "donationsPerWeek": 6456,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261121T051935.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 89,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#9JQ8PCJ",
       "name": "lastiq",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
-      "donations": 225,
-      "donationsReceived": 280,
+      "donations": 233,
+      "donationsReceived": 288,
       "clanChestPoints": 0
     },
     {
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 5,
       "donations": 275,
       "donationsReceived": 310,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 2,
       "donations": 375,
       "donationsReceived": 320,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 1,
       "donations": 267,
       "donationsReceived": 320,
@@ -103,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 4,
       "donations": 537,
       "donationsReceived": 400,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261120T160655.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 6,
-      "donations": 89,
-      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261120T142016.000Z",
+      "lastSeen": "20261121T055832.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 19,
       "donations": 264,
-      "donationsReceived": 288,
+      "donationsReceived": 304,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 21,
       "donations": 355,
-      "donationsReceived": 356,
+      "donationsReceived": 364,
       "clanChestPoints": 0
     },
     {
@@ -527,9 +527,9 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261121T033315.000Z",
+      "lastSeen": "20261121T054430.000Z",
       "expLevel": 0,
-      "trophies": 8500,
+      "trophies": 8530,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261120T232414.000Z",
+      "lastSeen": "20261121T053252.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -700,14 +700,14 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
-      "donationsReceived": 160,
+      "donationsReceived": 168,
       "clanChestPoints": 0
     },
     {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261120T155630.000Z",
+      "lastSeen": "20261121T054708.000Z",
       "expLevel": 0,
       "trophies": 3240,
       "arena": {
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 528,
+      "donations": 560,
       "donationsReceived": 320,
       "clanChestPoints": 0
     },
@@ -763,7 +763,7 @@
       "role": "member",
       "lastSeen": "20261121T045813.000Z",
       "expLevel": 0,
-      "trophies": 2421,
+      "trophies": 2511,
       "arena": {
         "id": 54000009,
         "name": "Frozen Peak",
