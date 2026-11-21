@@ -305,15 +305,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#CGPUY8P2",
-        "name": "BIG BOY",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#8P8JU9LLJ",
         "name": "Bussystar",
         "fame": 0,
@@ -485,6 +476,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#CGPUY8P2",
+        "name": "BIG BOY",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#228RGGVQV2",
         "name": "Infamous",
         "fame": 200,
@@ -629,7 +629,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2000,
+    "periodPoints": 2200,
     "clanScore": 2195
   },
   "clans": [
@@ -1120,15 +1120,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CGPUY8P2",
-          "name": "BIG BOY",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8P8JU9LLJ",
           "name": "Bussystar",
           "fame": 0,
@@ -1300,6 +1291,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CGPUY8P2",
+          "name": "BIG BOY",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#228RGGVQV2",
           "name": "Infamous",
           "fame": 200,
@@ -1444,7 +1444,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2000,
+      "periodPoints": 2200,
       "clanScore": 2195
     },
     {
@@ -1610,6 +1610,15 @@
         {
           "tag": "#RGV8VLLLR",
           "name": "Voin Xoda",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#LL8Y2VQG8",
+          "name": "ardisyahputra02",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
