@@ -279,13 +279,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11162,
-    "losses": 10805,
-    "battleCount": 21967,
+    "wins": 11163,
+    "losses": 10806,
+    "battleCount": 21969,
     "threeCrownWins": 5628,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 139038,
+    "totalDonations": 139054,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
+      "name": "Royal Giant",
       "rarity": "common",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#R98U8U290": {
@@ -921,11 +921,11 @@
   },
   "#8LRPG2VPQ": {
     "expLevel": 43,
-    "trophies": 13088,
+    "trophies": 13056,
     "bestTrophies": 13289,
     "wins": 2401,
-    "losses": 2098,
-    "battleCount": 4499,
+    "losses": 2099,
+    "battleCount": 4500,
     "threeCrownWins": 1194,
     "warDayWins": 0,
     "clanCardsCollected": 460,
@@ -4949,9 +4949,9 @@
     "expLevel": 40,
     "trophies": 13218,
     "bestTrophies": 13218,
-    "wins": 3433,
-    "losses": 2852,
-    "battleCount": 6285,
+    "wins": 3434,
+    "losses": 2853,
+    "battleCount": 6287,
     "threeCrownWins": 1647,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5030,11 +5030,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mortar",
+      "name": "Knight",
       "rarity": "common",
-      "elixirCost": 4,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#VC298L8UV": {
@@ -5530,12 +5530,12 @@
     "trophies": 12264,
     "bestTrophies": 12293,
     "wins": 1226,
-    "losses": 686,
-    "battleCount": 1912,
+    "losses": 687,
+    "battleCount": 1913,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16406,
+    "totalDonations": 16422,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6159,12 +6159,12 @@
   },
   "#CVQ8Q2CJR": {
     "expLevel": 43,
-    "trophies": 9271,
+    "trophies": 9267,
     "bestTrophies": 9361,
-    "wins": 1428,
-    "losses": 1287,
-    "battleCount": 2715,
-    "threeCrownWins": 418,
+    "wins": 1433,
+    "losses": 1292,
+    "battleCount": 2725,
+    "threeCrownWins": 419,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 1698,

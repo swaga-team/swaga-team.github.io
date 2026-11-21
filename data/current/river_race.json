@@ -776,15 +776,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R00CLL2Q",
-          "name": "TWIX",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
           "fame": 800,
@@ -810,9 +801,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#R00CLL2Q",
+          "name": "TWIX",
+          "fame": 1300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 1100,
       "clanScore": 2154
     },
     {
@@ -1869,15 +1869,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8PVGVG90Q",
-          "name": "FH solow",
-          "fame": 900,
-          "repairPoints": 0,
-          "boatAttacks": 8,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V8V0RL2Y9",
           "name": "(c7) SARAH",
           "fame": 925,
@@ -1898,14 +1889,23 @@
         {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
-          "fame": 1050,
+          "fame": 1150,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#8PVGVG90Q",
+          "name": "FH solow",
+          "fame": 1400,
+          "repairPoints": 0,
+          "boatAttacks": 12,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 725,
+      "periodPoints": 1325,
       "clanScore": 2115
     },
     {
@@ -2294,15 +2294,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2YCR89URU",
           "name": "Ivan_PrO_XD",
           "fame": 1300,
@@ -2319,9 +2310,18 @@
           "boatAttacks": 0,
           "decksUsed": 8,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 1500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 300,
       "clanScore": 2115
     },
     {
