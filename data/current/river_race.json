@@ -476,15 +476,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#U0QJL29PY",
-        "name": "egor",
-        "fame": 100,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 1,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#R98U8U290",
         "name": "tenkuu.☁️",
         "fame": 125,
@@ -546,6 +537,15 @@
         "boatAttacks": 0,
         "decksUsed": 3,
         "decksUsedToday": 3
+      },
+      {
+        "tag": "#U0QJL29PY",
+        "name": "egor",
+        "fame": 500,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PQQGRL028",
@@ -620,7 +620,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5750,
+    "periodPoints": 6150,
     "clanScore": 2195
   },
   "clans": [
@@ -751,11 +751,11 @@
         {
           "tag": "#YVCPRVC88",
           "name": "Thunder ⚡",
-          "fame": 100,
+          "fame": 300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#PRQC0GRRU",
@@ -803,7 +803,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2800,
+      "periodPoints": 3000,
       "clanScore": 2154
     },
     {
@@ -1282,15 +1282,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#U0QJL29PY",
-          "name": "egor",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#R98U8U290",
           "name": "tenkuu.☁️",
           "fame": 125,
@@ -1352,6 +1343,15 @@
           "boatAttacks": 0,
           "decksUsed": 3,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#U0QJL29PY",
+          "name": "egor",
+          "fame": 500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PQQGRL028",
@@ -1426,7 +1426,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5750,
+      "periodPoints": 6150,
       "clanScore": 2195
     },
     {
@@ -2267,18 +2267,18 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2YCR89URU",
-          "name": "Ivan_PrO_XD",
-          "fame": 800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CV2U2P9UU",
           "name": "Zari",
           "fame": 1200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#2YCR89URU",
+          "name": "Ivan_PrO_XD",
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
@@ -2294,7 +2294,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2200,
+      "periodPoints": 2700,
       "clanScore": 2115
     },
     {
