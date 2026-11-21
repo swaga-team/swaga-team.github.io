@@ -832,12 +832,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2462,
-    "losses": 1747,
-    "battleCount": 4209,
+    "losses": 1751,
+    "battleCount": 4213,
     "threeCrownWins": 618,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31383,
+    "totalDonations": 31391,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -912,11 +912,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ice Wizard",
-      "rarity": "legendary",
-      "elixirCost": 3,
+      "name": "Fireball",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -5039,15 +5039,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3156,
+    "trophies": 3127,
     "bestTrophies": 3215,
     "wins": 303,
-    "losses": 216,
-    "battleCount": 519,
+    "losses": 217,
+    "battleCount": 520,
     "threeCrownWins": 112,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 399,
+    "totalDonations": 407,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5110,11 +5110,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Hog Rider",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5621,9 +5621,9 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4037,
-    "losses": 3455,
-    "battleCount": 7492,
+    "wins": 4038,
+    "losses": 3457,
+    "battleCount": 7495,
     "threeCrownWins": 1778,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5702,11 +5702,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Furnace",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
     }
   },
   "#VQJPUULJV": {
@@ -6159,12 +6159,12 @@
   },
   "#CVQ8Q2CJR": {
     "expLevel": 43,
-    "trophies": 9256,
+    "trophies": 9283,
     "bestTrophies": 9361,
-    "wins": 1443,
-    "losses": 1302,
-    "battleCount": 2745,
-    "threeCrownWins": 419,
+    "wins": 1447,
+    "losses": 1310,
+    "battleCount": 2757,
+    "threeCrownWins": 420,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 1698,
@@ -6185,39 +6185,18 @@
     },
     "currentDeck": [
       {
-        "name": "Fireball",
+        "name": "Royal Hogs",
         "rarity": "rare",
-        "elixirCost": 4,
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
       },
       {
-        "name": "Knight",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
-      },
-      {
-        "name": "Archers",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
-      },
-      {
-        "name": "X-Bow",
-        "rarity": "epic",
-        "elixirCost": 6,
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
-      },
-      {
-        "name": "Tesla",
-        "rarity": "common",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Skeletons",
@@ -6227,11 +6206,32 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       },
       {
-        "name": "Ice Spirit",
+        "name": "Fire Spirit",
         "rarity": "common",
         "elixirCost": 1,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/16-BqusVvynIgYI8_Jci3LDC-r8AI_xaIYLgXqtlmS8.png"
+      },
+      {
+        "name": "Cannon",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
+      },
+      {
+        "name": "Earthquake",
+        "rarity": "rare",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/XeQXcrUu59C52DslyZVwCnbi4yamID-WxfVZLShgZmE.png"
+      },
+      {
+        "name": "Royal Delivery",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png"
       },
       {
         "name": "The Log",
@@ -6242,11 +6242,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "X-Bow",
-      "rarity": "epic",
-      "elixirCost": 6,
+      "name": "Royal Hogs",
+      "rarity": "rare",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
     }
   },
   "#JGYLPU9L2": {

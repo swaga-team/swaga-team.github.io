@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7384,
+  "donationsPerWeek": 7400,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#YQ2VLPJ0L",
+      "name": "arch1tector",
+      "role": "member",
+      "lastSeen": "20261121T202348.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 2,
+      "donations": 436,
+      "donationsReceived": 360,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#GU0VGJCJC",
       "name": "тайный хомячёк",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 141,
       "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#YQ2VLPJ0L",
-      "name": "arch1tector",
-      "role": "member",
-      "lastSeen": "20261121T191405.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 2,
-      "donations": 428,
-      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 17,
       "donations": 216,
-      "donationsReceived": 352,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -470,6 +470,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#CVQ8Q2CJR",
+      "name": "OneTab1",
+      "role": "member",
+      "lastSeen": "20261121T204013.000Z",
+      "expLevel": 0,
+      "trophies": 9283,
+      "arena": {
+        "id": 54000020,
+        "name": "Valkalla",
+        "rawName": "Arena_L9"
+      },
+      "clanRank": 26,
+      "previousClanRank": 26,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#22JLP29RV",
       "name": "Kale",
       "role": "member",
@@ -481,28 +499,10 @@
         "name": "Valkalla",
         "rawName": "Arena_L9"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#CVQ8Q2CJR",
-      "name": "OneTab1",
-      "role": "member",
-      "lastSeen": "20261121T193053.000Z",
-      "expLevel": 0,
-      "trophies": 9256,
-      "arena": {
-        "id": 54000020,
-        "name": "Valkalla",
-        "rawName": "Arena_L9"
-      },
-      "clanRank": 27,
-      "previousClanRank": 26,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -725,9 +725,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261121T080746.000Z",
+      "lastSeen": "20261121T201043.000Z",
       "expLevel": 0,
-      "trophies": 3156,
+      "trophies": 3127,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -735,8 +735,8 @@
       },
       "clanRank": 40,
       "previousClanRank": 40,
-      "donations": 233,
-      "donationsReceived": 560,
+      "donations": 241,
+      "donationsReceived": 568,
       "clanChestPoints": 0
     },
     {
