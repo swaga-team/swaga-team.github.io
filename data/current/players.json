@@ -1382,7 +1382,7 @@
     "threeCrownWins": 2735,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73351,
+    "totalDonations": 73381,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2013,13 +2013,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2344,
-    "losses": 2173,
-    "battleCount": 4517,
+    "wins": 2345,
+    "losses": 2174,
+    "battleCount": 4519,
     "threeCrownWins": 790,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18551,
+    "totalDonations": 18579,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2094,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Poison",
+      "name": "Executioner",
       "rarity": "epic",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2912,9 +2912,9 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2705,
-    "losses": 2808,
-    "battleCount": 5513,
+    "wins": 2706,
+    "losses": 2810,
+    "battleCount": 5516,
     "threeCrownWins": 1915,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -5121,13 +5121,13 @@
     "expLevel": 57,
     "trophies": 10258,
     "bestTrophies": 10258,
-    "wins": 2363,
+    "wins": 2365,
     "losses": 1119,
-    "battleCount": 3482,
+    "battleCount": 3484,
     "threeCrownWins": 1135,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26976,
+    "totalDonations": 27004,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5529,9 +5529,9 @@
     "expLevel": 42,
     "trophies": 12264,
     "bestTrophies": 12293,
-    "wins": 1227,
+    "wins": 1228,
     "losses": 687,
-    "battleCount": 1914,
+    "battleCount": 1915,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5610,11 +5610,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#GU0VGJCJC": {
@@ -6161,9 +6161,9 @@
     "expLevel": 43,
     "trophies": 9283,
     "bestTrophies": 9361,
-    "wins": 1449,
-    "losses": 1318,
-    "battleCount": 2767,
+    "wins": 1452,
+    "losses": 1324,
+    "battleCount": 2776,
     "threeCrownWins": 420,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6190,6 +6190,13 @@
         "elixirCost": 5,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      },
+      {
+        "name": "Archer Queen",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Skeletons",
@@ -6235,11 +6242,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Hogs",
+      "name": "Bomb Tower",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/rirYRyHPc97emRjoH-c1O8uZCBzPVnToaGuNGusF3TQ.png"
     }
   },
   "#JGYLPU9L2": {
