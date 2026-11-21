@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6456,
+  "donationsPerWeek": 6528,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 43,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261121T063303.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 7,
+      "donations": 254,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#GU0VGJCJC",
       "name": "тайный хомячёк",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 89,
       "donationsReceived": 160,
@@ -49,10 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 3,
       "donations": 233,
-      "donationsReceived": 288,
+      "donationsReceived": 304,
       "clanChestPoints": 0
     },
     {
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 5,
       "donations": 275,
       "donationsReceived": 310,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 2,
       "donations": 375,
       "donationsReceived": 320,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 1,
       "donations": 267,
       "donationsReceived": 320,
@@ -121,7 +139,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 4,
       "donations": 537,
       "donationsReceived": 400,
@@ -139,28 +157,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 7,
+      "clanRank": 8,
       "previousClanRank": 8,
       "donations": 84,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261119T105148.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 8,
-      "previousClanRank": 7,
-      "donations": 214,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -185,7 +185,7 @@
       "tag": "#U0QJL29PY",
       "name": "egor",
       "role": "elder",
-      "lastSeen": "20261117T095728.000Z",
+      "lastSeen": "20261121T070953.000Z",
       "expLevel": 0,
       "trophies": 13440,
       "arena": {
@@ -195,7 +195,7 @@
       },
       "clanRank": 10,
       "previousClanRank": 11,
-      "donations": 66,
+      "donations": 98,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 19,
       "donations": 264,
-      "donationsReceived": 304,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -358,14 +358,14 @@
       "clanRank": 19,
       "previousClanRank": 21,
       "donations": 355,
-      "donationsReceived": 364,
+      "donationsReceived": 372,
       "clanChestPoints": 0
     },
     {
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261120T203243.000Z",
+      "lastSeen": "20261121T070353.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -527,7 +527,7 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261121T054430.000Z",
+      "lastSeen": "20261121T061441.000Z",
       "expLevel": 0,
       "trophies": 8530,
       "arena": {
@@ -700,14 +700,14 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
-      "donationsReceived": 168,
+      "donationsReceived": 184,
       "clanChestPoints": 0
     },
     {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261121T054708.000Z",
+      "lastSeen": "20261121T070010.000Z",
       "expLevel": 0,
       "trophies": 3240,
       "arena": {
@@ -718,7 +718,7 @@
       "clanRank": 39,
       "previousClanRank": 39,
       "donations": 560,
-      "donationsReceived": 320,
+      "donationsReceived": 336,
       "clanChestPoints": 0
     },
     {

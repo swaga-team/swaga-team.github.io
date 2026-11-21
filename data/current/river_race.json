@@ -179,15 +179,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#222YY9YCC",
-        "name": "king abolfazl",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#UY2UPL2GV",
         "name": "\"Erick\"",
         "fame": 0,
@@ -368,15 +359,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#U0QJL29PY",
-        "name": "egor",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#GQP92GLC8",
         "name": "Adawell",
         "fame": 0,
@@ -449,15 +431,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#R98U8U290",
-        "name": "tenkuu.☁️",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#90QGJUUG",
         "name": "Narek",
         "fame": 0,
@@ -503,6 +476,24 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#U0QJL29PY",
+        "name": "egor",
+        "fame": 100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#R98U8U290",
+        "name": "tenkuu.☁️",
+        "fame": 125,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#2QQG2QPCY",
         "name": "Clasher",
         "fame": 200,
@@ -528,6 +519,15 @@
         "boatAttacks": 0,
         "decksUsed": 2,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#222YY9YCC",
+        "name": "king abolfazl",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
       },
       {
         "tag": "#9RJPRQLL2",
@@ -620,7 +620,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5225,
+    "periodPoints": 5750,
     "clanScore": 2195
   },
   "clans": [
@@ -985,15 +985,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#222YY9YCC",
-          "name": "king abolfazl",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#UY2UPL2GV",
           "name": "\"Erick\"",
           "fame": 0,
@@ -1174,15 +1165,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#U0QJL29PY",
-          "name": "egor",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GQP92GLC8",
           "name": "Adawell",
           "fame": 0,
@@ -1255,15 +1237,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#R98U8U290",
-          "name": "tenkuu.☁️",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#90QGJUUG",
           "name": "Narek",
           "fame": 0,
@@ -1309,6 +1282,24 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#U0QJL29PY",
+          "name": "egor",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#R98U8U290",
+          "name": "tenkuu.☁️",
+          "fame": 125,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#2QQG2QPCY",
           "name": "Clasher",
           "fame": 200,
@@ -1334,6 +1325,15 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#222YY9YCC",
+          "name": "king abolfazl",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#9RJPRQLL2",
@@ -1426,7 +1426,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5225,
+      "periodPoints": 5750,
       "clanScore": 2195
     },
     {
@@ -1779,15 +1779,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#PRJYV2CP",
-          "name": "vabrinoza",
-          "fame": 250,
-          "repairPoints": 0,
-          "boatAttacks": 2,
-          "decksUsed": 2,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#8Q9J928Q",
           "name": "scottriyan",
           "fame": 400,
@@ -1822,6 +1813,15 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#PRJYV2CP",
+          "name": "vabrinoza",
+          "fame": 525,
+          "repairPoints": 0,
+          "boatAttacks": 5,
+          "decksUsed": 5,
+          "decksUsedToday": 4
         },
         {
           "tag": "#CYYPJQP9R",
@@ -1878,7 +1878,7 @@
           "decksUsedToday": 2
         }
       ],
-      "periodPoints": 4325,
+      "periodPoints": 4600,
       "clanScore": 2115
     },
     {
@@ -2242,11 +2242,11 @@
         {
           "tag": "#YCPL99V8Y",
           "name": "koki",
-          "fame": 400,
+          "fame": 600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 3
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJGYGPPL9",
@@ -2294,7 +2294,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2000,
+      "periodPoints": 2200,
       "clanScore": 2115
     },
     {
