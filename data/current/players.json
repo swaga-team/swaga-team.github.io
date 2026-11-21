@@ -95,13 +95,13 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3783,
+    "wins": 3784,
     "losses": 2111,
-    "battleCount": 5894,
+    "battleCount": 5895,
     "threeCrownWins": 1084,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 42045,
+    "totalDonations": 42071,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -279,9 +279,9 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11161,
-    "losses": 10803,
-    "battleCount": 21964,
+    "wins": 11162,
+    "losses": 10805,
+    "battleCount": 21967,
     "threeCrownWins": 5628,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Giant",
+      "name": "Elite Barbarians",
       "rarity": "common",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#R98U8U290": {
@@ -1459,15 +1459,15 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12127,
+    "trophies": 12097,
     "bestTrophies": 12279,
     "wins": 2436,
-    "losses": 2631,
-    "battleCount": 5067,
+    "losses": 2633,
+    "battleCount": 5069,
     "threeCrownWins": 1114,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14186,
+    "totalDonations": 14212,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
+      "name": "Electro Wizard",
+      "rarity": "legendary",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#YR2GG8C2": {
@@ -2311,13 +2311,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -3287,13 +3280,13 @@
     "expLevel": 58,
     "trophies": 3240,
     "bestTrophies": 3397,
-    "wins": 3384,
-    "losses": 2886,
-    "battleCount": 6270,
+    "wins": 3387,
+    "losses": 2889,
+    "battleCount": 6276,
     "threeCrownWins": 2640,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21920,
+    "totalDonations": 21946,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -6166,11 +6159,11 @@
   },
   "#CVQ8Q2CJR": {
     "expLevel": 43,
-    "trophies": 9300,
+    "trophies": 9271,
     "bestTrophies": 9361,
-    "wins": 1426,
-    "losses": 1284,
-    "battleCount": 2710,
+    "wins": 1428,
+    "losses": 1287,
+    "battleCount": 2715,
     "threeCrownWins": 418,
     "warDayWins": 0,
     "clanCardsCollected": 0,
