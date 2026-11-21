@@ -1375,7 +1375,7 @@
     "threeCrownWins": 2732,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73285,
+    "totalDonations": 73301,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5119,15 +5119,15 @@
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
-    "trophies": 10116,
-    "bestTrophies": 10116,
-    "wins": 2350,
-    "losses": 1116,
-    "battleCount": 3466,
-    "threeCrownWins": 1128,
+    "trophies": 10258,
+    "bestTrophies": 10258,
+    "wins": 2357,
+    "losses": 1117,
+    "battleCount": 3474,
+    "threeCrownWins": 1134,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 26968,
+    "totalDonations": 26976,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5202,11 +5202,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Monk",
-      "rarity": "champion",
-      "elixirCost": 5,
+      "name": "Royal Ghost",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
     }
   },
   "#VU2P0VJYC": {

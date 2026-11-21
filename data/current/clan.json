@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 117280,
+  "clanScore": 117315,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6384,
+  "donationsPerWeek": 6408,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 2,
       "donations": 375,
-      "donationsReceived": 312,
+      "donationsReceived": 320,
       "clanChestPoints": 0
     },
     {
@@ -221,7 +221,7 @@
       "tag": "#8LRPG2VPQ",
       "name": "CHLE N EGRA",
       "role": "member",
-      "lastSeen": "20261120T163304.000Z",
+      "lastSeen": "20261121T000652.000Z",
       "expLevel": 0,
       "trophies": 13088,
       "arena": {
@@ -329,7 +329,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261120T075236.000Z",
+      "lastSeen": "20261121T011226.000Z",
       "expLevel": 0,
       "trophies": 11728,
       "arena": {
@@ -339,8 +339,26 @@
       },
       "clanRank": 18,
       "previousClanRank": 19,
-      "donations": 248,
-      "donationsReceived": 280,
+      "donations": 264,
+      "donationsReceived": 288,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#2QQG2QPCY",
+      "name": "Clasher",
+      "role": "member",
+      "lastSeen": "20261121T010658.000Z",
+      "expLevel": 0,
+      "trophies": 10258,
+      "arena": {
+        "id": 54000117,
+        "name": "Lumberlove Cabin",
+        "rawName": "Arena_L11"
+      },
+      "clanRank": 19,
+      "previousClanRank": 21,
+      "donations": 355,
+      "donationsReceived": 348,
       "clanChestPoints": 0
     },
     {
@@ -355,28 +373,10 @@
         "name": "Lumberlove Cabin",
         "rawName": "Arena_L11"
       },
-      "clanRank": 19,
+      "clanRank": 20,
       "previousClanRank": 20,
       "donations": 0,
       "donationsReceived": 232,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#2QQG2QPCY",
-      "name": "Clasher",
-      "role": "member",
-      "lastSeen": "20261120T232658.000Z",
-      "expLevel": 0,
-      "trophies": 10116,
-      "arena": {
-        "id": 54000117,
-        "name": "Lumberlove Cabin",
-        "rawName": "Arena_L11"
-      },
-      "clanRank": 20,
-      "previousClanRank": 21,
-      "donations": 347,
-      "donationsReceived": 348,
       "clanChestPoints": 0
     },
     {
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 40,
       "donations": 201,
-      "donationsReceived": 512,
+      "donationsReceived": 520,
       "clanChestPoints": 0
     },
     {
