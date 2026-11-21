@@ -323,15 +323,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#9282CQQ90",
-        "name": "Чушпан",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#20Y8QQ9GY8",
         "name": "自由牢湿",
         "fame": 0,
@@ -458,6 +449,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#9282CQQ90",
+        "name": "Чушпан",
+        "fame": 100,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#R98U8U290",
         "name": "tenkuu.☁️",
         "fame": 125,
@@ -566,15 +566,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQ2JYL2G",
-        "name": "MFbren",
-        "fame": 700,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 4,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YGQU2GCJR",
         "name": "Fen1ks",
         "fame": 1000,
@@ -602,18 +593,27 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJQQLCJP8",
-        "name": "Генри lll",
-        "fame": 1400,
+        "tag": "#PQQ2JYL2G",
+        "name": "MFbren",
+        "fame": 1300,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 8,
-        "decksUsedToday": 0
+        "decksUsedToday": 4
       },
       {
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 2000,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#VJQQLCJP8",
+        "name": "Генри lll",
+        "fame": 2200,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 12,
@@ -629,7 +629,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2200,
+    "periodPoints": 3700,
     "clanScore": 2195
   },
   "clans": [
@@ -785,15 +785,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2L8LR0QGU",
-          "name": "mr.tvister",
-          "fame": 1200,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#R00CLL2Q",
           "name": "TWIX",
           "fame": 1300,
@@ -810,9 +801,18 @@
           "boatAttacks": 0,
           "decksUsed": 11,
           "decksUsedToday": 3
+        },
+        {
+          "tag": "#2L8LR0QGU",
+          "name": "mr.tvister",
+          "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1600,
+      "periodPoints": 2400,
       "clanScore": 2154
     },
     {
@@ -1138,15 +1138,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9282CQQ90",
-          "name": "Чушпан",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20Y8QQ9GY8",
           "name": "自由牢湿",
           "fame": 0,
@@ -1273,6 +1264,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#9282CQQ90",
+          "name": "Чушпан",
+          "fame": 100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#R98U8U290",
           "name": "tenkuu.☁️",
           "fame": 125,
@@ -1381,15 +1381,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQ2JYL2G",
-          "name": "MFbren",
-          "fame": 700,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YGQU2GCJR",
           "name": "Fen1ks",
           "fame": 1000,
@@ -1417,18 +1408,27 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VJQQLCJP8",
-          "name": "Генри lll",
-          "fame": 1400,
+          "tag": "#PQQ2JYL2G",
+          "name": "MFbren",
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#VJQQLCJP8",
+          "name": "Генри lll",
+          "fame": 2200,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 12,
@@ -1444,7 +1444,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2200,
+      "periodPoints": 3700,
       "clanScore": 2195
     },
     {
