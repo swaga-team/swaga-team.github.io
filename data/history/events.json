@@ -8410,5 +8410,53 @@
       }
     ],
     "at": "2026-11-21T18:54:24+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GU0VGJCJC",
+    "name": "тайный хомячёк",
+    "cards": [
+      {
+        "name": "Rascals",
+        "level": 15
+      },
+      {
+        "name": "Dart Goblin",
+        "level": 14
+      },
+      {
+        "name": "Princess",
+        "level": 14
+      },
+      {
+        "name": "Skeleton Barrel",
+        "level": 13
+      },
+      {
+        "name": "Valkyrie",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-21T19:53:01+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      {
+        "name": "Bats",
+        "level": 15
+      },
+      {
+        "name": "Skeletons",
+        "level": 15
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-21T19:53:01+00:00"
   }
 ]
