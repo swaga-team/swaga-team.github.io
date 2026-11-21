@@ -279,13 +279,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11159,
-    "losses": 10801,
-    "battleCount": 21960,
+    "wins": 11161,
+    "losses": 10803,
+    "battleCount": 21964,
     "threeCrownWins": 5628,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 139020,
+    "totalDonations": 139038,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1297,7 +1297,7 @@
     "threeCrownWins": 639,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25690,
+    "totalDonations": 25732,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1376,13 +1376,13 @@
     "expLevel": 63,
     "trophies": 11816,
     "bestTrophies": 11816,
-    "wins": 3670,
+    "wins": 3672,
     "losses": 2840,
-    "battleCount": 6510,
-    "threeCrownWins": 2734,
+    "battleCount": 6512,
+    "threeCrownWins": 2735,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73341,
+    "totalDonations": 73351,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1412,13 +1412,6 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "The Log",
@@ -1457,11 +1450,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Hog Rider",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#PQQ2JYL2G": {
@@ -2021,8 +2014,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2340,
-    "losses": 2169,
-    "battleCount": 4509,
+    "losses": 2170,
+    "battleCount": 4510,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -3294,13 +3287,13 @@
     "expLevel": 58,
     "trophies": 3240,
     "bestTrophies": 3397,
-    "wins": 3381,
-    "losses": 2885,
-    "battleCount": 6266,
+    "wins": 3384,
+    "losses": 2886,
+    "battleCount": 6270,
     "threeCrownWins": 2640,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 21910,
+    "totalDonations": 21920,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -3624,12 +3617,12 @@
   },
   "#VJQQLCJP8": {
     "expLevel": 1,
-    "trophies": 2965,
-    "bestTrophies": 2991,
-    "wins": 141,
+    "trophies": 3026,
+    "bestTrophies": 3026,
+    "wins": 143,
     "losses": 40,
-    "battleCount": 181,
-    "threeCrownWins": 82,
+    "battleCount": 183,
+    "threeCrownWins": 83,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 199,
@@ -3695,11 +3688,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Barbarians",
+      "name": "Elite Barbarians",
       "rarity": "common",
-      "elixirCost": 5,
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/TvJsuu2S4yhyk1jVYUAQwdKOnW4U77KuWWOTPOWnwfI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#PLUQRR22G": {
@@ -5543,13 +5536,13 @@
     "expLevel": 42,
     "trophies": 12264,
     "bestTrophies": 12293,
-    "wins": 1225,
+    "wins": 1226,
     "losses": 686,
-    "battleCount": 1911,
+    "battleCount": 1912,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16374,
+    "totalDonations": 16406,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6173,11 +6166,11 @@
   },
   "#CVQ8Q2CJR": {
     "expLevel": 43,
-    "trophies": 9271,
-    "bestTrophies": 9271,
-    "wins": 1423,
-    "losses": 1282,
-    "battleCount": 2705,
+    "trophies": 9300,
+    "bestTrophies": 9361,
+    "wins": 1426,
+    "losses": 1284,
+    "battleCount": 2710,
     "threeCrownWins": 418,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6199,13 +6192,6 @@
     },
     "currentDeck": [
       {
-        "name": "Archers",
-        "rarity": "common",
-        "elixirCost": 3,
-        "evolved": true,
-        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
-      },
-      {
         "name": "Fireball",
         "rarity": "rare",
         "elixirCost": 4,
@@ -6218,6 +6204,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      },
+      {
+        "name": "Archers",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
       },
       {
         "name": "X-Bow",
