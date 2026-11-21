@@ -1297,7 +1297,7 @@
     "threeCrownWins": 639,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25778,
+    "totalDonations": 25796,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2014,8 +2014,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2341,
-    "losses": 2172,
-    "battleCount": 4513,
+    "losses": 2173,
+    "battleCount": 4514,
     "threeCrownWins": 789,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2042,6 +2042,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2087,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Hut",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Executioner",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
     }
   },
   "#9RJPRQLL2": {
@@ -4311,7 +4318,7 @@
     "threeCrownWins": 836,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 29057,
+    "totalDonations": 29083,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4664,15 +4671,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 8122,
-    "bestTrophies": 8181,
-    "wins": 1171,
-    "losses": 899,
-    "battleCount": 2070,
-    "threeCrownWins": 376,
+    "trophies": 8186,
+    "bestTrophies": 8186,
+    "wins": 1175,
+    "losses": 900,
+    "battleCount": 2075,
+    "threeCrownWins": 377,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 2890,
+    "totalDonations": 2908,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4747,11 +4754,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mini P.E.K.K.A",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Cannon Cart",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
     }
   },
   "#90QGJUUG": {
@@ -5614,9 +5621,9 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4030,
-    "losses": 3449,
-    "battleCount": 7479,
+    "wins": 4031,
+    "losses": 3450,
+    "battleCount": 7481,
     "threeCrownWins": 1777,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5695,11 +5702,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
+      "name": "Poison",
       "rarity": "epic",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
     }
   },
   "#VQJPUULJV": {

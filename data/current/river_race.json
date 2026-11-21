@@ -143,15 +143,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VJJUCQLVY",
-        "name": "Картошка Боб",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#VC298L8UV",
         "name": "ink",
         "fame": 0,
@@ -521,6 +512,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#VJJUCQLVY",
+        "name": "Картошка Боб",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
         "fame": 450,
@@ -638,7 +638,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4000,
+    "periodPoints": 4400,
     "clanScore": 2195
   },
   "clans": [
@@ -688,15 +688,6 @@
         {
           "tag": "#V0LVPUG9R",
           "name": "angelina",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#R00Q2G2LV",
-          "name": "Kozolkazya",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -756,6 +747,15 @@
           "boatAttacks": 0,
           "decksUsed": 0,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#R00Q2G2LV",
+          "name": "Kozolkazya",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
         },
         {
           "tag": "#YVCPRVC88",
@@ -821,7 +821,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2400,
+      "periodPoints": 2600,
       "clanScore": 2154
     },
     {
@@ -960,15 +960,6 @@
         {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#VJJUCQLVY",
-          "name": "Картошка Боб",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1345,6 +1336,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#VJJUCQLVY",
+          "name": "Картошка Боб",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#LV0GVYYL8",
           "name": "kkyo",
           "fame": 450,
@@ -1462,7 +1462,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4000,
+      "periodPoints": 4400,
       "clanScore": 2195
     },
     {
