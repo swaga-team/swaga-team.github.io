@@ -1437,15 +1437,6 @@
       "repairPoints": 0,
       "participants": [
         {
-          "tag": "#VLPVCYPYP",
-          "name": "016",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2009V0RUQ",
           "name": "NamiRin.",
           "fame": 0,
@@ -1779,6 +1770,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#VLPVCYPYP",
+          "name": "016",
+          "fame": 125,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#V8V0RL2Y9",
           "name": "(c7) SARAH",
           "fame": 225,
@@ -1824,15 +1824,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#20UJ9UGUQP",
-          "name": "vulnerablezz",
-          "fame": 450,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VRG2PYQGJ",
           "name": "toni",
           "fame": 500,
@@ -1876,9 +1867,18 @@
           "boatAttacks": 8,
           "decksUsed": 8,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#20UJ9UGUQP",
+          "name": "vulnerablezz",
+          "fame": 950,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 2
         }
       ],
-      "periodPoints": 3000,
+      "periodPoints": 3625,
       "clanScore": 2115
     },
     {
