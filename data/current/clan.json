@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 6912,
+  "donationsPerWeek": 6942,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 5,
       "donations": 97,
-      "donationsReceived": 170,
+      "donationsReceived": 180,
       "clanChestPoints": 0
     },
     {
@@ -203,7 +203,7 @@
       "tag": "#2G2VYP9G",
       "name": "THE BOSS G.",
       "role": "elder",
-      "lastSeen": "20261121T124810.000Z",
+      "lastSeen": "20261121T131550.000Z",
       "expLevel": 0,
       "trophies": 13218,
       "arena": {
@@ -214,7 +214,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 10,
-      "donationsReceived": 0,
+      "donationsReceived": 10,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261121T123259.000Z",
+      "lastSeen": "20261121T134945.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -707,7 +707,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261121T100015.000Z",
+      "lastSeen": "20261121T134355.000Z",
       "expLevel": 0,
       "trophies": 3240,
       "arena": {
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 39,
-      "donations": 628,
+      "donations": 658,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
@@ -779,7 +779,7 @@
       "tag": "#J0VGQP9PY",
       "name": "алиса спийс❤️",
       "role": "member",
-      "lastSeen": "20261121T125526.000Z",
+      "lastSeen": "20261121T131604.000Z",
       "expLevel": 0,
       "trophies": 1779,
       "arena": {
@@ -790,7 +790,7 @@
       "clanRank": 43,
       "previousClanRank": 43,
       "donations": 40,
-      "donationsReceived": 80,
+      "donationsReceived": 90,
       "clanChestPoints": 0
     }
   ]
