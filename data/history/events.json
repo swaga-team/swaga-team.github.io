@@ -8177,5 +8177,17 @@
     "tag": "#28G90Y9JL",
     "name": "GamerPro",
     "at": "2026-11-20T21:54:31+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Flying Machine",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-21T02:53:41+00:00"
   }
 ]
