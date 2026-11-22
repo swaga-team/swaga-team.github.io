@@ -5621,10 +5621,10 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4038,
-    "losses": 3457,
-    "battleCount": 7495,
-    "threeCrownWins": 1778,
+    "wins": 4039,
+    "losses": 3460,
+    "battleCount": 7499,
+    "threeCrownWins": 1779,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 8197,
@@ -5702,11 +5702,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Furnace",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Ram Rider",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
     }
   },
   "#VQJPUULJV": {
@@ -6251,15 +6251,15 @@
   },
   "#JGYLPU9L2": {
     "expLevel": 38,
-    "trophies": 7222,
+    "trophies": 7191,
     "bestTrophies": 7222,
     "wins": 554,
-    "losses": 312,
-    "battleCount": 866,
+    "losses": 315,
+    "battleCount": 869,
     "threeCrownWins": 402,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 8351,
+    "totalDonations": 8361,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
