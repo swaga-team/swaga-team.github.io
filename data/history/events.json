@@ -8589,5 +8589,41 @@
     "arena": "Jungle Arena",
     "raw": "Arena9",
     "at": "2026-11-22T08:20:14+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YGQU2GCJR",
+    "name": "Fen1ks",
+    "cards": [
+      {
+        "name": "Arrows",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-22T09:53:28+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Battle Ram",
+        "level": 11
+      },
+      {
+        "name": "Mother Witch",
+        "level": 11
+      },
+      {
+        "name": "The Log",
+        "level": 10
+      },
+      {
+        "name": "Electro Giant",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-22T09:53:28+00:00"
   }
 ]
