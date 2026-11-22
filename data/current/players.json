@@ -4857,9 +4857,9 @@
     "expLevel": 1,
     "trophies": 5629,
     "bestTrophies": 5629,
-    "wins": 748,
+    "wins": 749,
     "losses": 393,
-    "battleCount": 1141,
+    "battleCount": 1142,
     "threeCrownWins": 180,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4938,11 +4938,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant Skeleton",
-      "rarity": "epic",
-      "elixirCost": 6,
+      "name": "Lava Hound",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
     }
   },
   "#2G2VYP9G": {

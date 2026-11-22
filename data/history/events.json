@@ -8529,5 +8529,17 @@
     "tag": "#9GVPRJQLL",
     "name": "NovaZonday",
     "at": "2026-11-22T02:16:25+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Void",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-22T03:01:41+00:00"
   }
 ]
