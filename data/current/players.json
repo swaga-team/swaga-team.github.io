@@ -1468,13 +1468,13 @@
     "expLevel": 48,
     "trophies": 12189,
     "bestTrophies": 12279,
-    "wins": 2446,
-    "losses": 2638,
-    "battleCount": 5084,
+    "wins": 2447,
+    "losses": 2639,
+    "battleCount": 5086,
     "threeCrownWins": 1117,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14304,
+    "totalDonations": 14342,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2021,8 +2021,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2347,
-    "losses": 2175,
-    "battleCount": 4522,
+    "losses": 2176,
+    "battleCount": 4523,
     "threeCrownWins": 791,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2101,11 +2101,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mother Witch",
-      "rarity": "legendary",
+      "name": "Musketeer",
+      "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/fO-Xah8XZkYKaSK9SCp3wnzwxtvIhun9NVY-zzte1Ng.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
     }
   },
   "#9RJPRQLL2": {
@@ -4678,15 +4678,15 @@
   },
   "#VJJUCQLVY": {
     "expLevel": 1,
-    "trophies": 8152,
+    "trophies": 8183,
     "bestTrophies": 8186,
-    "wins": 1192,
+    "wins": 1193,
     "losses": 918,
-    "battleCount": 2110,
+    "battleCount": 2111,
     "threeCrownWins": 385,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3036,
+    "totalDonations": 3069,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4761,11 +4761,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
-      "rarity": "legendary",
-      "elixirCost": 6,
+      "name": "Cannon Cart",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
     }
   },
   "#90QGJUUG": {
@@ -4864,10 +4864,10 @@
     "expLevel": 1,
     "trophies": 5629,
     "bestTrophies": 5629,
-    "wins": 756,
-    "losses": 398,
-    "battleCount": 1154,
-    "threeCrownWins": 181,
+    "wins": 758,
+    "losses": 399,
+    "battleCount": 1157,
+    "threeCrownWins": 182,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 171,
@@ -4945,11 +4945,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant Skeleton",
-      "rarity": "epic",
-      "elixirCost": 6,
+      "name": "Three Musketeers",
+      "rarity": "rare",
+      "elixirCost": 9,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
     }
   },
   "#2G2VYP9G": {
@@ -5128,13 +5128,13 @@
     "expLevel": 57,
     "trophies": 10258,
     "bestTrophies": 10258,
-    "wins": 2367,
+    "wins": 2368,
     "losses": 1120,
-    "battleCount": 3487,
+    "battleCount": 3488,
     "threeCrownWins": 1135,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 27007,
+    "totalDonations": 27040,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5157,6 +5157,13 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -6530,6 +6537,41 @@
       "elixirCost": 5,
       "evolved": false,
       "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+    }
+  },
+  "#Q80220028": {
+    "expLevel": 62,
+    "trophies": 14000,
+    "bestTrophies": 14000,
+    "wins": 2839,
+    "losses": 2549,
+    "battleCount": 5388,
+    "threeCrownWins": 822,
+    "warDayWins": 0,
+    "clanCardsCollected": 0,
+    "totalDonations": 27352,
+    "currentPathOfLegendSeasonResult": {
+      "leagueNumber": 1,
+      "trophies": 0,
+      "rank": null
+    },
+    "lastPathOfLegendSeasonResult": {
+      "leagueNumber": 1,
+      "trophies": 0,
+      "rank": null
+    },
+    "bestPathOfLegendSeasonResult": {
+      "leagueNumber": 1,
+      "trophies": 0,
+      "rank": null
+    },
+    "currentDeck": [],
+    "currentFavouriteCard": {
+      "name": "Ronin",
+      "rarity": "legendary",
+      "elixirCost": 5,
+      "evolved": false,
+      "icon": "https://api-assets.clashroyale.com/cards/300/X0dTFs7OGUavreDEzOtYd_YNZ8Zly6qgAE-dd-bNfWU.png"
     }
   }
 }

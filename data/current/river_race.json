@@ -584,6 +584,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#Q80220028",
+        "name": "end",
+        "fame": 700,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 3,
+        "decksUsedToday": 3
+      },
+      {
         "tag": "#VJJUCQLVY",
         "name": "Картошка Боб",
         "fame": 1000,
@@ -656,7 +665,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4800,
+    "periodPoints": 5500,
     "clanScore": 2195
   },
   "clans": [
@@ -1426,6 +1435,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#Q80220028",
+          "name": "end",
+          "fame": 700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 3,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#VJJUCQLVY",
           "name": "Картошка Боб",
           "fame": 1000,
@@ -1498,7 +1516,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4800,
+      "periodPoints": 5500,
       "clanScore": 2195
     },
     {
@@ -1574,6 +1592,15 @@
         {
           "tag": "#L2UJCYRC8",
           "name": "abi",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#RLRGCQ2YL",
+          "name": "Drakenboy",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2359,11 +2386,11 @@
         {
           "tag": "#YCPL99V8Y",
           "name": "koki",
-          "fame": 1100,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 9,
+          "decksUsedToday": 1
         },
         {
           "tag": "#2YCR89URU",
@@ -2402,7 +2429,7 @@
           "decksUsedToday": 1
         }
       ],
-      "periodPoints": 1175,
+      "periodPoints": 1375,
       "clanScore": 2115
     },
     {
