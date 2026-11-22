@@ -197,15 +197,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#8UCG80RYR",
-        "name": "Daisy Sprout",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#GU0VGJCJC",
         "name": "тайный хомячёк",
         "fame": 0,
@@ -217,15 +208,6 @@
       {
         "tag": "#YYV2V82G0",
         "name": "•Harrison Ford•",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#JU2L2U8LG",
-        "name": "адцкий гей",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -449,6 +431,24 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#8UCG80RYR",
+        "name": "Daisy Sprout",
+        "fame": 125,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
+        "tag": "#JU2L2U8LG",
+        "name": "адцкий гей",
+        "fame": 125,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#R98U8U290",
         "name": "tenkuu.☁️",
         "fame": 125,
@@ -593,15 +593,6 @@
         "decksUsedToday": 1
       },
       {
-        "tag": "#V0RCP20LR",
-        "name": "подписични черв",
-        "fame": 1250,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#PQQ2JYL2G",
         "name": "MFbren",
         "fame": 1300,
@@ -614,6 +605,15 @@
         "tag": "#PL82RPJUJ",
         "name": ")))",
         "fame": 2000,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
+      },
+      {
+        "tag": "#V0RCP20LR",
+        "name": "подписични черв",
+        "fame": 2150,
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 12,
@@ -638,7 +638,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5525,
+    "periodPoints": 6675,
     "clanScore": 2195
   },
   "clans": [
@@ -778,11 +778,11 @@
         {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
-          "fame": 800,
+          "fame": 1000,
           "repairPoints": 0,
           "boatAttacks": 8,
-          "decksUsed": 8,
-          "decksUsedToday": 0
+          "decksUsed": 10,
+          "decksUsedToday": 2
         },
         {
           "tag": "#PRQC0GRRU",
@@ -821,7 +821,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3700,
+      "periodPoints": 3900,
       "clanScore": 2154
     },
     {
@@ -1021,15 +1021,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#8UCG80RYR",
-          "name": "Daisy Sprout",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#GU0VGJCJC",
           "name": "тайный хомячёк",
           "fame": 0,
@@ -1041,15 +1032,6 @@
         {
           "tag": "#YYV2V82G0",
           "name": "•Harrison Ford•",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#JU2L2U8LG",
-          "name": "адцкий гей",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1273,6 +1255,24 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#8UCG80RYR",
+          "name": "Daisy Sprout",
+          "fame": 125,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
+          "tag": "#JU2L2U8LG",
+          "name": "адцкий гей",
+          "fame": 125,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#R98U8U290",
           "name": "tenkuu.☁️",
           "fame": 125,
@@ -1417,15 +1417,6 @@
           "decksUsedToday": 1
         },
         {
-          "tag": "#V0RCP20LR",
-          "name": "подписични черв",
-          "fame": 1250,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#PQQ2JYL2G",
           "name": "MFbren",
           "fame": 1300,
@@ -1438,6 +1429,15 @@
           "tag": "#PL82RPJUJ",
           "name": ")))",
           "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#V0RCP20LR",
+          "name": "подписични черв",
+          "fame": 2150,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 12,
@@ -1462,7 +1462,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5525,
+      "periodPoints": 6675,
       "clanScore": 2195
     },
     {

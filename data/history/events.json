@@ -8581,5 +8581,13 @@
       }
     ],
     "at": "2026-11-22T07:15:47+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#V09GR9GG0",
+    "name": "Infirmity",
+    "arena": "Jungle Arena",
+    "raw": "Arena9",
+    "at": "2026-11-22T08:20:14+00:00"
   }
 ]
