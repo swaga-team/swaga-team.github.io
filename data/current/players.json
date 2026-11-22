@@ -95,9 +95,9 @@
     "expLevel": 69,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 3789,
+    "wins": 3790,
     "losses": 2113,
-    "battleCount": 5902,
+    "battleCount": 5903,
     "threeCrownWins": 1085,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -280,8 +280,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 11167,
-    "losses": 10808,
-    "battleCount": 21975,
+    "losses": 10809,
+    "battleCount": 21976,
     "threeCrownWins": 5630,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
@@ -360,11 +360,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Royal Giant",
-      "rarity": "common",
-      "elixirCost": 6,
+      "name": "Valkyrie",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   },
   "#R98U8U290": {
@@ -831,13 +831,13 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2462,
-    "losses": 1754,
-    "battleCount": 4216,
+    "wins": 2463,
+    "losses": 1759,
+    "battleCount": 4222,
     "threeCrownWins": 618,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31411,
+    "totalDonations": 31421,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -912,11 +912,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Minion Giant",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/VRjL0yVLzrnoe-IBh2l2fDHDok0L-UoM9cG-X_8xbMk.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -1376,13 +1376,13 @@
     "expLevel": 63,
     "trophies": 11816,
     "bestTrophies": 11816,
-    "wins": 3672,
-    "losses": 2840,
-    "battleCount": 6512,
-    "threeCrownWins": 2735,
+    "wins": 3673,
+    "losses": 2841,
+    "battleCount": 6514,
+    "threeCrownWins": 2736,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73381,
+    "totalDonations": 73411,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1467,7 +1467,7 @@
     "threeCrownWins": 1115,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14240,
+    "totalDonations": 14260,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2912,13 +2912,13 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2708,
-    "losses": 2810,
-    "battleCount": 5518,
-    "threeCrownWins": 1916,
+    "wins": 2709,
+    "losses": 2811,
+    "battleCount": 5520,
+    "threeCrownWins": 1917,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37736,
+    "totalDonations": 37756,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2993,11 +2993,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Princess",
-      "rarity": "legendary",
+      "name": "Goblin Gang",
+      "rarity": "common",
       "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
     }
   },
   "#GQP92GLC8": {
@@ -4674,8 +4674,8 @@
     "trophies": 8152,
     "bestTrophies": 8186,
     "wins": 1192,
-    "losses": 916,
-    "battleCount": 2108,
+    "losses": 917,
+    "battleCount": 2109,
     "threeCrownWins": 385,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5529,13 +5529,13 @@
     "expLevel": 42,
     "trophies": 12264,
     "bestTrophies": 12293,
-    "wins": 1229,
-    "losses": 687,
-    "battleCount": 1916,
+    "wins": 1231,
+    "losses": 689,
+    "battleCount": 1920,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16480,
+    "totalDonations": 16500,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6155,8 +6155,8 @@
     "trophies": 9283,
     "bestTrophies": 9361,
     "wins": 1455,
-    "losses": 1327,
-    "battleCount": 2782,
+    "losses": 1328,
+    "battleCount": 2783,
     "threeCrownWins": 420,
     "warDayWins": 0,
     "clanCardsCollected": 0,
