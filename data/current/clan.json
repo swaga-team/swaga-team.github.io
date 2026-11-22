@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7612,
+  "donationsPerWeek": 7622,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 312,
+      "donationsReceived": 322,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261122T025510.000Z",
+      "lastSeen": "20261122T043616.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -681,7 +681,7 @@
       },
       "clanRank": 37,
       "previousClanRank": 38,
-      "donations": 0,
+      "donations": 10,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },

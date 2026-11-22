@@ -1737,9 +1737,9 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2626,
+    "wins": 2628,
     "losses": 2299,
-    "battleCount": 4925,
+    "battleCount": 4927,
     "threeCrownWins": 934,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -4857,13 +4857,13 @@
     "expLevel": 1,
     "trophies": 5629,
     "bestTrophies": 5629,
-    "wins": 749,
-    "losses": 394,
-    "battleCount": 1143,
-    "threeCrownWins": 180,
+    "wins": 755,
+    "losses": 397,
+    "battleCount": 1152,
+    "threeCrownWins": 181,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 161,
+    "totalDonations": 171,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4938,11 +4938,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lava Hound",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Giant Skeleton",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
     }
   },
   "#2G2VYP9G": {
