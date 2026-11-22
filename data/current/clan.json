@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 115750,
+  "clanScore": 115756,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 7632,
+  "donationsPerWeek": 7722,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -33,8 +33,8 @@
       },
       "clanRank": 1,
       "previousClanRank": 4,
-      "donations": 141,
-      "donationsReceived": 200,
+      "donations": 171,
+      "donationsReceived": 210,
       "clanChestPoints": 0
     },
     {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 5,
       "donations": 290,
-      "donationsReceived": 350,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 322,
+      "donationsReceived": 332,
       "clanChestPoints": 0
     },
     {
@@ -448,7 +448,7 @@
       "clanRank": 24,
       "previousClanRank": 25,
       "donations": 183,
-      "donationsReceived": 250,
+      "donationsReceived": 260,
       "clanChestPoints": 0
     },
     {
@@ -491,9 +491,9 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261121T191120.000Z",
+      "lastSeen": "20261122T071524.000Z",
       "expLevel": 0,
-      "trophies": 8620,
+      "trophies": 8677,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -563,9 +563,9 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261121T181533.000Z",
+      "lastSeen": "20261122T070440.000Z",
       "expLevel": 0,
-      "trophies": 8155,
+      "trophies": 8122,
       "arena": {
         "id": 54000018,
         "name": "Clash Fest",
@@ -573,8 +573,8 @@
       },
       "clanRank": 31,
       "previousClanRank": 32,
-      "donations": 543,
-      "donationsReceived": 320,
+      "donations": 563,
+      "donationsReceived": 330,
       "clanChestPoints": 0
     },
     {
@@ -599,7 +599,7 @@
       "tag": "#JGYLPU9L2",
       "name": "Котя",
       "role": "member",
-      "lastSeen": "20261122T054000.000Z",
+      "lastSeen": "20261122T061802.000Z",
       "expLevel": 0,
       "trophies": 7191,
       "arena": {
@@ -610,7 +610,7 @@
       "clanRank": 33,
       "previousClanRank": 0,
       "donations": 18,
-      "donationsReceived": 0,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261122T053500.000Z",
+      "lastSeen": "20261122T063533.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -682,14 +682,14 @@
       "clanRank": 37,
       "previousClanRank": 38,
       "donations": 10,
-      "donationsReceived": 210,
+      "donationsReceived": 230,
       "clanChestPoints": 0
     },
     {
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261121T160430.000Z",
+      "lastSeen": "20261122T071131.000Z",
       "expLevel": 0,
       "trophies": 3211,
       "arena": {
@@ -699,7 +699,7 @@
       },
       "clanRank": 38,
       "previousClanRank": 39,
-      "donations": 674,
+      "donations": 714,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -743,9 +743,9 @@
       "tag": "#V09GR9GG0",
       "name": "Infirmity",
       "role": "member",
-      "lastSeen": "20261121T152317.000Z",
+      "lastSeen": "20261122T070014.000Z",
       "expLevel": 0,
-      "trophies": 2511,
+      "trophies": 2570,
       "arena": {
         "id": 54000009,
         "name": "Frozen Peak",

@@ -494,15 +494,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#228RGGVQV2",
-        "name": "Infamous",
-        "fame": 300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 3,
-        "decksUsedToday": 1
-      },
-      {
         "tag": "#LV0GVYYL8",
         "name": "kkyo",
         "fame": 450,
@@ -564,6 +555,15 @@
         "boatAttacks": 0,
         "decksUsed": 4,
         "decksUsedToday": 0
+      },
+      {
+        "tag": "#228RGGVQV2",
+        "name": "Infamous",
+        "fame": 600,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 5,
+        "decksUsedToday": 3
       },
       {
         "tag": "#PQQGRL028",
@@ -638,7 +638,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5225,
+    "periodPoints": 5525,
     "clanScore": 2195
   },
   "clans": [
@@ -1318,15 +1318,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#228RGGVQV2",
-          "name": "Infamous",
-          "fame": 300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 3,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#LV0GVYYL8",
           "name": "kkyo",
           "fame": 450,
@@ -1388,6 +1379,15 @@
           "boatAttacks": 0,
           "decksUsed": 4,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#228RGGVQV2",
+          "name": "Infamous",
+          "fame": 600,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 5,
+          "decksUsedToday": 3
         },
         {
           "tag": "#PQQGRL028",
@@ -1462,7 +1462,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5225,
+      "periodPoints": 5525,
       "clanScore": 2195
     },
     {
@@ -1601,6 +1601,15 @@
         {
           "tag": "#2YQG8YQV",
           "name": "BADGAME",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#L8G8J8VL",
+          "name": "大ㄞ",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1896,15 +1905,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20UJ9UGUQP",
-          "name": "vulnerablezz",
-          "fame": 950,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 5,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
           "fame": 1150,
@@ -1930,9 +1930,18 @@
           "boatAttacks": 12,
           "decksUsed": 12,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#20UJ9UGUQP",
+          "name": "vulnerablezz",
+          "fame": 1400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 3
         }
       ],
-      "periodPoints": 2125,
+      "periodPoints": 2575,
       "clanScore": 2115
     },
     {
