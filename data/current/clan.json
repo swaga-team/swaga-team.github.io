@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 119429,
+  "clanScore": 119441,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8638,
+  "donationsPerWeek": 8706,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 0,
       "donations": 26,
-      "donationsReceived": 10,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     },
     {
@@ -257,9 +257,9 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261122T132936.000Z",
+      "lastSeen": "20261122T211728.000Z",
       "expLevel": 0,
-      "trophies": 12264,
+      "trophies": 12294,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -267,8 +267,8 @@
       },
       "clanRank": 14,
       "previousClanRank": 14,
-      "donations": 468,
-      "donationsReceived": 520,
+      "donations": 498,
+      "donationsReceived": 530,
       "clanChestPoints": 0
     },
     {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 16,
       "donations": 610,
-      "donationsReceived": 528,
+      "donationsReceived": 544,
       "clanChestPoints": 0
     },
     {
@@ -329,7 +329,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261122T160119.000Z",
+      "lastSeen": "20261122T212622.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -339,7 +339,7 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 286,
+      "donations": 324,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -347,7 +347,7 @@
       "tag": "#RRPU2Y9",
       "name": "Black Dragon",
       "role": "member",
-      "lastSeen": "20261122T202040.000Z",
+      "lastSeen": "20261122T211450.000Z",
       "expLevel": 0,
       "trophies": 11060,
       "arena": {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261122T180040.000Z",
+      "lastSeen": "20261122T213616.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -578,6 +578,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#UY2UPL2GV",
+      "name": "\"Erick\"",
+      "role": "member",
+      "lastSeen": "20261122T212314.000Z",
+      "expLevel": 0,
+      "trophies": 8387,
+      "arena": {
+        "id": 54000018,
+        "name": "Clash Fest",
+        "rawName": "Arena_L7"
+      },
+      "clanRank": 32,
+      "previousClanRank": 31,
+      "donations": 28,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#9JPPYRL90",
       "name": "disruption",
       "role": "member",
@@ -589,28 +607,10 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 30,
       "donations": 48,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#UY2UPL2GV",
-      "name": "\"Erick\"",
-      "role": "member",
-      "lastSeen": "20261118T033629.000Z",
-      "expLevel": 0,
-      "trophies": 8357,
-      "arena": {
-        "id": 54000018,
-        "name": "Clash Fest",
-        "rawName": "Arena_L7"
-      },
-      "clanRank": 33,
-      "previousClanRank": 31,
-      "donations": 28,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -635,9 +635,9 @@
       "tag": "#J28RP9LPV",
       "name": "Не_елочник",
       "role": "member",
-      "lastSeen": "20261119T142604.000Z",
+      "lastSeen": "20261122T211127.000Z",
       "expLevel": 0,
-      "trophies": 7200,
+      "trophies": 7226,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 38,
       "donations": 10,
-      "donationsReceived": 278,
+      "donationsReceived": 280,
       "clanChestPoints": 0
     },
     {
@@ -772,7 +772,7 @@
       "clanRank": 42,
       "previousClanRank": 40,
       "donations": 289,
-      "donationsReceived": 640,
+      "donationsReceived": 650,
       "clanChestPoints": 0
     },
     {
@@ -808,7 +808,7 @@
       "clanRank": 44,
       "previousClanRank": 42,
       "donations": 32,
-      "donationsReceived": 20,
+      "donationsReceived": 30,
       "clanChestPoints": 0
     },
     {

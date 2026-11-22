@@ -1297,7 +1297,7 @@
     "threeCrownWins": 640,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 25866,
+    "totalDonations": 25904,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1320,13 +1320,6 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2020,9 +2013,9 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2347,
-    "losses": 2177,
-    "battleCount": 4524,
+    "wins": 2348,
+    "losses": 2178,
+    "battleCount": 4526,
     "threeCrownWins": 791,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2101,11 +2094,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Musketeer",
+      "name": "Wizard",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2556,12 +2549,12 @@
   },
   "#UY2UPL2GV": {
     "expLevel": 32,
-    "trophies": 8357,
-    "bestTrophies": 8387,
-    "wins": 932,
-    "losses": 652,
-    "battleCount": 1584,
-    "threeCrownWins": 413,
+    "trophies": 8387,
+    "bestTrophies": 8388,
+    "wins": 934,
+    "losses": 653,
+    "battleCount": 1587,
+    "threeCrownWins": 414,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 644,
@@ -2587,6 +2580,13 @@
         "elixirCost": 5,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      },
+      {
+        "name": "Little Prince",
+        "rarity": "champion",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/dY-gSseki6KBpkIG17safHH5YlB8SErFZO9OXbJxf9w.png"
       },
       {
         "name": "Mega Knight",
@@ -5541,15 +5541,15 @@
   },
   "#YGQU2GCJR": {
     "expLevel": 42,
-    "trophies": 12264,
-    "bestTrophies": 12293,
-    "wins": 1231,
+    "trophies": 12294,
+    "bestTrophies": 12294,
+    "wins": 1232,
     "losses": 689,
-    "battleCount": 1920,
+    "battleCount": 1921,
     "threeCrownWins": 432,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16528,
+    "totalDonations": 16558,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5909,11 +5909,11 @@
   },
   "#J28RP9LPV": {
     "expLevel": 34,
-    "trophies": 7200,
+    "trophies": 7226,
     "bestTrophies": 7227,
-    "wins": 596,
+    "wins": 597,
     "losses": 412,
-    "battleCount": 1008,
+    "battleCount": 1009,
     "threeCrownWins": 152,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6359,9 +6359,9 @@
     "expLevel": 41,
     "trophies": 11060,
     "bestTrophies": 11149,
-    "wins": 5013,
-    "losses": 5145,
-    "battleCount": 10158,
+    "wins": 5015,
+    "losses": 5146,
+    "battleCount": 10161,
     "threeCrownWins": 2788,
     "warDayWins": 4,
     "clanCardsCollected": 7245,
@@ -6440,11 +6440,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant Skeleton",
+      "name": "Electro Giant",
       "rarity": "epic",
-      "elixirCost": 6,
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/_uChZkNHAMq6tPb3v6A49xinOe3CnhjstOhG6OZbPYc.png"
     }
   },
   "#LVP2CL9RQ": {

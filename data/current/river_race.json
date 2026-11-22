@@ -796,11 +796,11 @@
         {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
-          "fame": 600,
+          "fame": 900,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsed": 7,
+          "decksUsedToday": 3
         },
         {
           "tag": "#PRQC0GRRU",
@@ -848,7 +848,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2150,
+      "periodPoints": 2450,
       "clanScore": 2154
     },
     {
@@ -1959,15 +1959,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#CYYPJQP9R",
-          "name": "adev3",
-          "fame": 1150,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#ULCYG0VGV",
           "name": "TheMrPoop",
           "fame": 1175,
@@ -1995,6 +1986,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CYYPJQP9R",
+          "name": "adev3",
+          "fame": 1550,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 11,
+          "decksUsedToday": 3
+        },
+        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1900,
@@ -2013,7 +2013,7 @@
           "decksUsedToday": 2
         }
       ],
-      "periodPoints": 2400,
+      "periodPoints": 2800,
       "clanScore": 2115
     },
     {
