@@ -584,15 +584,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#PQQ2JYL2G",
-        "name": "MFbren",
-        "fame": 1300,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YGQU2GCJR",
         "name": "Fen1ks",
         "fame": 1400,
@@ -600,6 +591,15 @@
         "boatAttacks": 6,
         "decksUsed": 10,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#PQQ2JYL2G",
+        "name": "MFbren",
+        "fame": 2000,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 12,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PL82RPJUJ",
@@ -631,14 +631,14 @@
       {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
-        "fame": 2400,
+        "fame": 2700,
         "repairPoints": 0,
         "boatAttacks": 0,
-        "decksUsed": 14,
-        "decksUsedToday": 2
+        "decksUsed": 16,
+        "decksUsedToday": 4
       }
     ],
-    "periodPoints": 1100,
+    "periodPoints": 2100,
     "clanScore": 2195
   },
   "clans": [
@@ -1408,15 +1408,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#PQQ2JYL2G",
-          "name": "MFbren",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YGQU2GCJR",
           "name": "Fen1ks",
           "fame": 1400,
@@ -1424,6 +1415,15 @@
           "boatAttacks": 6,
           "decksUsed": 10,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#PQQ2JYL2G",
+          "name": "MFbren",
+          "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PL82RPJUJ",
@@ -1455,14 +1455,14 @@
         {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
-          "fame": 2400,
+          "fame": 2700,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 14,
-          "decksUsedToday": 2
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1100,
+      "periodPoints": 2100,
       "clanScore": 2195
     },
     {
@@ -1853,11 +1853,11 @@
         {
           "tag": "#RCYR8JYYV",
           "name": "hafid_oi",
-          "fame": 400,
+          "fame": 750,
           "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "boatAttacks": 8,
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PRJYV2CP",
@@ -1941,7 +1941,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1450,
+      "periodPoints": 1800,
       "clanScore": 2115
     },
     {
@@ -2296,11 +2296,11 @@
         {
           "tag": "#V2U2R8J28",
           "name": "gy",
-          "fame": 400,
+          "fame": 475,
           "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "boatAttacks": 5,
+          "decksUsed": 5,
+          "decksUsedToday": 1
         },
         {
           "tag": "#2LRQVPP0V",
@@ -2357,7 +2357,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 75,
       "clanScore": 2115
     },
     {

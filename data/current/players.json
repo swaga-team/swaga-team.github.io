@@ -101,7 +101,7 @@
     "threeCrownWins": 1085,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 42163,
+    "totalDonations": 42183,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -279,13 +279,13 @@
     "expLevel": 59,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 11167,
-    "losses": 10809,
-    "battleCount": 21976,
-    "threeCrownWins": 5630,
+    "wins": 11169,
+    "losses": 10810,
+    "battleCount": 21979,
+    "threeCrownWins": 5631,
     "warDayWins": 136,
     "clanCardsCollected": 394128,
-    "totalDonations": 139084,
+    "totalDonations": 139094,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -360,24 +360,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Royal Giant",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#R98U8U290": {
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2969,
+    "wins": 2970,
     "losses": 2551,
-    "battleCount": 5520,
+    "battleCount": 5521,
     "threeCrownWins": 1121,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16216,
+    "totalDonations": 16226,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1459,12 +1459,12 @@
   },
   "#PQQ2JYL2G": {
     "expLevel": 48,
-    "trophies": 12097,
+    "trophies": 12157,
     "bestTrophies": 12279,
-    "wins": 2438,
-    "losses": 2635,
-    "battleCount": 5073,
-    "threeCrownWins": 1115,
+    "wins": 2443,
+    "losses": 2636,
+    "battleCount": 5079,
+    "threeCrownWins": 1117,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 14260,
@@ -1542,11 +1542,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Magic Archer",
+      "name": "Electro Wizard",
       "rarity": "legendary",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Avli3W7BxU9HQ2SoLiXnBgGx25FoNXUSFm7OcAk68ek.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
     }
   },
   "#YR2GG8C2": {
@@ -2912,10 +2912,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2709,
-    "losses": 2811,
-    "battleCount": 5520,
-    "threeCrownWins": 1917,
+    "wins": 2712,
+    "losses": 2815,
+    "battleCount": 5527,
+    "threeCrownWins": 1918,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37756,
@@ -2993,11 +2993,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Gang",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Graveyard",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
     }
   },
   "#GQP92GLC8": {
@@ -4674,8 +4674,8 @@
     "trophies": 8152,
     "bestTrophies": 8186,
     "wins": 1192,
-    "losses": 917,
-    "battleCount": 2109,
+    "losses": 918,
+    "battleCount": 2110,
     "threeCrownWins": 385,
     "warDayWins": 0,
     "clanCardsCollected": 0,

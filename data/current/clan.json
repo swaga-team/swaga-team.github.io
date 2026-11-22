@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 115769,
+  "clanScore": 115784,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8232,
+  "donationsPerWeek": 8272,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
     {
-      "tag": "#9JQ8PCJ",
-      "name": "lastiq",
-      "role": "elder",
-      "lastSeen": "20261122T102052.000Z",
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261122T114317.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,15 +33,15 @@
       },
       "clanRank": 1,
       "previousClanRank": 2,
-      "donations": 321,
-      "donationsReceived": 360,
+      "donations": 171,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261122T095934.000Z",
+      "lastSeen": "20261122T113435.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,45 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 385,
+      "previousClanRank": 3,
+      "donations": 405,
       "donationsReceived": 400,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261122T112727.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 3,
+      "previousClanRank": 7,
+      "donations": 280,
+      "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#9JQ8PCJ",
+      "name": "lastiq",
+      "role": "elder",
+      "lastSeen": "20261122T110124.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 4,
+      "previousClanRank": 6,
+      "donations": 331,
+      "donationsReceived": 360,
       "clanChestPoints": 0
     },
     {
@@ -67,8 +103,8 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
-      "previousClanRank": 6,
+      "clanRank": 5,
+      "previousClanRank": 1,
       "donations": 466,
       "donationsReceived": 400,
       "clanChestPoints": 0
@@ -85,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 6,
       "previousClanRank": 8,
       "donations": 154,
       "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261122T054624.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 5,
-      "previousClanRank": 4,
-      "donations": 171,
-      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -121,10 +139,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 5,
       "donations": 290,
-      "donationsReceived": 380,
+      "donationsReceived": 390,
       "clanChestPoints": 0
     },
     {
@@ -139,28 +157,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 7,
-      "previousClanRank": 7,
+      "clanRank": 8,
+      "previousClanRank": 4,
       "donations": 563,
       "donationsReceived": 440,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261121T075701.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 8,
-      "previousClanRank": 3,
-      "donations": 270,
-      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -254,6 +254,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#PQQ2JYL2G",
+      "name": "MFbren",
+      "role": "elder",
+      "lastSeen": "20261122T113119.000Z",
+      "expLevel": 0,
+      "trophies": 12157,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 14,
+      "previousClanRank": 16,
+      "donations": 528,
+      "donationsReceived": 510,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
@@ -265,28 +283,10 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 14,
+      "clanRank": 15,
       "previousClanRank": 15,
       "donations": 8,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#PQQ2JYL2G",
-      "name": "MFbren",
-      "role": "elder",
-      "lastSeen": "20261122T104909.000Z",
-      "expLevel": 0,
-      "trophies": 12097,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 15,
-      "previousClanRank": 16,
-      "donations": 528,
-      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
@@ -383,7 +383,7 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261122T074051.000Z",
+      "lastSeen": "20261122T114748.000Z",
       "expLevel": 0,
       "trophies": 9859,
       "arena": {
@@ -419,7 +419,7 @@
       "tag": "#J2LGV98JU",
       "name": "dibil",
       "role": "member",
-      "lastSeen": "20261121T152300.000Z",
+      "lastSeen": "20261122T114933.000Z",
       "expLevel": 0,
       "trophies": 9690,
       "arena": {
@@ -464,7 +464,7 @@
         "rawName": "Arena_L9"
       },
       "clanRank": 25,
-      "previousClanRank": 27,
+      "previousClanRank": 26,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -482,7 +482,7 @@
         "rawName": "Arena_L9"
       },
       "clanRank": 26,
-      "previousClanRank": 26,
+      "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -491,7 +491,7 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261122T071524.000Z",
+      "lastSeen": "20261122T114844.000Z",
       "expLevel": 0,
       "trophies": 8677,
       "arena": {
@@ -500,7 +500,7 @@
         "rawName": "Arena_L8"
       },
       "clanRank": 27,
-      "previousClanRank": 29,
+      "previousClanRank": 28,
       "donations": 29,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -518,7 +518,7 @@
         "rawName": "Arena_L8"
       },
       "clanRank": 28,
-      "previousClanRank": 28,
+      "previousClanRank": 29,
       "donations": 183,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261122T093522.000Z",
+      "lastSeen": "20261122T110038.000Z",
       "expLevel": 0,
       "trophies": 8152,
       "arena": {
@@ -608,7 +608,7 @@
         "rawName": "Arena_L5"
       },
       "clanRank": 33,
-      "previousClanRank": 0,
+      "previousClanRank": 33,
       "donations": 18,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -617,7 +617,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261122T104405.000Z",
+      "lastSeen": "20261122T111130.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
