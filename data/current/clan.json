@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 115784,
+  "clanScore": 115775,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8272,
+  "donationsPerWeek": 8298,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
     {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261122T114317.000Z",
+      "tag": "#CGPUY8P2",
+      "name": "BIG BOY",
+      "role": "elder",
+      "lastSeen": "20261122T121256.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,16 +32,16 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 2,
-      "donations": 171,
-      "donationsReceived": 240,
+      "previousClanRank": 3,
+      "donations": 405,
+      "donationsReceived": 400,
       "clanChestPoints": 0
     },
     {
-      "tag": "#CGPUY8P2",
-      "name": "BIG BOY",
-      "role": "elder",
-      "lastSeen": "20261122T113435.000Z",
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261122T115515.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -50,9 +50,9 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 3,
-      "donations": 405,
-      "donationsReceived": 400,
+      "previousClanRank": 2,
+      "donations": 181,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -254,28 +254,10 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#PQQ2JYL2G",
-      "name": "MFbren",
-      "role": "elder",
-      "lastSeen": "20261122T113119.000Z",
-      "expLevel": 0,
-      "trophies": 12157,
-      "arena": {
-        "id": 54000141,
-        "name": "Magic Academy",
-        "rawName": "Arena_L15"
-      },
-      "clanRank": 14,
-      "previousClanRank": 16,
-      "donations": 528,
-      "donationsReceived": 510,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#Q2RJCVYUQ",
       "name": "NEVIDIMKA YT",
       "role": "member",
-      "lastSeen": "20261121T134945.000Z",
+      "lastSeen": "20261122T122835.000Z",
       "expLevel": 0,
       "trophies": 12150,
       "arena": {
@@ -283,10 +265,28 @@
         "name": "Magic Academy",
         "rawName": "Arena_L15"
       },
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 15,
       "donations": 8,
       "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#PQQ2JYL2G",
+      "name": "MFbren",
+      "role": "elder",
+      "lastSeen": "20261122T115434.000Z",
+      "expLevel": 0,
+      "trophies": 12130,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 15,
+      "previousClanRank": 16,
+      "donations": 528,
+      "donationsReceived": 520,
       "clanChestPoints": 0
     },
     {
@@ -311,7 +311,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261121T234902.000Z",
+      "lastSeen": "20261122T125409.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -321,7 +321,7 @@
       },
       "clanRank": 17,
       "previousClanRank": 18,
-      "donations": 262,
+      "donations": 270,
       "donationsReceived": 360,
       "clanChestPoints": 0
     },
@@ -329,7 +329,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261121T233450.000Z",
+      "lastSeen": "20261122T123732.000Z",
       "expLevel": 0,
       "trophies": 10258,
       "arena": {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 19,
       "donations": 386,
-      "donationsReceived": 420,
+      "donationsReceived": 436,
       "clanChestPoints": 0
     },
     {
@@ -385,7 +385,7 @@
       "role": "member",
       "lastSeen": "20261122T114748.000Z",
       "expLevel": 0,
-      "trophies": 9859,
+      "trophies": 9830,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -401,7 +401,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261121T231004.000Z",
+      "lastSeen": "20261122T123359.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -419,9 +419,9 @@
       "tag": "#J2LGV98JU",
       "name": "dibil",
       "role": "member",
-      "lastSeen": "20261122T114933.000Z",
+      "lastSeen": "20261122T115815.000Z",
       "expLevel": 0,
-      "trophies": 9690,
+      "trophies": 9720,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -491,7 +491,7 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261122T114844.000Z",
+      "lastSeen": "20261122T115001.000Z",
       "expLevel": 0,
       "trophies": 8677,
       "arena": {
@@ -509,7 +509,7 @@
       "tag": "#UQRQ0YRVL",
       "name": "viatrio",
       "role": "member",
-      "lastSeen": "20261121T152314.000Z",
+      "lastSeen": "20261122T120325.000Z",
       "expLevel": 0,
       "trophies": 8600,
       "arena": {
@@ -707,9 +707,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261122T083621.000Z",
+      "lastSeen": "20261122T125341.000Z",
       "expLevel": 0,
-      "trophies": 3129,
+      "trophies": 3100,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -717,7 +717,7 @@
       },
       "clanRank": 39,
       "previousClanRank": 40,
-      "donations": 259,
+      "donations": 267,
       "donationsReceived": 640,
       "clanChestPoints": 0
     },

@@ -787,29 +787,20 @@
         {
           "tag": "#VCLLGG9QG",
           "name": "Moriarty",
-          "fame": 1200,
+          "fame": 1600,
           "repairPoints": 0,
-          "boatAttacks": 10,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "boatAttacks": 14,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         },
         {
           "tag": "#R00CLL2Q",
           "name": "TWIX",
-          "fame": 1300,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#QQYVQG22G",
-          "name": "ecko",
           "fame": 1800,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#2L8LR0QGU",
@@ -819,9 +810,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#QQYVQG22G",
+          "name": "ecko",
+          "fame": 2500,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 0,
+      "periodPoints": 1600,
       "clanScore": 2154
     },
     {
@@ -2757,20 +2757,11 @@
         {
           "tag": "#R2P9C29",
           "name": "•○●chris●○•",
-          "fame": 1300,
+          "fame": 1800,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 9,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#200RRJRLYR",
-          "name": "superSabre58066",
-          "fame": 1600,
-          "repairPoints": 0,
-          "boatAttacks": 4,
           "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsedToday": 3
         },
         {
           "tag": "#2VLGJUPP",
@@ -2791,6 +2782,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#200RRJRLYR",
+          "name": "superSabre58066",
+          "fame": 2050,
+          "repairPoints": 0,
+          "boatAttacks": 6,
+          "decksUsed": 16,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#8J2GGGQY",
           "name": "xAtlas GD",
           "fame": 2275,
@@ -2800,7 +2800,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 500,
+      "periodPoints": 1450,
       "clanScore": 2173
     }
   ],
