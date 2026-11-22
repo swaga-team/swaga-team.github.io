@@ -796,11 +796,11 @@
         {
           "tag": "#R00Q2G2LV",
           "name": "Kozolkazya",
-          "fame": 900,
+          "fame": 1000,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PRQC0GRRU",
@@ -848,7 +848,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2450,
+      "periodPoints": 2550,
       "clanScore": 2154
     },
     {
@@ -1988,11 +1988,11 @@
         {
           "tag": "#CYYPJQP9R",
           "name": "adev3",
-          "fame": 1550,
+          "fame": 1750,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 11,
-          "decksUsedToday": 3
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#8PVGVG90Q",
@@ -2013,7 +2013,7 @@
           "decksUsedToday": 2
         }
       ],
-      "periodPoints": 2800,
+      "periodPoints": 3000,
       "clanScore": 2115
     },
     {
@@ -2377,11 +2377,11 @@
         {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
-          "fame": 1100,
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 3
+          "decksUsed": 8,
+          "decksUsedToday": 4
         },
         {
           "tag": "#YCPL99V8Y",
@@ -2429,7 +2429,7 @@
           "decksUsedToday": 1
         }
       ],
-      "periodPoints": 1375,
+      "periodPoints": 1575,
       "clanScore": 2115
     },
     {

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 119441,
+  "clanScore": 119431,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8706,
+  "donationsPerWeek": 8740,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -257,7 +257,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261122T211728.000Z",
+      "lastSeen": "20261122T222723.000Z",
       "expLevel": 0,
       "trophies": 12294,
       "arena": {
@@ -268,7 +268,7 @@
       "clanRank": 14,
       "previousClanRank": 14,
       "donations": 498,
-      "donationsReceived": 530,
+      "donationsReceived": 540,
       "clanChestPoints": 0
     },
     {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 16,
       "donations": 610,
-      "donationsReceived": 544,
+      "donationsReceived": 552,
       "clanChestPoints": 0
     },
     {
@@ -329,7 +329,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261122T212622.000Z",
+      "lastSeen": "20261122T222641.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 324,
-      "donationsReceived": 400,
+      "donationsReceived": 408,
       "clanChestPoints": 0
     },
     {
@@ -365,7 +365,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261122T171133.000Z",
+      "lastSeen": "20261122T221530.000Z",
       "expLevel": 0,
       "trophies": 10258,
       "arena": {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261122T213616.000Z",
+      "lastSeen": "20261122T221314.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 23,
-      "donations": 238,
+      "donations": 272,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -455,9 +455,9 @@
       "tag": "#J2LGV98JU",
       "name": "dibil",
       "role": "member",
-      "lastSeen": "20261122T191816.000Z",
+      "lastSeen": "20261122T215709.000Z",
       "expLevel": 0,
-      "trophies": 9720,
+      "trophies": 9721,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -524,24 +524,6 @@
       "clanChestPoints": 0
     },
     {
-      "tag": "#VQJPUULJV",
-      "name": "триппи",
-      "role": "member",
-      "lastSeen": "20261122T193039.000Z",
-      "expLevel": 0,
-      "trophies": 8643,
-      "arena": {
-        "id": 54000019,
-        "name": "PANCAKES!",
-        "rawName": "Arena_L8"
-      },
-      "clanRank": 29,
-      "previousClanRank": 28,
-      "donations": 29,
-      "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
       "tag": "#LVP2CL9RQ",
       "name": "rawrr",
       "role": "member",
@@ -553,7 +535,7 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 30,
+      "clanRank": 29,
       "previousClanRank": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -571,10 +553,28 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 31,
+      "clanRank": 30,
       "previousClanRank": 29,
       "donations": 183,
       "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#VQJPUULJV",
+      "name": "триппи",
+      "role": "member",
+      "lastSeen": "20261122T222526.000Z",
+      "expLevel": 0,
+      "trophies": 8555,
+      "arena": {
+        "id": 54000019,
+        "name": "PANCAKES!",
+        "rawName": "Arena_L8"
+      },
+      "clanRank": 31,
+      "previousClanRank": 28,
+      "donations": 29,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -772,7 +772,7 @@
       "clanRank": 42,
       "previousClanRank": 40,
       "donations": 289,
-      "donationsReceived": 650,
+      "donationsReceived": 658,
       "clanChestPoints": 0
     },
     {
