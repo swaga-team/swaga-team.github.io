@@ -143,6 +143,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#RRPU2Y9",
+        "name": "Black Dragon",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 0,
@@ -960,6 +969,15 @@
         {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#RRPU2Y9",
+          "name": "Black Dragon",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1905,21 +1923,21 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#9LUL08PLJ",
-          "name": "Ghis",
-          "fame": 1250,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 7,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20UU009LQQ",
           "name": "zammmmmm",
           "fame": 1275,
           "repairPoints": 0,
           "boatAttacks": 1,
           "decksUsed": 12,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#9LUL08PLJ",
+          "name": "Ghis",
+          "fame": 1350,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
           "decksUsedToday": 0
         },
         {
@@ -1941,7 +1959,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1800,
+      "periodPoints": 1900,
       "clanScore": 2115
     },
     {
@@ -2330,15 +2348,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GGGYLVJQ",
-          "name": "Горни Дъбник 79",
-          "fame": 1800,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#2YCR89URU",
           "name": "Ivan_PrO_XD",
           "fame": 1900,
@@ -2355,9 +2364,18 @@
           "boatAttacks": 0,
           "decksUsed": 12,
           "decksUsedToday": 0
+        },
+        {
+          "tag": "#GGGYLVJQ",
+          "name": "Горни Дъбник 79",
+          "fame": 2000,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 13,
+          "decksUsedToday": 1
         }
       ],
-      "periodPoints": 75,
+      "periodPoints": 275,
       "clanScore": 2115
     },
     {
@@ -2737,21 +2755,21 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#YVQ9LRGP9",
-          "name": "core",
-          "fame": 1100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#VL0PQJ8RG",
           "name": "kirito",
           "fame": 1100,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#YVQ9LRGP9",
+          "name": "core",
+          "fame": 1700,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 12,
           "decksUsedToday": 4
         },
         {
@@ -2800,7 +2818,7 @@
           "decksUsedToday": 0
         }
       ],
-      "periodPoints": 1450,
+      "periodPoints": 2050,
       "clanScore": 2173
     }
   ],
