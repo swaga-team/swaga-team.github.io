@@ -593,15 +593,6 @@
         "decksUsedToday": 4
       },
       {
-        "tag": "#YQ2VLPJ0L",
-        "name": "arch1tector",
-        "fame": 1050,
-        "repairPoints": 0,
-        "boatAttacks": 4,
-        "decksUsed": 8,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YGQU2GCJR",
         "name": "Fen1ks",
         "fame": 1400,
@@ -609,6 +600,15 @@
         "boatAttacks": 6,
         "decksUsed": 10,
         "decksUsedToday": 1
+      },
+      {
+        "tag": "#YQ2VLPJ0L",
+        "name": "arch1tector",
+        "fame": 1650,
+        "repairPoints": 0,
+        "boatAttacks": 4,
+        "decksUsed": 12,
+        "decksUsedToday": 4
       },
       {
         "tag": "#PQQ2JYL2G",
@@ -656,7 +656,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 2400,
+    "periodPoints": 3000,
     "clanScore": 2195
   },
   "clans": [
@@ -1435,15 +1435,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#YQ2VLPJ0L",
-          "name": "arch1tector",
-          "fame": 1050,
-          "repairPoints": 0,
-          "boatAttacks": 4,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YGQU2GCJR",
           "name": "Fen1ks",
           "fame": 1400,
@@ -1451,6 +1442,15 @@
           "boatAttacks": 6,
           "decksUsed": 10,
           "decksUsedToday": 1
+        },
+        {
+          "tag": "#YQ2VLPJ0L",
+          "name": "arch1tector",
+          "fame": 1650,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 12,
+          "decksUsedToday": 4
         },
         {
           "tag": "#PQQ2JYL2G",
@@ -1498,7 +1498,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2400,
+      "periodPoints": 3000,
       "clanScore": 2195
     },
     {
@@ -1619,6 +1619,15 @@
         {
           "tag": "#Q08QQGVYP",
           "name": "ANTEK PRABOWO",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#VQ90YL09Y",
+          "name": "Prince Owen",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1959,15 +1968,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#20UJ9UGUQP",
-          "name": "vulnerablezz",
-          "fame": 1400,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 8,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#8PVGVG90Q",
           "name": "FH solow",
           "fame": 1900,
@@ -1975,9 +1975,18 @@
           "boatAttacks": 16,
           "decksUsed": 16,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#20UJ9UGUQP",
+          "name": "vulnerablezz",
+          "fame": 1900,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 10,
+          "decksUsedToday": 2
         }
       ],
-      "periodPoints": 1900,
+      "periodPoints": 2400,
       "clanScore": 2115
     },
     {
@@ -2341,11 +2350,11 @@
         {
           "tag": "#2LRQVPP0V",
           "name": "Nikatnyte_2",
-          "fame": 700,
+          "fame": 1100,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
+          "decksUsed": 7,
+          "decksUsedToday": 3
         },
         {
           "tag": "#YCPL99V8Y",
@@ -2393,7 +2402,7 @@
           "decksUsedToday": 1
         }
       ],
-      "periodPoints": 775,
+      "periodPoints": 1175,
       "clanScore": 2115
     },
     {

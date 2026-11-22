@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 117528,
+  "clanScore": 117525,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8402,
+  "donationsPerWeek": 8410,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#YQ2VLPJ0L",
       "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261122T144136.000Z",
+      "lastSeen": "20261122T145545.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -257,7 +257,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261122T135332.000Z",
+      "lastSeen": "20261122T154907.000Z",
       "expLevel": 0,
       "trophies": 12163,
       "arena": {
@@ -267,7 +267,7 @@
       },
       "clanRank": 14,
       "previousClanRank": 16,
-      "donations": 556,
+      "donations": 564,
       "donationsReceived": 520,
       "clanChestPoints": 0
     },
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261122T034727.000Z",
+      "lastSeen": "20261122T155116.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -509,9 +509,9 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261122T144931.000Z",
+      "lastSeen": "20261122T152306.000Z",
       "expLevel": 0,
-      "trophies": 8704,
+      "trophies": 8643,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -529,7 +529,7 @@
       "role": "member",
       "lastSeen": "20261122T144821.000Z",
       "expLevel": 0,
-      "trophies": 8613,
+      "trophies": 8643,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -653,7 +653,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261122T134525.000Z",
+      "lastSeen": "20261122T154259.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -725,7 +725,7 @@
       "tag": "#V0RCP20LR",
       "name": "подписични черв",
       "role": "elder",
-      "lastSeen": "20261122T090304.000Z",
+      "lastSeen": "20261122T153810.000Z",
       "expLevel": 0,
       "trophies": 3211,
       "arena": {
@@ -736,7 +736,7 @@
       "clanRank": 40,
       "previousClanRank": 39,
       "donations": 754,
-      "donationsReceived": 440,
+      "donationsReceived": 448,
       "clanChestPoints": 0
     },
     {
@@ -781,7 +781,7 @@
       "role": "member",
       "lastSeen": "20261122T144329.000Z",
       "expLevel": 0,
-      "trophies": 2630,
+      "trophies": 2632,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",
