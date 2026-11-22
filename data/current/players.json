@@ -193,7 +193,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35699,
+    "totalDonations": 35714,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2134,13 +2134,6 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -5046,12 +5039,12 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3099,
+    "trophies": 3129,
     "bestTrophies": 3215,
-    "wins": 305,
-    "losses": 220,
-    "battleCount": 525,
-    "threeCrownWins": 113,
+    "wins": 308,
+    "losses": 222,
+    "battleCount": 530,
+    "threeCrownWins": 114,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 425,
@@ -5117,11 +5110,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Hog Rider",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Knight",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
     }
   },
   "#2QQG2QPCY": {

@@ -143,15 +143,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#VC298L8UV",
-        "name": "ink",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#22JLP29RV",
         "name": "Kale",
         "fame": 0,
@@ -485,6 +476,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#VC298L8UV",
+        "name": "ink",
+        "fame": 300,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#222YY9YCC",
         "name": "king abolfazl",
         "fame": 300,
@@ -638,7 +638,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 4825,
+    "periodPoints": 5125,
     "clanScore": 2195
   },
   "clans": [
@@ -960,15 +960,6 @@
         {
           "tag": "#Q2RJCVYUQ",
           "name": "NEVIDIMKA YT",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#VC298L8UV",
-          "name": "ink",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1309,6 +1300,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#VC298L8UV",
+          "name": "ink",
+          "fame": 300,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#222YY9YCC",
           "name": "king abolfazl",
           "fame": 300,
@@ -1462,7 +1462,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 4825,
+      "periodPoints": 5125,
       "clanScore": 2195
     },
     {
