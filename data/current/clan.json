@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 119431,
+  "clanScore": 119429,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8598,
+  "donationsPerWeek": 8630,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 45,
   "memberList": [
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261122T182026.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 2,
+      "donations": 191,
+      "donationsReceived": 240,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#Q80220028",
       "name": "end",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 0,
       "donations": 26,
       "donationsReceived": 10,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 466,
       "donationsReceived": 400,
@@ -67,28 +85,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 433,
       "donationsReceived": 400,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261122T143334.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 4,
-      "previousClanRank": 2,
-      "donations": 181,
-      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261122T173257.000Z",
+      "lastSeen": "20261122T180407.000Z",
       "expLevel": 0,
       "trophies": 12189,
       "arena": {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261122T172543.000Z",
+      "lastSeen": "20261122T180040.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -455,7 +455,7 @@
       "tag": "#J2LGV98JU",
       "name": "dibil",
       "role": "member",
-      "lastSeen": "20261122T143549.000Z",
+      "lastSeen": "20261122T181336.000Z",
       "expLevel": 0,
       "trophies": 9720,
       "arena": {
@@ -527,7 +527,7 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261122T152306.000Z",
+      "lastSeen": "20261122T182151.000Z",
       "expLevel": 0,
       "trophies": 8643,
       "arena": {
@@ -563,7 +563,7 @@
       "tag": "#UQRQ0YRVL",
       "name": "viatrio",
       "role": "member",
-      "lastSeen": "20261122T143338.000Z",
+      "lastSeen": "20261122T181303.000Z",
       "expLevel": 0,
       "trophies": 8600,
       "arena": {
@@ -617,7 +617,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261122T171311.000Z",
+      "lastSeen": "20261122T181709.000Z",
       "expLevel": 0,
       "trophies": 8183,
       "arena": {
@@ -627,8 +627,8 @@
       },
       "clanRank": 34,
       "previousClanRank": 32,
-      "donations": 686,
-      "donationsReceived": 390,
+      "donations": 696,
+      "donationsReceived": 400,
       "clanChestPoints": 0
     },
     {
@@ -671,7 +671,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261122T154259.000Z",
+      "lastSeen": "20261122T185237.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -754,16 +754,16 @@
       "clanRank": 41,
       "previousClanRank": 39,
       "donations": 780,
-      "donationsReceived": 478,
+      "donationsReceived": 480,
       "clanChestPoints": 0
     },
     {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261122T125341.000Z",
+      "lastSeen": "20261122T183157.000Z",
       "expLevel": 0,
-      "trophies": 3163,
+      "trophies": 3074,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -771,7 +771,7 @@
       },
       "clanRank": 42,
       "previousClanRank": 40,
-      "donations": 277,
+      "donations": 289,
       "donationsReceived": 640,
       "clanChestPoints": 0
     },
@@ -797,7 +797,7 @@
       "tag": "#V09GR9GG0",
       "name": "Infirmity",
       "role": "member",
-      "lastSeen": "20261122T144329.000Z",
+      "lastSeen": "20261122T181139.000Z",
       "expLevel": 0,
       "trophies": 2632,
       "arena": {
@@ -808,7 +808,7 @@
       "clanRank": 44,
       "previousClanRank": 42,
       "donations": 32,
-      "donationsReceived": 0,
+      "donationsReceived": 20,
       "clanChestPoints": 0
     },
     {
