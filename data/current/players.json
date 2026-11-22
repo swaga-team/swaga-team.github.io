@@ -1468,9 +1468,9 @@
     "expLevel": 48,
     "trophies": 12189,
     "bestTrophies": 12279,
-    "wins": 2448,
-    "losses": 2640,
-    "battleCount": 5088,
+    "wins": 2449,
+    "losses": 2641,
+    "battleCount": 5090,
     "threeCrownWins": 1117,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2919,10 +2919,10 @@
     "expLevel": 39,
     "trophies": 6845,
     "bestTrophies": 6878,
-    "wins": 2718,
-    "losses": 2822,
-    "battleCount": 5540,
-    "threeCrownWins": 1919,
+    "wins": 2720,
+    "losses": 2826,
+    "battleCount": 5546,
+    "threeCrownWins": 1920,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
     "totalDonations": 37766,
@@ -4686,7 +4686,7 @@
     "threeCrownWins": 385,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3079,
+    "totalDonations": 3087,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5046,12 +5046,12 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3105,
+    "trophies": 3075,
     "bestTrophies": 3215,
-    "wins": 314,
-    "losses": 229,
-    "battleCount": 543,
-    "threeCrownWins": 116,
+    "wins": 316,
+    "losses": 232,
+    "battleCount": 548,
+    "threeCrownWins": 117,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 455,
@@ -5117,11 +5117,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Hog Rider",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#2QQG2QPCY": {
@@ -6359,10 +6359,10 @@
     "expLevel": 41,
     "trophies": 11060,
     "bestTrophies": 11149,
-    "wins": 5006,
-    "losses": 5142,
-    "battleCount": 10148,
-    "threeCrownWins": 2782,
+    "wins": 5013,
+    "losses": 5145,
+    "battleCount": 10158,
+    "threeCrownWins": 2788,
     "warDayWins": 4,
     "clanCardsCollected": 7245,
     "totalDonations": 1043,
@@ -6440,11 +6440,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "P.E.K.K.A",
+      "name": "Giant Skeleton",
       "rarity": "epic",
-      "elixirCost": 7,
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
     }
   },
   "#LVP2CL9RQ": {

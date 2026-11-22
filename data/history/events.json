@@ -8731,5 +8731,21 @@
       }
     ],
     "at": "2026-11-22T17:48:10+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      {
+        "name": "Royal Recruits",
+        "level": 12
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-22T20:50:47+00:00"
   }
 ]

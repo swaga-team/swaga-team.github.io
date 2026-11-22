@@ -7921,7 +7921,7 @@
       0
     ],
     "Royal Recruits": [
-      11,
+      12,
       0
     ],
     "Three Musketeers": [
@@ -8237,7 +8237,7 @@
       2
     ],
     "Elite Barbarians": [
-      11,
+      12,
       1
     ],
     "Tornado": [
@@ -25828,6 +25828,14 @@
     ],
     "Rune Giant": [
       6,
+      0
+    ],
+    "Poison": [
+      6,
+      0
+    ],
+    "Zappies": [
+      3,
       0
     ]
   },

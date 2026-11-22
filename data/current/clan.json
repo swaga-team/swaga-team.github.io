@@ -4,7 +4,7 @@
   "type": "open",
   "description": "This description has been changed by a moderator",
   "badgeId": 16000072,
-  "clanScore": 119430,
+  "clanScore": 119429,
   "clanWarTrophies": 2195,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8630,
+  "donationsPerWeek": 8638,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -275,7 +275,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261122T180407.000Z",
+      "lastSeen": "20261122T202747.000Z",
       "expLevel": 0,
       "trophies": 12189,
       "arena": {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 16,
       "donations": 610,
-      "donationsReceived": 520,
+      "donationsReceived": 528,
       "clanChestPoints": 0
     },
     {
@@ -347,7 +347,7 @@
       "tag": "#RRPU2Y9",
       "name": "Black Dragon",
       "role": "member",
-      "lastSeen": "20261122T191658.000Z",
+      "lastSeen": "20261122T202040.000Z",
       "expLevel": 0,
       "trophies": 11060,
       "arena": {
@@ -617,7 +617,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261122T181709.000Z",
+      "lastSeen": "20261122T203950.000Z",
       "expLevel": 0,
       "trophies": 8183,
       "arena": {
@@ -627,7 +627,7 @@
       },
       "clanRank": 34,
       "previousClanRank": 32,
-      "donations": 696,
+      "donations": 704,
       "donationsReceived": 400,
       "clanChestPoints": 0
     },
@@ -671,7 +671,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261122T194031.000Z",
+      "lastSeen": "20261122T200936.000Z",
       "expLevel": 0,
       "trophies": 6845,
       "arena": {
@@ -761,9 +761,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261122T185822.000Z",
+      "lastSeen": "20261122T202109.000Z",
       "expLevel": 0,
-      "trophies": 3105,
+      "trophies": 3075,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
