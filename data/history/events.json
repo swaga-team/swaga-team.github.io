@@ -8747,5 +8747,161 @@
       }
     ],
     "at": "2026-11-22T20:50:47+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Mega Knight",
+        "level": 11
+      },
+      {
+        "name": "Battle Ram",
+        "level": 9
+      },
+      {
+        "name": "Cannon Cart",
+        "level": 9
+      },
+      {
+        "name": "Flying Machine",
+        "level": 9
+      },
+      {
+        "name": "Tombstone",
+        "level": 9
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 9
+      },
+      {
+        "name": "Elixir Golem",
+        "level": 9
+      },
+      {
+        "name": "Spear Goblins",
+        "level": 9
+      },
+      {
+        "name": "Barbarian Barrel",
+        "level": 9
+      },
+      {
+        "name": "Battle Healer",
+        "level": 9
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 9
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 9
+      },
+      {
+        "name": "Bowler",
+        "level": 9
+      },
+      {
+        "name": "Mortar",
+        "level": 9
+      },
+      {
+        "name": "Guards",
+        "level": 9
+      },
+      {
+        "name": "Clone",
+        "level": 9
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 9
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 9
+      },
+      {
+        "name": "Hunter",
+        "level": 9
+      },
+      {
+        "name": "Zappies",
+        "level": 9
+      },
+      {
+        "name": "Barbarian Hut",
+        "level": 9
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 9
+      },
+      {
+        "name": "Electro Dragon",
+        "level": 9
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 9
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 9
+      },
+      {
+        "name": "Skeleton Dragons",
+        "level": 9
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 9
+      },
+      {
+        "name": "Giant Skeleton",
+        "level": 9
+      },
+      {
+        "name": "Berserker",
+        "level": 9
+      },
+      {
+        "name": "Rune Giant",
+        "level": 9
+      },
+      {
+        "name": "Void",
+        "level": 9
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 9
+      },
+      {
+        "name": "Vines",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-23T03:01:28+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Royal Ghost",
+        "level": 10
+      },
+      {
+        "name": "Hunter",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-23T03:01:28+00:00"
   }
 ]

@@ -2829,11 +2829,11 @@
         {
           "tag": "#2VLGJUPP",
           "name": "Hub",
-          "fame": 1800,
+          "fame": 1900,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 12,
-          "decksUsedToday": 0
+          "decksUsed": 13,
+          "decksUsedToday": 1
         },
         {
           "tag": "#R2P9C29",
@@ -2854,15 +2854,6 @@
           "decksUsedToday": 4
         },
         {
-          "tag": "#8J2GGGQY",
-          "name": "xAtlas GD",
-          "fame": 2275,
-          "repairPoints": 0,
-          "boatAttacks": 3,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V2YYJY890",
           "name": "Player456",
           "fame": 2600,
@@ -2870,9 +2861,18 @@
           "boatAttacks": 0,
           "decksUsed": 16,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#8J2GGGQY",
+          "name": "xAtlas GD",
+          "fame": 2850,
+          "repairPoints": 0,
+          "boatAttacks": 4,
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2875,
+      "periodPoints": 3550,
       "clanScore": 2173
     }
   ],
