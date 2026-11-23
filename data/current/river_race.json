@@ -593,6 +593,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#80LP8PCVJ",
+        "name": "paraDOXX",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#GQQL9YLYQ",
         "name": "Ter",
         "fame": 0,
@@ -1464,6 +1473,15 @@
         {
           "tag": "#228RGGVQV2",
           "name": "Infamous",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#80LP8PCVJ",
+          "name": "paraDOXX",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 117315,
+  "clanScore": 118618,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1598,
+  "donationsPerWeek": 1696,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
-  "members": 44,
+  "members": 45,
   "memberList": [
     {
       "tag": "#GU0VGJCJC",
       "name": "тайный хомячёк",
       "role": "member",
-      "lastSeen": "20261123T211430.000Z",
+      "lastSeen": "20261123T225907.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -239,7 +239,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261123T210526.000Z",
+      "lastSeen": "20261123T221800.000Z",
       "expLevel": 0,
       "trophies": 12323,
       "arena": {
@@ -249,8 +249,8 @@
       },
       "clanRank": 13,
       "previousClanRank": 14,
-      "donations": 16,
-      "donationsReceived": 50,
+      "donations": 36,
+      "donationsReceived": 70,
       "clanChestPoints": 0
     },
     {
@@ -290,6 +290,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#80LP8PCVJ",
+      "name": "paraDOXX",
+      "role": "member",
+      "lastSeen": "20261123T225532.000Z",
+      "expLevel": 0,
+      "trophies": 12060,
+      "arena": {
+        "id": 54000141,
+        "name": "Magic Academy",
+        "rawName": "Arena_L15"
+      },
+      "clanRank": 16,
+      "previousClanRank": 0,
+      "donations": 30,
+      "donationsReceived": 8,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
@@ -301,7 +319,7 @@
         "name": "Summit of Heroes",
         "rawName": "Arena_L14"
       },
-      "clanRank": 16,
+      "clanRank": 17,
       "previousClanRank": 17,
       "donations": 122,
       "donationsReceived": 96,
@@ -319,7 +337,7 @@
         "name": "Summit of Heroes",
         "rawName": "Arena_L14"
       },
-      "clanRank": 17,
+      "clanRank": 18,
       "previousClanRank": 18,
       "donations": 28,
       "donationsReceived": 88,
@@ -337,7 +355,7 @@
         "name": "Musketeer Street",
         "rawName": "Arena_L13"
       },
-      "clanRank": 18,
+      "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 40,
@@ -355,7 +373,7 @@
         "name": "Lumberlove Cabin",
         "rawName": "Arena_L11"
       },
-      "clanRank": 19,
+      "clanRank": 20,
       "previousClanRank": 20,
       "donations": 16,
       "donationsReceived": 40,
@@ -373,7 +391,7 @@
         "name": "Lumberlove Cabin",
         "rawName": "Arena_L11"
       },
-      "clanRank": 20,
+      "clanRank": 21,
       "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 80,
@@ -391,7 +409,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 21,
+      "clanRank": 22,
       "previousClanRank": 22,
       "donations": 36,
       "donationsReceived": 40,
@@ -409,7 +427,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 22,
+      "clanRank": 23,
       "previousClanRank": 25,
       "donations": 0,
       "donationsReceived": 0,
@@ -427,7 +445,7 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 23,
+      "clanRank": 24,
       "previousClanRank": 23,
       "donations": 70,
       "donationsReceived": 40,
@@ -437,7 +455,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261123T202831.000Z",
+      "lastSeen": "20261123T224053.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -445,9 +463,9 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 24,
+      "clanRank": 25,
       "previousClanRank": 24,
-      "donations": 68,
+      "donations": 106,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -455,18 +473,18 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261123T215254.000Z",
+      "lastSeen": "20261123T223602.000Z",
       "expLevel": 0,
-      "trophies": 9668,
+      "trophies": 9697,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 25,
+      "clanRank": 26,
       "previousClanRank": 26,
       "donations": 64,
-      "donationsReceived": 70,
+      "donationsReceived": 100,
       "clanChestPoints": 0
     },
     {
@@ -481,7 +499,7 @@
         "name": "Valkalla",
         "rawName": "Arena_L9"
       },
-      "clanRank": 26,
+      "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 0,
@@ -499,7 +517,7 @@
         "name": "Valkalla",
         "rawName": "Arena_L9"
       },
-      "clanRank": 27,
+      "clanRank": 28,
       "previousClanRank": 28,
       "donations": 0,
       "donationsReceived": 0,
@@ -517,7 +535,7 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 28,
+      "clanRank": 29,
       "previousClanRank": 29,
       "donations": 96,
       "donationsReceived": 40,
@@ -535,7 +553,7 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 29,
+      "clanRank": 30,
       "previousClanRank": 30,
       "donations": 23,
       "donationsReceived": 0,
@@ -553,7 +571,7 @@
         "name": "PANCAKES!",
         "rawName": "Arena_L8"
       },
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 31,
       "donations": 1,
       "donationsReceived": 0,
@@ -571,7 +589,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 31,
+      "clanRank": 32,
       "previousClanRank": 32,
       "donations": 0,
       "donationsReceived": 0,
@@ -589,7 +607,7 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 12,
       "donationsReceived": 40,
@@ -607,10 +625,10 @@
         "name": "Clash Fest",
         "rawName": "Arena_L7"
       },
-      "clanRank": 33,
+      "clanRank": 34,
       "previousClanRank": 34,
       "donations": 159,
-      "donationsReceived": 70,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -625,7 +643,7 @@
         "name": "Dragon Spa",
         "rawName": "Arena_L5"
       },
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 35,
       "donations": 0,
       "donationsReceived": 0,
@@ -643,7 +661,7 @@
         "name": "Dragon Spa",
         "rawName": "Arena_L5"
       },
-      "clanRank": 35,
+      "clanRank": 36,
       "previousClanRank": 36,
       "donations": 24,
       "donationsReceived": 0,
@@ -661,7 +679,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 36,
+      "clanRank": 37,
       "previousClanRank": 37,
       "donations": 32,
       "donationsReceived": 40,
@@ -679,7 +697,7 @@
         "name": "Silent Sanctuary",
         "rawName": "Arena_L4"
       },
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 0,
@@ -689,7 +707,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261123T212919.000Z",
+      "lastSeen": "20261123T223506.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -697,25 +715,25 @@
         "name": "Executioner's Kitchen",
         "rawName": "Arena_L2"
       },
-      "clanRank": 38,
+      "clanRank": 39,
       "previousClanRank": 40,
       "donations": 0,
-      "donationsReceived": 90,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
       "tag": "#VUR0YRJLV",
       "name": "EEEE.",
       "role": "member",
-      "lastSeen": "20261123T194458.000Z",
+      "lastSeen": "20261123T224432.000Z",
       "expLevel": 0,
-      "trophies": 3382,
+      "trophies": 3415,
       "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
+        "id": 54000024,
+        "name": "Electro Valley",
+        "rawName": "Arena_Electric"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -733,7 +751,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 41,
       "donations": 132,
       "donationsReceived": 80,
@@ -743,17 +761,17 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261123T180908.000Z",
+      "lastSeen": "20261123T222816.000Z",
       "expLevel": 0,
-      "trophies": 3197,
+      "trophies": 3137,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 41,
+      "clanRank": 42,
       "previousClanRank": 42,
-      "donations": 8,
+      "donations": 18,
       "donationsReceived": 94,
       "clanChestPoints": 0
     },
@@ -769,7 +787,7 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 42,
+      "clanRank": 43,
       "previousClanRank": 43,
       "donations": 26,
       "donationsReceived": 40,
@@ -787,7 +805,7 @@
         "name": "Jungle Arena",
         "rawName": "Arena9"
       },
-      "clanRank": 43,
+      "clanRank": 44,
       "previousClanRank": 44,
       "donations": 6,
       "donationsReceived": 0,
@@ -805,7 +823,7 @@
         "name": "P.E.K.K.A's Playhouse",
         "rawName": "Arena6"
       },
-      "clanRank": 44,
+      "clanRank": 45,
       "previousClanRank": 45,
       "donations": 0,
       "donationsReceived": 0,
