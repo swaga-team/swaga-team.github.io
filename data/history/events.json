@@ -8939,5 +8939,57 @@
     "tag": "#U00CVC89C",
     "name": "Zenitsu",
     "at": "2026-11-23T05:26:44+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YQ2VLPJ0L",
+    "name": "arch1tector",
+    "cards": [
+      {
+        "name": "Mortar",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-23T07:41:29+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J2LGV98JU",
+    "name": "dibil",
+    "cards": [
+      {
+        "name": "Skeletons",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-23T07:41:29+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VQJPUULJV",
+    "name": "триппи",
+    "cards": [
+      {
+        "name": "Balloon",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-23T07:41:29+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Furnace",
+        "level": 9
+      },
+      {
+        "name": "Void",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-23T07:41:29+00:00"
   }
 ]
