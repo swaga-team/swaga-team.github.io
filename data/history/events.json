@@ -9198,5 +9198,29 @@
       }
     ],
     "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Electro Spirit",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-23T12:02:09+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#V09GR9GG0",
+    "name": "Infirmity",
+    "cards": [
+      {
+        "name": "Hog Rider",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-23T12:02:09+00:00"
   }
 ]

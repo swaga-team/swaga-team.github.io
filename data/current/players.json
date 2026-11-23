@@ -101,7 +101,7 @@
     "threeCrownWins": 1087,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 42211,
+    "totalDonations": 42229,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -188,12 +188,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2230,
-    "losses": 1504,
-    "battleCount": 3734,
+    "losses": 1506,
+    "battleCount": 3736,
     "threeCrownWins": 1075,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35838,
+    "totalDonations": 35856,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -268,11 +268,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Inferno Tower",
-      "rarity": "rare",
-      "elixirCost": 5,
+      "name": "Princess",
+      "rarity": "legendary",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/GSHY_wrooMMLET6bG_WJB8redtwx66c4i80ipi4gYOM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
     }
   },
   "#9JQ8PCJ": {
@@ -4878,10 +4878,10 @@
     "expLevel": 1,
     "trophies": 5629,
     "bestTrophies": 5629,
-    "wins": 787,
-    "losses": 419,
-    "battleCount": 1206,
-    "threeCrownWins": 192,
+    "wins": 790,
+    "losses": 422,
+    "battleCount": 1212,
+    "threeCrownWins": 194,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 171,
@@ -4959,11 +4959,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ram Rider",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Goblin Giant",
+      "rarity": "epic",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/QaJyerT7f7oMyZ3Fv1glKymtLSvx7YUXisAulxl7zRI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/SoW16cY3jXBwaTDvb39DkqiVsoFVaDWbzf5QBYphJrY.png"
     }
   },
   "#2G2VYP9G": {
@@ -5060,15 +5060,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3135,
+    "trophies": 3136,
     "bestTrophies": 3215,
-    "wins": 319,
-    "losses": 233,
-    "battleCount": 552,
+    "wins": 320,
+    "losses": 234,
+    "battleCount": 554,
     "threeCrownWins": 117,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 481,
+    "totalDonations": 489,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5131,11 +5131,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Mini P.E.K.K.A",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#2QQG2QPCY": {
@@ -5916,11 +5916,11 @@
   },
   "#J28RP9LPV": {
     "expLevel": 34,
-    "trophies": 7312,
+    "trophies": 7254,
     "bestTrophies": 7316,
     "wins": 604,
-    "losses": 416,
-    "battleCount": 1020,
+    "losses": 418,
+    "battleCount": 1022,
     "threeCrownWins": 152,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6008,11 +6008,11 @@
   },
   "#V09GR9GG0": {
     "expLevel": 20,
-    "trophies": 2604,
+    "trophies": 2666,
     "bestTrophies": 2691,
-    "wins": 152,
-    "losses": 80,
-    "battleCount": 232,
+    "wins": 155,
+    "losses": 81,
+    "battleCount": 236,
     "threeCrownWins": 84,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6079,11 +6079,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Fireball",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
     }
   },
   "#J2LGV98JU": {

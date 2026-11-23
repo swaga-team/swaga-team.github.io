@@ -24735,7 +24735,7 @@
       0
     ],
     "Electro Spirit": [
-      10,
+      11,
       0
     ],
     "Wizard": [
@@ -25076,6 +25076,10 @@
     ],
     "The Log": [
       10,
+      0
+    ],
+    "Goblin Machine": [
+      9,
       0
     ]
   },
@@ -25847,6 +25851,10 @@
       0
     ],
     "Zappies": [
+      3,
+      0
+    ],
+    "Furnace": [
       3,
       0
     ]
@@ -30325,7 +30333,7 @@
       0
     ],
     "Hog Rider": [
-      7,
+      8,
       0
     ],
     "Skeleton Army": [
@@ -30417,6 +30425,10 @@
       0
     ],
     "Goblin Gang": [
+      1,
+      0
+    ],
+    "Skeleton Barrel": [
       1,
       0
     ]
