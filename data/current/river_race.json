@@ -206,15 +206,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#GU0VGJCJC",
-        "name": "тайный хомячёк",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#YYV2V82G0",
         "name": "•Harrison Ford•",
         "fame": 0,
@@ -521,6 +512,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#GU0VGJCJC",
+        "name": "тайный хомячёк",
+        "fame": 400,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 2,
+        "decksUsedToday": 2
+      },
+      {
         "tag": "#29GJQ0G9Q",
         "name": "✨R_U_B_I_N✨",
         "fame": 500,
@@ -674,7 +674,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 6250,
+    "periodPoints": 6650,
     "clanScore": 2195
   },
   "clans": [
@@ -1066,15 +1066,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#GU0VGJCJC",
-          "name": "тайный хомячёк",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#YYV2V82G0",
           "name": "•Harrison Ford•",
           "fame": 0,
@@ -1381,6 +1372,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#GU0VGJCJC",
+          "name": "тайный хомячёк",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 2,
+          "decksUsedToday": 2
+        },
+        {
           "tag": "#29GJQ0G9Q",
           "name": "✨R_U_B_I_N✨",
           "fame": 500,
@@ -1534,7 +1534,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 6250,
+      "periodPoints": 6650,
       "clanScore": 2195
     },
     {
@@ -1959,15 +1959,6 @@
           "decksUsedToday": 2
         },
         {
-          "tag": "#20UU009LQQ",
-          "name": "zammmmmm",
-          "fame": 1275,
-          "repairPoints": 0,
-          "boatAttacks": 1,
-          "decksUsed": 12,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#9LUL08PLJ",
           "name": "Ghis",
           "fame": 1350,
@@ -1984,6 +1975,15 @@
           "boatAttacks": 13,
           "decksUsed": 13,
           "decksUsedToday": 4
+        },
+        {
+          "tag": "#20UU009LQQ",
+          "name": "zammmmmm",
+          "fame": 1375,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 13,
+          "decksUsedToday": 1
         },
         {
           "tag": "#V8V0RL2Y9",
@@ -2031,7 +2031,7 @@
           "decksUsedToday": 2
         }
       ],
-      "periodPoints": 4825,
+      "periodPoints": 4925,
       "clanScore": 2115
     },
     {
@@ -2440,14 +2440,14 @@
         {
           "tag": "#GGGYLVJQ",
           "name": "Горни Дъбник 79",
-          "fame": 2000,
+          "fame": 2600,
           "repairPoints": 0,
           "boatAttacks": 0,
-          "decksUsed": 13,
-          "decksUsedToday": 1
+          "decksUsed": 16,
+          "decksUsedToday": 4
         }
       ],
-      "periodPoints": 1575,
+      "periodPoints": 2175,
       "clanScore": 2115
     },
     {
@@ -2809,15 +2809,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#VLJ9YJ0JR",
-          "name": "Dany",
-          "fame": 600,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 4,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#20CL00UJ",
           "name": "King Bernie",
           "fame": 650,
@@ -2839,6 +2830,15 @@
           "tag": "#VL0PQJ8RG",
           "name": "kirito",
           "fame": 1100,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 8,
+          "decksUsedToday": 4
+        },
+        {
+          "tag": "#VLJ9YJ0JR",
+          "name": "Dany",
+          "fame": 1300,
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 8,
@@ -2899,7 +2899,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 3550,
+      "periodPoints": 4250,
       "clanScore": 2173
     }
   ],
