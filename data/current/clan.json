@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 117297,
+  "clanScore": 117315,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1568,
+  "donationsPerWeek": 1598,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 44,
   "memberList": [
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261123T211430.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 8,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
@@ -31,27 +49,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 4,
       "donations": 60,
-      "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261123T173624.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 1,
-      "donations": 8,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -239,7 +239,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261123T105236.000Z",
+      "lastSeen": "20261123T210526.000Z",
       "expLevel": 0,
       "trophies": 12323,
       "arena": {
@@ -250,7 +250,7 @@
       "clanRank": 13,
       "previousClanRank": 14,
       "donations": 16,
-      "donationsReceived": 40,
+      "donationsReceived": 50,
       "clanChestPoints": 0
     },
     {
@@ -455,7 +455,7 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261123T154853.000Z",
+      "lastSeen": "20261123T215254.000Z",
       "expLevel": 0,
       "trophies": 9668,
       "arena": {
@@ -465,7 +465,7 @@
       },
       "clanRank": 25,
       "previousClanRank": 26,
-      "donations": 34,
+      "donations": 64,
       "donationsReceived": 70,
       "clanChestPoints": 0
     },
@@ -610,7 +610,7 @@
       "clanRank": 33,
       "previousClanRank": 34,
       "donations": 159,
-      "donationsReceived": 60,
+      "donationsReceived": 70,
       "clanChestPoints": 0
     },
     {
@@ -689,7 +689,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261123T110726.000Z",
+      "lastSeen": "20261123T212919.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -700,7 +700,25 @@
       "clanRank": 38,
       "previousClanRank": 40,
       "donations": 0,
-      "donationsReceived": 80,
+      "donationsReceived": 90,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#VUR0YRJLV",
+      "name": "EEEE.",
+      "role": "member",
+      "lastSeen": "20261123T194458.000Z",
+      "expLevel": 0,
+      "trophies": 3382,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 39,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -715,28 +733,10 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 39,
+      "clanRank": 40,
       "previousClanRank": 41,
       "donations": 132,
       "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#VUR0YRJLV",
-      "name": "EEEE.",
-      "role": "member",
-      "lastSeen": "20261123T194458.000Z",
-      "expLevel": 0,
-      "trophies": 3206,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 40,
-      "previousClanRank": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
