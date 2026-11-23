@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 118618,
+  "clanScore": 118626,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1696,
+  "donationsPerWeek": 1732,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#GU0VGJCJC",
       "name": "тайный хомячёк",
       "role": "member",
-      "lastSeen": "20261123T225907.000Z",
+      "lastSeen": "20261123T232536.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,7 +32,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
-      "previousClanRank": 1,
+      "previousClanRank": 3,
       "donations": 8,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -50,7 +50,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 2,
-      "previousClanRank": 4,
+      "previousClanRank": 8,
       "donations": 60,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -68,7 +68,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 3,
-      "previousClanRank": 5,
+      "previousClanRank": 4,
       "donations": 47,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -86,7 +86,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 4,
-      "previousClanRank": 3,
+      "previousClanRank": 5,
       "donations": 86,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -104,7 +104,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 5,
-      "previousClanRank": 2,
+      "previousClanRank": 6,
       "donations": 88,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -122,7 +122,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 6,
-      "previousClanRank": 6,
+      "previousClanRank": 2,
       "donations": 8,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -140,7 +140,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 7,
-      "previousClanRank": 8,
+      "previousClanRank": 1,
       "donations": 142,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -158,7 +158,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 8,
-      "previousClanRank": 9,
+      "previousClanRank": 7,
       "donations": 50,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -176,7 +176,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 9,
-      "previousClanRank": 7,
+      "previousClanRank": 9,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -194,7 +194,7 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 10,
-      "previousClanRank": 11,
+      "previousClanRank": 10,
       "donations": 16,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -212,7 +212,7 @@
         "rawName": "Arena_L17"
       },
       "clanRank": 11,
-      "previousClanRank": 12,
+      "previousClanRank": 11,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -230,7 +230,7 @@
         "rawName": "Arena_L17"
       },
       "clanRank": 12,
-      "previousClanRank": 13,
+      "previousClanRank": 12,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -248,9 +248,9 @@
         "rawName": "Arena_L15"
       },
       "clanRank": 13,
-      "previousClanRank": 14,
+      "previousClanRank": 13,
       "donations": 36,
-      "donationsReceived": 70,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -266,7 +266,7 @@
         "rawName": "Arena_L15"
       },
       "clanRank": 14,
-      "previousClanRank": 15,
+      "previousClanRank": 14,
       "donations": 154,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -284,7 +284,7 @@
         "rawName": "Arena_L15"
       },
       "clanRank": 15,
-      "previousClanRank": 16,
+      "previousClanRank": 15,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -295,7 +295,7 @@
       "role": "member",
       "lastSeen": "20261123T225532.000Z",
       "expLevel": 0,
-      "trophies": 12060,
+      "trophies": 12093,
       "arena": {
         "id": 54000141,
         "name": "Magic Academy",
@@ -304,14 +304,14 @@
       "clanRank": 16,
       "previousClanRank": 0,
       "donations": 30,
-      "donationsReceived": 8,
+      "donationsReceived": 24,
       "clanChestPoints": 0
     },
     {
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261123T200808.000Z",
+      "lastSeen": "20261123T230426.000Z",
       "expLevel": 0,
       "trophies": 11905,
       "arena": {
@@ -320,8 +320,8 @@
         "rawName": "Arena_L14"
       },
       "clanRank": 17,
-      "previousClanRank": 17,
-      "donations": 122,
+      "previousClanRank": 16,
+      "donations": 150,
       "donationsReceived": 96,
       "clanChestPoints": 0
     },
@@ -338,7 +338,7 @@
         "rawName": "Arena_L14"
       },
       "clanRank": 18,
-      "previousClanRank": 18,
+      "previousClanRank": 17,
       "donations": 28,
       "donationsReceived": 88,
       "clanChestPoints": 0
@@ -356,7 +356,7 @@
         "rawName": "Arena_L13"
       },
       "clanRank": 19,
-      "previousClanRank": 19,
+      "previousClanRank": 18,
       "donations": 0,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -374,7 +374,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 20,
-      "previousClanRank": 20,
+      "previousClanRank": 19,
       "donations": 16,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -392,7 +392,7 @@
         "rawName": "Arena_L11"
       },
       "clanRank": 21,
-      "previousClanRank": 21,
+      "previousClanRank": 20,
       "donations": 0,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -410,7 +410,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 22,
-      "previousClanRank": 22,
+      "previousClanRank": 21,
       "donations": 36,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -428,7 +428,7 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 23,
-      "previousClanRank": 25,
+      "previousClanRank": 22,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -473,7 +473,7 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261123T223602.000Z",
+      "lastSeen": "20261123T233339.000Z",
       "expLevel": 0,
       "trophies": 9697,
       "arena": {
@@ -482,9 +482,9 @@
         "rawName": "Arena_L10"
       },
       "clanRank": 26,
-      "previousClanRank": 26,
-      "donations": 64,
-      "donationsReceived": 100,
+      "previousClanRank": 25,
+      "donations": 72,
+      "donationsReceived": 110,
       "clanChestPoints": 0
     },
     {
@@ -500,7 +500,7 @@
         "rawName": "Arena_L9"
       },
       "clanRank": 27,
-      "previousClanRank": 27,
+      "previousClanRank": 26,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -518,7 +518,7 @@
         "rawName": "Arena_L9"
       },
       "clanRank": 28,
-      "previousClanRank": 28,
+      "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -536,7 +536,7 @@
         "rawName": "Arena_L8"
       },
       "clanRank": 29,
-      "previousClanRank": 29,
+      "previousClanRank": 28,
       "donations": 96,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -572,7 +572,7 @@
         "rawName": "Arena_L8"
       },
       "clanRank": 31,
-      "previousClanRank": 31,
+      "previousClanRank": 29,
       "donations": 1,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -590,7 +590,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 32,
-      "previousClanRank": 32,
+      "previousClanRank": 31,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -608,7 +608,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 33,
-      "previousClanRank": 33,
+      "previousClanRank": 32,
       "donations": 12,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -626,7 +626,7 @@
         "rawName": "Arena_L7"
       },
       "clanRank": 34,
-      "previousClanRank": 34,
+      "previousClanRank": 33,
       "donations": 159,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -644,7 +644,7 @@
         "rawName": "Arena_L5"
       },
       "clanRank": 35,
-      "previousClanRank": 35,
+      "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -662,7 +662,7 @@
         "rawName": "Arena_L5"
       },
       "clanRank": 36,
-      "previousClanRank": 36,
+      "previousClanRank": 35,
       "donations": 24,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -680,7 +680,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 37,
-      "previousClanRank": 37,
+      "previousClanRank": 36,
       "donations": 32,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -698,7 +698,7 @@
         "rawName": "Arena_L4"
       },
       "clanRank": 38,
-      "previousClanRank": 38,
+      "previousClanRank": 37,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -716,7 +716,7 @@
         "rawName": "Arena_L2"
       },
       "clanRank": 39,
-      "previousClanRank": 40,
+      "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 120,
       "clanChestPoints": 0
@@ -752,7 +752,7 @@
         "rawName": "Arena_L"
       },
       "clanRank": 41,
-      "previousClanRank": 41,
+      "previousClanRank": 39,
       "donations": 132,
       "donationsReceived": 80,
       "clanChestPoints": 0
@@ -770,7 +770,7 @@
         "rawName": "Arena_L"
       },
       "clanRank": 42,
-      "previousClanRank": 42,
+      "previousClanRank": 40,
       "donations": 18,
       "donationsReceived": 94,
       "clanChestPoints": 0
@@ -788,7 +788,7 @@
         "rawName": "Arena_L"
       },
       "clanRank": 43,
-      "previousClanRank": 43,
+      "previousClanRank": 41,
       "donations": 26,
       "donationsReceived": 40,
       "clanChestPoints": 0
@@ -806,7 +806,7 @@
         "rawName": "Arena9"
       },
       "clanRank": 44,
-      "previousClanRank": 44,
+      "previousClanRank": 42,
       "donations": 6,
       "donationsReceived": 0,
       "clanChestPoints": 0
@@ -824,7 +824,7 @@
         "rawName": "Arena6"
       },
       "clanRank": 45,
-      "previousClanRank": 45,
+      "previousClanRank": 43,
       "donations": 0,
       "donationsReceived": 0,
       "clanChestPoints": 0
