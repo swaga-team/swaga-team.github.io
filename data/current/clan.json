@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 8816,
+  "donationsPerWeek": 8844,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 0,
       "donations": 26,
-      "donationsReceived": 30,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 16,
       "donations": 408,
-      "donationsReceived": 456,
+      "donationsReceived": 464,
       "clanChestPoints": 0
     },
     {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 22,
-      "donations": 272,
+      "donations": 300,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -484,7 +484,7 @@
       "clanRank": 26,
       "previousClanRank": 24,
       "donations": 199,
-      "donationsReceived": 280,
+      "donationsReceived": 290,
       "clanChestPoints": 0
     },
     {
