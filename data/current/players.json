@@ -2136,13 +2136,6 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
       },
       {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
-      },
-      {
         "name": "Valkyrie",
         "rarity": "rare",
         "elixirCost": 4,
@@ -2195,15 +2188,15 @@
   },
   "#JU2L2U8LG": {
     "expLevel": 40,
-    "trophies": 9830,
+    "trophies": 9861,
     "bestTrophies": 9888,
-    "wins": 1090,
-    "losses": 852,
-    "battleCount": 1942,
-    "threeCrownWins": 556,
+    "wins": 1092,
+    "losses": 853,
+    "battleCount": 1945,
+    "threeCrownWins": 557,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 4075,
+    "totalDonations": 4119,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2242,11 +2235,11 @@
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       },
       {
-        "name": "Skeleton Barrel",
+        "name": "Bats",
         "rarity": "common",
-        "elixirCost": 3,
+        "elixirCost": 2,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
       },
       {
         "name": "Inferno Dragon",
@@ -2263,11 +2256,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
       },
       {
-        "name": "Executioner",
-        "rarity": "epic",
-        "elixirCost": 5,
+        "name": "Firecracker",
+        "rarity": "common",
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/c1rL3LO1U2D9-TkeFfAC18gP3AO8ztSwrcHMZplwL2Q.png"
       },
       {
         "name": "Wall Breakers",
@@ -4332,7 +4325,7 @@
     "threeCrownWins": 836,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 29083,
+    "totalDonations": 29133,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4872,8 +4865,8 @@
     "trophies": 5629,
     "bestTrophies": 5629,
     "wins": 758,
-    "losses": 399,
-    "battleCount": 1157,
+    "losses": 401,
+    "battleCount": 1159,
     "threeCrownWins": 182,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -4952,11 +4945,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Three Musketeers",
-      "rarity": "rare",
-      "elixirCost": 9,
+      "name": "Skeleton Dragons",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
     }
   },
   "#2G2VYP9G": {
@@ -6273,7 +6266,7 @@
     "threeCrownWins": 402,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 8361,
+    "totalDonations": 8385,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6543,13 +6536,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2839,
+    "wins": 2842,
     "losses": 2550,
-    "battleCount": 5389,
+    "battleCount": 5392,
     "threeCrownWins": 822,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 27352,
+    "totalDonations": 27396,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6565,13 +6558,70 @@
       "trophies": 0,
       "rank": null
     },
-    "currentDeck": [],
+    "currentDeck": [
+      {
+        "name": "Inferno Dragon",
+        "rarity": "legendary",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+      },
+      {
+        "name": "Valkyrie",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      },
+      {
+        "name": "Balloon",
+        "rarity": "epic",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
+      },
+      {
+        "name": "Skeleton Dragons",
+        "rarity": "common",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+      },
+      {
+        "name": "Lava Hound",
+        "rarity": "legendary",
+        "elixirCost": 7,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+      },
+      {
+        "name": "Fireball",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+      },
+      {
+        "name": "Arrows",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
+      },
+      {
+        "name": "Tombstone",
+        "rarity": "rare",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+      }
+    ],
     "currentFavouriteCard": {
-      "name": "Ronin",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Valkyrie",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/X0dTFs7OGUavreDEzOtYd_YNZ8Zly6qgAE-dd-bNfWU.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
     }
   }
 }
