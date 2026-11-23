@@ -9453,5 +9453,33 @@
     "tag": "#VUR0YRJLV",
     "name": "EEEE.",
     "at": "2026-11-23T19:08:30+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9282CQQ90",
+    "name": "Чушпан",
+    "cards": [
+      {
+        "name": "Poison",
+        "level": 11
+      },
+      {
+        "name": "Barbarian Barrel",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-23T20:09:52+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Skeleton Army",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-23T20:09:52+00:00"
   }
 ]

@@ -15861,7 +15861,7 @@
       0
     ],
     "Barbarian Barrel": [
-      9,
+      10,
       0
     ],
     "Royal Ghost": [
@@ -16005,7 +16005,7 @@
       0
     ],
     "Poison": [
-      10,
+      11,
       0
     ],
     "Battle Ram": [
@@ -33547,7 +33547,7 @@
       0
     ],
     "Skeleton Army": [
-      7,
+      8,
       0
     ],
     "Royal Recruits": [
@@ -33615,6 +33615,10 @@
       0
     ],
     "Tesla": [
+      6,
+      0
+    ],
+    "Golem": [
       6,
       0
     ]

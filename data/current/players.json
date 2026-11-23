@@ -1382,7 +1382,7 @@
     "threeCrownWins": 2739,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73541,
+    "totalDonations": 73567,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -1744,10 +1744,10 @@
     "expLevel": 35,
     "trophies": 10126,
     "bestTrophies": 10219,
-    "wins": 2634,
-    "losses": 2304,
-    "battleCount": 4938,
-    "threeCrownWins": 935,
+    "wins": 2640,
+    "losses": 2312,
+    "battleCount": 4952,
+    "threeCrownWins": 938,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
     "totalDonations": 31164,
@@ -1825,11 +1825,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Executioner",
-      "rarity": "epic",
-      "elixirCost": 5,
+      "name": "Mini P.E.K.K.A",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
     }
   },
   "#CY0LPRRUJ": {
@@ -2021,8 +2021,8 @@
     "trophies": 9790,
     "bestTrophies": 9825,
     "wins": 2357,
-    "losses": 2181,
-    "battleCount": 4538,
+    "losses": 2183,
+    "battleCount": 4540,
     "threeCrownWins": 792,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2049,6 +2049,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2094,11 +2101,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Ronin",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Goblin Demolisher",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/X0dTFs7OGUavreDEzOtYd_YNZ8Zly6qgAE-dd-bNfWU.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KVVOgdn40xasFLYuQv8Go_U_LCV7wSG9q9eE1H7f3Qk.png"
     }
   },
   "#9RJPRQLL2": {
@@ -2926,13 +2933,13 @@
     "expLevel": 39,
     "trophies": 6905,
     "bestTrophies": 6905,
-    "wins": 2735,
-    "losses": 2838,
-    "battleCount": 5573,
+    "wins": 2737,
+    "losses": 2842,
+    "battleCount": 5579,
     "threeCrownWins": 1930,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37769,
+    "totalDonations": 37798,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4693,7 +4700,7 @@
     "threeCrownWins": 388,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3211,
+    "totalDonations": 3246,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6640,12 +6647,12 @@
   },
   "#VUR0YRJLV": {
     "expLevel": 1,
-    "trophies": 3113,
-    "bestTrophies": 3113,
-    "wins": 152,
-    "losses": 54,
-    "battleCount": 206,
-    "threeCrownWins": 90,
+    "trophies": 3232,
+    "bestTrophies": 3266,
+    "wins": 161,
+    "losses": 59,
+    "battleCount": 220,
+    "threeCrownWins": 94,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -6668,18 +6675,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
       },
       {
-        "name": "Tesla",
+        "name": "Cannon",
         "rarity": "common",
-        "elixirCost": 4,
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
       },
       {
-        "name": "Witch",
+        "name": "Goblin Barrel",
         "rarity": "epic",
-        "elixirCost": 5,
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
       },
       {
         "name": "Valkyrie",

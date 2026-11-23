@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 117294,
+  "clanScore": 117300,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1452,
+  "donationsPerWeek": 1542,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 60,
-      "donationsReceived": 48,
+      "donationsReceived": 72,
       "clanChestPoints": 0
     },
     {
@@ -293,7 +293,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261123T164720.000Z",
+      "lastSeen": "20261123T200808.000Z",
       "expLevel": 0,
       "trophies": 11905,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 17,
-      "donations": 96,
-      "donationsReceived": 93,
+      "donations": 122,
+      "donationsReceived": 96,
       "clanChestPoints": 0
     },
     {
@@ -322,7 +322,7 @@
       "clanRank": 17,
       "previousClanRank": 18,
       "donations": 28,
-      "donationsReceived": 75,
+      "donationsReceived": 88,
       "clanChestPoints": 0
     },
     {
@@ -365,7 +365,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261123T183115.000Z",
+      "lastSeen": "20261123T193105.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 56,
+      "donationsReceived": 72,
       "clanChestPoints": 0
     },
     {
@@ -599,7 +599,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261123T141444.000Z",
+      "lastSeen": "20261123T200112.000Z",
       "expLevel": 0,
       "trophies": 8156,
       "arena": {
@@ -609,8 +609,8 @@
       },
       "clanRank": 33,
       "previousClanRank": 34,
-      "donations": 124,
-      "donationsReceived": 40,
+      "donations": 159,
+      "donationsReceived": 50,
       "clanChestPoints": 0
     },
     {
@@ -653,7 +653,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261123T183602.000Z",
+      "lastSeen": "20261123T200525.000Z",
       "expLevel": 0,
       "trophies": 6905,
       "arena": {
@@ -663,7 +663,7 @@
       },
       "clanRank": 36,
       "previousClanRank": 37,
-      "donations": 3,
+      "donations": 32,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -722,6 +722,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#VUR0YRJLV",
+      "name": "EEEE.",
+      "role": "member",
+      "lastSeen": "20261123T194458.000Z",
+      "expLevel": 0,
+      "trophies": 3232,
+      "arena": {
+        "id": 54000007,
+        "name": "Hog Mountain",
+        "rawName": "Arena_L"
+      },
+      "clanRank": 40,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
@@ -733,28 +751,10 @@
         "name": "Hog Mountain",
         "rawName": "Arena_L"
       },
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 42,
       "donations": 8,
-      "donationsReceived": 70,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#VUR0YRJLV",
-      "name": "EEEE.",
-      "role": "member",
-      "lastSeen": "20261123T183011.000Z",
-      "expLevel": 0,
-      "trophies": 3113,
-      "arena": {
-        "id": 54000007,
-        "name": "Hog Mountain",
-        "rawName": "Arena_L"
-      },
-      "clanRank": 41,
-      "previousClanRank": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 94,
       "clanChestPoints": 0
     },
     {
