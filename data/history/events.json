@@ -9337,5 +9337,115 @@
       }
     ],
     "at": "2026-11-23T16:16:23+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GQQL9YLYQ",
+    "name": "Ter",
+    "cards": [
+      {
+        "name": "Arrows",
+        "level": 13
+      },
+      {
+        "name": "Inferno Dragon",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-23T18:11:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9282CQQ90",
+    "name": "Чушпан",
+    "cards": [
+      {
+        "name": "Royal Giant",
+        "level": 13
+      },
+      {
+        "name": "Fire Spirit",
+        "level": 13
+      },
+      {
+        "name": "Sparky",
+        "level": 13
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 13
+      },
+      {
+        "name": "Barbarians",
+        "level": 12
+      },
+      {
+        "name": "Minion Horde",
+        "level": 12
+      },
+      {
+        "name": "Mega Knight",
+        "level": 12
+      },
+      {
+        "name": "Skeleton Army",
+        "level": 11
+      },
+      {
+        "name": "Lightning",
+        "level": 11
+      },
+      {
+        "name": "Night Witch",
+        "level": 11
+      },
+      {
+        "name": "Wizard",
+        "level": 11
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 11
+      },
+      {
+        "name": "Executioner",
+        "level": 11
+      },
+      {
+        "name": "Ice Golem",
+        "level": 11
+      },
+      {
+        "name": "Cannon Cart",
+        "level": 11
+      },
+      {
+        "name": "Goblins",
+        "level": 11
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 10
+      },
+      {
+        "name": "Void",
+        "level": 10
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 9
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-23T18:11:55+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#PLUQRR22G",
+    "name": "ветмо",
+    "at": "2026-11-23T18:11:55+00:00"
   }
 ]
