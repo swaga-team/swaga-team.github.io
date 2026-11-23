@@ -9072,5 +9072,131 @@
       }
     ],
     "at": "2026-11-23T09:30:39+00:00"
+  },
+  {
+    "type": "war_week",
+    "at": "2026-11-23T09:40:05+00:00",
+    "season": 138,
+    "week": 3,
+    "rank": 1,
+    "fame": 10000,
+    "trophy_change": 20,
+    "best": {
+      "tag": "#VJQQLCJP8",
+      "name": "Генри lll",
+      "fame": 3000
+    }
+  },
+  {
+    "type": "cards",
+    "tag": "#LV0GVYYL8",
+    "name": "kkyo",
+    "cards": [
+      {
+        "name": "Royal Hogs",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "league",
+    "tag": "#GU0VGJCJC",
+    "name": "тайный хомячёк",
+    "league": 3,
+    "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CJR008LV9",
+    "name": "cook",
+    "cards": [
+      {
+        "name": "Bomber",
+        "level": 11
+      },
+      {
+        "name": "Minions",
+        "level": 11
+      },
+      {
+        "name": "Hog Rider",
+        "level": 11
+      },
+      {
+        "name": "Battle Healer",
+        "level": 11
+      },
+      {
+        "name": "Bowler",
+        "level": 11
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#LVP2CL9RQ",
+    "name": "rawrr",
+    "cards": [
+      {
+        "name": "Clone",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Berserker",
+        "level": 11
+      },
+      {
+        "name": "Giant",
+        "level": 10
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 10
+      },
+      {
+        "name": "Clone",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      "Lumberjack"
+    ],
+    "at": "2026-11-23T11:13:34+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Mini P.E.K.K.A",
+        "level": 11
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-23T11:13:34+00:00"
   }
 ]
