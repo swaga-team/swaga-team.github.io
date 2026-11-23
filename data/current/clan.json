@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 117300,
+  "clanScore": 117297,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1542,
+  "donationsPerWeek": 1568,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 4,
       "donations": 60,
-      "donationsReceived": 72,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 21,
       "donations": 0,
-      "donationsReceived": 72,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -437,7 +437,7 @@
       "tag": "#GQQL9YLYQ",
       "name": "Ter",
       "role": "elder",
-      "lastSeen": "20261123T190719.000Z",
+      "lastSeen": "20261123T202831.000Z",
       "expLevel": 0,
       "trophies": 9790,
       "arena": {
@@ -447,7 +447,7 @@
       },
       "clanRank": 24,
       "previousClanRank": 24,
-      "donations": 42,
+      "donations": 68,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -610,7 +610,7 @@
       "clanRank": 33,
       "previousClanRank": 34,
       "donations": 159,
-      "donationsReceived": 50,
+      "donationsReceived": 60,
       "clanChestPoints": 0
     },
     {
@@ -727,7 +727,7 @@
       "role": "member",
       "lastSeen": "20261123T194458.000Z",
       "expLevel": 0,
-      "trophies": 3232,
+      "trophies": 3206,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",

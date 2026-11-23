@@ -2020,13 +2020,13 @@
     "expLevel": 38,
     "trophies": 9790,
     "bestTrophies": 9825,
-    "wins": 2357,
+    "wins": 2358,
     "losses": 2183,
-    "battleCount": 4540,
+    "battleCount": 4541,
     "threeCrownWins": 792,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 18683,
+    "totalDonations": 18709,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2933,9 +2933,9 @@
     "expLevel": 39,
     "trophies": 6905,
     "bestTrophies": 6905,
-    "wins": 2737,
+    "wins": 2738,
     "losses": 2842,
-    "battleCount": 5579,
+    "battleCount": 5580,
     "threeCrownWins": 1930,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -6647,12 +6647,12 @@
   },
   "#VUR0YRJLV": {
     "expLevel": 1,
-    "trophies": 3232,
+    "trophies": 3206,
     "bestTrophies": 3266,
-    "wins": 161,
-    "losses": 59,
-    "battleCount": 220,
-    "threeCrownWins": 94,
+    "wins": 167,
+    "losses": 66,
+    "battleCount": 233,
+    "threeCrownWins": 98,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 0,
@@ -6682,18 +6682,18 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/nZK1y-beLxO5vnlyUhK6-2zH2NzXJwqykcosqQ1cmZ8.png"
       },
       {
-        "name": "Goblin Barrel",
-        "rarity": "epic",
-        "elixirCost": 3,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
-      },
-      {
-        "name": "Valkyrie",
+        "name": "Battle Healer",
         "rarity": "rare",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/KdwXcoigS2Kg-cgA7BJJIANbUJG6SNgjetRQ-MegZ08.png"
+      },
+      {
+        "name": "Ice Spirit",
+        "rarity": "common",
+        "elixirCost": 1,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
       },
       {
         "name": "Wizard",
@@ -6710,11 +6710,11 @@
         "icon": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
       },
       {
-        "name": "Battle Healer",
-        "rarity": "rare",
-        "elixirCost": 4,
+        "name": "Skeletons",
+        "rarity": "common",
+        "elixirCost": 1,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/KdwXcoigS2Kg-cgA7BJJIANbUJG6SNgjetRQ-MegZ08.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
       }
     ],
     "currentFavouriteCard": {
