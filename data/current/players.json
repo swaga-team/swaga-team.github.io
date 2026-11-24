@@ -1738,8 +1738,8 @@
     "trophies": 10126,
     "bestTrophies": 10219,
     "wins": 2656,
-    "losses": 2332,
-    "battleCount": 4988,
+    "losses": 2333,
+    "battleCount": 4989,
     "threeCrownWins": 945,
     "warDayWins": 40,
     "clanCardsCollected": 109447,
@@ -2103,11 +2103,11 @@
   },
   "#9RJPRQLL2": {
     "expLevel": 20,
-    "trophies": 9752,
-    "bestTrophies": 9752,
-    "wins": 1073,
-    "losses": 715,
-    "battleCount": 1788,
+    "trophies": 9783,
+    "bestTrophies": 9783,
+    "wins": 1074,
+    "losses": 716,
+    "battleCount": 1790,
     "threeCrownWins": 521,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2134,6 +2134,13 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      },
+      {
+        "name": "Golden Knight",
+        "rarity": "champion",
+        "elixirCost": 4,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -2179,11 +2186,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Drill",
-      "rarity": "epic",
-      "elixirCost": 4,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/eN2TKUYbih-26yBi0xy5LVFOA0zDftgDqxxnVfdIg1o.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#JU2L2U8LG": {
@@ -2919,9 +2926,9 @@
     "expLevel": 39,
     "trophies": 6905,
     "bestTrophies": 6905,
-    "wins": 2746,
-    "losses": 2853,
-    "battleCount": 5599,
+    "wins": 2747,
+    "losses": 2854,
+    "battleCount": 5601,
     "threeCrownWins": 1931,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3000,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Graveyard",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
     }
   },
   "#GQP92GLC8": {
@@ -5543,10 +5550,10 @@
     "expLevel": 42,
     "trophies": 12353,
     "bestTrophies": 12353,
-    "wins": 1235,
-    "losses": 690,
-    "battleCount": 1925,
-    "threeCrownWins": 432,
+    "wins": 1236,
+    "losses": 691,
+    "battleCount": 1927,
+    "threeCrownWins": 433,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 16620,
@@ -5624,11 +5631,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Witch",
-      "rarity": "epic",
+      "name": "Wizard",
+      "rarity": "rare",
       "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
     }
   },
   "#GU0VGJCJC": {
@@ -6798,12 +6805,12 @@
   },
   "#2VVYJQ29": {
     "expLevel": 43,
-    "trophies": 6806,
-    "bestTrophies": 6806,
-    "wins": 2600,
+    "trophies": 6832,
+    "bestTrophies": 6832,
+    "wins": 2602,
     "losses": 1924,
-    "battleCount": 4524,
-    "threeCrownWins": 1558,
+    "battleCount": 4526,
+    "threeCrownWins": 1559,
     "warDayWins": 164,
     "clanCardsCollected": 286908,
     "totalDonations": 130038,

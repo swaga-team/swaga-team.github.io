@@ -9862,5 +9862,89 @@
       }
     ],
     "at": "2026-11-24T17:58:51+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Fisherman",
+        "level": 10
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 10
+      },
+      {
+        "name": "Night Witch",
+        "level": 10
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 10
+      },
+      {
+        "name": "Ice Wizard",
+        "level": 10
+      },
+      {
+        "name": "Hunter",
+        "level": 10
+      },
+      {
+        "name": "Ram Rider",
+        "level": 10
+      },
+      {
+        "name": "Zappies",
+        "level": 10
+      },
+      {
+        "name": "Barbarian Hut",
+        "level": 10
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 10
+      },
+      {
+        "name": "Skeleton Dragons",
+        "level": 10
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 10
+      },
+      {
+        "name": "Void",
+        "level": 10
+      },
+      {
+        "name": "Spirit Empress",
+        "level": 10
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 10
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-24T19:05:48+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2VVYJQ29",
+    "name": "Wizard",
+    "cards": [
+      {
+        "name": "Cannon",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-24T19:05:48+00:00"
   }
 ]

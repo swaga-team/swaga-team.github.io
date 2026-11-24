@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 115100,
+  "clanScore": 115106,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -239,7 +239,7 @@
       "tag": "#YGQU2GCJR",
       "name": "Fen1ks",
       "role": "member",
-      "lastSeen": "20261124T141044.000Z",
+      "lastSeen": "20261124T181348.000Z",
       "expLevel": 0,
       "trophies": 12353,
       "arena": {
@@ -398,6 +398,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#9RJPRQLL2",
+      "name": "Morj",
+      "role": "member",
+      "lastSeen": "20261124T175721.000Z",
+      "expLevel": 0,
+      "trophies": 9783,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 22,
+      "previousClanRank": 26,
+      "donations": 173,
+      "donationsReceived": 190,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
@@ -409,28 +427,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 22,
+      "clanRank": 23,
       "previousClanRank": 24,
       "donations": 70,
       "donationsReceived": 40,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#9RJPRQLL2",
-      "name": "Morj",
-      "role": "member",
-      "lastSeen": "20261124T175721.000Z",
-      "expLevel": 0,
-      "trophies": 9752,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 23,
-      "previousClanRank": 26,
-      "donations": 173,
-      "donationsReceived": 190,
       "clanChestPoints": 0
     },
     {
@@ -635,9 +635,9 @@
       "tag": "#2VVYJQ29",
       "name": "Wizard",
       "role": "member",
-      "lastSeen": "20261124T175522.000Z",
+      "lastSeen": "20261124T180032.000Z",
       "expLevel": 0,
-      "trophies": 6806,
+      "trophies": 6832,
       "arena": {
         "id": 54000015,
         "name": "Silent Sanctuary",
