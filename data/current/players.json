@@ -2294,15 +2294,15 @@
   },
   "#CJR008LV9": {
     "expLevel": 39,
-    "trophies": 9919,
+    "trophies": 9946,
     "bestTrophies": 9954,
-    "wins": 1285,
-    "losses": 1130,
-    "battleCount": 2415,
+    "wins": 1286,
+    "losses": 1131,
+    "battleCount": 2417,
     "threeCrownWins": 711,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 5240,
+    "totalDonations": 5260,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2325,6 +2325,13 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      },
+      {
+        "name": "Goblinstein",
+        "rarity": "champion",
+        "elixirCost": 5,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2370,11 +2377,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Elite Barbarians",
+      "rarity": "common",
+      "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
     }
   },
   "#22JLP29RV": {
@@ -6088,11 +6095,11 @@
   },
   "#J2LGV98JU": {
     "expLevel": 31,
-    "trophies": 9872,
+    "trophies": 9815,
     "bestTrophies": 9872,
     "wins": 1019,
-    "losses": 776,
-    "battleCount": 1795,
+    "losses": 778,
+    "battleCount": 1797,
     "threeCrownWins": 440,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6550,9 +6557,9 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2855,
-    "losses": 2571,
-    "battleCount": 5426,
+    "wins": 2856,
+    "losses": 2572,
+    "battleCount": 5428,
     "threeCrownWins": 829,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6574,77 +6581,77 @@
     },
     "currentDeck": [
       {
-        "name": "Inferno Dragon",
+        "name": "Lumberjack",
         "rarity": "legendary",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
       },
       {
-        "name": "Valkyrie",
+        "name": "Mini P.E.K.K.A",
         "rarity": "rare",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
       },
       {
-        "name": "Balloon",
+        "name": "Baby Dragon",
         "rarity": "epic",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/qBipxLo-3hhCnPrApp2Nn3b2NgrSrvwzWytvREev0CY.png"
-      },
-      {
-        "name": "Skeleton Dragons",
-        "rarity": "common",
         "elixirCost": 4,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
       },
       {
-        "name": "Lava Hound",
-        "rarity": "legendary",
-        "elixirCost": 7,
+        "name": "Barbarian Barrel",
+        "rarity": "epic",
+        "elixirCost": 2,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
       },
       {
-        "name": "Fireball",
-        "rarity": "rare",
-        "elixirCost": 4,
+        "name": "Vines",
+        "rarity": "epic",
+        "elixirCost": 3,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/V5sJlPuo2WBRtirJ1lGEPJA4NvQ0KPwFeMrpxLX5z_8.png"
       },
       {
-        "name": "Arrows",
+        "name": "Golem",
+        "rarity": "epic",
+        "elixirCost": 8,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+      },
+      {
+        "name": "Berserker",
         "rarity": "common",
-        "elixirCost": 3,
+        "elixirCost": 2,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png"
       },
       {
-        "name": "Tombstone",
+        "name": "Elixir Collector",
         "rarity": "rare",
-        "elixirCost": 3,
+        "elixirCost": 6,
         "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+        "icon": "https://api-assets.clashroyale.com/cards/300/BGLo3Grsp81c72EpxLLk-Sofk3VY56zahnUNOv3JcT0.png"
       }
     ],
     "currentFavouriteCard": {
-      "name": "Lava Hound",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Skeleton Dragons",
+      "rarity": "common",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
     }
   },
   "#VUR0YRJLV": {
     "expLevel": 1,
-    "trophies": 3415,
-    "bestTrophies": 3415,
-    "wins": 181,
+    "trophies": 3443,
+    "bestTrophies": 3443,
+    "wins": 182,
     "losses": 73,
-    "battleCount": 254,
+    "battleCount": 255,
     "threeCrownWins": 107,
     "warDayWins": 0,
     "clanCardsCollected": 0,

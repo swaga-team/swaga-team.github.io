@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 114470,
+  "clanScore": 114473,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1832,
+  "donationsPerWeek": 1852,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#Q80220028",
       "name": "end",
       "role": "member",
-      "lastSeen": "20261124T040052.000Z",
+      "lastSeen": "20261124T041410.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 1,
       "donations": 168,
-      "donationsReceived": 70,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 7,
       "donations": 68,
-      "donationsReceived": 70,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -365,9 +365,9 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261124T013352.000Z",
+      "lastSeen": "20261124T050226.000Z",
       "expLevel": 0,
-      "trophies": 9919,
+      "trophies": 9946,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -375,26 +375,8 @@
       },
       "clanRank": 20,
       "previousClanRank": 21,
-      "donations": 44,
+      "donations": 64,
       "donationsReceived": 64,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#J2LGV98JU",
-      "name": "dibil",
-      "role": "member",
-      "lastSeen": "20261123T080321.000Z",
-      "expLevel": 0,
-      "trophies": 9872,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 21,
-      "previousClanRank": 22,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -409,10 +391,28 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 22,
+      "clanRank": 21,
       "previousClanRank": 23,
       "donations": 70,
       "donationsReceived": 40,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#J2LGV98JU",
+      "name": "dibil",
+      "role": "member",
+      "lastSeen": "20261124T050732.000Z",
+      "expLevel": 0,
+      "trophies": 9815,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 22,
+      "previousClanRank": 22,
+      "donations": 0,
+      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -509,7 +509,7 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261123T173635.000Z",
+      "lastSeen": "20261124T051158.000Z",
       "expLevel": 0,
       "trophies": 8500,
       "arena": {
@@ -635,7 +635,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261123T223506.000Z",
+      "lastSeen": "20261124T051153.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -653,9 +653,9 @@
       "tag": "#VUR0YRJLV",
       "name": "EEEE.",
       "role": "member",
-      "lastSeen": "20261123T224432.000Z",
+      "lastSeen": "20261124T045720.000Z",
       "expLevel": 0,
-      "trophies": 3415,
+      "trophies": 3443,
       "arena": {
         "id": 54000024,
         "name": "Electro Valley",
