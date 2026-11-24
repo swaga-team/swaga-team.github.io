@@ -1382,7 +1382,7 @@
     "threeCrownWins": 2740,
     "warDayWins": 87,
     "clanCardsCollected": 215555,
-    "totalDonations": 73627,
+    "totalDonations": 73653,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2105,13 +2105,13 @@
     "expLevel": 20,
     "trophies": 9783,
     "bestTrophies": 9783,
-    "wins": 1074,
+    "wins": 1075,
     "losses": 717,
-    "battleCount": 1791,
-    "threeCrownWins": 521,
+    "battleCount": 1792,
+    "threeCrownWins": 522,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3608,
+    "totalDonations": 3624,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2186,11 +2186,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Elite Barbarians",
+      "name": "Royal Giant",
       "rarity": "common",
       "elixirCost": 6,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
     }
   },
   "#JU2L2U8LG": {
@@ -5136,12 +5136,12 @@
     "trophies": 10258,
     "bestTrophies": 10258,
     "wins": 2370,
-    "losses": 1121,
-    "battleCount": 3491,
+    "losses": 1122,
+    "battleCount": 3492,
     "threeCrownWins": 1136,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 27056,
+    "totalDonations": 27065,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5216,11 +5216,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Monk",
-      "rarity": "champion",
-      "elixirCost": 5,
+      "name": "Skeleton Barrel",
+      "rarity": "common",
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2onG4t4-CxqwFVZAn6zpWxFz3_mG2ksSj4Q7zldo1SM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png"
     }
   },
   "#VU2P0VJYC": {
@@ -5550,13 +5550,13 @@
     "expLevel": 42,
     "trophies": 12353,
     "bestTrophies": 12353,
-    "wins": 1236,
+    "wins": 1238,
     "losses": 691,
-    "battleCount": 1927,
+    "battleCount": 1929,
     "threeCrownWins": 433,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16620,
+    "totalDonations": 16628,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6715,10 +6715,10 @@
     "expLevel": 63,
     "trophies": 12527,
     "bestTrophies": 12527,
-    "wins": 6219,
-    "losses": 3740,
-    "battleCount": 9959,
-    "threeCrownWins": 2450,
+    "wins": 6225,
+    "losses": 3742,
+    "battleCount": 9967,
+    "threeCrownWins": 2452,
     "warDayWins": 55,
     "clanCardsCollected": 104252,
     "totalDonations": 44140,
@@ -6796,11 +6796,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Rascals",
-      "rarity": "common",
-      "elixirCost": 5,
+      "name": "Dark Prince",
+      "rarity": "epic",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
     }
   },
   "#2VVYJQ29": {
@@ -6893,6 +6893,91 @@
       "elixirCost": 7,
       "evolved": false,
       "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+    }
+  },
+  "#2GVPJGQJR": {
+    "expLevel": 36,
+    "trophies": 8441,
+    "bestTrophies": 8461,
+    "wins": 671,
+    "losses": 418,
+    "battleCount": 1089,
+    "threeCrownWins": 183,
+    "warDayWins": 0,
+    "clanCardsCollected": 0,
+    "totalDonations": 1650,
+    "currentPathOfLegendSeasonResult": {
+      "leagueNumber": 1,
+      "trophies": 0,
+      "rank": null
+    },
+    "lastPathOfLegendSeasonResult": {
+      "leagueNumber": 1,
+      "trophies": 0,
+      "rank": null
+    },
+    "bestPathOfLegendSeasonResult": {
+      "leagueNumber": 1,
+      "trophies": 0,
+      "rank": null
+    },
+    "currentDeck": [
+      {
+        "name": "Furnace",
+        "rarity": "rare",
+        "elixirCost": 4,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      },
+      {
+        "name": "Knight",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": true,
+        "icon": "https://api-assets.clashroyale.com/cardevolutions/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      },
+      {
+        "name": "Princess",
+        "rarity": "legendary",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+      },
+      {
+        "name": "Goblin Barrel",
+        "rarity": "epic",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+      },
+      {
+        "name": "Goblin Gang",
+        "rarity": "common",
+        "elixirCost": 3,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+      },
+      {
+        "name": "Ice Spirit",
+        "rarity": "common",
+        "elixirCost": 1,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+      },
+      {
+        "name": "The Log",
+        "rarity": "legendary",
+        "elixirCost": 2,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+      }
+    ],
+    "currentFavouriteCard": {
+      "name": "Boss Bandit",
+      "rarity": "champion",
+      "elixirCost": 6,
+      "evolved": false,
+      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
     }
   }
 }

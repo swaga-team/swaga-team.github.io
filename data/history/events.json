@@ -9958,5 +9958,31 @@
       }
     ],
     "at": "2026-11-24T22:04:13+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YGQU2GCJR",
+    "name": "Fen1ks",
+    "cards": [
+      {
+        "name": "Mortar",
+        "level": 12
+      },
+      {
+        "name": "Zap",
+        "level": 12
+      },
+      {
+        "name": "Rage",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-24T23:03:38+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#2GVPJGQJR",
+    "name": "Диман хулиган",
+    "at": "2026-11-24T23:03:38+00:00"
   }
 ]
