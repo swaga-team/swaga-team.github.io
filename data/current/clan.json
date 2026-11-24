@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1812,
+  "donationsPerWeek": 1832,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
+    {
+      "tag": "#Q80220028",
+      "name": "end",
+      "role": "member",
+      "lastSeen": "20261124T040052.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 6,
+      "donations": 116,
+      "donationsReceived": 80,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#LV0GVYYL8",
       "name": "kkyo",
@@ -31,28 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 168,
-      "donationsReceived": 60,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#Q80220028",
-      "name": "end",
-      "role": "member",
-      "lastSeen": "20261124T025440.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 2,
-      "previousClanRank": 6,
-      "donations": 116,
-      "donationsReceived": 80,
+      "donationsReceived": 70,
       "clanChestPoints": 0
     },
     {
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 7,
       "donations": 68,
-      "donationsReceived": 60,
+      "donationsReceived": 70,
       "clanChestPoints": 0
     },
     {
@@ -743,7 +743,7 @@
       "tag": "#J0VGQP9PY",
       "name": "алиса спийс❤️",
       "role": "member",
-      "lastSeen": "20261121T131604.000Z",
+      "lastSeen": "20261124T035306.000Z",
       "expLevel": 0,
       "trophies": 1779,
       "arena": {
@@ -753,7 +753,7 @@
       },
       "clanRank": 41,
       "previousClanRank": 43,
-      "donations": 0,
+      "donations": 20,
       "donationsReceived": 0,
       "clanChestPoints": 0
     }
