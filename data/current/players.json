@@ -193,7 +193,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35856,
+    "totalDonations": 35882,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2302,7 +2302,7 @@
     "threeCrownWins": 711,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 5232,
+    "totalDonations": 5240,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2325,13 +2325,6 @@
         "elixirCost": 7,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Goblinstein",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/mQ20B49dXdk7Nv0lMdLw175M3YvkSpN6KNnho8UKBd8.png"
       },
       {
         "name": "Electro Wizard",
@@ -2934,8 +2927,8 @@
     "trophies": 6905,
     "bestTrophies": 6905,
     "wins": 2739,
-    "losses": 2843,
-    "battleCount": 5582,
+    "losses": 2844,
+    "battleCount": 5583,
     "threeCrownWins": 1930,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -4334,12 +4327,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 1905,
-    "losses": 1265,
-    "battleCount": 3170,
+    "losses": 1266,
+    "battleCount": 3171,
     "threeCrownWins": 836,
     "warDayWins": 13,
     "clanCardsCollected": 22060,
-    "totalDonations": 29133,
+    "totalDonations": 29151,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6563,7 +6556,7 @@
     "threeCrownWins": 829,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 27440,
+    "totalDonations": 27468,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
