@@ -9555,5 +9555,49 @@
     "tag": "#GQP92GLC8",
     "name": "Adawell",
     "at": "2026-11-24T02:58:18+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Knight",
+        "level": 9
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 8
+      },
+      {
+        "name": "Earthquake",
+        "level": 8
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 6
+      }
+    ],
+    "at": "2026-11-24T06:08:21+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Archers",
+        "level": 13
+      },
+      {
+        "name": "Guards",
+        "level": 8
+      },
+      {
+        "name": "Elixir Collector",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-24T06:08:21+00:00"
   }
 ]

@@ -23687,7 +23687,7 @@
   },
   "#VJJUCQLVY": {
     "Knight": [
-      8,
+      9,
       0
     ],
     "Archers": [
@@ -23819,7 +23819,7 @@
       0
     ],
     "Electro Spirit": [
-      7,
+      8,
       0
     ],
     "Tombstone": [
@@ -23863,7 +23863,7 @@
       1
     ],
     "Giant Snowball": [
-      5,
+      6,
       0
     ],
     "Lightning": [
@@ -24027,7 +24027,7 @@
       0
     ],
     "Earthquake": [
-      7,
+      8,
       0
     ],
     "Graveyard": [
@@ -24655,7 +24655,7 @@
       1
     ],
     "Archers": [
-      11,
+      13,
       1
     ],
     "Minions": [
@@ -24827,7 +24827,7 @@
       0
     ],
     "Guards": [
-      7,
+      8,
       0
     ],
     "Royal Hogs": [
@@ -25059,7 +25059,7 @@
       0
     ],
     "Elixir Collector": [
-      7,
+      8,
       0
     ],
     "Tornado": [
@@ -25079,6 +25079,10 @@
       0
     ],
     "Goblin Machine": [
+      9,
+      0
+    ],
+    "Sparky": [
       9,
       0
     ]

@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 114473,
+  "clanScore": 114484,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 1852,
+  "donationsPerWeek": 1898,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
+    {
+      "tag": "#R98U8U290",
+      "name": "tenkuu.☁️",
+      "role": "member",
+      "lastSeen": "20261124T051448.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 65,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#Q80220028",
       "name": "end",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 6,
       "donations": 116,
       "donationsReceived": 80,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 168,
       "donationsReceived": 80,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 7,
       "donations": 68,
       "donationsReceived": 80,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 3,
       "donations": 8,
       "donationsReceived": 80,
@@ -103,28 +121,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 8,
       "donations": 60,
       "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#R98U8U290",
-      "name": "tenkuu.☁️",
-      "role": "member",
-      "lastSeen": "20261123T172320.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 6,
-      "previousClanRank": 4,
-      "donations": 47,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -347,7 +347,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261123T193105.000Z",
+      "lastSeen": "20261124T054212.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -365,7 +365,7 @@
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
-      "lastSeen": "20261124T050226.000Z",
+      "lastSeen": "20261124T054631.000Z",
       "expLevel": 0,
       "trophies": 9946,
       "arena": {
@@ -376,7 +376,7 @@
       "clanRank": 20,
       "previousClanRank": 21,
       "donations": 64,
-      "donationsReceived": 64,
+      "donationsReceived": 80,
       "clanChestPoints": 0
     },
     {
@@ -401,9 +401,9 @@
       "tag": "#J2LGV98JU",
       "name": "dibil",
       "role": "member",
-      "lastSeen": "20261124T050732.000Z",
+      "lastSeen": "20261124T053223.000Z",
       "expLevel": 0,
-      "trophies": 9815,
+      "trophies": 9845,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -491,7 +491,7 @@
       "tag": "#UQRQ0YRVL",
       "name": "viatrio",
       "role": "member",
-      "lastSeen": "20261123T181943.000Z",
+      "lastSeen": "20261124T055133.000Z",
       "expLevel": 0,
       "trophies": 8600,
       "arena": {
@@ -509,9 +509,9 @@
       "tag": "#VQJPUULJV",
       "name": "триппи",
       "role": "member",
-      "lastSeen": "20261124T051158.000Z",
+      "lastSeen": "20261124T053240.000Z",
       "expLevel": 0,
-      "trophies": 8500,
+      "trophies": 8560,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261123T200112.000Z",
+      "lastSeen": "20261124T053333.000Z",
       "expLevel": 0,
       "trophies": 8156,
       "arena": {
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 33,
-      "donations": 159,
+      "donations": 177,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -635,7 +635,7 @@
       "tag": "#228RGGVQV2",
       "name": "Infamous",
       "role": "member",
-      "lastSeen": "20261124T051153.000Z",
+      "lastSeen": "20261124T055003.000Z",
       "expLevel": 0,
       "trophies": 5629,
       "arena": {
@@ -645,8 +645,8 @@
       },
       "clanRank": 35,
       "previousClanRank": 38,
-      "donations": 0,
-      "donationsReceived": 120,
+      "donations": 10,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
@@ -707,7 +707,7 @@
       "tag": "#VJQQLCJP8",
       "name": "Генри lll",
       "role": "member",
-      "lastSeen": "20261123T151252.000Z",
+      "lastSeen": "20261124T053552.000Z",
       "expLevel": 0,
       "trophies": 3056,
       "arena": {
@@ -718,7 +718,7 @@
       "clanRank": 39,
       "previousClanRank": 41,
       "donations": 26,
-      "donationsReceived": 40,
+      "donationsReceived": 50,
       "clanChestPoints": 0
     },
     {
