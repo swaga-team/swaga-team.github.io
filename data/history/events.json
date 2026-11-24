@@ -9720,5 +9720,61 @@
       }
     ],
     "at": "2026-11-24T13:23:49+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#Q80220028",
+    "name": "end",
+    "cards": [
+      {
+        "name": "Barbarian Hut",
+        "level": 16
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-24T15:09:02+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2G2VYP9G",
+    "name": "THE BOSS G.",
+    "cards": [
+      {
+        "name": "Bats",
+        "level": 13
+      },
+      {
+        "name": "Electro Spirit",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-24T15:09:02+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#JGYLPU9L2",
+    "name": "Котя",
+    "cards": [
+      {
+        "name": "Monk",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-24T15:09:02+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#V0RCP20LR",
+    "name": "подписични черв",
+    "cards": [
+      {
+        "name": "Ram Rider",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-24T15:09:02+00:00"
   }
 ]
