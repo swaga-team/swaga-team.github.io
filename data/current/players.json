@@ -2105,9 +2105,9 @@
     "expLevel": 20,
     "trophies": 9783,
     "bestTrophies": 9783,
-    "wins": 1075,
+    "wins": 1077,
     "losses": 717,
-    "battleCount": 1792,
+    "battleCount": 1794,
     "threeCrownWins": 522,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5053,12 +5053,12 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3119,
+    "trophies": 3179,
     "bestTrophies": 3215,
-    "wins": 334,
-    "losses": 249,
-    "battleCount": 583,
-    "threeCrownWins": 119,
+    "wins": 337,
+    "losses": 250,
+    "battleCount": 587,
+    "threeCrownWins": 120,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 532,
@@ -5124,24 +5124,24 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Wizard",
+      "name": "Hog Rider",
       "rarity": "rare",
-      "elixirCost": 5,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
     }
   },
   "#2QQG2QPCY": {
     "expLevel": 57,
-    "trophies": 10258,
-    "bestTrophies": 10258,
-    "wins": 2370,
+    "trophies": 10381,
+    "bestTrophies": 10381,
+    "wins": 2374,
     "losses": 1122,
-    "battleCount": 3492,
-    "threeCrownWins": 1136,
+    "battleCount": 3496,
+    "threeCrownWins": 1139,
     "warDayWins": 7,
     "clanCardsCollected": 6930,
-    "totalDonations": 27065,
+    "totalDonations": 27080,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5216,11 +5216,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Barrel",
-      "rarity": "common",
-      "elixirCost": 3,
+      "name": "Witch",
+      "rarity": "epic",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/vCB4DWCcrGbTkarjcOiVz4aNDx6GWLm0yUepg9E1MGo.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cfwk1vzehVyHC-uloEIH6NOI0hOdofCutR5PyhIgO6w.png"
     }
   },
   "#VU2P0VJYC": {

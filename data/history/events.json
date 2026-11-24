@@ -9984,5 +9984,17 @@
     "tag": "#2GVPJGQJR",
     "name": "Диман хулиган",
     "at": "2026-11-24T23:03:38+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Flying Machine",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-24T23:54:46+00:00"
   }
 ]
