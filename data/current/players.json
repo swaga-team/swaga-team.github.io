@@ -2106,8 +2106,8 @@
     "trophies": 9783,
     "bestTrophies": 9783,
     "wins": 1074,
-    "losses": 716,
-    "battleCount": 1790,
+    "losses": 717,
+    "battleCount": 1791,
     "threeCrownWins": 521,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -2927,8 +2927,8 @@
     "trophies": 6905,
     "bestTrophies": 6905,
     "wins": 2747,
-    "losses": 2854,
-    "battleCount": 5601,
+    "losses": 2855,
+    "battleCount": 5602,
     "threeCrownWins": 1931,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -3007,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Graveyard",
-      "rarity": "legendary",
-      "elixirCost": 5,
+      "name": "Goblin Hut",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
     }
   },
   "#GQP92GLC8": {
