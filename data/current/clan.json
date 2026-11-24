@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 114471,
+  "clanScore": 114489,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,17 +13,17 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 2140,
+  "donationsPerWeek": 2228,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 41,
   "memberList": [
     {
-      "tag": "#PQQGRL028",
-      "name": "govnoed",
+      "tag": "#YQ2VLPJ0L",
+      "name": "arch1tector",
       "role": "member",
-      "lastSeen": "20261124T072414.000Z",
+      "lastSeen": "20261124T084723.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -32,6 +32,24 @@
         "rawName": "Arena_L18"
       },
       "clanRank": 1,
+      "previousClanRank": 5,
+      "donations": 118,
+      "donationsReceived": 96,
+      "clanChestPoints": 0
+    },
+    {
+      "tag": "#PQQGRL028",
+      "name": "govnoed",
+      "role": "member",
+      "lastSeen": "20261124T075500.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 2,
       "previousClanRank": 7,
       "donations": 110,
       "donationsReceived": 80,
@@ -49,7 +67,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 18,
       "donationsReceived": 80,
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 65,
       "donationsReceived": 0,
@@ -85,7 +103,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 6,
       "donations": 116,
       "donationsReceived": 80,
@@ -103,7 +121,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 1,
       "donations": 168,
       "donationsReceived": 80,
@@ -121,7 +139,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 6,
+      "clanRank": 7,
       "previousClanRank": 3,
       "donations": 8,
       "donationsReceived": 80,
@@ -139,27 +157,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 7,
+      "clanRank": 8,
       "previousClanRank": 8,
       "donations": 60,
-      "donationsReceived": 80,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#YQ2VLPJ0L",
-      "name": "arch1tector",
-      "role": "member",
-      "lastSeen": "20261123T163921.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 8,
-      "previousClanRank": 5,
-      "donations": 86,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -239,7 +239,7 @@
       "tag": "#PQQ2JYL2G",
       "name": "MFbren",
       "role": "elder",
-      "lastSeen": "20261123T190014.000Z",
+      "lastSeen": "20261124T084720.000Z",
       "expLevel": 0,
       "trophies": 12193,
       "arena": {
@@ -249,8 +249,8 @@
       },
       "clanRank": 13,
       "previousClanRank": 14,
-      "donations": 154,
-      "donationsReceived": 80,
+      "donations": 162,
+      "donationsReceived": 104,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261123T230426.000Z",
+      "lastSeen": "20261124T091038.000Z",
       "expLevel": 0,
       "trophies": 11905,
       "arena": {
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 16,
-      "donations": 150,
+      "donations": 158,
       "donationsReceived": 96,
       "clanChestPoints": 0
     },
@@ -293,7 +293,7 @@
       "tag": "#PL82RPJUJ",
       "name": ")))",
       "role": "elder",
-      "lastSeen": "20261124T064454.000Z",
+      "lastSeen": "20261124T082635.000Z",
       "expLevel": 0,
       "trophies": 11730,
       "arena": {
@@ -303,8 +303,8 @@
       },
       "clanRank": 16,
       "previousClanRank": 17,
-      "donations": 84,
-      "donationsReceived": 112,
+      "donations": 92,
+      "donationsReceived": 128,
       "clanChestPoints": 0
     },
     {
@@ -347,7 +347,7 @@
       "tag": "#222YY9YCC",
       "name": "king abolfazl",
       "role": "member",
-      "lastSeen": "20261124T070505.000Z",
+      "lastSeen": "20261124T085338.000Z",
       "expLevel": 0,
       "trophies": 10126,
       "arena": {
@@ -358,7 +358,7 @@
       "clanRank": 19,
       "previousClanRank": 20,
       "donations": 0,
-      "donationsReceived": 112,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
@@ -401,7 +401,7 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261124T070302.000Z",
+      "lastSeen": "20261124T074919.000Z",
       "expLevel": 0,
       "trophies": 9783,
       "arena": {
@@ -419,9 +419,9 @@
       "tag": "#9RJPRQLL2",
       "name": "Morj",
       "role": "member",
-      "lastSeen": "20261124T063945.000Z",
+      "lastSeen": "20261124T074943.000Z",
       "expLevel": 0,
-      "trophies": 9694,
+      "trophies": 9722,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -429,7 +429,7 @@
       },
       "clanRank": 23,
       "previousClanRank": 25,
-      "donations": 118,
+      "donations": 134,
       "donationsReceived": 150,
       "clanChestPoints": 0
     },
@@ -473,7 +473,7 @@
       "tag": "#LVP2CL9RQ",
       "name": "rawrr",
       "role": "member",
-      "lastSeen": "20261124T065904.000Z",
+      "lastSeen": "20261124T074019.000Z",
       "expLevel": 0,
       "trophies": 8824,
       "arena": {
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261124T070946.000Z",
+      "lastSeen": "20261124T085743.000Z",
       "expLevel": 0,
       "trophies": 8130,
       "arena": {
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 33,
-      "donations": 211,
+      "donations": 227,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -653,9 +653,9 @@
       "tag": "#VUR0YRJLV",
       "name": "EEEE.",
       "role": "member",
-      "lastSeen": "20261124T061149.000Z",
+      "lastSeen": "20261124T085229.000Z",
       "expLevel": 0,
-      "trophies": 3443,
+      "trophies": 3566,
       "arena": {
         "id": 54000024,
         "name": "Electro Valley",
@@ -682,14 +682,14 @@
       "clanRank": 37,
       "previousClanRank": 39,
       "donations": 186,
-      "donationsReceived": 96,
+      "donationsReceived": 120,
       "clanChestPoints": 0
     },
     {
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261123T222816.000Z",
+      "lastSeen": "20261124T091357.000Z",
       "expLevel": 0,
       "trophies": 3137,
       "arena": {
@@ -725,9 +725,9 @@
       "tag": "#V09GR9GG0",
       "name": "Infirmity",
       "role": "member",
-      "lastSeen": "20261123T173637.000Z",
+      "lastSeen": "20261124T081523.000Z",
       "expLevel": 0,
-      "trophies": 2725,
+      "trophies": 2753,
       "arena": {
         "id": 54000010,
         "name": "Jungle Arena",

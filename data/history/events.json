@@ -9611,5 +9611,49 @@
       }
     ],
     "at": "2026-11-24T07:25:39+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Vines",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-24T09:14:33+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#V09GR9GG0",
+    "name": "Infirmity",
+    "cards": [
+      {
+        "name": "Wizard",
+        "level": 10
+      },
+      {
+        "name": "Dart Goblin",
+        "level": 10
+      },
+      {
+        "name": "Skeletons",
+        "level": 9
+      },
+      {
+        "name": "Tesla",
+        "level": 9
+      },
+      {
+        "name": "Goblin Barrel",
+        "level": 9
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-24T09:14:33+00:00"
   }
 ]

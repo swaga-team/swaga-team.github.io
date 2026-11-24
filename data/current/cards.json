@@ -11711,7 +11711,7 @@
       2
     ],
     "Vines": [
-      9,
+      10,
       0
     ],
     "Goblin Demolisher": [
@@ -30253,7 +30253,7 @@
       0
     ],
     "Skeletons": [
-      8,
+      9,
       1
     ],
     "Bomber": [
@@ -30289,7 +30289,7 @@
       0
     ],
     "Wizard": [
-      9,
+      10,
       1
     ],
     "Electro Spirit": [
@@ -30313,7 +30313,7 @@
       0
     ],
     "Tesla": [
-      8,
+      9,
       1
     ],
     "Bats": [
@@ -30349,11 +30349,11 @@
       0
     ],
     "Goblin Barrel": [
-      8,
+      9,
       0
     ],
     "Baby Dragon": [
-      8,
+      9,
       0
     ],
     "Guards": [
@@ -30437,7 +30437,15 @@
       0
     ],
     "Dart Goblin": [
+      10,
+      0
+    ],
+    "Barbarian Hut": [
       3,
+      0
+    ],
+    "Berserker": [
+      1,
       0
     ]
   },
@@ -33632,6 +33640,18 @@
     ],
     "X-Bow": [
       7,
+      0
+    ],
+    "Mega Knight": [
+      10,
+      0
+    ],
+    "Furnace": [
+      6,
+      0
+    ],
+    "Giant Skeleton": [
+      6,
       0
     ]
   },
