@@ -2444,7 +2444,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#YCPL99V8Y",
@@ -2467,6 +2467,15 @@
         {
           "tag": "#LVJLCCR2",
           "name": "animals1948",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#RCYV8YJUC",
+          "name": "TraineR EmpirE",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2698,7 +2707,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 4
         },
         {
           "tag": "#UQGCLYR8",

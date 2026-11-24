@@ -9704,5 +9704,21 @@
       }
     ],
     "at": "2026-11-24T12:04:17+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Giant",
+        "level": 8
+      },
+      {
+        "name": "Ice Spirit",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-24T13:23:49+00:00"
   }
 ]
