@@ -1297,7 +1297,7 @@
     "threeCrownWins": 640,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 26014,
+    "totalDonations": 26024,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6088,12 +6088,12 @@
   },
   "#J2LGV98JU": {
     "expLevel": 31,
-    "trophies": 9814,
-    "bestTrophies": 9872,
-    "wins": 1021,
-    "losses": 780,
-    "battleCount": 1801,
-    "threeCrownWins": 440,
+    "trophies": 9937,
+    "bestTrophies": 9963,
+    "wins": 1026,
+    "losses": 781,
+    "battleCount": 1807,
+    "threeCrownWins": 443,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 70,
@@ -6715,9 +6715,9 @@
     "expLevel": 63,
     "trophies": 12527,
     "bestTrophies": 12527,
-    "wins": 6215,
-    "losses": 3739,
-    "battleCount": 9954,
+    "wins": 6219,
+    "losses": 3740,
+    "battleCount": 9959,
     "threeCrownWins": 2450,
     "warDayWins": 55,
     "clanCardsCollected": 104252,
@@ -6796,11 +6796,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mega Knight",
-      "rarity": "legendary",
-      "elixirCost": 7,
+      "name": "Rascals",
+      "rarity": "common",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
     }
   },
   "#2VVYJQ29": {

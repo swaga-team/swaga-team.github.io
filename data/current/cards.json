@@ -30671,7 +30671,7 @@
       0
     ],
     "Berserker": [
-      13,
+      14,
       2
     ],
     "Freeze": [
@@ -33652,6 +33652,14 @@
     ],
     "Giant Skeleton": [
       10,
+      0
+    ],
+    "Prince": [
+      6,
+      0
+    ],
+    "Inferno Dragon": [
+      9,
       0
     ]
   },
