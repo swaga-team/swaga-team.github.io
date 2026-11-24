@@ -9776,5 +9776,31 @@
       }
     ],
     "at": "2026-11-24T15:09:02+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#2VVYJQ29",
+    "name": "Wizard",
+    "at": "2026-11-24T16:18:56+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Hog Rider",
+        "level": 8
+      },
+      {
+        "name": "Balloon",
+        "level": 8
+      },
+      {
+        "name": "Golem",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-24T16:18:56+00:00"
   }
 ]
