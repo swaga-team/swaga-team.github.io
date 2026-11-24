@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 115106,
+  "clanScore": 115102,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3372,
+  "donationsPerWeek": 3408,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 42,
   "memberList": [
+    {
+      "tag": "#YQ2VLPJ0L",
+      "name": "arch1tector",
+      "role": "member",
+      "lastSeen": "20261124T190815.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 276,
+      "donationsReceived": 160,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#Q80220028",
       "name": "end",
@@ -31,7 +49,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 5,
       "donations": 180,
       "donationsReceived": 120,
@@ -49,10 +67,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 104,
-      "donationsReceived": 144,
+      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -67,7 +85,7 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 1,
       "donations": 34,
       "donationsReceived": 120,
@@ -85,28 +103,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 4,
+      "clanRank": 5,
       "previousClanRank": 6,
       "donations": 28,
       "donationsReceived": 120,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#YQ2VLPJ0L",
-      "name": "arch1tector",
-      "role": "member",
-      "lastSeen": "20261124T170908.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 5,
-      "previousClanRank": 4,
-      "donations": 258,
-      "donationsReceived": 160,
       "clanChestPoints": 0
     },
     {
@@ -250,7 +250,7 @@
       "clanRank": 13,
       "previousClanRank": 13,
       "donations": 62,
-      "donationsReceived": 120,
+      "donationsReceived": 140,
       "clanChestPoints": 0
     },
     {
@@ -383,9 +383,9 @@
       "tag": "#J2LGV98JU",
       "name": "dibil",
       "role": "member",
-      "lastSeen": "20261124T053223.000Z",
+      "lastSeen": "20261124T193141.000Z",
       "expLevel": 0,
-      "trophies": 9845,
+      "trophies": 9814,
       "arena": {
         "id": 54000031,
         "name": "Legendary Arena",
@@ -563,7 +563,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261124T155335.000Z",
+      "lastSeen": "20261124T193145.000Z",
       "expLevel": 0,
       "trophies": 8130,
       "arena": {
@@ -573,7 +573,7 @@
       },
       "clanRank": 31,
       "previousClanRank": 34,
-      "donations": 289,
+      "donations": 307,
       "donationsReceived": 160,
       "clanChestPoints": 0
     },

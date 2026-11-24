@@ -832,12 +832,12 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 2489,
-    "losses": 1793,
-    "battleCount": 4282,
+    "losses": 1797,
+    "battleCount": 4286,
     "threeCrownWins": 621,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 31679,
+    "totalDonations": 31697,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -912,11 +912,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Mortar",
-      "rarity": "common",
-      "elixirCost": 4,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#8LRPG2VPQ": {
@@ -4687,13 +4687,13 @@
     "expLevel": 1,
     "trophies": 8130,
     "bestTrophies": 8214,
-    "wins": 1213,
-    "losses": 935,
-    "battleCount": 2148,
+    "wins": 1214,
+    "losses": 936,
+    "battleCount": 2150,
     "threeCrownWins": 389,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3376,
+    "totalDonations": 3394,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6088,11 +6088,11 @@
   },
   "#J2LGV98JU": {
     "expLevel": 31,
-    "trophies": 9845,
+    "trophies": 9814,
     "bestTrophies": 9872,
-    "wins": 1020,
-    "losses": 778,
-    "battleCount": 1798,
+    "wins": 1021,
+    "losses": 780,
+    "battleCount": 1801,
     "threeCrownWins": 440,
     "warDayWins": 0,
     "clanCardsCollected": 0,
