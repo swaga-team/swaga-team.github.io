@@ -9671,5 +9671,38 @@
       }
     ],
     "at": "2026-11-24T10:20:37+00:00"
+  },
+  {
+    "type": "league",
+    "tag": "#GU0VGJCJC",
+    "name": "тайный хомячёк",
+    "league": 4,
+    "at": "2026-11-24T12:04:17+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#GU0VGJCJC",
+    "name": "тайный хомячёк",
+    "cards": [
+      "Mirror",
+      "Minion Horde"
+    ],
+    "at": "2026-11-24T12:04:17+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VQJPUULJV",
+    "name": "триппи",
+    "cards": [
+      {
+        "name": "Mini P.E.K.K.A",
+        "level": 13
+      },
+      {
+        "name": "Goblin Curse",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-24T12:04:17+00:00"
   }
 ]
