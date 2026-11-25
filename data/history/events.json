@@ -10409,5 +10409,29 @@
       "Giant Snowball"
     ],
     "at": "2026-11-25T23:00:10+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#29GJQ0G9Q",
+    "name": "✨R_U_B_I_N✨",
+    "cards": [
+      {
+        "name": "Inferno Tower",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-25T23:55:45+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9282CQQ90",
+    "name": "Чушпан",
+    "cards": [
+      {
+        "name": "Furnace",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-25T23:55:45+00:00"
   }
 ]

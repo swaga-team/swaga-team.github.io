@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 116421,
+  "clanScore": 116420,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5153,
+  "donationsPerWeek": 5203,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#GU0VGJCJC",
       "name": "тайный хомячёк",
       "role": "member",
-      "lastSeen": "20261125T222539.000Z",
+      "lastSeen": "20261125T231311.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 3,
       "donations": 182,
-      "donationsReceived": 225,
+      "donationsReceived": 235,
       "clanChestPoints": 0
     },
     {
@@ -329,7 +329,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261125T221453.000Z",
+      "lastSeen": "20261125T233900.000Z",
       "expLevel": 0,
       "trophies": 10381,
       "arena": {
@@ -339,8 +339,8 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 78,
-      "donationsReceived": 136,
+      "donations": 96,
+      "donationsReceived": 148,
       "clanChestPoints": 0
     },
     {
@@ -653,7 +653,7 @@
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261125T194209.000Z",
+      "lastSeen": "20261125T232510.000Z",
       "expLevel": 0,
       "trophies": 6935,
       "arena": {
@@ -663,8 +663,8 @@
       },
       "clanRank": 36,
       "previousClanRank": 35,
-      "donations": 121,
-      "donationsReceived": 160,
+      "donations": 137,
+      "donationsReceived": 168,
       "clanChestPoints": 0
     },
     {
@@ -743,9 +743,9 @@
       "tag": "#VC298L8UV",
       "name": "ink",
       "role": "member",
-      "lastSeen": "20261125T120352.000Z",
+      "lastSeen": "20261125T232554.000Z",
       "expLevel": 0,
-      "trophies": 3151,
+      "trophies": 3121,
       "arena": {
         "id": 54000007,
         "name": "Hog Mountain",
@@ -753,8 +753,8 @@
       },
       "clanRank": 41,
       "previousClanRank": 40,
-      "donations": 99,
-      "donationsReceived": 254,
+      "donations": 115,
+      "donationsReceived": 274,
       "clanChestPoints": 0
     },
     {
