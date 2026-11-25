@@ -101,7 +101,7 @@
     "threeCrownWins": 1088,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
-    "totalDonations": 42315,
+    "totalDonations": 42323,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 3,
       "trophies": 0,
@@ -187,9 +187,9 @@
     "expLevel": 63,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2234,
-    "losses": 1514,
-    "battleCount": 3748,
+    "wins": 2235,
+    "losses": 1516,
+    "battleCount": 3751,
     "threeCrownWins": 1076,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -268,11 +268,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Knight",
+      "name": "Goblin Gang",
       "rarity": "common",
       "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
     }
   },
   "#9JQ8PCJ": {
@@ -1469,12 +1469,12 @@
     "trophies": 12220,
     "bestTrophies": 12279,
     "wins": 2471,
-    "losses": 2671,
-    "battleCount": 5142,
+    "losses": 2672,
+    "battleCount": 5143,
     "threeCrownWins": 1121,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 14636,
+    "totalDonations": 14646,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2926,13 +2926,13 @@
     "expLevel": 39,
     "trophies": 6905,
     "bestTrophies": 6905,
-    "wins": 2748,
-    "losses": 2855,
-    "battleCount": 5603,
-    "threeCrownWins": 1932,
+    "wins": 2750,
+    "losses": 2857,
+    "battleCount": 5607,
+    "threeCrownWins": 1933,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37866,
+    "totalDonations": 37874,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3007,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Furnace",
-      "rarity": "rare",
-      "elixirCost": 4,
+      "name": "Graveyard",
+      "rarity": "legendary",
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
     }
   },
   "#GQP92GLC8": {
@@ -4687,13 +4687,13 @@
     "expLevel": 1,
     "trophies": 8130,
     "bestTrophies": 8214,
-    "wins": 1221,
-    "losses": 945,
-    "battleCount": 2166,
-    "threeCrownWins": 390,
+    "wins": 1225,
+    "losses": 955,
+    "battleCount": 2180,
+    "threeCrownWins": 391,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3426,
+    "totalDonations": 3460,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -4768,11 +4768,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Sparky",
-      "rarity": "legendary",
-      "elixirCost": 6,
+      "name": "Golem",
+      "rarity": "epic",
+      "elixirCost": 8,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/2GKMkBrArZXgQxf2ygFjDs4VvGYPbx8F6Lj_68iVhIM.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
     }
   },
   "#90QGJUUG": {
@@ -4871,10 +4871,10 @@
     "expLevel": 1,
     "trophies": 5659,
     "bestTrophies": 5659,
-    "wins": 827,
-    "losses": 432,
-    "battleCount": 1259,
-    "threeCrownWins": 207,
+    "wins": 831,
+    "losses": 433,
+    "battleCount": 1264,
+    "threeCrownWins": 208,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 181,
@@ -4952,11 +4952,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Three Musketeers",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 9,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
     }
   },
   "#2G2VYP9G": {
@@ -5053,15 +5053,15 @@
   },
   "#VC298L8UV": {
     "expLevel": 1,
-    "trophies": 3151,
+    "trophies": 3121,
     "bestTrophies": 3215,
     "wins": 339,
-    "losses": 253,
-    "battleCount": 592,
+    "losses": 254,
+    "battleCount": 593,
     "threeCrownWins": 120,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 566,
+    "totalDonations": 580,
     "currentPathOfLegendSeasonResult": null,
     "lastPathOfLegendSeasonResult": null,
     "bestPathOfLegendSeasonResult": null,
@@ -5635,13 +5635,13 @@
     "expLevel": 58,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 4075,
-    "losses": 3493,
-    "battleCount": 7568,
-    "threeCrownWins": 1784,
+    "wins": 4077,
+    "losses": 3503,
+    "battleCount": 7580,
+    "threeCrownWins": 1786,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 8293,
+    "totalDonations": 8309,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 4,
       "trophies": 0,
@@ -5820,8 +5820,8 @@
     "trophies": 8600,
     "bestTrophies": 8814,
     "wins": 650,
-    "losses": 351,
-    "battleCount": 1001,
+    "losses": 357,
+    "battleCount": 1007,
     "threeCrownWins": 172,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5900,11 +5900,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Giant Skeleton",
+      "name": "Bowler",
       "rarity": "epic",
-      "elixirCost": 6,
+      "elixirCost": 5,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
     }
   },
   "#J28RP9LPV": {
@@ -6457,7 +6457,7 @@
     "threeCrownWins": 253,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 554,
+    "totalDonations": 584,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
