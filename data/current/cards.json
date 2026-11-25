@@ -2249,7 +2249,7 @@
       0
     ],
     "Mirror": [
-      14,
+      15,
       1
     ],
     "Royal Ghost": [
@@ -35122,6 +35122,590 @@
     ],
     "Golden Knight": [
       11,
+      0
+    ]
+  },
+  "#U209Q88J2": {
+    "Mini P.E.K.K.A": [
+      9,
+      0
+    ],
+    "Spear Goblins": [
+      8,
+      0
+    ],
+    "Musketeer": [
+      8,
+      0
+    ],
+    "Goblin Hut": [
+      8,
+      0
+    ],
+    "Knight": [
+      13,
+      2
+    ],
+    "Archers": [
+      13,
+      1
+    ],
+    "Minions": [
+      11,
+      0
+    ],
+    "Arrows": [
+      8,
+      0
+    ],
+    "Fireball": [
+      8,
+      0
+    ],
+    "Giant": [
+      9,
+      0
+    ],
+    "Goblins": [
+      8,
+      0
+    ],
+    "Goblin Cage": [
+      8,
+      1
+    ],
+    "Skeletons": [
+      7,
+      0
+    ],
+    "Valkyrie": [
+      10,
+      1
+    ],
+    "Bomber": [
+      9,
+      0
+    ],
+    "Tombstone": [
+      6,
+      0
+    ],
+    "Cannon": [
+      12,
+      1
+    ],
+    "Barbarians": [
+      11,
+      1
+    ],
+    "Mega Minion": [
+      10,
+      0
+    ],
+    "Battle Ram": [
+      12,
+      0
+    ],
+    "Skeleton Army": [
+      9,
+      0
+    ],
+    "Electro Spirit": [
+      8,
+      0
+    ],
+    "Inferno Tower": [
+      10,
+      0
+    ],
+    "Fire Spirit": [
+      9,
+      0
+    ],
+    "Skeleton Dragons": [
+      9,
+      0
+    ],
+    "Bomb Tower": [
+      9,
+      0
+    ],
+    "Wizard": [
+      11,
+      2
+    ],
+    "Zap": [
+      11,
+      0
+    ],
+    "Mortar": [
+      9,
+      0
+    ],
+    "Bats": [
+      9,
+      0
+    ],
+    "Hog Rider": [
+      11,
+      0
+    ],
+    "Rocket": [
+      9,
+      0
+    ],
+    "Guards": [
+      11,
+      0
+    ],
+    "Flying Machine": [
+      8,
+      0
+    ],
+    "Witch": [
+      13,
+      0
+    ],
+    "Goblin Barrel": [
+      12,
+      0
+    ],
+    "Baby Dragon": [
+      11,
+      0
+    ],
+    "Royal Giant": [
+      10,
+      0
+    ],
+    "Royal Recruits": [
+      9,
+      0
+    ],
+    "Prince": [
+      10,
+      0
+    ],
+    "Royal Hogs": [
+      7,
+      0
+    ],
+    "P.E.K.K.A": [
+      10,
+      0
+    ],
+    "Balloon": [
+      10,
+      0
+    ],
+    "Ice Spirit": [
+      7,
+      0
+    ],
+    "Giant Snowball": [
+      9,
+      0
+    ],
+    "Dark Prince": [
+      12,
+      0
+    ],
+    "Giant Skeleton": [
+      9,
+      0
+    ],
+    "Lightning": [
+      9,
+      0
+    ],
+    "Three Musketeers": [
+      8,
+      0
+    ],
+    "Freeze": [
+      9,
+      0
+    ],
+    "Battle Healer": [
+      7,
+      0
+    ],
+    "Vines": [
+      8,
+      0
+    ],
+    "Ice Golem": [
+      6,
+      0
+    ],
+    "Goblin Gang": [
+      7,
+      0
+    ],
+    "Berserker": [
+      6,
+      0
+    ],
+    "Barbarian Barrel": [
+      11,
+      2
+    ],
+    "Skeleton Barrel": [
+      12,
+      0
+    ],
+    "Magic Archer": [
+      11,
+      0
+    ],
+    "Dart Goblin": [
+      9,
+      0
+    ],
+    "Rune Giant": [
+      9,
+      0
+    ],
+    "Poison": [
+      6,
+      0
+    ],
+    "Barbarian Hut": [
+      7,
+      0
+    ],
+    "Goblin Giant": [
+      8,
+      0
+    ],
+    "Minion Horde": [
+      12,
+      0
+    ],
+    "Elite Barbarians": [
+      9,
+      0
+    ],
+    "Golem": [
+      12,
+      0
+    ],
+    "Tesla": [
+      7,
+      0
+    ],
+    "Furnace": [
+      6,
+      0
+    ],
+    "Ram Rider": [
+      9,
+      0
+    ],
+    "Zappies": [
+      9,
+      0
+    ],
+    "Hunter": [
+      7,
+      0
+    ],
+    "X-Bow": [
+      6,
+      0
+    ],
+    "Princess": [
+      9,
+      0
+    ],
+    "Sparky": [
+      10,
+      0
+    ],
+    "Electro Wizard": [
+      10,
+      0
+    ],
+    "Firecracker": [
+      6,
+      0
+    ],
+    "Wall Breakers": [
+      6,
+      0
+    ],
+    "Earthquake": [
+      7,
+      0
+    ],
+    "Electro Dragon": [
+      6,
+      0
+    ],
+    "Mega Knight": [
+      11,
+      0
+    ],
+    "Goblin Demolisher": [
+      6,
+      0
+    ],
+    "Miner": [
+      9,
+      0
+    ],
+    "The Log": [
+      11,
+      0
+    ],
+    "Rascals": [
+      9,
+      0
+    ],
+    "Heal Spirit": [
+      7,
+      0
+    ],
+    "Inferno Dragon": [
+      10,
+      0
+    ],
+    "Electro Giant": [
+      9,
+      0
+    ],
+    "Bowler": [
+      13,
+      0
+    ],
+    "Suspicious Bush": [
+      6,
+      0
+    ],
+    "Phoenix": [
+      9,
+      0
+    ],
+    "Bandit": [
+      10,
+      0
+    ],
+    "Ice Wizard": [
+      10,
+      0
+    ],
+    "Royal Delivery": [
+      6,
+      0
+    ],
+    "Night Witch": [
+      9,
+      0
+    ],
+    "Lava Hound": [
+      10,
+      0
+    ],
+    "Executioner": [
+      9,
+      0
+    ],
+    "Elixir Golem": [
+      6,
+      0
+    ],
+    "Goblin Drill": [
+      8,
+      0
+    ],
+    "Rage": [
+      9,
+      0
+    ],
+    "Mirror": [
+      9,
+      0
+    ],
+    "Cannon Cart": [
+      8,
+      0
+    ],
+    "Void": [
+      7,
+      0
+    ],
+    "Lumberjack": [
+      9,
+      1
+    ],
+    "Clone": [
+      8,
+      0
+    ],
+    "Goblin Curse": [
+      8,
+      0
+    ],
+    "Elixir Collector": [
+      7,
+      0
+    ],
+    "Tornado": [
+      7,
+      0
+    ],
+    "Mother Witch": [
+      9,
+      0
+    ],
+    "Royal Ghost": [
+      9,
+      0
+    ],
+    "Skeleton King": [
+      12,
+      0
+    ],
+    "Fisherman": [
+      9,
+      0
+    ],
+    "Graveyard": [
+      9,
+      0
+    ],
+    "Boss Bandit": [
+      12,
+      0
+    ],
+    "Spirit Empress": [
+      9,
+      0
+    ],
+    "Goblin Machine": [
+      10,
+      0
+    ],
+    "Minion Giant": [
+      7,
+      0
+    ],
+    "Archer Queen": [
+      11,
+      0
+    ],
+    "Ronin": [
+      9,
+      0
+    ],
+    "Mighty Miner": [
+      11,
+      0
+    ]
+  },
+  "#QGGC9R0VC": {
+    "Knight": [
+      8,
+      0
+    ],
+    "Archers": [
+      7,
+      0
+    ],
+    "Minions": [
+      7,
+      0
+    ],
+    "Arrows": [
+      8,
+      0
+    ],
+    "Fireball": [
+      5,
+      0
+    ],
+    "Giant": [
+      8,
+      0
+    ],
+    "Mini P.E.K.K.A": [
+      8,
+      0
+    ],
+    "Spear Goblins": [
+      6,
+      0
+    ],
+    "Musketeer": [
+      6,
+      0
+    ],
+    "Goblins": [
+      7,
+      0
+    ],
+    "Goblin Cage": [
+      7,
+      0
+    ],
+    "Goblin Hut": [
+      6,
+      0
+    ],
+    "Bomber": [
+      6,
+      0
+    ],
+    "Skeletons": [
+      8,
+      0
+    ],
+    "Valkyrie": [
+      6,
+      0
+    ],
+    "Tombstone": [
+      5,
+      0
+    ],
+    "Cannon": [
+      6,
+      0
+    ],
+    "Barbarians": [
+      6,
+      0
+    ],
+    "Mega Minion": [
+      7,
+      0
+    ],
+    "Battle Ram": [
+      7,
+      0
+    ],
+    "Inferno Tower": [
+      7,
+      0
+    ],
+    "Bomb Tower": [
+      7,
+      0
+    ],
+    "Wizard": [
+      8,
+      0
+    ],
+    "Electro Spirit": [
+      6,
+      0
+    ],
+    "Skeleton Dragons": [
+      8,
+      0
+    ],
+    "Fire Spirit": [
+      7,
       0
     ]
   }

@@ -161,6 +161,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#QGGC9R0VC",
+        "name": "negrik",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#2G2VYP9G",
         "name": "THE BOSS G.",
         "fame": 0,
@@ -230,7 +239,7 @@
         "repairPoints": 0,
         "boatAttacks": 0,
         "decksUsed": 0,
-        "decksUsedToday": 0
+        "decksUsedToday": 1
       },
       {
         "tag": "#VC298L8UV",
@@ -397,6 +406,15 @@
       {
         "tag": "#U00CVC89C",
         "name": "Zenitsu",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#U209Q88J2",
+        "name": "Myxa",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -1066,6 +1084,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#QGGC9R0VC",
+          "name": "negrik",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#2G2VYP9G",
           "name": "THE BOSS G.",
           "fame": 0,
@@ -1135,7 +1162,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 1
         },
         {
           "tag": "#VC298L8UV",
@@ -1302,6 +1329,15 @@
         {
           "tag": "#U00CVC89C",
           "name": "Zenitsu",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#U209Q88J2",
+          "name": "Myxa",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2498,7 +2534,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 1
+          "decksUsedToday": 2
         },
         {
           "tag": "#LVJLCCR2",
