@@ -23711,7 +23711,7 @@
       0
     ],
     "Mini P.E.K.K.A": [
-      11,
+      12,
       2
     ],
     "Musketeer": [
@@ -24839,7 +24839,7 @@
       0
     ],
     "Battle Healer": [
-      8,
+      9,
       0
     ],
     "Ice Spirit": [
@@ -25063,7 +25063,7 @@
       0
     ],
     "Tornado": [
-      8,
+      9,
       0
     ],
     "Void": [
@@ -33661,6 +33661,14 @@
     "Inferno Dragon": [
       9,
       0
+    ],
+    "Princess": [
+      9,
+      0
+    ],
+    "Barbarian Hut": [
+      3,
+      0
     ]
   },
   "#80LP8PCVJ": {
@@ -34101,7 +34109,7 @@
       0
     ],
     "Baby Dragon": [
-      15,
+      16,
       0
     ],
     "Goblin Demolisher": [
