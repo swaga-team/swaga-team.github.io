@@ -193,7 +193,7 @@
     "threeCrownWins": 1075,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 35898,
+    "totalDonations": 35930,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2926,13 +2926,13 @@
     "expLevel": 39,
     "trophies": 6905,
     "bestTrophies": 6905,
-    "wins": 2747,
+    "wins": 2748,
     "losses": 2855,
-    "battleCount": 5602,
-    "threeCrownWins": 1931,
+    "battleCount": 5603,
+    "threeCrownWins": 1932,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
-    "totalDonations": 37856,
+    "totalDonations": 37866,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -3007,11 +3007,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Hut",
+      "name": "Furnace",
       "rarity": "rare",
       "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/l8ZdzzNLcwB4u7ihGgxNFQOjCT_njFuAhZr7D6PRF7E.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
     }
   },
   "#GQP92GLC8": {
@@ -5055,9 +5055,9 @@
     "expLevel": 1,
     "trophies": 3179,
     "bestTrophies": 3215,
-    "wins": 337,
-    "losses": 250,
-    "battleCount": 587,
+    "wins": 338,
+    "losses": 251,
+    "battleCount": 589,
     "threeCrownWins": 120,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5164,13 +5164,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -6744,13 +6737,6 @@
         "elixirCost": 7,
         "evolved": false,
         "icon": "https://api-assets.clashroyale.com/cards/300/O2NycChSNhn_UK9nqBXUhhC_lILkiANzPuJjtjoz0CE.png"
-      },
-      {
-        "name": "Archer Queen",
-        "rarity": "champion",
-        "elixirCost": 5,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/p7OQmOAFTery7zCzlpDdm-LOD1kINTm42AwIHchZfWk.png"
       },
       {
         "name": "Royal Ghost",

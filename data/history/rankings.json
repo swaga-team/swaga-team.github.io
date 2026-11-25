@@ -777,5 +777,32 @@
         "cutoff": 2669
       }
     }
+  },
+  {
+    "date": "2026-11-25",
+    "score": {
+      "trophies": 115784,
+      "war": 2215
+    },
+    "global": {
+      "trophies": {
+        "rank": null,
+        "cutoff": 139876
+      },
+      "war": {
+        "rank": null,
+        "cutoff": 4397
+      }
+    },
+    "local": {
+      "trophies": {
+        "rank": null,
+        "cutoff": 133775
+      },
+      "war": {
+        "rank": null,
+        "cutoff": 2669
+      }
+    }
   }
 ]
