@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 116378,
+  "clanScore": 116405,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5063,
+  "donationsPerWeek": 5071,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
       "role": "elder",
-      "lastSeen": "20261125T194820.000Z",
+      "lastSeen": "20261125T202556.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 3,
       "donations": 182,
-      "donationsReceived": 201,
+      "donationsReceived": 209,
       "clanChestPoints": 0
     },
     {
@@ -203,7 +203,7 @@
       "tag": "#2G2VYP9G",
       "name": "THE BOSS G.",
       "role": "elder",
-      "lastSeen": "20261124T140733.000Z",
+      "lastSeen": "20261125T203447.000Z",
       "expLevel": 0,
       "trophies": 13218,
       "arena": {
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 36,
+      "donations": 44,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -221,7 +221,7 @@
       "tag": "#80LP8PCVJ",
       "name": "paraDOXX",
       "role": "member",
-      "lastSeen": "20261125T175142.000Z",
+      "lastSeen": "20261125T205833.000Z",
       "expLevel": 0,
       "trophies": 12557,
       "arena": {
@@ -362,6 +362,24 @@
       "clanChestPoints": 0
     },
     {
+      "tag": "#J2LGV98JU",
+      "name": "dibil",
+      "role": "member",
+      "lastSeen": "20261125T201229.000Z",
+      "expLevel": 0,
+      "trophies": 9970,
+      "arena": {
+        "id": 54000031,
+        "name": "Legendary Arena",
+        "rawName": "Arena_L10"
+      },
+      "clanRank": 20,
+      "previousClanRank": 21,
+      "donations": 0,
+      "donationsReceived": 0,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#CJR008LV9",
       "name": "cook",
       "role": "member",
@@ -373,28 +391,10 @@
         "name": "Legendary Arena",
         "rawName": "Arena_L10"
       },
-      "clanRank": 20,
+      "clanRank": 21,
       "previousClanRank": 20,
       "donations": 138,
       "donationsReceived": 160,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#J2LGV98JU",
-      "name": "dibil",
-      "role": "member",
-      "lastSeen": "20261125T172120.000Z",
-      "expLevel": 0,
-      "trophies": 9882,
-      "arena": {
-        "id": 54000031,
-        "name": "Legendary Arena",
-        "rawName": "Arena_L10"
-      },
-      "clanRank": 21,
-      "previousClanRank": 21,
-      "donations": 0,
-      "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
@@ -707,9 +707,9 @@
       "tag": "#VUR0YRJLV",
       "name": "EEEE.",
       "role": "member",
-      "lastSeen": "20261125T193246.000Z",
+      "lastSeen": "20261125T203546.000Z",
       "expLevel": 0,
-      "trophies": 3865,
+      "trophies": 3993,
       "arena": {
         "id": 54000011,
         "name": "Spooky Town",
