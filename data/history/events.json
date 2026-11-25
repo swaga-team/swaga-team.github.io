@@ -10367,5 +10367,47 @@
       }
     ],
     "at": "2026-11-25T22:02:02+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#2G2VYP9G",
+    "name": "THE BOSS G.",
+    "cards": [
+      "Mirror"
+    ],
+    "at": "2026-11-25T23:00:10+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#80LP8PCVJ",
+    "name": "paraDOXX",
+    "cards": [
+      {
+        "name": "Cannon Cart",
+        "level": 11
+      },
+      {
+        "name": "Inferno Tower",
+        "level": 11
+      },
+      {
+        "name": "Mini P.E.K.K.A",
+        "level": 11
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-25T23:00:10+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#80LP8PCVJ",
+    "name": "paraDOXX",
+    "cards": [
+      "Giant Snowball"
+    ],
+    "at": "2026-11-25T23:00:10+00:00"
   }
 ]

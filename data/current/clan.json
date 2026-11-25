@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 116420,
+  "clanScore": 116421,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,12 +13,30 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5105,
+  "donationsPerWeek": 5153,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
   "members": 45,
   "memberList": [
+    {
+      "tag": "#GU0VGJCJC",
+      "name": "тайный хомячёк",
+      "role": "member",
+      "lastSeen": "20261125T222539.000Z",
+      "expLevel": 0,
+      "trophies": 14000,
+      "arena": {
+        "id": 54000144,
+        "name": "Spirit Square",
+        "rawName": "Arena_L18"
+      },
+      "clanRank": 1,
+      "previousClanRank": 4,
+      "donations": 98,
+      "donationsReceived": 200,
+      "clanChestPoints": 0
+    },
     {
       "tag": "#CGPUY8P2",
       "name": "BIG BOY",
@@ -31,10 +49,10 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 182,
-      "donationsReceived": 209,
+      "donationsReceived": 225,
       "clanChestPoints": 0
     },
     {
@@ -49,27 +67,9 @@
         "name": "Spirit Square",
         "rawName": "Arena_L18"
       },
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 2,
       "donations": 406,
-      "donationsReceived": 200,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#GU0VGJCJC",
-      "name": "тайный хомячёк",
-      "role": "member",
-      "lastSeen": "20261125T182051.000Z",
-      "expLevel": 0,
-      "trophies": 14000,
-      "arena": {
-        "id": 54000144,
-        "name": "Spirit Square",
-        "rawName": "Arena_L18"
-      },
-      "clanRank": 3,
-      "previousClanRank": 4,
-      "donations": 98,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -203,9 +203,9 @@
       "tag": "#2G2VYP9G",
       "name": "THE BOSS G.",
       "role": "elder",
-      "lastSeen": "20261125T203447.000Z",
+      "lastSeen": "20261125T220946.000Z",
       "expLevel": 0,
-      "trophies": 13218,
+      "trophies": 13221,
       "arena": {
         "id": 54000143,
         "name": "Little Prince's Tavern",
@@ -213,7 +213,7 @@
       },
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 44,
+      "donations": 60,
       "donationsReceived": 40,
       "clanChestPoints": 0
     },
@@ -231,8 +231,8 @@
       },
       "clanRank": 12,
       "previousClanRank": 12,
-      "donations": 144,
-      "donationsReceived": 128,
+      "donations": 152,
+      "donationsReceived": 144,
       "clanChestPoints": 0
     },
     {
@@ -275,7 +275,7 @@
       "tag": "#29GJQ0G9Q",
       "name": "✨R_U_B_I_N✨",
       "role": "member",
-      "lastSeen": "20261125T192403.000Z",
+      "lastSeen": "20261125T225536.000Z",
       "expLevel": 0,
       "trophies": 12002,
       "arena": {
@@ -285,7 +285,7 @@
       },
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 292,
+      "donations": 308,
       "donationsReceived": 256,
       "clanChestPoints": 0
     },
@@ -329,7 +329,7 @@
       "tag": "#2QQG2QPCY",
       "name": "Clasher",
       "role": "member",
-      "lastSeen": "20261125T120639.000Z",
+      "lastSeen": "20261125T221453.000Z",
       "expLevel": 0,
       "trophies": 10381,
       "arena": {
@@ -339,8 +339,8 @@
       },
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 70,
-      "donationsReceived": 120,
+      "donations": 78,
+      "donationsReceived": 136,
       "clanChestPoints": 0
     },
     {
@@ -401,7 +401,7 @@
       "tag": "#JU2L2U8LG",
       "name": "адцкий гей",
       "role": "member",
-      "lastSeen": "20261125T185652.000Z",
+      "lastSeen": "20261125T220756.000Z",
       "expLevel": 0,
       "trophies": 9785,
       "arena": {
