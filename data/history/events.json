@@ -10258,5 +10258,26 @@
       }
     ],
     "at": "2026-11-25T15:14:54+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#CGPUY8P2",
+    "name": "BIG BOY",
+    "cards": [
+      "Mirror"
+    ],
+    "at": "2026-11-25T17:55:21+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      {
+        "name": "Zap",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-25T17:55:21+00:00"
   }
 ]
