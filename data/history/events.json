@@ -10279,5 +10279,42 @@
       }
     ],
     "at": "2026-11-25T17:55:21+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Barbarian Hut",
+        "level": 10
+      },
+      {
+        "name": "Zappies",
+        "level": 9
+      },
+      {
+        "name": "Hunter",
+        "level": 7
+      },
+      {
+        "name": "Prince",
+        "level": 7
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 6
+      }
+    ],
+    "at": "2026-11-25T18:59:12+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      "P.E.K.K.A"
+    ],
+    "at": "2026-11-25T18:59:12+00:00"
   }
 ]
