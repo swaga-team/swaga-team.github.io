@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 3544,
+  "donationsPerWeek": 3586,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -23,7 +23,7 @@
       "tag": "#Q80220028",
       "name": "end",
       "role": "member",
-      "lastSeen": "20261125T030211.000Z",
+      "lastSeen": "20261125T031538.000Z",
       "expLevel": 0,
       "trophies": 14000,
       "arena": {
@@ -33,7 +33,7 @@
       },
       "clanRank": 1,
       "previousClanRank": 7,
-      "donations": 180,
+      "donations": 222,
       "donationsReceived": 120,
       "clanChestPoints": 0
     },
@@ -52,7 +52,7 @@
       "clanRank": 2,
       "previousClanRank": 8,
       "donations": 216,
-      "donationsReceived": 140,
+      "donationsReceived": 150,
       "clanChestPoints": 0
     },
     {
@@ -286,7 +286,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 208,
-      "donationsReceived": 160,
+      "donationsReceived": 168,
       "clanChestPoints": 0
     },
     {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 16,
       "donations": 120,
-      "donationsReceived": 200,
+      "donationsReceived": 208,
       "clanChestPoints": 0
     },
     {
@@ -340,7 +340,7 @@
       "clanRank": 18,
       "previousClanRank": 18,
       "donations": 50,
-      "donationsReceived": 48,
+      "donationsReceived": 56,
       "clanChestPoints": 0
     },
     {
@@ -538,7 +538,7 @@
       "clanRank": 29,
       "previousClanRank": 0,
       "donations": 0,
-      "donationsReceived": 32,
+      "donationsReceived": 40,
       "clanChestPoints": 0
     },
     {
