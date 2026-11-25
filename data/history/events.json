@@ -10093,5 +10093,146 @@
       }
     ],
     "at": "2026-11-25T11:04:08+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Ice Wizard",
+        "level": 12
+      },
+      {
+        "name": "Minion Giant",
+        "level": 10
+      },
+      {
+        "name": "Mortar",
+        "level": 9
+      },
+      {
+        "name": "Goblins",
+        "level": 9
+      },
+      {
+        "name": "Minion Horde",
+        "level": 9
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 9
+      },
+      {
+        "name": "Goblin Hut",
+        "level": 9
+      },
+      {
+        "name": "Spear Goblins",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-25T13:29:09+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      "Dart Goblin"
+    ],
+    "at": "2026-11-25T13:29:09+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Barbarian Barrel",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-25T13:29:09+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9282CQQ90",
+    "name": "Чушпан",
+    "cards": [
+      {
+        "name": "Tombstone",
+        "level": 14
+      },
+      {
+        "name": "Poison",
+        "level": 12
+      },
+      {
+        "name": "Hunter",
+        "level": 12
+      },
+      {
+        "name": "Goblins",
+        "level": 12
+      },
+      {
+        "name": "Musketeer",
+        "level": 12
+      },
+      {
+        "name": "Zappies",
+        "level": 11
+      },
+      {
+        "name": "Hog Rider",
+        "level": 11
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 11
+      },
+      {
+        "name": "Electro Giant",
+        "level": 11
+      },
+      {
+        "name": "Void",
+        "level": 11
+      },
+      {
+        "name": "Earthquake",
+        "level": 10
+      },
+      {
+        "name": "Goblin Cage",
+        "level": 10
+      },
+      {
+        "name": "Rune Giant",
+        "level": 10
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 8
+      },
+      {
+        "name": "Minion Giant",
+        "level": 6
+      }
+    ],
+    "at": "2026-11-25T13:29:09+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Royal Recruits",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-25T13:29:09+00:00"
   }
 ]

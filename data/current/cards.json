@@ -15769,7 +15769,7 @@
       0
     ],
     "Earthquake": [
-      8,
+      10,
       0
     ],
     "Dart Goblin": [
@@ -15877,7 +15877,7 @@
       0
     ],
     "Zappies": [
-      3,
+      11,
       0
     ],
     "Royal Hogs": [
@@ -15913,7 +15913,7 @@
       0
     ],
     "Hog Rider": [
-      10,
+      11,
       0
     ],
     "Princess": [
@@ -15945,7 +15945,7 @@
       0
     ],
     "Royal Recruits": [
-      10,
+      11,
       0
     ],
     "Cannon": [
@@ -15985,7 +15985,7 @@
       0
     ],
     "Goblin Cage": [
-      9,
+      10,
       0
     ],
     "Fire Spirit": [
@@ -16005,7 +16005,7 @@
       0
     ],
     "Poison": [
-      11,
+      12,
       0
     ],
     "Battle Ram": [
@@ -16021,7 +16021,7 @@
       0
     ],
     "Hunter": [
-      10,
+      12,
       0
     ],
     "Minion Horde": [
@@ -16049,7 +16049,7 @@
       0
     ],
     "Goblins": [
-      11,
+      12,
       0
     ],
     "Golem": [
@@ -16081,7 +16081,7 @@
       1
     ],
     "Musketeer": [
-      11,
+      12,
       0
     ],
     "Mega Knight": [
@@ -16097,7 +16097,7 @@
       0
     ],
     "Electro Giant": [
-      7,
+      11,
       0
     ],
     "Baby Dragon": [
@@ -16105,7 +16105,7 @@
       0
     ],
     "Goblin Drill": [
-      6,
+      8,
       0
     ],
     "Freeze": [
@@ -16157,7 +16157,7 @@
       0
     ],
     "Tombstone": [
-      13,
+      14,
       0
     ],
     "Fireball": [
@@ -16209,7 +16209,7 @@
       0
     ],
     "Minion Giant": [
-      3,
+      6,
       0
     ],
     "Goblin Curse": [
@@ -16217,7 +16217,7 @@
       0
     ],
     "Rune Giant": [
-      6,
+      10,
       0
     ],
     "Goblin Demolisher": [
@@ -16229,7 +16229,7 @@
       0
     ],
     "Void": [
-      10,
+      11,
       0
     ],
     "Spirit Empress": [
@@ -23919,7 +23919,7 @@
       0
     ],
     "Barbarian Barrel": [
-      9,
+      10,
       0
     ],
     "Golem": [
@@ -25869,7 +25869,7 @@
       0
     ],
     "Mortar": [
-      8,
+      9,
       1
     ],
     "Lumberjack": [
@@ -25997,7 +25997,7 @@
       1
     ],
     "Goblins": [
-      7,
+      9,
       2
     ],
     "Executioner": [
@@ -26021,7 +26021,7 @@
       0
     ],
     "Minion Horde": [
-      7,
+      9,
       0
     ],
     "Valkyrie": [
@@ -26061,7 +26061,7 @@
       0
     ],
     "Elite Barbarians": [
-      8,
+      9,
       0
     ],
     "Bandit": [
@@ -26082,7 +26082,7 @@
     ],
     "Dart Goblin": [
       16,
-      0
+      1
     ],
     "Hunter": [
       12,
@@ -26113,7 +26113,7 @@
       0
     ],
     "Goblin Hut": [
-      8,
+      9,
       0
     ],
     "Mini P.E.K.K.A": [
@@ -26133,7 +26133,7 @@
       1
     ],
     "Spear Goblins": [
-      8,
+      9,
       0
     ],
     "Flying Machine": [
@@ -26245,7 +26245,7 @@
       0
     ],
     "Ice Wizard": [
-      11,
+      12,
       0
     ],
     "Minions": [
@@ -26353,7 +26353,7 @@
       0
     ],
     "Minion Giant": [
-      9,
+      10,
       0
     ]
   },
@@ -33563,7 +33563,7 @@
       0
     ],
     "Royal Recruits": [
-      7,
+      8,
       0
     ],
     "Three Musketeers": [
@@ -33667,6 +33667,14 @@
       0
     ],
     "Barbarian Hut": [
+      3,
+      0
+    ],
+    "Electro Wizard": [
+      9,
+      0
+    ],
+    "Zappies": [
       3,
       0
     ]
