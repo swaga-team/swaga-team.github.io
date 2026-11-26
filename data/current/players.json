@@ -371,13 +371,13 @@
     "expLevel": 62,
     "trophies": 14000,
     "bestTrophies": 14000,
-    "wins": 2975,
+    "wins": 2976,
     "losses": 2556,
-    "battleCount": 5531,
+    "battleCount": 5532,
     "threeCrownWins": 1122,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 16359,
+    "totalDonations": 16431,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -2134,13 +2134,6 @@
         "elixirCost": 6,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/C88C5JH_F3lLZj6K-tLcMo5DPjrFmvzIb1R2M6xCfTE.png"
-      },
-      {
-        "name": "Golden Knight",
-        "rarity": "champion",
-        "elixirCost": 4,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/WJd207D0O1sN-l1FTb8P9KhYL2oF5jY26vRUfTUW3FQ.png"
       },
       {
         "name": "Valkyrie",
@@ -4871,10 +4864,10 @@
     "expLevel": 1,
     "trophies": 5659,
     "bestTrophies": 5659,
-    "wins": 839,
-    "losses": 440,
-    "battleCount": 1279,
-    "threeCrownWins": 210,
+    "wins": 843,
+    "losses": 441,
+    "battleCount": 1284,
+    "threeCrownWins": 212,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 181,
@@ -4952,11 +4945,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Skeleton Dragons",
-      "rarity": "common",
-      "elixirCost": 4,
+      "name": "Lava Hound",
+      "rarity": "legendary",
+      "elixirCost": 7,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/qPOtg9uONh47_NLxGhhFc_ww9PlZ6z3Ry507q1NZUXs.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
     }
   },
   "#2G2VYP9G": {
@@ -5164,13 +5157,6 @@
         "elixirCost": 3,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
-      },
-      {
-        "name": "Boss Bandit",
-        "rarity": "champion",
-        "elixirCost": 6,
-        "evolved": false,
-        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Witch",
@@ -6088,12 +6074,12 @@
   },
   "#J2LGV98JU": {
     "expLevel": 31,
-    "trophies": 9942,
-    "bestTrophies": 9970,
-    "wins": 1029,
-    "losses": 784,
-    "battleCount": 1813,
-    "threeCrownWins": 444,
+    "trophies": 10029,
+    "bestTrophies": 10061,
+    "wins": 1033,
+    "losses": 785,
+    "battleCount": 1818,
+    "threeCrownWins": 446,
     "warDayWins": 0,
     "clanCardsCollected": 0,
     "totalDonations": 70,
