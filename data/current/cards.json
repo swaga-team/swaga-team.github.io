@@ -4659,7 +4659,7 @@
       0
     ],
     "Elixir Golem": [
-      12,
+      13,
       0
     ],
     "Executioner": [
@@ -8249,7 +8249,7 @@
       0
     ],
     "Barbarian Barrel": [
-      11,
+      12,
       0
     ],
     "Giant Skeleton": [
@@ -8337,7 +8337,7 @@
       0
     ],
     "Goblin Drill": [
-      11,
+      12,
       0
     ],
     "Mother Witch": [
@@ -18731,7 +18731,7 @@
       0
     ],
     "Electro Spirit": [
-      6,
+      7,
       0
     ],
     "Minion Giant": [
@@ -18868,6 +18868,10 @@
     ],
     "Zappies": [
       8,
+      0
+    ],
+    "Golem": [
+      6,
       0
     ]
   },
@@ -23991,7 +23995,7 @@
       0
     ],
     "Rune Giant": [
-      9,
+      10,
       0
     ],
     "Prince": [
@@ -24023,7 +24027,7 @@
       0
     ],
     "Royal Delivery": [
-      9,
+      10,
       0
     ],
     "Earthquake": [
@@ -24083,7 +24087,7 @@
       0
     ],
     "Royal Ghost": [
-      9,
+      10,
       0
     ],
     "Inferno Dragon": [
@@ -28063,7 +28067,7 @@
       0
     ],
     "Sparky": [
-      11,
+      12,
       0
     ],
     "Electro Dragon": [
@@ -28103,7 +28107,7 @@
       2
     ],
     "Suspicious Bush": [
-      11,
+      12,
       0
     ],
     "Electro Giant": [
@@ -30451,6 +30455,10 @@
     "Berserker": [
       1,
       0
+    ],
+    "Barbarian Barrel": [
+      6,
+      0
     ]
   },
   "#J2LGV98JU": {
@@ -32523,7 +32531,7 @@
       0
     ],
     "Inferno Tower": [
-      9,
+      10,
       0
     ],
     "Hunter": [
@@ -32587,7 +32595,7 @@
       0
     ],
     "Prince": [
-      11,
+      12,
       0
     ],
     "Musketeer": [
@@ -32659,7 +32667,7 @@
       0
     ],
     "Skeleton Barrel": [
-      14,
+      15,
       0
     ],
     "Dart Goblin": [
@@ -32747,7 +32755,7 @@
       0
     ],
     "Suspicious Bush": [
-      11,
+      12,
       0
     ],
     "Mega Knight": [
@@ -32839,7 +32847,7 @@
       0
     ],
     "Monk": [
-      11,
+      12,
       0
     ],
     "Goblin Curse": [
@@ -32907,7 +32915,7 @@
       0
     ],
     "Archer Queen": [
-      11,
+      12,
       0
     ],
     "Little Prince": [
@@ -34906,7 +34914,7 @@
     ],
     "Goblin Barrel": [
       13,
-      0
+      1
     ],
     "Giant Skeleton": [
       10,
