@@ -2913,8 +2913,8 @@
     "trophies": 6935,
     "bestTrophies": 6935,
     "wins": 2758,
-    "losses": 2867,
-    "battleCount": 5625,
+    "losses": 2868,
+    "battleCount": 5626,
     "threeCrownWins": 1935,
     "warDayWins": 31,
     "clanCardsCollected": 71356,
@@ -4679,7 +4679,7 @@
     "threeCrownWins": 398,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3512,
+    "totalDonations": 3536,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -5895,11 +5895,11 @@
   },
   "#J28RP9LPV": {
     "expLevel": 34,
-    "trophies": 7372,
+    "trophies": 7320,
     "bestTrophies": 7400,
     "wins": 614,
-    "losses": 424,
-    "battleCount": 1038,
+    "losses": 426,
+    "battleCount": 1040,
     "threeCrownWins": 153,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -5978,11 +5978,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Goblin Barrel",
+      "name": "Baby Dragon",
       "rarity": "epic",
-      "elixirCost": 3,
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
     }
   },
   "#V09GR9GG0": {
@@ -6443,7 +6443,7 @@
     "threeCrownWins": 253,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 584,
+    "totalDonations": 624,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6876,11 +6876,11 @@
   },
   "#2GVPJGQJR": {
     "expLevel": 36,
-    "trophies": 8502,
+    "trophies": 8500,
     "bestTrophies": 8502,
     "wins": 673,
-    "losses": 418,
-    "battleCount": 1091,
+    "losses": 419,
+    "battleCount": 1092,
     "threeCrownWins": 184,
     "warDayWins": 0,
     "clanCardsCollected": 0,
@@ -6907,6 +6907,13 @@
         "elixirCost": 4,
         "evolved": true,
         "icon": "https://api-assets.clashroyale.com/cardevolutions/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
+      },
+      {
+        "name": "Boss Bandit",
+        "rarity": "champion",
+        "elixirCost": 6,
+        "evolved": false,
+        "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
       },
       {
         "name": "Knight",
@@ -6952,20 +6959,20 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Boss Bandit",
-      "rarity": "champion",
-      "elixirCost": 6,
+      "name": "Furnace",
+      "rarity": "rare",
+      "elixirCost": 4,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/nuceG9o7rAyvyc7D3sp2QSiRYtSOEgraq0NJkDf729s.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/iqbDiG7yYRIzvCPXdt9zPb3IvMt7F7Gi4wIPnh2x4aI.png"
     }
   },
   "#U209Q88J2": {
     "expLevel": 30,
-    "trophies": 7205,
-    "bestTrophies": 7234,
-    "wins": 603,
-    "losses": 361,
-    "battleCount": 964,
+    "trophies": 7176,
+    "bestTrophies": 7237,
+    "wins": 604,
+    "losses": 363,
+    "battleCount": 967,
     "threeCrownWins": 325,
     "warDayWins": 0,
     "clanCardsCollected": 0,

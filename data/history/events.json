@@ -10485,5 +10485,14 @@
     "tag": "#VRGCVLJ99",
     "name": "reward",
     "at": "2026-11-26T07:28:15+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#LVP2CL9RQ",
+    "name": "rawrr",
+    "cards": [
+      "Mirror"
+    ],
+    "at": "2026-11-26T09:15:56+00:00"
   }
 ]

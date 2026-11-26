@@ -4,7 +4,7 @@
   "type": "open",
   "description": "Активно идём в топ 1000! Пропустил 2 кв подряд - кик. Семь дней афк - кик. Swagateamcr <- TG, VK",
   "badgeId": 16000072,
-  "clanScore": 121127,
+  "clanScore": 121119,
   "clanWarTrophies": 2215,
   "location": {
     "id": 57000193,
@@ -13,7 +13,7 @@
     "countryCode": "RU"
   },
   "requiredTrophies": 1000,
-  "donationsPerWeek": 5640,
+  "donationsPerWeek": 5704,
   "clanChestStatus": "inactive",
   "clanChestLevel": 1,
   "clanChestMaxLevel": 0,
@@ -34,7 +34,7 @@
       "clanRank": 1,
       "previousClanRank": 7,
       "donations": 108,
-      "donationsReceived": 224,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -70,7 +70,7 @@
       "clanRank": 3,
       "previousClanRank": 5,
       "donations": 470,
-      "donationsReceived": 224,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -304,7 +304,7 @@
       "clanRank": 16,
       "previousClanRank": 13,
       "donations": 179,
-      "donationsReceived": 230,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -412,7 +412,7 @@
       "clanRank": 22,
       "previousClanRank": 19,
       "donations": 0,
-      "donationsReceived": 234,
+      "donationsReceived": 240,
       "clanChestPoints": 0
     },
     {
@@ -527,7 +527,7 @@
       "tag": "#LVP2CL9RQ",
       "name": "rawrr",
       "role": "member",
-      "lastSeen": "20261125T131346.000Z",
+      "lastSeen": "20261126T075000.000Z",
       "expLevel": 0,
       "trophies": 8823,
       "arena": {
@@ -537,7 +537,7 @@
       },
       "clanRank": 29,
       "previousClanRank": 26,
-      "donations": 186,
+      "donations": 226,
       "donationsReceived": 80,
       "clanChestPoints": 0
     },
@@ -581,9 +581,9 @@
       "tag": "#2GVPJGQJR",
       "name": "Диман хулиган",
       "role": "member",
-      "lastSeen": "20261126T070645.000Z",
+      "lastSeen": "20261126T074905.000Z",
       "expLevel": 0,
-      "trophies": 8502,
+      "trophies": 8500,
       "arena": {
         "id": 54000019,
         "name": "PANCAKES!",
@@ -635,7 +635,7 @@
       "tag": "#VJJUCQLVY",
       "name": "Картошка Боб",
       "role": "member",
-      "lastSeen": "20261125T152119.000Z",
+      "lastSeen": "20261126T090935.000Z",
       "expLevel": 0,
       "trophies": 8130,
       "arena": {
@@ -645,7 +645,7 @@
       },
       "clanRank": 35,
       "previousClanRank": 32,
-      "donations": 425,
+      "donations": 449,
       "donationsReceived": 200,
       "clanChestPoints": 0
     },
@@ -653,9 +653,9 @@
       "tag": "#J28RP9LPV",
       "name": "Не_елочник",
       "role": "member",
-      "lastSeen": "20261126T070726.000Z",
+      "lastSeen": "20261126T083758.000Z",
       "expLevel": 0,
-      "trophies": 7372,
+      "trophies": 7320,
       "arena": {
         "id": 54000016,
         "name": "Dragon Spa",
@@ -664,24 +664,6 @@
       "clanRank": 36,
       "previousClanRank": 33,
       "donations": 0,
-      "donationsReceived": 0,
-      "clanChestPoints": 0
-    },
-    {
-      "tag": "#U209Q88J2",
-      "name": "Myxa",
-      "role": "member",
-      "lastSeen": "20261126T071904.000Z",
-      "expLevel": 0,
-      "trophies": 7205,
-      "arena": {
-        "id": 54000016,
-        "name": "Dragon Spa",
-        "rawName": "Arena_L5"
-      },
-      "clanRank": 37,
-      "previousClanRank": 35,
-      "donations": 86,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
@@ -697,17 +679,35 @@
         "name": "Dragon Spa",
         "rawName": "Arena_L5"
       },
-      "clanRank": 38,
+      "clanRank": 37,
       "previousClanRank": 34,
       "donations": 86,
       "donationsReceived": 0,
       "clanChestPoints": 0
     },
     {
+      "tag": "#U209Q88J2",
+      "name": "Myxa",
+      "role": "member",
+      "lastSeen": "20261126T085033.000Z",
+      "expLevel": 0,
+      "trophies": 7176,
+      "arena": {
+        "id": 54000016,
+        "name": "Dragon Spa",
+        "rawName": "Arena_L5"
+      },
+      "clanRank": 38,
+      "previousClanRank": 35,
+      "donations": 86,
+      "donationsReceived": 16,
+      "clanChestPoints": 0
+    },
+    {
       "tag": "#9282CQQ90",
       "name": "Чушпан",
       "role": "member",
-      "lastSeen": "20261126T063309.000Z",
+      "lastSeen": "20261126T083119.000Z",
       "expLevel": 0,
       "trophies": 6935,
       "arena": {
