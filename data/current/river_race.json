@@ -377,6 +377,15 @@
         "decksUsedToday": 0
       },
       {
+        "tag": "#CCRG20G8Q",
+        "name": "SandR",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
         "fame": 0,
@@ -415,6 +424,15 @@
       {
         "tag": "#U209Q88J2",
         "name": "Myxa",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#VRGCVLJ99",
+        "name": "reward",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -514,6 +532,15 @@
       {
         "tag": "#9282CQQ90",
         "name": "Чушпан",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#UUPV98LRJ",
+        "name": "tt:KODY",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -658,6 +685,15 @@
       {
         "tag": "#90QGJUUG",
         "name": "Narek",
+        "fame": 0,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 0,
+        "decksUsedToday": 0
+      },
+      {
+        "tag": "#P89G20JV8",
+        "name": "1xforever",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -1300,6 +1336,15 @@
           "decksUsedToday": 0
         },
         {
+          "tag": "#CCRG20G8Q",
+          "name": "SandR",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
           "fame": 0,
@@ -1338,6 +1383,15 @@
         {
           "tag": "#U209Q88J2",
           "name": "Myxa",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#VRGCVLJ99",
+          "name": "reward",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1437,6 +1491,15 @@
         {
           "tag": "#9282CQQ90",
           "name": "Чушпан",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#UUPV98LRJ",
+          "name": "tt:KODY",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1581,6 +1644,15 @@
         {
           "tag": "#90QGJUUG",
           "name": "Narek",
+          "fame": 0,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 0,
+          "decksUsedToday": 0
+        },
+        {
+          "tag": "#P89G20JV8",
+          "name": "1xforever",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -2154,7 +2226,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 0
+          "decksUsedToday": 3
         }
       ],
       "periodPoints": 0,
@@ -2471,7 +2543,7 @@
           "repairPoints": 0,
           "boatAttacks": 0,
           "decksUsed": 0,
-          "decksUsedToday": 3
+          "decksUsedToday": 4
         },
         {
           "tag": "#VJGYGPPL9",

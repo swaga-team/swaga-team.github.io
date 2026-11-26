@@ -10441,5 +10441,49 @@
     "arena": "Lumberlove Cabin",
     "raw": "Arena_L11",
     "at": "2026-11-26T05:17:41+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#8UCG80RYR",
+    "name": "Daisy Sprout",
+    "cards": [
+      {
+        "name": "Zap",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-26T07:28:15+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#P89G20JV8",
+    "name": "1xforever",
+    "at": "2026-11-26T07:28:15+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#CCRG20G8Q",
+    "name": "SandR",
+    "at": "2026-11-26T07:28:15+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#UUPV98LRJ",
+    "name": "tt:KODY",
+    "at": "2026-11-26T07:28:15+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#2GVPJGQJR",
+    "name": "Диман хулиган",
+    "arena": "PANCAKES!",
+    "raw": "Arena_L8",
+    "at": "2026-11-26T07:28:15+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#VRGCVLJ99",
+    "name": "reward",
+    "at": "2026-11-26T07:28:15+00:00"
   }
 ]
