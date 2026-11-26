@@ -96,8 +96,8 @@
     "trophies": 14000,
     "bestTrophies": 14000,
     "wins": 3803,
-    "losses": 2127,
-    "battleCount": 5930,
+    "losses": 2128,
+    "battleCount": 5931,
     "threeCrownWins": 1091,
     "warDayWins": 30,
     "clanCardsCollected": 92376,
@@ -176,11 +176,11 @@
       }
     ],
     "currentFavouriteCard": {
-      "name": "Valkyrie",
+      "name": "Dart Goblin",
       "rarity": "rare",
-      "elixirCost": 4,
+      "elixirCost": 3,
       "evolved": false,
-      "icon": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+      "icon": "https://api-assets.clashroyale.com/cards/300/BmpK3bqEAviflqHCdxxnfm-_l3pRPJw3qxHkwS55nCY.png"
     }
   },
   "#LV0GVYYL8": {
@@ -2105,13 +2105,13 @@
     "expLevel": 20,
     "trophies": 9783,
     "bestTrophies": 9783,
-    "wins": 1078,
-    "losses": 718,
-    "battleCount": 1796,
+    "wins": 1079,
+    "losses": 719,
+    "battleCount": 1798,
     "threeCrownWins": 522,
     "warDayWins": 0,
     "clanCardsCollected": 0,
-    "totalDonations": 3652,
+    "totalDonations": 3660,
     "currentPathOfLegendSeasonResult": {
       "leagueNumber": 1,
       "trophies": 0,
@@ -6088,11 +6088,11 @@
   },
   "#J2LGV98JU": {
     "expLevel": 31,
-    "trophies": 9970,
+    "trophies": 9942,
     "bestTrophies": 9970,
     "wins": 1029,
-    "losses": 783,
-    "battleCount": 1812,
+    "losses": 784,
+    "battleCount": 1813,
     "threeCrownWins": 444,
     "warDayWins": 0,
     "clanCardsCollected": 0,
