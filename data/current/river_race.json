@@ -125,15 +125,6 @@
         "decksUsedToday": 0
       },
       {
-        "tag": "#2QQG2QPCY",
-        "name": "Clasher",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
         "tag": "#V09GR9GG0",
         "name": "Infirmity",
         "fame": 0,
@@ -145,15 +136,6 @@
       {
         "tag": "#QGGC9R0VC",
         "name": "negrik",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#2G2VYP9G",
-        "name": "THE BOSS G.",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -244,15 +226,6 @@
       {
         "tag": "#2GVPJGQJR",
         "name": "Диман хулиган",
-        "fame": 0,
-        "repairPoints": 0,
-        "boatAttacks": 0,
-        "decksUsed": 0,
-        "decksUsedToday": 0
-      },
-      {
-        "tag": "#YGQU2GCJR",
-        "name": "Fen1ks",
         "fame": 0,
         "repairPoints": 0,
         "boatAttacks": 0,
@@ -665,6 +638,15 @@
         "decksUsedToday": 1
       },
       {
+        "tag": "#2QQG2QPCY",
+        "name": "Clasher",
+        "fame": 125,
+        "repairPoints": 0,
+        "boatAttacks": 1,
+        "decksUsed": 1,
+        "decksUsedToday": 1
+      },
+      {
         "tag": "#8UCG80RYR",
         "name": "Daisy Sprout",
         "fame": 125,
@@ -681,6 +663,15 @@
         "boatAttacks": 0,
         "decksUsed": 2,
         "decksUsedToday": 2
+      },
+      {
+        "tag": "#YGQU2GCJR",
+        "name": "Fen1ks",
+        "fame": 200,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 1,
+        "decksUsedToday": 1
       },
       {
         "tag": "#LV0GVYYL8",
@@ -746,6 +737,15 @@
         "decksUsedToday": 2
       },
       {
+        "tag": "#2G2VYP9G",
+        "name": "THE BOSS G.",
+        "fame": 550,
+        "repairPoints": 0,
+        "boatAttacks": 0,
+        "decksUsed": 4,
+        "decksUsedToday": 4
+      },
+      {
         "tag": "#9JQ8PCJ",
         "name": "lastiq",
         "fame": 650,
@@ -773,7 +773,7 @@
         "decksUsedToday": 4
       }
     ],
-    "periodPoints": 5375,
+    "periodPoints": 6250,
     "clanScore": 2215
   },
   "clans": [
@@ -1084,15 +1084,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#2QQG2QPCY",
-          "name": "Clasher",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
           "tag": "#V09GR9GG0",
           "name": "Infirmity",
           "fame": 0,
@@ -1104,15 +1095,6 @@
         {
           "tag": "#QGGC9R0VC",
           "name": "negrik",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#2G2VYP9G",
-          "name": "THE BOSS G.",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1203,15 +1185,6 @@
         {
           "tag": "#2GVPJGQJR",
           "name": "Диман хулиган",
-          "fame": 0,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 0,
-          "decksUsedToday": 0
-        },
-        {
-          "tag": "#YGQU2GCJR",
-          "name": "Fen1ks",
           "fame": 0,
           "repairPoints": 0,
           "boatAttacks": 0,
@@ -1624,6 +1597,15 @@
           "decksUsedToday": 1
         },
         {
+          "tag": "#2QQG2QPCY",
+          "name": "Clasher",
+          "fame": 125,
+          "repairPoints": 0,
+          "boatAttacks": 1,
+          "decksUsed": 1,
+          "decksUsedToday": 1
+        },
+        {
           "tag": "#8UCG80RYR",
           "name": "Daisy Sprout",
           "fame": 125,
@@ -1640,6 +1622,15 @@
           "boatAttacks": 0,
           "decksUsed": 2,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#YGQU2GCJR",
+          "name": "Fen1ks",
+          "fame": 200,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 1,
+          "decksUsedToday": 1
         },
         {
           "tag": "#LV0GVYYL8",
@@ -1705,6 +1696,15 @@
           "decksUsedToday": 2
         },
         {
+          "tag": "#2G2VYP9G",
+          "name": "THE BOSS G.",
+          "fame": 550,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
+        },
+        {
           "tag": "#9JQ8PCJ",
           "name": "lastiq",
           "fame": 650,
@@ -1732,7 +1732,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 5375,
+      "periodPoints": 6250,
       "clanScore": 2215
     },
     {
@@ -2618,15 +2618,6 @@
           "decksUsedToday": 0
         },
         {
-          "tag": "#CV2U2P9UU",
-          "name": "Zari",
-          "fame": 100,
-          "repairPoints": 0,
-          "boatAttacks": 0,
-          "decksUsed": 1,
-          "decksUsedToday": 1
-        },
-        {
           "tag": "#V2U2R8J28",
           "name": "gy",
           "fame": 200,
@@ -2634,6 +2625,15 @@
           "boatAttacks": 2,
           "decksUsed": 2,
           "decksUsedToday": 2
+        },
+        {
+          "tag": "#CV2U2P9UU",
+          "name": "Zari",
+          "fame": 400,
+          "repairPoints": 0,
+          "boatAttacks": 0,
+          "decksUsed": 4,
+          "decksUsedToday": 4
         },
         {
           "tag": "#2LRQVPP0V",
@@ -2663,7 +2663,7 @@
           "decksUsedToday": 4
         }
       ],
-      "periodPoints": 2200,
+      "periodPoints": 2500,
       "clanScore": 2095
     },
     {

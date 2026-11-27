@@ -10626,5 +10626,82 @@
       }
     ],
     "at": "2026-11-26T19:02:57+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#GU0VGJCJC",
+    "name": "тайный хомячёк",
+    "cards": [
+      {
+        "name": "Giant Snowball",
+        "level": 15
+      },
+      {
+        "name": "Goblin Drill",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-27T02:09:26+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "arena": "Royal Road",
+    "raw": "Arena_L12",
+    "at": "2026-11-27T02:09:26+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#9RJPRQLL2",
+    "name": "Morj",
+    "cards": [
+      {
+        "name": "Three Musketeers",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-27T02:09:26+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#2VVYJQ29",
+    "name": "Wizard",
+    "arena": "Dragon Spa",
+    "raw": "Arena_L5",
+    "at": "2026-11-27T02:09:26+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#2VVYJQ29",
+    "name": "Wizard",
+    "cards": [
+      "Barbarians"
+    ],
+    "at": "2026-11-27T02:09:26+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Poison",
+        "level": 9
+      },
+      {
+        "name": "Golem",
+        "level": 9
+      },
+      {
+        "name": "Dart Goblin",
+        "level": 8
+      },
+      {
+        "name": "Mini P.E.K.K.A",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-27T02:09:26+00:00"
   }
 ]
