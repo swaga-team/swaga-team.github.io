@@ -10901,5 +10901,173 @@
       }
     ],
     "at": "2026-11-27T10:48:45+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#UUPV98LRJ",
+    "name": "tt:KODY",
+    "cards": [
+      {
+        "name": "Goblin Barrel",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#PQQ2JYL2G",
+    "name": "MFbren",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "joined",
+    "tag": "#PJ82CJY0C",
+    "name": "Destroyee",
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Furnace",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J2LGV98JU",
+    "name": "dibil",
+    "cards": [
+      {
+        "name": "Giant Skeleton",
+        "level": 16
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#LVP2CL9RQ",
+    "name": "rawrr",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#VQJPUULJV",
+    "name": "триппи",
+    "cards": [
+      "Mirror"
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Archers",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#JGYLPU9L2",
+    "name": "Котя",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2VVYJQ29",
+    "name": "Wizard",
+    "cards": [
+      {
+        "name": "Wizard",
+        "level": 14
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#228RGGVQV2",
+    "name": "Infamous",
+    "cards": [
+      {
+        "name": "Arrows",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "arena",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "arena": "Rascal's Hideout",
+    "raw": "Arena13",
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Knight",
+        "level": 9
+      },
+      {
+        "name": "Mega Minion",
+        "level": 9
+      },
+      {
+        "name": "Prince",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJQQLCJP8",
+    "name": "Генри lll",
+    "cards": [
+      {
+        "name": "Bomb Tower",
+        "level": 12
+      },
+      {
+        "name": "Bomber",
+        "level": 9
+      },
+      {
+        "name": "Golem",
+        "level": 7
+      }
+    ],
+    "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "left",
+    "tag": "#QGGC9R0VC",
+    "name": "negrik",
+    "at": "2026-11-27T19:56:04+00:00"
   }
 ]
