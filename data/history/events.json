@@ -11121,5 +11121,238 @@
       }
     ],
     "at": "2026-11-28T02:40:10+00:00"
+  },
+  {
+    "type": "league",
+    "tag": "#P89G20JV8",
+    "name": "1xforever",
+    "league": 3,
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#P89G20JV8",
+    "name": "1xforever",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#Q80220028",
+    "name": "end",
+    "cards": [
+      {
+        "name": "Vines",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#2G2VYP9G",
+    "name": "THE BOSS G.",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#CCRG20G8Q",
+    "name": "SandR",
+    "cards": [
+      {
+        "name": "Royal Hogs",
+        "level": 11
+      },
+      {
+        "name": "Giant Snowball",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#80LP8PCVJ",
+    "name": "paraDOXX",
+    "cards": [
+      "Wall Breakers"
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#J2LGV98JU",
+    "name": "dibil",
+    "cards": [
+      {
+        "name": "Furnace",
+        "level": 12
+      },
+      {
+        "name": "Goblin Giant",
+        "level": 11
+      },
+      {
+        "name": "Mirror",
+        "level": 11
+      },
+      {
+        "name": "Electro Giant",
+        "level": 11
+      },
+      {
+        "name": "Musketeer",
+        "level": 10
+      },
+      {
+        "name": "Giant",
+        "level": 10
+      },
+      {
+        "name": "Royal Giant",
+        "level": 10
+      },
+      {
+        "name": "Elite Barbarians",
+        "level": 10
+      },
+      {
+        "name": "Fisherman",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#222YY9YCC",
+    "name": "king abolfazl",
+    "cards": [
+      {
+        "name": "Barbarian Barrel",
+        "level": 10
+      },
+      {
+        "name": "Three Musketeers",
+        "level": 10
+      },
+      {
+        "name": "Bomb Tower",
+        "level": 10
+      },
+      {
+        "name": "Royal Delivery",
+        "level": 10
+      },
+      {
+        "name": "Baby Dragon",
+        "level": 10
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#22JLP29RV",
+    "name": "Kale",
+    "cards": [
+      {
+        "name": "P.E.K.K.A",
+        "level": 15
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#LVP2CL9RQ",
+    "name": "rawrr",
+    "cards": [
+      {
+        "name": "Skeleton Army",
+        "level": 14
+      },
+      {
+        "name": "Witch",
+        "level": 13
+      },
+      {
+        "name": "Dark Prince",
+        "level": 10
+      },
+      {
+        "name": "Heal Spirit",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#VQJPUULJV",
+    "name": "триппи",
+    "cards": [
+      "Tesla",
+      "Princess"
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "evolution",
+    "tag": "#9JPPYRL90",
+    "name": "disruption",
+    "cards": [
+      "Ice Wizard"
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VJJUCQLVY",
+    "name": "Картошка Боб",
+    "cards": [
+      {
+        "name": "Fire Spirit",
+        "level": 9
+      },
+      {
+        "name": "Minion Giant",
+        "level": 9
+      },
+      {
+        "name": "Rascals",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Wall Breakers",
+        "level": 9
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VRGCVLJ99",
+    "name": "reward",
+    "cards": [
+      {
+        "name": "Zappies",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-28T11:39:55+00:00"
   }
 ]

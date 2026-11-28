@@ -9427,7 +9427,7 @@
       0
     ],
     "Barbarian Barrel": [
-      9,
+      10,
       0
     ],
     "Balloon": [
@@ -9471,7 +9471,7 @@
       0
     ],
     "Three Musketeers": [
-      9,
+      10,
       0
     ],
     "Bowler": [
@@ -9523,7 +9523,7 @@
       0
     ],
     "Bomb Tower": [
-      9,
+      10,
       0
     ],
     "Poison": [
@@ -9603,7 +9603,7 @@
       0
     ],
     "Royal Delivery": [
-      9,
+      10,
       0
     ],
     "Skeleton Dragons": [
@@ -9743,7 +9743,7 @@
       0
     ],
     "Baby Dragon": [
-      9,
+      10,
       0
     ],
     "Firecracker": [
@@ -13157,7 +13157,7 @@
       0
     ],
     "P.E.K.K.A": [
-      14,
+      15,
       0
     ],
     "Fireball": [
@@ -14596,7 +14596,7 @@
     ],
     "Ice Wizard": [
       11,
-      0
+      2
     ],
     "Witch": [
       11,
@@ -23779,7 +23779,7 @@
       0
     ],
     "Fire Spirit": [
-      8,
+      9,
       0
     ],
     "Zap": [
@@ -23943,7 +23943,7 @@
       0
     ],
     "Minion Giant": [
-      8,
+      9,
       0
     ],
     "Furnace": [
@@ -24027,7 +24027,7 @@
       0
     ],
     "Rascals": [
-      8,
+      9,
       0
     ],
     "Executioner": [
@@ -24175,6 +24175,10 @@
       0
     ],
     "Night Witch": [
+      9,
+      0
+    ],
+    "Magic Archer": [
       9,
       0
     ]
@@ -25490,7 +25494,7 @@
     ],
     "Wall Breakers": [
       14,
-      0
+      1
     ],
     "Goblin Barrel": [
       16,
@@ -29004,7 +29008,7 @@
     ],
     "Tesla": [
       11,
-      0
+      1
     ],
     "X-Bow": [
       10,
@@ -29036,7 +29040,7 @@
     ],
     "Princess": [
       13,
-      0
+      1
     ],
     "Wall Breakers": [
       13,
@@ -30511,11 +30515,11 @@
       0
     ],
     "Musketeer": [
-      9,
+      10,
       0
     ],
     "Giant": [
-      9,
+      10,
       2
     ],
     "Wall Breakers": [
@@ -30603,7 +30607,7 @@
       2
     ],
     "Royal Giant": [
-      9,
+      10,
       0
     ],
     "Royal Recruits": [
@@ -30711,7 +30715,7 @@
       0
     ],
     "Elite Barbarians": [
-      9,
+      10,
       0
     ],
     "Zappies": [
@@ -30747,7 +30751,7 @@
       0
     ],
     "Goblin Giant": [
-      10,
+      11,
       0
     ],
     "The Log": [
@@ -30767,7 +30771,7 @@
       1
     ],
     "Furnace": [
-      9,
+      12,
       0
     ],
     "Sparky": [
@@ -30827,7 +30831,7 @@
       0
     ],
     "Mirror": [
-      10,
+      11,
       0
     ],
     "Royal Delivery": [
@@ -30863,7 +30867,7 @@
       0
     ],
     "Fisherman": [
-      9,
+      10,
       0
     ],
     "Spirit Empress": [
@@ -30875,7 +30879,7 @@
       0
     ],
     "Electro Giant": [
-      10,
+      11,
       0
     ],
     "Void": [
@@ -32519,7 +32523,7 @@
       0
     ],
     "Witch": [
-      12,
+      13,
       1
     ],
     "Electro Spirit": [
@@ -32579,7 +32583,7 @@
       0
     ],
     "Skeleton Army": [
-      13,
+      14,
       1
     ],
     "Guards": [
@@ -32659,7 +32663,7 @@
       0
     ],
     "Dark Prince": [
-      9,
+      10,
       0
     ],
     "Freeze": [
@@ -32787,7 +32791,7 @@
       0
     ],
     "Heal Spirit": [
-      8,
+      9,
       0
     ],
     "Minion Giant": [
@@ -33349,7 +33353,7 @@
       0
     ],
     "Vines": [
-      12,
+      13,
       0
     ],
     "Phoenix": [
@@ -33707,7 +33711,7 @@
       0
     ],
     "Wall Breakers": [
-      8,
+      9,
       0
     ],
     "Freeze": [
@@ -33744,6 +33748,18 @@
     ],
     "Electro Dragon": [
       7,
+      0
+    ],
+    "Phoenix": [
+      9,
+      0
+    ],
+    "The Log": [
+      11,
+      0
+    ],
+    "Suspicious Bush": [
+      3,
       0
     ]
   },
@@ -33902,7 +33918,7 @@
     ],
     "Wall Breakers": [
       11,
-      0
+      1
     ],
     "Goblins": [
       13,
@@ -35956,7 +35972,7 @@
     ],
     "Wall Breakers": [
       14,
-      0
+      1
     ],
     "Witch": [
       11,
@@ -36373,7 +36389,7 @@
       0
     ],
     "Royal Hogs": [
-      10,
+      11,
       0
     ],
     "Dark Prince": [
@@ -36509,7 +36525,7 @@
       0
     ],
     "Giant Snowball": [
-      10,
+      11,
       0
     ],
     "Firecracker": [
@@ -37545,7 +37561,7 @@
       0
     ],
     "Zappies": [
-      7,
+      8,
       0
     ],
     "Golem": [
@@ -37566,6 +37582,10 @@
     ],
     "Barbarian Barrel": [
       6,
+      0
+    ],
+    "Ram Rider": [
+      9,
       0
     ]
   },
