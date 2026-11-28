@@ -11069,5 +11069,57 @@
     "tag": "#QGGC9R0VC",
     "name": "negrik",
     "at": "2026-11-27T19:56:04+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#YGQU2GCJR",
+    "name": "Fen1ks",
+    "cards": [
+      {
+        "name": "P.E.K.K.A",
+        "level": 12
+      }
+    ],
+    "at": "2026-11-28T02:40:10+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#PL82RPJUJ",
+    "name": ")))",
+    "cards": [
+      {
+        "name": "Mega Knight",
+        "level": 13
+      }
+    ],
+    "at": "2026-11-28T02:40:10+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#2QQG2QPCY",
+    "name": "Clasher",
+    "cards": [
+      {
+        "name": "Monk",
+        "level": 14
+      },
+      {
+        "name": "Royal Recruits",
+        "level": 11
+      }
+    ],
+    "at": "2026-11-28T02:40:10+00:00"
+  },
+  {
+    "type": "cards",
+    "tag": "#VUR0YRJLV",
+    "name": "EEEE.",
+    "cards": [
+      {
+        "name": "Mortar",
+        "level": 8
+      }
+    ],
+    "at": "2026-11-28T02:40:10+00:00"
   }
 ]
